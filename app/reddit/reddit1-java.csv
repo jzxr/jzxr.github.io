@@ -1,0 +1,293 @@
+,title,id,url,body,timestamp,year,month,sentiment,review,nuetral
+0,"I HATE YOU FOR THIS, ORACLE.",23y4l7,http://i.imgur.com/ZFzCnFo.jpg,,2014-04-26 05:02:24,2014,4,0.0,Good,Nuetral
+1,Are you interested in learning about low latency zero allocation programming?,le6do1,https://www.reddit.com/r/java/comments/le6do1/are_you_interested_in_learning_about_low_latency/,"I've been working as a developer for 18 years and 14 of these have been spent working in investment banks in front office finance writing low latency zero allocation code in Java to build pricing, trading and hedging systems.
+
+This is a niche two part skill which I describe in simple terms below.
+
+The first is low latency java which just means that you write your code to run as fast as possible but that alone isn't sufficient. It must also be as consistently fast as possible with as few and as small outliers as possible. High percentiles such as the 99th percentile of latency must be acceptable.
+
+By fast I mean single to double digit micros for any given system producing meaningful units of work. This particular skill goes beyond Java code and into effective utilisation of the underlying hardware such as running on the correct NUMA node, utilising specific native system calls and pinning each thread doing work to its own single core.
+
+The second part, zero allocation, means that while your code is running it must not allocate objects in a way that makes them eligible for garbage collection. If objects are made eligible for garbage collection then at some point the garbage collector will kick in and introduce very long pauses into your application that will in turn produce massive latency outliers - most likely several orders of magnitude greater than your desired times. The ideal scenario is that you remain immune from garbage collection for as long as possible until you enter a time window when the financial market is closed and then it's safe to incur the penalty of a garbage collection or a process restart thereby clearing the heap.
+
+In terms of what libraries can be used when writing such code options are extremely limited. The vast majority of libraries including the JDK libraries do not meet the combined requirements of low latency and zero allocation. This means that you must reinvent the stack ground up starting from an empty main method and only introducing code that you know meets your requirements. If you are unable to find libraries that do what you need you must write them from scratch. Most good tech stacks will have reinvented their loggers, histograms, fix engines, wire encodings, collections, data structures and more - simply to avoid violating latency or allocation requirements.
+
+The kind of work I've described above is implemented behind NDAs and closed doors and is almost never open sourced except in a few cases. It's certainly not documented online. As far as I'm aware there's very little on this topic openly available on the web. Whatever little is available is pitched at the expert end with no path to it for the more inexperienced developer.
+
+As I enjoy writing about tech and this area is relatively unexplored - I'm considering creating an online resource on the above that's accessible both to those who've never worked in this field and to those who have some experience but would like to learn more. It probably wouldn't be suitable for someone highly experienced in this line of work and already familiar with advanced concepts.
+
+Is this something that you think would be useful to you? And where on the spectrum do you lie? Are you someone with no experience in the above but interested in a ground up resource or are you already working in a similar domain but with limited exposure to learn the above subject? Or perhaps you are keen to learn in order to help with the interview process for such a job? Keen to hear also from people who already work in low latency regarding whether they feel such a resource would benefit the general developer population.
+
+I would love to hear your views. Feel free to ask questions.
+
+Edit: Thank you all for all your responses and questions. I really appreciated and enjoyed the exchange and all the feedback even from those who disagreed with this way of programming. From reading all of these I've concluded that there is much interest in a resource that talks more about this subject which I will endeavour to create. I have spent several days answering as many questions I could. I hope it's helped. I will now return to my life and daily work.
+
+17/02/2021: Just came across this great free resource on Aeron and Agrona (not by me) and sharing you all as I know some of you showed interest in those: [https://aeroncookbook.com/](https://aeroncookbook.com/).",2021-02-07 12:44:24,2021,2,0.1290839285714286,Good,Not Nuetral
+2,"Guys, I found it",31d6r4,http://imgur.com/nLpPFrh,,2015-04-04 15:22:56,2015,4,0.0,Good,Nuetral
+3,Thought you guys would like this,3yt0nr,http://imgur.com/dbWeGaS,,2015-12-31 09:34:46,2015,12,0.0,Good,Nuetral
+4,Every time I need to kill a hung JVM process.,2o5s5e,https://i.imgur.com/YXtZA9i.jpg,,2014-12-04 07:31:10,2014,12,0.0,Good,Nuetral
+5,JEP draft: Add detailed message to NullPointerException describing what is null,b55drf,https://openjdk.java.net/jeps/8220715,,2019-03-25 19:06:23,2019,3,0.0,Good,Nuetral
+6,"Finally: Effective Java, 3rd Edition",74x9gv,https://www.reddit.com/r/java/comments/74x9gv/finally_effective_java_3rd_edition/,"Most of us know well Josh Bloch's Effective Java book. TIL (from Stuart Marks' twitter) that there's a 3rd edition coming out soon and it's updated for Java 9. It's available [here](http://www.informit.com/store/effective-java-9780134685991) . There's a nice ~~40%~~ 20% (the announcement was wrong) discount for pre-orders.
+
+---
+
+^This ^is ^not ^an ^ad. ^I'm ^not ^affiliated ^with ^any ^of ^this. ^If ^you ^find ^other ^purchase ^sources ^post ^them. ",2017-10-08 12:27:36,2017,10,0.21071428571428572,Good,Not Nuetral
+7,Recaf: Java bytecode reversing tool I've been working on for the past 3.5 years,kjz70b,https://github.com/Col-E/Recaf,,2020-12-26 05:42:11,2020,12,0.0,Good,Nuetral
+8,Java 14 is out!,fk7wt8,http://jdk.java.net/,,2020-03-18 08:13:10,2020,3,0.0,Good,Nuetral
+9,"36% of developers switched from Oracle JDK to an alternate OpenJDK distribution, over the last year",f1n8nt,https://snyk.io/blog/36-of-developers-switched-from-oracle-jdk-to-an-alternate-openjdk-distribution-over-the-last-year/,,2020-02-11 00:02:09,2020,2,0.0,Good,Nuetral
+10,Java should get a website like developer.mozilla.org,hnnmci,https://www.reddit.com/r/java/comments/hnnmci/java_should_get_a_website_like_developermozillaorg/,"It would be incredibly helpful for beginners and experts alike to have a *single* centralized Java/OpenJDK website. The website can have:
+
+* Links to download Java, or alternatively links to vendor pages.
+* Javadoc for every version of Java, that lets you easily toggle between versions
+* Tutorials & guides like https://docs.oracle.com/javase/tutorial/ and https://docs.oracle.com/javase/9/index.html 
+* Link to submitting a bug report
+* JEP pages
+* Incorporate the OpenJDK wiki's content.
+* News / Blog section. Maybe also incorporate the new Inside Java blog.
+* Maybe some type of forum, but this is not required and may not be wanted anyway.
+* One or two non-intrusive ads to support the project's maintenance or the OpenJDK. Preferably simple image tags, no third-parties. There's lots of Java consulting, framework, and monitoring vendors who would be interested. For the love of god no Ask Toolbar please.
+
+Mozilla's MDN is a great example of what could be. Because the website is opensource (or at least allows contributions), the tutorials and docs are always updated, unlike the Java Tutorials, which are still on version 8. And another benefit is that besides the community, Google and other large companies can contribute too. This eases the maintenance burden for Mozilla, just as it could for Oracle.
+
+While I hate 'marketing' as much as the next guy, having a good looking, centralized website is really important nowadays and will make a much bigger difference than you think when it comes to beginner's interest. And so many of my fellow senior developers are 'cut off' from knowledge, because it's so scattered. Here on a JEP page, here on twitter, here on an old oracle blog. Java needs a 'home base.'",2020-07-09 11:25:50,2020,7,0.15187770562770564,Good,Not Nuetral
+11,"Okay, IntelliJ, we get it. You don't want us to use Eclipse.",230u5j,http://i.imgur.com/1HjRRWr.png,,2014-04-15 10:13:32,2014,4,0.0,Good,Nuetral
+12,Chess GUI using JavaFX,i98m5a,https://youtu.be/m_j5ejDA-hc,,2020-08-14 13:22:46,2020,8,0.0,Good,Nuetral
+13,What are some great Java libraries I'm probably not using but I should?,jfdnnd,https://www.reddit.com/r/java/comments/jfdnnd/what_are_some_great_java_libraries_im_probably/,,2020-10-22 06:16:54,2020,10,0.0,Good,Nuetral
+14,Google beats Oracle—Android makes “fair use” of Java APIs,4l7h7l,http://arstechnica.com/tech-policy/2016/05/google-wins-trial-against-oracle-as-jury-finds-android-is-fair-use/,,2016-05-27 12:58:59,2016,5,0.0,Good,Nuetral
+15,"My experimental IDE plugin for displaying all project files in a single view, with zoom/pan and code editing. More info in comments.",lgeltm,https://v.redd.it/o6dcoxr2uig61,,2021-02-10 13:58:24,2021,2,0.0,Good,Nuetral
+16,A new Swing Look and Feel I have been working on,f3d42o,https://www.reddit.com/r/java/comments/f3d42o/a_new_swing_look_and_feel_i_have_been_working_on/,"For the past half a year or so I have been working on a custom look and feel called [DarkLaf](https://github.com/weisJ/darklaf/) for Java Swing as I was dissatisfied with the then current landscape of available LaFs. The design of DarkLaf is heavily inspired by the Darcula theme. Even though with [FlatLaf](https://github.com/JFormDesigner/FlatLaf) (definitely check it out) there has already been released a LaF in a style similar to my project I decided to continue working on my own implementation.
+
+One of the mayor issues - especially with dark-themed LaFs - I always had, is that either you had to get by with the default window decorations, which the OS supplies, or you would loose the features the native decorations add (e.g. window snapping, taskbar hover preview on windows).  At least on windows DarkLaf solves this issue and supports custom window decorations that still retain those features.
+
+&#x200B;
+
+[FileChooser in the four themes](https://preview.redd.it/bvfkauuk3qg41.png?width=2046&format=png&auto=webp&s=56921e1adcef053e8e150934d42f0dc303e8d3b9)
+
+DarkLaf provides four themes out of the box: **IntelliJ**, **Darcula**, **Solarized Light** and **Solarized Dark**.
+
+Some other features that are available:
+
+* custom themes, witch can fully customize most of the LaF.
+* vector icons.
+* custom components (e.g. search box, tristate check box).
+* custom window decorations.
+* and [more](https://github.com/weisJ/darklaf/wiki/Features)
+
+Darklaf is available on **Maven Central** ([link](https://search.maven.org/search?q=g:%22com.github.weisj%22%20AND%20a:%22darklaf%22)).
+
+For more information visit the project on GitHub: [https://github.com/weisJ/darklaf/](https://github.com/weisJ/darklaf/)
+
+I'm really looking forward to any feedback you might have as this is my first project I made with the intend of releasing it.",2020-02-14 09:09:49,2020,2,0.07415501165501166,Good,Not Nuetral
+17,Just one of the many reasons why I love IntelliJ,25zov1,http://imgur.com/i5sCEMh,,2014-05-20 17:06:38,2014,5,0.0,Good,Nuetral
+18,Java reference in GTA V - Beautiful.,32pj67,http://imgur.com/gallery/zQGfUnP/,,2015-04-16 09:53:45,2015,4,0.0,Good,Nuetral
+19,Oracle's own Hello World code will not compile,3mg2cr,http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/1891611.png,,2015-09-27 01:13:57,2015,9,0.0,Good,Nuetral
+20,Java programming language celebrates 25 years,gnrhfi,https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html,,2020-05-21 22:13:49,2020,5,0.0,Good,Nuetral
+21,Caught a funny line in a Java book I was reading.,1jggsa,http://i.imgur.com/N6dFvEx.jpg,,2013-08-01 15:36:09,2013,8,0.0,Good,Nuetral
+22,Java (OpenJDK) is now on Github,inmkk8,https://github.com/openjdk/jdk,,2020-09-07 06:06:47,2020,9,0.0,Good,Nuetral
+23,I just want to say Java needs a new mascot,h8h3n0,https://www.reddit.com/r/java/comments/h8h3n0/i_just_want_to_say_java_needs_a_new_mascot/,"I'm drunk after 5 beers and I just want to say Java really needs a new mascot or a 2020 version of this fucking Duke thing. I mean, what is this thing anyway. Look at this cute Gopher golang has or GitHub's magical octocat 
+
+&#x200B;
+
+We need to rethink guys",2020-06-14 14:12:38,2020,6,-0.010876623376623382,Bad,Not Nuetral
+24,Germany is currently creating its COVID-19 tracing server application with Spring Boot on GitHub,grh746,https://www.reddit.com/r/java/comments/grh746/germany_is_currently_creating_its_covid19_tracing/,"See [https://github.com/corona-warn-app](https://github.com/corona-warn-app) for all repositories.
+
+I think this should be the way all public code should be handled. Maybe this can help countries, which do not have the funds to help such an app from the ground up.",2020-05-28 02:25:15,2020,5,0.0,Good,Nuetral
+25,Oracle denied new trial in copyright dispute with Google over Java,551pso,http://www.computerworld.com/article/3125465/internet/oracle-denied-new-trial-in-copyright-dispute-with-google-over-java.html,,2016-09-30 03:32:20,2016,9,0.0,Good,Nuetral
+26,Multiplayer FPS Engine in Java,9oy4ai,https://www.reddit.com/r/java/comments/9oy4ai/multiplayer_fps_engine_in_java/,"For some reason, even in 2018, Java gets a lot of hate for supposedly being ""slow"".   So to show how this is wrong, for the past year I've been working on an open-source multiplayer FPS engine, and also some  games that use it with the intention of creating a Java equivalent of  Source or similar.  So far it does all the complicated stuff required  for an FPS, e.g. networking, client prediction & lag-compensation,  collision detection, simple physics etc...
+
+It's all open-source and can be found at [https://bitbucket.org/SteveSmith16384/stetech1](https://bitbucket.org/SteveSmith16384/stetech1)
+
+I've also written a tutorial on how to start using it here: [http://multiplayerfpstutorial.blogspot.com](http://multiplayerfpstutorial.blogspot.com)
+
+And here's a few vids of it in action:- [https://www.youtube.com/watch?v=NVcFt4ehz4o&list=PLbGkfhhJ5G3\_pH9tp2lH1zeAJ9Y35rQnm](https://www.youtube.com/watch?v=NVcFt4ehz4o&list=PLbGkfhhJ5G3_pH9tp2lH1zeAJ9Y35rQnm)
+
+Please let me know if you find it useful!
+
+EDIT: Yes, the graphics are rubbish; it's the best free assets I could find (I can't create my own 3D models). If you know of any better models that cost zero quidbucks (and load in Blender), please let me know.  The FPS engine is built on top of jMonkeyEngine, which is powerful enough to do any 3D, as long as you know what to do.
+
+EDIT2: Thanks for the gold!",2018-10-18 04:16:41,2018,10,0.0011363636363636324,Good,Not Nuetral
+27,The 3rd edition of “Effective Java” was published today,7mncsz,https://www.reddit.com/r/java/comments/7mncsz/the_3rd_edition_of_effective_java_was_published/,,2017-12-29 07:52:21,2017,12,0.0,Good,Nuetral
+28,"[PSA]/r/java is not for programming help, learning questions, or installing Java questions",j7h9er,https://www.reddit.com/r/java/comments/j7h9er/psarjava_is_not_for_programming_help_learning/,"# /r/java is not for programming help or learning Java
+
++ **Programming related questions** do not belong here. They belong in **/r/javahelp**. 
++ **Learning related questions** belong in **/r/learnjava**
+
+Such posts will be removed.
+
+**To the community willing to help:**
+
+Instead of immediately jumping in and helping, please **direct the poster to the appropriate subreddit** and **report the post**.",2020-10-09 09:21:51,2020,10,0.14166666666666666,Good,Not Nuetral
+29,Java 9 Released,71lse7,http://mail.openjdk.java.net/pipermail/announce/2017-September/000230.html,,2017-09-22 11:59:47,2017,9,0.0,Good,Nuetral
+30,I created a Visualization of 20 Sorting Algorithms as a Christmas Tree with Java. Merry Xmas :),kivj2h,https://youtu.be/p6rkVqgwVuI,,2020-12-24 07:55:00,2020,12,0.0,Good,Nuetral
+31,"If you are using Gitlab and Intellij IDE, now you can do code review right in your IDE 😋",ep0cun,https://plugins.jetbrains.com/plugin/13607-merge-request-integration-ce--code-review-for-gitlab,,2020-01-16 01:53:46,2020,1,0.0,Good,Nuetral
+32,GitHub Welcomes the OpenJDK Project!,j2snfq,https://github.blog/2020-09-30-github-welcomes-the-openjdk-project/,,2020-10-01 11:14:38,2020,10,0.0,Good,Nuetral
+33,Java Generics Explained,lotgt0,https://youtu.be/CN27X68YO4I,,2021-02-22 01:22:36,2021,2,0.0,Good,Nuetral
+34,This has to be the most intimidating list of required skills I ever seen,edsyav,https://i.imgur.com/pcw3S0O.jpg,,2019-12-22 09:53:40,2019,12,0.0,Good,Nuetral
+35,Why reverse loops are not faster,6hg530,https://arnaudroger.github.io/blog/2017/06/15/forward-vs-backward-loop.html,,2017-06-16 08:33:39,2017,6,0.0,Good,Nuetral
+36,Apology to Java (fanboy rant).,6lldus,https://www.reddit.com/r/java/comments/6lldus/apology_to_java_fanboy_rant/,"Java has turned out to be one of the most useful languages i use. It's a brilliant tool which strikes a perfect balance between high and low level. You want to grab a webpage? Easy and built-in, 10 lines of code. Draw some 2d graphics without OS-specific libraries or third party? Various built-in options. The inherent issues around a lack of low level memory management is handled very elegantly. Garbage collection seems seamless.
+
+C++ is my language of choice for the most part, always will be i suspect, but Java has shown me that it has a huge array of potential applications and should almost always be considered before undertaking a project.
+
+I say this is an apology because i used to run Java down. Previous to me using it proper i believed it was slow, lazy and useful for only trivial applications. Now i know how much work has been put into the JVM and just how efficient it is.
+
+Sorry Java. You're pretty good.",2017-07-07 04:20:42,2017,7,0.19311965811965814,Good,Not Nuetral
+37,GitHub announces free private repositories,adq1qr,https://blog.github.com/2019-01-07-new-year-new-github/,,2019-01-08 19:31:05,2019,1,0.0,Good,Nuetral
+38,IntelliJ IDEA 2017.3 released,7gm38z,https://www.jetbrains.com/idea/whatsnew/#v2017-3,,2017-12-01 04:46:55,2017,12,0.0,Good,Nuetral
+39,Oracle Corporation: Stop bundling Ask Toolbar with the Java installer,1appmy,http://www.change.org/petitions/oracle-corporation-stop-bundling-ask-toolbar-with-the-java-installer,,2013-03-21 20:18:13,2013,3,0.0,Good,Nuetral
+40,Java libraries I like,k1br3k,https://sizovs.net/2020/11/24/java-libraries-i-like/,,2020-11-27 00:47:07,2020,11,0.0,Good,Nuetral
+41,IntelliJ IDEA 2019.1 Released,b67soh,https://www.jetbrains.com/idea/specials/idea/whatsnew.html,,2019-03-28 10:27:41,2019,3,0.0,Good,Nuetral
+42,Intellij 2019.3 released!,e33fta,https://www.jetbrains.com/idea/whatsnew/,,2019-11-29 12:05:51,2019,11,0.0,Good,Nuetral
+43,Humble Bundle just released a Java book bundle,7ebkfc,https://www.humblebundle.com/books/java-books,,2017-11-21 11:47:34,2017,11,0.0,Good,Nuetral
+44,Every single time..,58q0po,https://i.gyazo.com/0ba54f76918d901d1c583fd53d002724.png,,2016-10-22 14:20:51,2016,10,0.0,Good,Nuetral
+45,"I built a website that shows diagrams of the Java code you drop in. Critique, please!",b82swm,https://www.reddit.com/r/java/comments/b82swm/i_built_a_website_that_shows_diagrams_of_the_java/,"I always struggled to visualize my Java code, and clunky UML plugins did not help (I use Eclipse). Created something of my own instead - www.java2uml.com. I would appreciate any critique please.
+
+Thank you!",2019-04-02 06:05:11,2019,4,0.75,Good,Not Nuetral
+46,my most recent Java AI book can be downloaded for free,lj94wm,https://www.reddit.com/r/java/comments/lj94wm/my_most_recent_java_ai_book_can_be_downloaded_for/,"If you would like a copy of my Java AI book, you can get a free PDF/MOBI/EPUB copy at [https://markwatson.com/books/](https://markwatson.com/books/) or if you want to support my writing then you can but it on leanpub",2021-02-14 13:00:00,2021,2,0.4,Good,Not Nuetral
+47,Installer like it's 1999,3x4xer,http://imgur.com/UmxYM2j,,2015-12-17 14:25:11,2015,12,0.0,Good,Nuetral
+48,Java is more enjoyable than I first thought,l2kwy0,https://www.reddit.com/r/java/comments/l2kwy0/java_is_more_enjoyable_than_i_first_thought/,"I started my years off programming in c#, don’t ask why but I never ventured off. I learned Java this past week and I’m seriously impressed, I don’t think I’ve had a more enjoyable time programming in my life. Does anyone else share this experience??
+
+Edit: Is there a better ide than eclipse for Java",2021-01-23 02:20:51,2021,1,0.45,Good,Not Nuetral
+49,Strongly Typed Languages Reduce Bugs by 15%,713d0h,https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/,,2017-09-20 06:34:22,2017,9,0.0,Good,Nuetral
+50,Coming soon: Stream.toList(),jn3jfb,https://mail.openjdk.java.net/pipermail/core-libs-dev/2020-November/070782.html,,2020-11-03 20:05:58,2020,11,0.0,Good,Nuetral
+51,"Basic neural network Java implementation, which can train itself, for beginners to try out and learn how machine learning works.",6kcddd,https://github.com/sebig3000/MachineLearning,,2017-06-30 15:57:54,2017,6,0.0,Good,Nuetral
+52,Why I Moved Back from Gradle to Maven,89adwf,https://blog.philipphauer.de/moving-back-from-gradle-to-maven/,,2018-04-03 21:49:32,2018,4,0.0,Good,Nuetral
+53,A categorized list of all Java and JVM features since JDK 8 to 14,fo93xb,https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/,,2020-03-25 09:28:32,2020,3,0.0,Good,Nuetral
+54,Do not fall into Oracle's Java 11 trap,9j1gpt,https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html,,2018-09-27 02:59:55,2018,9,0.0,Good,Nuetral
+55,Our exception handling at work,3cton5,http://imgur.com/4wgxCvv,,2015-07-11 10:12:51,2015,7,0.0,Good,Nuetral
+56,Machine Learning in Java,73qgv5,https://www.reddit.com/r/java/comments/73qgv5/machine_learning_in_java/,"Great reads on Machine Learning in Java. ML in Java is not commonly addressed so it's an interesting read!
+
+Part 1: [Linear Regression](https://tech.io/playgrounds/3771/machine-learning-with-java---part-1-linear-regression)
+
+Part 2: [Logistic Regression](https://tech.io/playgrounds/4821/machine-learning-with-java---part-2-logistic-regression)
+
+Part 3: [k-Nearest Neighbor](https://tech.io/playgrounds/5439/machine-learning-with-java---part-3-k-nearest-neighbor)
+
+Part 4: [Decision tree](https://tech.io/playgrounds/5844/machine-learning-with-java---part-4-decision-tree)
+
+Part 5: [Naive Bayes](https://tech.io/playgrounds/6734/machine-learning-with-java---part-5-naive-bayes)",2017-10-02 19:42:13,2017,10,-0.27499999999999997,Bad,Not Nuetral
+57,I found this funny snippet in the Google Java style page,2gchdz,http://imgur.com/DKhn9Er,,2014-09-14 20:29:14,2014,9,0.0,Good,Nuetral
+58,New language features since Java 8 to 15,jvyaax,https://advancedweb.hu/new-language-features-since-java-8-to-15/,,2020-11-18 10:25:19,2020,11,0.0,Good,Nuetral
+59,Congratulations! r/Java has been chosen as the SUBREDDIT OF THE DAY! :),2u6apc,http://www.reddit.com/r/subredditoftheday/comments/2u6amb/january_30th_2015_rjava_wait_is_it_int_or_integer/,,2015-01-30 22:50:17,2015,1,0.0,Good,Nuetral
+60,I coded my first JavaFX app in a week with little to no sleep after 3 weeks of learning it. My teacher praised me for it.,iaxqx3,https://www.reddit.com/r/java/comments/iaxqx3/i_coded_my_first_javafx_app_in_a_week_with_little/,"&#x200B;
+
+https://reddit.com/link/iaxqx3/video/dnocv26treh51/player",2020-08-17 10:38:31,2020,8,0.0,Good,Nuetral
+61,"Ok, ok, ok, we'll finally add stream.toList() so you don't have to type stream.collect(Collectors.toList())!",88stkt,https://bugs.openjdk.java.net/browse/JDK-8180352,,2018-04-02 10:19:01,2018,4,0.0,Good,Nuetral
+62,A Guide to Logging in Java,9fgigm,https://www.marcobehler.com/guides/a-guide-to-logging-in-java,,2018-09-14 01:27:44,2018,9,0.0,Good,Nuetral
+63,Java 8 has been released,20qmnv,http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html,,2014-03-19 10:49:36,2014,3,0.0,Good,Nuetral
+64,I developed a language for JSON that runs 9 billion transforms a day at work. Released as open source today,8torwq,http://bytes.schibsted.com/jslt-open-source-language-json-processing/,,2018-06-26 00:03:04,2018,6,0.0,Good,Nuetral
+65,"Busy Developers’ Guide to Java 9, 10, 11, 12, 13, and Above",ffvp7w,https://4comprehension.com/busy-developers-guide-to-java-9-10-11-12-13-and-above/,,2020-03-10 06:44:29,2020,3,0.0,Good,Nuetral
+66,Modern Best Practices for Testing in Java,il4daw,https://phauer.com/2019/modern-best-practices-testing-java/,,2020-09-03 02:35:19,2020,9,0.0,Good,Nuetral
+67,"5 Java concepts explained: Overloading, overriding, shadowing, hiding, and obscuring",8nylqv,https://programming.guide/java/overloading-overriding-shadowing-hiding-obscuring.html,,2018-06-02 21:46:36,2018,6,0.0,Good,Nuetral
+68,var keyword proposed for Java,49prnu,http://openjdk.java.net/jeps/286,,2016-03-10 11:49:31,2016,3,0.0,Good,Nuetral
+69,Java Microservices: A Practical Guide,e9lc2u,https://www.marcobehler.com/guides/java-microservices-a-practical-guide,,2019-12-13 01:13:48,2019,12,0.0,Good,Nuetral
+70,IBM to buy RedHat,9s63cq,https://www.redhat.com/en/about/press-releases/ibm-acquire-red-hat-completely-changing-cloud-landscape-and-becoming-world%E2%80%99s-1-hybrid-cloud-provider,,2018-10-29 11:46:51,2018,10,0.0,Good,Nuetral
+71,I Created a Visualization of 20 Sorting Algorithms with Java. Which one do you like most?,ixne8b,https://www.youtube.com/watch?v=AVt0lAklAtM,,2020-09-23 05:29:26,2020,9,0.0,Good,Nuetral
+72,Why are we still using setters and getters?,dn21ir,https://www.reddit.com/r/java/comments/dn21ir/why_are_we_still_using_setters_and_getters/,"Every CS102 student can tell you all about data encapsulation and why it's a cornerstone of object oriented programming.  However, after over a decade of Java work--and playing around with other languages as needed in various degrees of professionality, I'm actively beginning to question the dogma of data encapsulation, particularly when it comes to data beans.
+
+# Encapsulation: Why it's a Good Thing™
+
+The core conceit of object oriented programming is that data should be close to the functions that use it, and it should only be accessible to the functions that use it.  That is, if you have object state, it should only be mutable through functional calls to your object.  For example:
+
+    public class Foo{
+        private int bar = 0;  
+        private String baz = ""This method has been called %d times."";  
+
+        public String herpTheDerp(){
+            bar++;
+            return String.format(baz, bar);
+        }
+    }
+
+In this class, we never actually set or get either of our instance variables from outside the object.  We only ever return a string that is the result of operations on both pieces of data.  We can easily call this encapsulated, as the instance data is *never accessed nor mutated from outside the object*.  This allows objects complete control over their own state, avoids exposing necessary internals to the rest of the application, and allows us some degree of refactorability with respect to how we organize the data the object contains.
+
+# Data Beans: State without function
+
+However, there are lots of times where we want to receive and/or return complex data types.  In C and C++, we'd call them structs.  Python would refer to them as maps or tuples (depending on the scenario).  For those that are reading this and still in school, this might be something like a complex number type, a representation of a data record out of a database, or something else that contains multiple pieces of related data without functionality.  The lack of structs, tuples, or other kinds of custom structured data types has led Java developers to create the data bean: an object that 
+
+* may implement Serializable and no other interface 
+* whose data members are all private
+* has a public no-argument constructor and may include an all-argument constructor but beyond those two has no other constructors
+* has setters and getters for all of its private data members
+* has no other methods besides the setters and getters
+
+Some would call this a POJO.  That's not a POJO.  POJOs do not implement any design pattern. That right there is a describable pattern found in almost every Java program.  (In fact, the whole POJO revolution was mostly a reaction against design patterns taking over everything, to the extreme of forcing patterns where they didn't belong.  What's more, one could argue that the use of a design pattern is a reaction to the lack of a needed language feature.)  
+
+## Setters and Getters: The Look of Encapsulation Without Actual Encapsulation
+
+If the purpose of encapsulation is that we're only modifying object state within functional calls within the object, and *our object does not have any functional methods*, then we're straight up not encapsulating.  Or, put another way, what's the meaningful difference between:
+
+        public class FooData implements Serializable{
+            private int bar;
+            private String baz;
+
+            public int getBar(){ return this.bar; }
+            public void setBar(int bar){ this.bar = bar; }
+            public String getBaz(){ return this.baz; }
+            public void setBaz(String baz){ this.baz = baz; }
+        }
+
+and this:
+
+        public class FooData implements Serializable{
+            public int bar;
+            public String baz;
+        }
+
+Both scenarios allow full access and mutation to the object's data.  The only difference is that one simply drops the charade that we're encapsulating our data even when we're not.
+
+## But what if I want to change my setter and/or getter logic?
+
+Then it's not a setter and/or getter anymore, and you should name the new method accordingly.  I'm *always* shocked when I open a getter and find it's doing logic.  I'm *always* shocked when I open a setter and find it's doing logic.  You're not operating on the principle of least surprise anymore.  
+
+# Immutability
+
+The immutable data object is much like the regular data bean, except that:
+
+* It *only* has an all-argument constructor (no zero-argument constructor, which makes it not a bean)
+* Its data members are `final`
+* It does not have setters.
+
+As the virtues of object immutability have become increasingly apparent, we as developers have started writing this variant of data beans (despite them not being beans, they're still a logical progression of the idea).  There shouldn't be setters for its data members: they should be initialized by the constructor, and all of its data members should be `final`, thus eliminating the whole *raison d'etré* for setters.  In such a scenario, does it even make sense to have getters?  It's not like code outside your class is able to modify the value of these objects anyway.  They're immutable.  That's the point.  
+
+So then, why are we bothering with private data members and public getters?  Is it simply that we might want to change that getter logic?  Because if a method isn't simply returning a private data member, then it really isn't a getter and should not be named as such.  Once you need logic, you've left the territory of the data bean and its immutable cousin (if the immutable variant were a bean, it'd be a sibling).  Once again, the getter exists only for the purpose of *breaking* encapsulation even as we're maintaining the visible form of encapsulation.  
+
+# So What?  Who Cares?
+
+**The only code that is bug free is the code nobody wrote**.  Yes, even Hello, World! has bugs.  Your setters and getters have bugs.  The worst part is that these bugs are non-obvious: they may be hardware bugs.  They may be bugs in the operating system.  They may be bugs in libc or the JVM.  But they're there.  They're *always* there.  Boilerplate means more code.  More code means more bugs, even when the code is simple.  
+
+What's more, you're largely dependent on marshallers that use reflection heavily in order to put data into objects from databases or user inputs.  Do you know anything about your marshallers?  No.  You don't.  Can you depend on your marshallers having the necessary access to your objects to use reflection?  No.  You can't.  Should you be using libraries that use reflection to bring data into your code?  No.  You shouldn't.  (Any use of reflection outside of unit tests or getting the current class's name for the purposes of logging is a very good sign you're in bad actor territory, and you shouldn't trust anyone whose reaction is to use it for any purpose in production code without *damn* good reason, and putting your data into objects is *not* a good reason.)
+
+What's more, the use of data beans is ultimately a reaction to Java's lack of support for stucts, properties (as in, say, Python), tuples, or other composite data types.
+
+# TL;DR
+
+Getters and setters break encapsulation just as badly as letting the data attributes they modify be publicly accessible.  Why are we using them?",2019-10-26 10:59:49,2019,10,0.05735814022578729,Good,Not Nuetral
+73,Java 12 Released !!!,b2zas5,https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html,,2019-03-20 08:11:42,2019,3,0.0,Good,Nuetral
+74,Operator += is broken for Strings in Java 9 and 10,8oq01s,https://stackoverflow.com/q/50683786,,2018-06-06 03:21:37,2018,6,0.0,Good,Nuetral
+75,Java installer - Ask Toolbar?  Seriously?,16k7hi,https://www.reddit.com/r/java/comments/16k7hi/java_installer_ask_toolbar_seriously/,Is Oracle that hard up for cash that they have to bundle this crap with the Java updater/installer?  No professional software should ever come with a toolbar installer in my opinion.  It cheapens the platform and gives users a bad experience right from the get go.,2013-01-15 09:43:46,2013,1,-0.31119047619047624,Bad,Not Nuetral
+76,I Created a Visualization of 20 Sorting Algorithms with Java. Which one do you like most?,k611be,https://youtu.be/wGVIiUrESug,,2020-12-04 08:56:30,2020,12,0.0,Good,Nuetral
+77,What is Spring Framework? From Dependency Injection to Web MVC,ew39i7,https://www.marcobehler.com/guides/spring-framework,,2020-01-31 02:17:23,2020,1,0.0,Good,Nuetral
+78,Java Magazine: Java 14 Arrives with a Host of New Features,fcxllb,https://blogs.oracle.com/javamagazine/java-14-arrives-with-a-host-of-new-features,,2020-03-04 09:00:50,2020,3,0.0,Good,Nuetral
+79,Java turns 20 years old today,36zaix,http://en.wikibooks.org/wiki/Java_Programming/History,,2015-05-24 03:46:18,2015,5,0.0,Good,Nuetral
+80,What's New in Java 19: The end of Kotlin? (mostly about Java futures),eh7sbs,https://www.reddit.com/r/java/comments/eh7sbs/whats_new_in_java_19_the_end_of_kotlin_mostly/,"[https://www.youtube.com/watch?v=te3OU9fxC8U](https://www.youtube.com/watch?v=te3OU9fxC8U)
+
+Very good presentation at a Kotlin conference. The presenter accurately shows what Java will look like in a few years with great detail - including byte code dumps. I think he's trying to show that Kotlin already has many of these features or that it probably will. But, what he's really showing is that Oracle does nearly all of these features better because they can change the JVM and/or just have put more thought into it. My conclusion after watching it is that there's no reason to switch to Kotlin (unless you're doing Android development). In a few years, Java will have all of its features that people are bragging about today and most of them will be better in Java.",2019-12-30 08:23:41,2019,12,0.3758333333333333,Good,Not Nuetral
+81,"Love it or hate it, Java continues to evolve",gufuwy,https://www.azul.com/love-it-or-hate-it-java-continues-to-evolve/,,2020-06-01 23:10:21,2020,6,0.0,Good,Nuetral
+82,"Top 10 Useful, Yet Paranoid Java Programming Techniques",826deq,http://blog.jooq.org/2015/08/11/top-10-useful-yet-paranoid-java-programming-techniques/,,2018-03-06 06:41:21,2018,3,0.0,Good,Nuetral
+83,Java® Notes for Professionals book,7o3dg9,http://books.goalkicker.com/JavaBook/,,2018-01-05 06:42:14,2018,1,0.0,Good,Nuetral
+84,JetBrains sale - 50% off for the next 50 hours,934gxh,https://www.jetbrains.com/promo/friends/,,2018-07-31 06:22:27,2018,7,0.0,Good,Nuetral
+85,Serverless Web Scraping with AWS Lambda,emae3e,https://www.scrapingbee.com/blog/serverless-web-scraping-with-aws-lambda-and-java/,,2020-01-10 06:31:30,2020,1,0.0,Good,Nuetral
+86,"Intellij IDEA 2019.2 released: Java 13 Preview Features, Profiling Tools, Services Tool Window",ch95jp,https://www.jetbrains.com/idea/whatsnew/#v2019-2,,2019-07-25 06:50:30,2019,7,0.0,Good,Nuetral
+87,Spring Boot 2.0 is now GA,8140qf,https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Release-Notes,,2018-03-02 01:18:41,2018,3,0.0,Good,Nuetral
+88,Tone it down a Notch,34aemf,http://imgur.com/gallery/KRtc2fN,,2015-04-30 08:03:39,2015,4,0.0,Good,Nuetral
+89,"3,000 sign petition to remove Ask Toolbar from Java",17zxb0,http://jaxenter.com/3-000-sign-petition-to-remove-ask-toolbar-from-java-46187.html,,2013-02-07 05:36:08,2013,2,0.0,Good,Nuetral
+90,OpenJDK's main repository transition to GitHub is done,in11nt,http://mail.openjdk.java.net/pipermail/jdk-dev/2020-September/004694.html,,2020-09-06 05:24:11,2020,9,0.0,Good,Nuetral
+91,"IntelliJ IDEA 2017.2 is Here: Smart, Sleek, and Snappy",6o0zgc,https://blog.jetbrains.com/idea/2017/07/intellij-idea-2017-2-is-here-smart-sleek-and-snappy/,,2017-07-19 06:10:02,2017,7,0.0,Good,Nuetral
+92,Spring Security: Authentication and Authorization In-Depth,fvuv67,https://www.marcobehler.com/guides/spring-security,,2020-04-07 00:14:01,2020,4,0.0,Good,Nuetral
+93,SOLID Java,arjrt8,https://filippobuletto.github.io/solid-java/,,2019-02-18 03:30:48,2019,2,0.0,Good,Nuetral
+94,JDK 15 GA Release,it8txg,https://jdk.java.net/15/,,2020-09-16 05:32:51,2020,9,0.0,Good,Nuetral
+95,Tonight we're transforming a monolithic COBOL app to a serverless java app (Live on Twitch),i9wfme,http://twitch.tv/aws,,2020-08-15 15:05:34,2020,8,0.0,Good,Nuetral
+96,OpenJDK Migrates to Github,hyeqgt,https://www.infoq.com/news/2020/07/openjdk-github-migration/,,2020-07-27 13:02:19,2020,7,0.0,Good,Nuetral
+97,JUnit 5 released!,6za58f,http://junit.org/junit5,,2017-09-11 11:04:28,2017,9,0.0,Good,Nuetral
+98,The java nazi,5xbnvu,http://imgur.com/InMi605,,2017-03-04 09:27:52,2017,3,0.0,Good,Nuetral
+99,Microsoft’s Ready to Contribute to OpenJDK,dpdn2b,https://mail.openjdk.java.net/pipermail/discuss/2019-October/005173.html,,2019-10-31 14:00:25,2019,10,0.0,Good,Nuetral

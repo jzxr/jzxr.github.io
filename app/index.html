@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>Tech Sights</title>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.23/datatables.min.css"/>
+  
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/dataTables.bootstrap.css" rel="stylesheet">
+
+  <!--
+  <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    -->
+</head>
+
+<body>
+  <div class="container-fluid">
+
+    <h1>Tech Sights</h1>
+    <br />
+    <h2>C Programming</h2>
+    <br />
+    <div id='cprogramming' class="order-column"></div>
+    <br />
+    <br />
+    <h2>C#</h2>
+    <br />
+    <div id='csharp' class="order-column"></div>
+    <br />
+    <br />
+    <h2>HTML</h2>
+    <br />
+    <div id='html' class="order-column"></div>
+    <br />
+    <br />
+    <h2>Java</h2>
+    <br />
+    <div id='java' class="order-column"></div>
+    <br />
+    <br />
+    <h2>Javascript</h2>
+    <br />
+    <div id='javascript' class="order-column"></div>
+    <br />
+    <br />
+    <h2>Python</h2>
+    <br />
+    <div id='python' class="order-column"></div>
+    <br />
+    <br />
+    <h2>R Programming</h2>
+    <br />
+    <div id='rprogramming' class="order-column"></div>
+
+  </div><!-- /.container -->
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+
+  <script type="text/javascript" src="js/jquery.csv.min.js"></script>
+  <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
+  <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
+  <script type="text/javascript" src="js/csv_to_html_table.js"></script>
+
+  <script type="text/javascript">
+    function format_link(link) {
+      if (link)
+        return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+      else
+        return "";
+    }
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-c_programming.csv',
+      element: 'cprogramming',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-csharp.csv',
+      element: 'csharp',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-csharp.csv',
+      element: 'csharp',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-html.csv',
+      element: 'html',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-java.csv',
+      element: 'java',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-javascript.csv',
+      element: 'javascript',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-Python.csv',
+      element: 'python',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'data/reddit1-rprogramming.csv',
+      element: 'rprogramming',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      datatables_options: { "scrollY": 200 },
+
+      custom_formatting: [[3, format_link]]
+    });
+  </script>
+  
+</body>
+
+</html>

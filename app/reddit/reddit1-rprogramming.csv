@@ -1,0 +1,1070 @@
+,title,id,url,body,timestamp,year,month,sentiment,review,nuetral
+0,For everyone who asks how to get better at R,jts115,https://www.reddit.com/r/rprogramming/comments/jts115/for_everyone_who_asks_how_to_get_better_at_r/,"Often on this sub people ask something along the lines of ""How can I improve at R."" I remember thinking the same thing several years ago when I first picked it up, and so I thought I'd share a few resources that have made all the difference, and then one word of advice.
+
+The first place I would start is reading [R for Data Science](https://r4ds.had.co.nz) by Hadley Wickham. Importantly, I would read each chapter carefully, inspect the code provided, and run it to clarify any misunderstandings. Then, what I did was do all of the exercises at the end of each chapter. Even just an hour each day on this, and I was able to finish the book in just a few months. The key here for me was never EVER copy and paste.
+
+Next, I would go pick up [Advanced R](https://adv-r.hadley.nz), again by Hadley Wickham. I don't necessarily think everyone needs to read every chapter of this book, but at least up through the S3 object system is useful for most people. Again, clarify the code when needed, and do exercises for at least those things which you don't feel you grasp intuitively yet.
+
+Last, I pick up [The R Inferno](https://www.burns-stat.com/pages/Tutor/R\_inferno.pdf) by Pat Burns. This one is basically all of the minutia on how not to write inefficient or error-prone code. I think this one can be read more selectively.
+
+The next thing I recommend is to pick a project, and do it. If you don't know how to use R-projects and Git, then this is the time to learn. If you can't come up with a project, the thing I've liked doing is programming things which already exist. This way, I have source code I can consult to ensure I have things working properly. Then, I would try to improve on the source-code in areas that I think need it. For me, this involved programming statistical models of some sort, but the key here is something that you're interested in learning how the programming actually works ""under the hood.""
+
+Dove-tailed with this, reading source-code whenever possible is useful. In R-studio, you can use CTRL + LEFT CLICK on code that is in the editor to pull up its source code, or you can just visit [rdrr.io](https://rdrr.io).
+
+I think that doing the above will help 80-90% of beginner to intermediate R-users to vastly improve their R fluency. There are other things that would help for sure, such as learning how to use parallel R, but understanding the base is a first step.
+
+&#x200B;
+
+And before anyone asks, I am not affiliated with Hadley in any way. I could only wish to meet the man, but unfortunately that seems unlikely. I simply find his books useful.",2020-11-14 16:22:26,2020,11,0.05548780487804877,Good,Not Nuetral
+1,I am creating a 'Khan Academy' for R Programmers,kvyujl,https://www.reddit.com/r/rprogramming/comments/kvyujl/i_am_creating_a_khan_academy_for_r_programmers/,"[NDEXR.COM](http://NDEXR.COM)
+
+I'm starting a not for profit site to create high quality R programming courses. I am starting with an R in Production course, where I will be teaching everything I wish I knew 7 years ago when I first started.
+
+If you like, you can also sign up and create courses as well.
+
+Feel free to check it out - the #rip course is a work in process.",2021-01-13 11:35:34,2021,1,0.162,Good,Not Nuetral
+2,base R cheat sheet,hcfipe,https://i.redd.it/oj8vih0cax551.png,,2020-06-20 20:13:02,2020,6,0.0,Good,Nuetral
+3,R color palette inspired by the amazing women at today's inauguration!,l1syjc,https://i.redd.it/xssgmjixsmc61.png,,2021-01-21 22:42:33,2021,1,0.0,Good,Nuetral
+4,Happy 20th birthday to R 1.0.0! CelebRation2020 Copenhagen,fbag6j,https://i.redd.it/9d01qwrr5uj41.jpg,,2020-03-01 01:57:35,2020,3,0.0,Good,Nuetral
+5,SQL Joins in R with merge function,jz19uo,https://i.redd.it/p2stcgejau061.png,,2020-11-23 11:03:46,2020,11,0.0,Good,Nuetral
+6,20 Best Libraries for Data Science in R Programming,9wci6w,https://i.redd.it/dhise6ry8vx11.png,,2018-11-13 01:09:15,2018,11,0.0,Good,Nuetral
+7,700 Free R Programming Tutorials,k4go5w,https://www.reddit.com/r/rprogramming/comments/k4go5w/700_free_r_programming_tutorials/,I've just published the 700th (!) tutorial on my R programming and statistics learning platform https://statisticsglobe.com/. Please check it out in case you want to learn R for free. :),2020-12-02 00:01:53,2020,12,0.3,Good,Not Nuetral
+8,Top 20 R Libraries for Data Science,hb7iw3,https://i.redd.it/bdb05sgnel551.png,,2020-06-18 20:24:08,2020,6,0.0,Good,Nuetral
+9,100 R tutorials in 15 Days - Programming Challenge Finished!,i14mqi,https://www.reddit.com/r/rprogramming/comments/i14mqi/100_r_tutorials_in_15_days_programming_challenge/,"I've just finished a programming challenge where I created **100 R tutorials** on my homepage [https://statisticsglobe.com/](https://statisticsglobe.com/). It took me exactly 15 days, 80 hours, 23 minutes, and 06 seconds to finish, so I hope you like the results! :D Please find a list of all tutorials below:
+
+[https://statisticsglobe.com/correlation-matrix-in-r](https://statisticsglobe.com/correlation-matrix-in-r)
+
+[https://statisticsglobe.com/display-large-numbers-separated-with-comma-in-r](https://statisticsglobe.com/display-large-numbers-separated-with-comma-in-r)
+
+[https://statisticsglobe.com/zoom-into-ggplot2-plot-without-removing-data-in-r](https://statisticsglobe.com/zoom-into-ggplot2-plot-without-removing-data-in-r)
+
+[https://statisticsglobe.com/read-files-directory-apply-function-to-each-data-frame-in-r](https://statisticsglobe.com/read-files-directory-apply-function-to-each-data-frame-in-r)
+
+[https://statisticsglobe.com/subset-of-data-frame-rows-containing-na-in-r](https://statisticsglobe.com/subset-of-data-frame-rows-containing-na-in-r)
+
+[https://statisticsglobe.com/remove-all-special-characters-from-string-in-r](https://statisticsglobe.com/remove-all-special-characters-from-string-in-r)
+
+[https://statisticsglobe.com/remove-first-row-of-data-frame-in-r](https://statisticsglobe.com/remove-first-row-of-data-frame-in-r)
+
+[https://statisticsglobe.com/convert-character-string-to-date-object-in-r](https://statisticsglobe.com/convert-character-string-to-date-object-in-r)
+
+[https://statisticsglobe.com/fit-smooth-curve-to-plot-of-data-in-r](https://statisticsglobe.com/fit-smooth-curve-to-plot-of-data-in-r)
+
+[https://statisticsglobe.com/convert-unix-timestamp-to-date-object-in-r](https://statisticsglobe.com/convert-unix-timestamp-to-date-object-in-r)
+
+[https://statisticsglobe.com/select-rows-with-partial-string-match-in-r](https://statisticsglobe.com/select-rows-with-partial-string-match-in-r)
+
+[https://statisticsglobe.com/unique-combinations-of-all-elements-from-two-vectors-in-r](https://statisticsglobe.com/unique-combinations-of-all-elements-from-two-vectors-in-r)
+
+[https://statisticsglobe.com/export-nicely-formatted-data-frame-in-r](https://statisticsglobe.com/export-nicely-formatted-data-frame-in-r)
+
+[https://statisticsglobe.com/disable-messages-when-loading-a-package-in-r](https://statisticsglobe.com/disable-messages-when-loading-a-package-in-r)
+
+[https://statisticsglobe.com/randomly-reorder-data-frame-by-row-and-column-in-r](https://statisticsglobe.com/randomly-reorder-data-frame-by-row-and-column-in-r)
+
+[https://statisticsglobe.com/ggplot2-title-subtitle-with-different-size-and-color-in-r](https://statisticsglobe.com/ggplot2-title-subtitle-with-different-size-and-color-in-r)
+
+[https://statisticsglobe.com/suppress-output-of-command-in-r](https://statisticsglobe.com/suppress-output-of-command-in-r)
+
+[https://statisticsglobe.com/paste-multiple-columns-together-in-r](https://statisticsglobe.com/paste-multiple-columns-together-in-r)
+
+[https://statisticsglobe.com/compute-eulers-number-in-r](https://statisticsglobe.com/compute-eulers-number-in-r)
+
+[https://statisticsglobe.com/change-spacing-of-axis-tick-marks-in-base-r-plot](https://statisticsglobe.com/change-spacing-of-axis-tick-marks-in-base-r-plot)
+
+[https://statisticsglobe.com/round-up-to-nearest-10-or-100-in-r](https://statisticsglobe.com/round-up-to-nearest-10-or-100-in-r)
+
+[https://statisticsglobe.com/find-position-of-character-in-string-in-r](https://statisticsglobe.com/find-position-of-character-in-string-in-r)
+
+[https://statisticsglobe.com/print-time-with-milliseconds-in-r](https://statisticsglobe.com/print-time-with-milliseconds-in-r)
+
+[https://statisticsglobe.com/find-values-contained-in-first-vector-but-not-another-in-r](https://statisticsglobe.com/find-values-contained-in-first-vector-but-not-another-in-r)
+
+[https://statisticsglobe.com/overlay-density-plots-in-base-r](https://statisticsglobe.com/overlay-density-plots-in-base-r)
+
+[https://statisticsglobe.com/repeat-rows-of-data-frame-n-times-in-r](https://statisticsglobe.com/repeat-rows-of-data-frame-n-times-in-r)
+
+[https://statisticsglobe.com/quit-restart-clean-r-session-from-within-r](https://statisticsglobe.com/quit-restart-clean-r-session-from-within-r)
+
+[https://statisticsglobe.com/skip-loop-to-next-iteration-in-r](https://statisticsglobe.com/skip-loop-to-next-iteration-in-r)
+
+[https://statisticsglobe.com/left-align-text-in-ggplot2-plot-in-r](https://statisticsglobe.com/left-align-text-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/convert-vector-to-list-in-r](https://statisticsglobe.com/convert-vector-to-list-in-r)
+
+[https://statisticsglobe.com/report-missing-values-in-data-frame-in-r](https://statisticsglobe.com/report-missing-values-in-data-frame-in-r)
+
+[https://statisticsglobe.com/set-ggplot2-axis-limit-only-on-one-side-in-r](https://statisticsglobe.com/set-ggplot2-axis-limit-only-on-one-side-in-r)
+
+[https://statisticsglobe.com/return-column-name-of-largest-value-for-each-row-in-r](https://statisticsglobe.com/return-column-name-of-largest-value-for-each-row-in-r)
+
+[https://statisticsglobe.com/remove-multiple-data-objects-using-rm-function-in-r](https://statisticsglobe.com/remove-multiple-data-objects-using-rm-function-in-r)
+
+[https://statisticsglobe.com/convert-characters-in-data-frame-to-uppercase-in-r](https://statisticsglobe.com/convert-characters-in-data-frame-to-uppercase-in-r)
+
+[https://statisticsglobe.com/add-count-labels-on-top-of-ggplot2-barchart-in-r](https://statisticsglobe.com/add-count-labels-on-top-of-ggplot2-barchart-in-r)
+
+[https://statisticsglobe.com/extract-numbers-from-character-string-vector-in-r](https://statisticsglobe.com/extract-numbers-from-character-string-vector-in-r)
+
+[https://statisticsglobe.com/apply-function-to-data-table-in-each-specified-column-in-r](https://statisticsglobe.com/apply-function-to-data-table-in-each-specified-column-in-r)
+
+[https://statisticsglobe.com/specify-column-names-for-x-y-when-joining-with-dplyr-package-in-r](https://statisticsglobe.com/specify-column-names-for-x-y-when-joining-with-dplyr-package-in-r)
+
+[https://statisticsglobe.com/convert-data-frame-to-data-table-in-r](https://statisticsglobe.com/convert-data-frame-to-data-table-in-r)
+
+[https://statisticsglobe.com/remove-multiple-columns-from-data-table-in-r](https://statisticsglobe.com/remove-multiple-columns-from-data-table-in-r)
+
+[https://statisticsglobe.com/get-column-index-in-data-frame-by-variable-name-in-r](https://statisticsglobe.com/get-column-index-in-data-frame-by-variable-name-in-r)
+
+[https://statisticsglobe.com/fix-aspect-ratio-in-ggplot2-plot-in-r](https://statisticsglobe.com/fix-aspect-ratio-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/plot-all-columns-of-data-frame-in-r](https://statisticsglobe.com/plot-all-columns-of-data-frame-in-r)
+
+[https://statisticsglobe.com/reset-par-to-default-values-in-r](https://statisticsglobe.com/reset-par-to-default-values-in-r)
+
+[https://statisticsglobe.com/control-size-of-ggplot2-legend-items-in-r](https://statisticsglobe.com/control-size-of-ggplot2-legend-items-in-r)
+
+[https://statisticsglobe.com/r-save-all-console-input-output-to-file](https://statisticsglobe.com/r-save-all-console-input-output-to-file)
+
+[https://statisticsglobe.com/r-split-data-frame-into-list-of-data-frames-based-on-id-column](https://statisticsglobe.com/r-split-data-frame-into-list-of-data-frames-based-on-id-column)
+
+[https://statisticsglobe.com/extract-data-table-column-as-vector-using-index-position-in-r](https://statisticsglobe.com/extract-data-table-column-as-vector-using-index-position-in-r)
+
+[https://statisticsglobe.com/set-area-margins-of-ggplot2-plot-in-r](https://statisticsglobe.com/set-area-margins-of-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/change-y-axis-to-percentages-in-ggplot2-barplot-in-r](https://statisticsglobe.com/change-y-axis-to-percentages-in-ggplot2-barplot-in-r)
+
+[https://statisticsglobe.com/count-number-of-words-in-character-string-in-r](https://statisticsglobe.com/count-number-of-words-in-character-string-in-r)
+
+[https://statisticsglobe.com/insert-new-column-between-two-data-frame-variables-in-r](https://statisticsglobe.com/insert-new-column-between-two-data-frame-variables-in-r)
+
+[https://statisticsglobe.com/sort-variables-of-data-frame-by-column-names-in-r](https://statisticsglobe.com/sort-variables-of-data-frame-by-column-names-in-r)
+
+[https://statisticsglobe.com/remove-empty-rows-of-data-frame-in-r](https://statisticsglobe.com/remove-empty-rows-of-data-frame-in-r)
+
+[https://statisticsglobe.com/create-comma-separated-vector-in-r](https://statisticsglobe.com/create-comma-separated-vector-in-r)
+
+[https://statisticsglobe.com/randomize-vector-in-r](https://statisticsglobe.com/randomize-vector-in-r)
+
+[https://statisticsglobe.com/split-data-frame-in-r](https://statisticsglobe.com/split-data-frame-in-r)
+
+[https://statisticsglobe.com/indexing-up-to-the-end-of-vector-data-frame-in-r](https://statisticsglobe.com/indexing-up-to-the-end-of-vector-data-frame-in-r)
+
+[https://statisticsglobe.com/replace-multiple-letters-with-accents-in-r](https://statisticsglobe.com/replace-multiple-letters-with-accents-in-r)
+
+[https://statisticsglobe.com/select-first-row-of-each-group-in-data-frame-in-r](https://statisticsglobe.com/select-first-row-of-each-group-in-data-frame-in-r)
+
+[https://statisticsglobe.com/select-first-element-of-nested-list-in-r](https://statisticsglobe.com/select-first-element-of-nested-list-in-r)
+
+[https://statisticsglobe.com/arrange-list-of-ggplot2-plots-in-r](https://statisticsglobe.com/arrange-list-of-ggplot2-plots-in-r)
+
+[https://statisticsglobe.com/multiply-rows-of-matrix-by-vector-in-r](https://statisticsglobe.com/multiply-rows-of-matrix-by-vector-in-r)
+
+[https://statisticsglobe.com/replace-values-in-data-frame-conditionally-in-r](https://statisticsglobe.com/replace-values-in-data-frame-conditionally-in-r)
+
+[https://statisticsglobe.com/create-data-frame-where-a-column-is-a-list-in-r](https://statisticsglobe.com/create-data-frame-where-a-column-is-a-list-in-r)
+
+[https://statisticsglobe.com/sum-across-multiple-rows-columns-using-dplyr-package-in-r](https://statisticsglobe.com/sum-across-multiple-rows-columns-using-dplyr-package-in-r)
+
+[https://statisticsglobe.com/extract-just-number-from-named-numeric-vector-in-r](https://statisticsglobe.com/extract-just-number-from-named-numeric-vector-in-r)
+
+[https://statisticsglobe.com/ggplot2-plot-in-script-is-not-displayed-in-r](https://statisticsglobe.com/ggplot2-plot-in-script-is-not-displayed-in-r)
+
+[https://statisticsglobe.com/change-display-order-of-ggplot2-plot-legend-in-r](https://statisticsglobe.com/change-display-order-of-ggplot2-plot-legend-in-r)
+
+[https://statisticsglobe.com/save-plot-in-data-object-in-base-r](https://statisticsglobe.com/save-plot-in-data-object-in-base-r)
+
+[https://statisticsglobe.com/unique-rows-of-data-frame-based-on-selected-columns-in-r](https://statisticsglobe.com/unique-rows-of-data-frame-based-on-selected-columns-in-r)
+
+[https://statisticsglobe.com/draw-multiple-lattice-plots-in-one-window-in-r](https://statisticsglobe.com/draw-multiple-lattice-plots-in-one-window-in-r)
+
+[https://statisticsglobe.com/convert-named-vector-to-data-frame-in-r](https://statisticsglobe.com/convert-named-vector-to-data-frame-in-r)
+
+[https://statisticsglobe.com/use-apply-function-only-for-specific-data-frame-columns-in-r](https://statisticsglobe.com/use-apply-function-only-for-specific-data-frame-columns-in-r)
+
+[https://statisticsglobe.com/check-existence-of-local-file-in-r](https://statisticsglobe.com/check-existence-of-local-file-in-r)
+
+[https://statisticsglobe.com/remove-gridlines-in-ggplot2-plot-in-r](https://statisticsglobe.com/remove-gridlines-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/coerce-list-object-to-type-double-in-r](https://statisticsglobe.com/coerce-list-object-to-type-double-in-r)
+
+[https://statisticsglobe.com/create-sequence-of-repeated-values-in-r](https://statisticsglobe.com/create-sequence-of-repeated-values-in-r)
+
+[https://statisticsglobe.com/select-multiple-elements-from-list-in-r](https://statisticsglobe.com/select-multiple-elements-from-list-in-r)
+
+[https://statisticsglobe.com/undefined-columns-selected-when-subsetting-data-frame-in-r](https://statisticsglobe.com/undefined-columns-selected-when-subsetting-data-frame-in-r)
+
+[https://statisticsglobe.com/dplyr-mutate-function-with-logical-condition-in-r](https://statisticsglobe.com/dplyr-mutate-function-with-logical-condition-in-r)
+
+[https://statisticsglobe.com/change-colors-in-ggplot2-line-plot-in-r](https://statisticsglobe.com/change-colors-in-ggplot2-line-plot-in-r)
+
+[https://statisticsglobe.com/keep-unused-factor-levels-in-ggplot2-barplot-in-r](https://statisticsglobe.com/keep-unused-factor-levels-in-ggplot2-barplot-in-r)
+
+[https://statisticsglobe.com/number-of-months-between-two-dates-in-r](https://statisticsglobe.com/number-of-months-between-two-dates-in-r)
+
+[https://statisticsglobe.com/drop-multiple-columns-from-data-frame-using-dplyr-package-in-r](https://statisticsglobe.com/drop-multiple-columns-from-data-frame-using-dplyr-package-in-r)
+
+[https://statisticsglobe.com/combine-two-ggplot2-plots-from-different-data-frames-in-r](https://statisticsglobe.com/combine-two-ggplot2-plots-from-different-data-frames-in-r)
+
+[https://statisticsglobe.com/determine-path-of-current-script-in-r](https://statisticsglobe.com/determine-path-of-current-script-in-r)
+
+[https://statisticsglobe.com/extract-regression-coefficients-of-linear-model-in-r](https://statisticsglobe.com/extract-regression-coefficients-of-linear-model-in-r)
+
+[https://statisticsglobe.com/draw-time-series-plot-with-events-using-ggplot2-in-r](https://statisticsglobe.com/draw-time-series-plot-with-events-using-ggplot2-in-r)
+
+[https://statisticsglobe.com/count-number-of-rows-by-group-using-dplyr-package-in-r](https://statisticsglobe.com/count-number-of-rows-by-group-using-dplyr-package-in-r)
+
+[https://statisticsglobe.com/reorder-facets-in-ggplot2-plot-in-r](https://statisticsglobe.com/reorder-facets-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/combine-multiple-ggplot2-legends-in-r](https://statisticsglobe.com/combine-multiple-ggplot2-legends-in-r)
+
+[https://statisticsglobe.com/display-only-integer-values-on-ggplot2-axis-in-r](https://statisticsglobe.com/display-only-integer-values-on-ggplot2-axis-in-r)
+
+[https://statisticsglobe.com/get-second-sub-element-of-every-list-element-in-r](https://statisticsglobe.com/get-second-sub-element-of-every-list-element-in-r)
+
+[https://statisticsglobe.com/merge-unequal-data-frames-replace-na-with-0-in-r](https://statisticsglobe.com/merge-unequal-data-frames-replace-na-with-0-in-r)
+
+[https://statisticsglobe.com/annotate-text-outside-of-ggplot2-plot-in-r](https://statisticsglobe.com/annotate-text-outside-of-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/control-point-border-thickness-of-ggplot2-plot-in-r](https://statisticsglobe.com/control-point-border-thickness-of-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/two-functions-with-same-name-in-different-packages-in-r](https://statisticsglobe.com/two-functions-with-same-name-in-different-packages-in-r)
+
+[https://statisticsglobe.com/convert-data-frame-with-date-column-to-time-series-object-in-r](https://statisticsglobe.com/convert-data-frame-with-date-column-to-time-series-object-in-r)",2020-08-01 01:33:38,2020,8,0.65625,Good,Not Nuetral
+10,All You Need To Know About Merging (Joining) Datasets in R,law57s,https://www.reddit.com/r/rprogramming/comments/law57s/all_you_need_to_know_about_merging_joining/,"""How do I merge datasets in R?"" is probably the single most frequent question I get asked. So I decided to write on blog post about it. To make it accessible to as many people as possible I included animations such as the one below.
+
+&#x200B;
+
+https://i.redd.it/z0xhbk1pm2f61.gif
+
+Check it out here: [https://thomasadventure.blog/posts/r-merging-datasets/](https://thomasadventure.blog/posts/r-merging-datasets/)",2021-02-03 06:04:18,2021,2,0.08169642857142856,Good,Not Nuetral
+11,Data Science Learning Resources,kafpgv,https://www.reddit.com/r/rprogramming/comments/kafpgv/data_science_learning_resources/," It was requested in the past to but together some resources for new R users. Below is a collection of everything I could find to help others out. 
+
+# Data Science Learning Resources
+
+&#x200B;
+
+Sections
+
+* Programming
+* Machine Learning
+* Leadership & Strategy
+
+## Programming
+
+### General
+
+* [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1544653964&sr=8-1&keywords=the+pragmatic+programmer) (Book)
+* [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) (Book)
+* [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/index.html) (Online guide)
+
+### Python
+
+* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
+* [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
+* [Effective Python](https://effectivepython.com/) (Book)
+
+### R
+
+* [R for Data Science](https://r4ds.had.co.nz/) (Book)
+* [Advanced R](https://adv-r.hadley.nz/) (Book)
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) (Book)
+* [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/) (Book)
+* [Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](https://www.amazon.com/Data-Science-Approach-Computational-Reasoning/dp/1482234815/ref=sr_1_4?keywords=data+science+in+r&qid=1578174035&s=books&sr=1-4) (Book)
+* [Automated Data Collection with R](https://www.amazon.com/Automated-Data-Collection-Practical-Scraping-ebook/dp/B014T25K5O/ref=sr_1_2?keywords=Automated+Data+Collection+with+R&qid=1578174122&s=books&sr=1-2) (Book)
+* [Introduction to Data Science](https://rafalab.github.io/dsbook/) (Book)
+
+### Spark
+
+* [Spark: The Definitive Guide: Big Data Processing Made Simple](https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219/ref=sr_1_1?keywords=spark+oreilly&qid=1578175560&s=books&sr=1-1) (Book)
+* [Learning Spark: Lightning-Fast Big Data Analysis](https://www.amazon.com/Learning-Spark-Lightning-Fast-Data-Analysis/dp/1449358624/ref=sr_1_2?keywords=spark+oreilly&qid=1578175595&s=books&sr=1-2) (Book)
+* [Mastering Spark with R: The Complete Guide to Large-Scale Analysis and Modeling](https://www.amazon.com/Mastering-Spark-Complete-Large-Scale-Analysis/dp/149204637X/ref=sr_1_1?crid=3TYKU59XRH5HV&keywords=mastering+spark+with+r&qid=1578175640&s=books&sprefix=mastering+spark+%2Cstripbooks%2C152&sr=1-1) (Book)
+
+### Command Line
+
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) (Online course)
+* [Learning the bash Shell](https://www.amazon.com/Learning-bash-Shell-Programming-Nutshell/dp/0596009658/ref=sr_1_1?crid=3F1N8U9IGYOWA&keywords=learning+the+bash+shell%2C+3rd+edition&qid=1581944136&sprefix=learning+the+basdh%2Caps%2C345&sr=8-1) (Book)
+* [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line) (GitHub resources)
+* [explainshell.com](https://explainshell.com/) (Online help)
+
+### Containers
+
+* [Docker tips & tricks or just useful commands](https://medium.com/@clasikas/docker-tips-tricks-or-just-useful-commands-6e1fd8220450) (Online article)
+* [Rocker: R configurations for Docker](https://github.com/rocker-org/rocker) (GitHub resources)
+* [Docker and Python: making them play nicely and securely for Data Science and ML](https://us.pycon.org/2020/schedule/presentation/175/) (PyCon Talk)
+
+### Functional Programming
+
+* [An Introduction to the Basic Principles of Functional Programming](https://medium.freecodecamp.org/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84) (Online article)
+* [R for Data Science, Ch. 21](https://r4ds.had.co.nz/iteration.html) (Book)
+* [Advanced R, Ch. 9](https://adv-r.hadley.nz/functionals.html) (Book)
+* [Jenny Bryan's purrr tutorials](https://jennybc.github.io/purrr-tutorial/) (Online tutorial)
+* [Foundations of Functional Programming with purrr](https://www.datacamp.com/courses/foundations-of-functional-programming-with-purrr) (DataCamp)
+* [Intermediate Functional Programming with purrr](https://www.datacamp.com/courses/intermediate-functional-programming-with-purrr) (DataCamp)
+
+### Version Control
+
+* [Excuse me, do you have a moment to talk about version control?](https://peerj.com/preprints/3159/) (Paper)
+* [Happy Git and GitHub for the useR](http://happygitwithr.com/) (Book)
+* [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) (Online tutorial)
+* [Git Commit Message Style Guide](http://udacity.github.io/git-styleguide/) (Online guide)
+
+### Code Packaging
+
+* [Python Packaging Authority](https://www.pypa.io/en/latest/)
+* [Python Packaging User Guide](https://packaging.python.org/)
+* [R Packages](https://r-pkgs.org/)
+
+### Style Guide, Readability, Best Practices
+
+* [The Art of Readable Code](https://www.amazon.com/Art-Readable-Code-Practical-Techniques-ebook/dp/B0064CZ1XE) (Book)
+* [The Tidyverse Style Guide](https://style.tidyverse.org/) (Online book)
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) (Online guide)
+* [Guidelines for code reviews](https://github.com/lyst/MakingLyst/tree/master/code-reviews) (README)
+* [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) (Blog post)
+
+### Testing
+
+* [Testing R Code](https://www.amazon.com/Testing-Code-Chapman-Hall-CRC/dp/1498763650) (Book)
+* [Python Testing with pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409/ref=sr_1_3?keywords=Python+Testing+with+pytest&qid=1578174634&s=books&sr=1-3) (Book)
+* [Multiply your Testing Effectiveness with Parameterized Testing](https://us.pycon.org/2020/schedule/presentation/172/) (PyCon Talk)
+* [Test-Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) (Book)
+
+## Machine Learning
+
+### General
+
+* [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) (Book)
+* [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) (Book)
+* [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) (Book)
+* [Computer Age of Statistical Inference](https://www.amazon.com/Computer-Age-Statistical-Inference-Mathematical/dp/1107149894) (Book)
+* [Statistical Modeling: The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf) (Paper)
+* [Deep Learning](https://www.amazon.com/slp/deep-learning/qh2mz33y5875zb7) (Book)
+* Hands-On Machine Learning with Scikit-Learn & TensorFlow ([Book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) | [GitHub](https://github.com/ageron/handson-ml))
+* [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) (Book)
+* [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) (MOOC)
+
+### Unsupervised Modeling
+
+* [ISLR: Ch. 10.3 Clustering Methods](http://www-bcf.usc.edu/~gareth/ISL/) (Book chapter)
+* [A K-Means Clustering Algorithm](https://www.jstor.org/stable/pdf/2346830.pdf?casa_token=DyTW0ZLNC4gAAAAA:VNX2TGwDfcs5foMa96ZxnOM2mjaQU1WuCOLL8qF6iDBWp6ClU8-i2-OSXKbtO1uHm6_1oda_2egpvgYCvaix8UxUqUryqZj-Pw3G4m771Ev5-4kL46Y) (Paper)
+* [Generalized Low Rank Models](https://stanford.edu/~boyd/papers/pdf/glrm.pdf) (Paper)
+* [Deep Learning Ch. 15 Autoencoders](https://www.amazon.com/slp/deep-learning/qh2mz33y5875zb7) (Book chapter)
+* Hands-On Mach. Learning with Scikit-Learn Ch. 15 Autoencoders ([Book chapter](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?crid=R2UBOSHHEJPM&keywords=hands+on+machine+learning+with+scikit+learn+and+tensorflow&qid=1558957194&s=books&sprefix=hands+on+machine%2Cstripbooks%2C135&sr=1-3) | [GitHub resource](https://github.com/ageron/handson-ml/blob/master/15_autoencoders.ipynb))
+* [Sparse autoencoder](https://web.stanford.edu/class/cs294a/sparseAutoencoder.pdf) (Andrew Ng CS294A lecture notes)
+
+### A/B Testing
+
+* [Lessons from Running Thoursands of A/B Tests](https://exp-platform.com/Documents/2014-10-11MITCodeKohaviExP.pdf) (Online presentation with many references)
+* [Online Controlled Experiments at Large Scale](http://www.academia.edu/download/40088649/Online_Controlled_Experiments_at_Large_S20151116-5472-1cpgarq.pdf) (Paper)
+* [Peaking at A/B Tests](http://library.usc.edu.ph/ACM/KKD%202017/pdfs/p1517.pdf) (Paper)
+* [Multi-armed Bandit](https://support.google.com/analytics/answer/2844870?hl=en&ref_topic=1745207) (Online tutorial)
+* [A Modern Bayesian Look at the Multi-armed Bandit](https://pdfs.semanticscholar.org/0323/0c3c83dbb013c3e610702c6f650307f0ce5c.pdf) (Paper behind above online tutorial)
+* [Predicting Search Satisfaction Metrics with Interleaved Comparisons](https://www.microsoft.com/en-us/research/publication/predicting-search-satisfaction-metrics-with-interleaved-comparisons/) (Paper)
+* [Evaluating Retrieval Performance using Clickthrough Data](https://www.cs.cornell.edu/people/tj/publications/joachims_02b.pdf) (Paper)
+
+### Multivariate Adaptive Regression Splines
+
+* [Multivariate Adaptive Regression Splines](https://projecteuclid.org/download/pdf_1/euclid.aos/1176347963) (Friedman's original paper)
+* [APM: Ch. 7.2 Multivariate Adaptive Regression Splines](http://appliedpredictivemodeling.com/) (Book chapter)
+* [ESL: Ch. 9.4 Multivariate Adaptive Regression Splines](https://web.stanford.edu/~hastie/ElemStatLearn/) (Book chapter)
+* [Notes on the **earth** package](http://www.milbo.org/doc/earth-notes.pdf) (Paper)
+
+### K-Nearest Neighbor
+
+* [k-Nearest neighbour classifiers](https://www.researchgate.net/profile/Sarah_Delany/publication/228686398_k-Nearest_neighbour_classifiers/links/0fcfd50d0c1d1f41ad000000/k-Nearest-neighbour-classifiers.pdf) (Paper)
+* [APM: Ch. 7.4 & 13.5 K-Nearest Neighbors](http://appliedpredictivemodeling.com/) (Book chapter)
+* [ESL: Ch. 13.3 k-Nearest-Neighbor Classifiers](https://web.stanford.edu/~hastie/ElemStatLearn/) (Book chapter)
+
+### Random Forests
+
+* [An Introduction to Recursive Partitioning Using the RPART Routines](https://cran.r-project.org/web/packages/rpart/vignettes/longintro.pdf) (Paper)
+* [Random Forests - Leo Breiman's original research paper](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf) (Paper)
+
+### Gradient Boosting Machines
+
+* [How to explain gradient boosting](https://explained.ai/gradient-boosting/) (Online tutorial)
+* [Trevor Hastie - Gradient Boosting & Random Forests at H2O World 2014](https://koalaverse.github.io/machine-learning-in-R/%20//www.youtube.com/watch?v=wPqtzj5VZus&index=16&list=PLNtMya54qvOFQhSZ4IKKXRbMkyL%20Mn0caa) (YouTube)
+* [Trevor Hastie - Data Science of GBM (2013)](http://www.slideshare.net/0xdata/gbm-27891077) (slides)
+* [Mark Landry - Gradient Boosting Method and Random Forest at H2O World 2015](https://www.youtube.com/watch?v=9wn1f-30_ZY) (YouTube)
+* [Peter Prettenhofer - Gradient Boosted Regression Trees in scikit-learn at PyData London 2014](https://www.youtube.com/watch?v=IXZKgIsZRm0) (YouTube)
+* [Alexey Natekin1 and Alois Knoll - Gradient boosting machines, a tutorial](http://journal.frontiersin.org/article/10.3389/fnbot.2013.00021/full) (Paper)
+
+### Deep Learning
+
+* [Deep Learning with R](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/ref=sr_1_3?keywords=deep+learning+with+r&qid=1573422070&sr=8-3) (Book)
+* [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_3?crid=1C568FMWA1B0C&keywords=deep+learning+with+python&qid=1573422053&sprefix=deep+learning+with+%2Caps%2C154&sr=8-3) (Book)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (MOOC)
+* [keras.rstudio.com](https://keras.rstudio.com/) (Online articles & tutorials)
+* [blogs.rstudio.com/tensorflow](https://blogs.rstudio.com/tensorflow/) (Online articles & tutorials)
+* [Illustrated Guide to Recurrent Neural Networks](http://www.kurious.pub/blog/Illustrated-Guide-to-Recurrent-Neural-Networks-4) (Blog)
+* [Illustrated Guide on Vanishing Gradients](http://www.kurious.pub/blog/Illustrated-Guide-on-Vanishing-Gradients-5) (Blog)
+* [Illustrated Guide to LSTMs and GRUs](http://www.kurious.pub/blog/Illustrated-Guide-to-LSTMs-and-GRUs-A-step-by-step-explanation-6) (Blog)
+* [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) (Blog)
+* [Rohan & Lenny: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b) (Blog)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) (Blog)
+* [Revisiting Small Batch Training for Deep Neural Networks](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Revisiting%20Small%20Batch%20Training%20for%20Deep%20Neural%20Networks.pdf) (Paper)
+* [On Loss Functions for Deep Neural Networks in Classification](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/On%20Loss%20Functions%20for%20Deep%20Neural%20Networks%20in%20Classification.pdf) (Paper)
+* [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Practical-Recommendations-for-Gradient-Based-Training-of-Deep-Architectures.pdf) (Paper)
+* [Efficient BackProp](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/efficient-backprop-lecun.pdf) (Paper)
+* [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/delving-deep-into-rectifiers-he-2015.pdf) (Paper)
+* [Cyclical Learning Rates for Training Neural Networks](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/Cyclical-Learning-Rates-for-Training-Neural-Networks.pdf) (Paper)
+* [A Disciplined Approach to Neural Network Hyperparameters: Part 1 – Learning Rate, Batch Size, Momentum, and Weight Decay](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/nn-hyperparameter-tuning.pdf) (Paper)
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf) (Paper)
+
+### Ensembles / Model Stacking / Super Learners
+
+* [Ensemble Methods in Machine Learning](http://web.engr.oregonstate.edu/~tgd/publications/mcs-ensembles.pdf) (Paper)
+* [Stacked Regressions](http://statistics.berkeley.edu/sites/default/files/tech-reports/367.pdf) (Paper)
+* [Super Learner](https://www.degruyter.com/view/j/sagmb.2007.6.issue-1/sagmb.2007.6.1.1309/sagmb.2007.6.1.1309.xml) (Paper)
+
+### Natural Language Processing / Text Mining
+
+* [Text Mining with R](https://www.tidytextmining.com/) (Book)
+* [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf) (Paper)
+* [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) (Online tutorial)
+* [Sebastian Ruder's series on Word Embeddings](https://ruder.io/word-embeddings-1/index.html) (Online articles & tutorials)
+* [Neural Models for Information Retrieval](https://arxiv.org/pdf/1705.01509.pdf) (Paper)
+* [Why do we use word embeddings in NLP?](https://towardsdatascience.com/why-do-we-use-embeddings-in-nlp-2f20e1b632d2) (Blog)
+
+### Tuning
+
+* [Hyperparameters and Tuning Strategies for Random Forest](https://arxiv.org/pdf/1804.03515.pdf) (Paper)
+* [Tunability: Importance of Hyperparameters of Machine Learning Algorithms](https://arxiv.org/pdf/1802.09596.pdf) (Paper)
+* [Machine Learning Benchmarks and Random Forest Regression](https://cloudfront.escholarship.org/dist/prd/content/qt35x3v9t4/qt35x3v9t4.pdf) (Paper)
+* [Random Search for Hyperparameter Optimization](http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf) (Paper)
+
+### Feature Engineering
+
+* [Feature Engineering for Machine Learning](http://shop.oreilly.com/product/0636920049081.do) (Book)
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) (Book)
+
+### Feature Selection
+
+* [Feature Selection with the Boruta Package](https://www.jstatsoft.org/article/view/v036i11/v36i11.pdf) (Paper)
+* [APM: Ch. 19 An Introduction to Feature Selection](http://appliedpredictivemodeling.com/) (Book chapter)
+
+### Machine Learning Interpretability
+
+* [Scott Lundberg's presentation on SHAP](https://youtu.be/B-c8tIgchu0)
+* [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources) (GitHub resources)
+* [Patrick Hall's Awesome Machine Learning Interpretability Resources](https://github.com/jphall663/awesome-machine-learning-interpretability) (GitHub resources)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) (Book)
+* [Visualizing the Feature Importance for Black Box Models](https://arxiv.org/abs/1804.06620) (Paper)
+* [A Simple and Effective Model-Based Variable Importance Measure](https://arxiv.org/abs/1805.04755) (Paper)
+* [Peeking Inside the Black Box: Visualizing Statistical Learning with Plots of Individual Conditional Expectation](https://arxiv.org/abs/1309.6392) (Paper)
+* [pdp: An R Package for Constructing Partial Dependence Plots](https://journal.r-project.org/archive/2017/RJ-2017-016/RJ-2017-016.pdf) (Paper)
+* [""Why Should I Trust You?"": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (Paper)
+* [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) (Paper)
+* [Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/abs/1802.03888) (Paper)
+* [On the Art and Science of Machine Learning Explanations](https://arxiv.org/pdf/1810.02909) (Paper)
+* [Explanation in artificial intelligence: Insights from the social sciences](https://arxiv.org/pdf/1706.07269) (Paper)
+* [Please Stop Permuting Features: An Explanation and Alternatives](https://arxiv.org/abs/1905.03151) (Paper)
+* [A Stratification Approach to Partial Dependence for Codependent Variables](https://arxiv.org/abs/1907.06698) (Paper)
+* [Explaining Machine Learning Classifiers through Diverse Counterfactual Examples](https://www.microsoft.com/en-us/research/publication/explaining-machine-learning-classifiers-through-diverse-counterfactual-examples/) (Paper)
+
+### Auto ML
+
+* [A Review of Automatic Selection Methods for Machine Learning Algorithms and Hyperparameter Values](http://pages.cs.wisc.edu/~gangluo/automatic_selection_review.pdf) (Paper)
+* [Learning Multiple Defaults for Machine Learning Algorithms](https://arxiv.org/abs/1811.09409) (Paper)
+
+### Benchmarking
+
+* [The Design and Analysis of Benchmark Experiments](https://www.jstor.org/stable/pdf/27594139.pdf) (Paper)
+* [Szilard Pafka's ML Benchmarking Research](https://github.com/szilard/benchm-ml) (GitHub resources)
+* [Data-driven advice for applying machine learning to bioinformatics problems](https://arxiv.org/pdf/1708.05070.pdf) (Paper)
+
+### Resampling Procedures
+
+* [Futility Analysis in the Cross-Validation of Machine Learning Models](https://arxiv.org/pdf/1405.6974.pdf) (Paper)
+* [Estimating Classification Error Rate: Repeated Cross-validation, Repeated Hold-out, and Bootstrap](https://github.com/bradleyboehmke/data-science-learning-resources/blob/master/resources/resampling-comparison.pdf) (Paper)
+
+### Productionalization
+
+* [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://dl.acm.org/doi/10.1145/3292500.3330744) (Paper)
+* [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) (Paper)
+* [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production) (Github resources)
+
+## Leadership & Strategy
+
+* [Platform Revolution](https://www.amazon.com/Platform-Revolution-Networked-Markets-Transforming/dp/0393354350/ref=asc_df_0393354350/?tag=hyprod-20&linkCode=df0&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427&psc=1&tag=&ref=&adgrpid=60258871817&hvpone=&hvptwo=&hvadid=312175933381&hvpos=&hvnetw=g&hvrand=1035572653413444981&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9015829&hvtargid=pla-303822642427) (Book)
+* [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860/ref=sr_1_2?dchild=1&keywords=no+rules+rules&qid=1603384965&s=books&sr=1-2) (Book)
+* [The Influential Product Manager: How to Lead and Launch Successful Technology Products](https://www.amazon.com/Influential-Product-Manager-Successful-Technology-ebook/dp/B07Y3ZG5NV/ref=sr_1_1_sspa?crid=2GQMTCRZIC8KP&dchild=1&keywords=the+influential+product+manager&qid=1603384998&sprefix=The+influential+product%2Cstripbooks%2C180&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQVUxOVQ5RjRQRENVJmVuY3J5cHRlZElkPUEwMzIzNDAzQjlCOEdFWjZaVjA3JmVuY3J5cHRlZEFkSWQ9QTA4NTU1NzhYQzhWWUhaSUE1NFMmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl) (Book)
+* [Mastering Product Management: A Step-by-Step Guide](https://www.amazon.com/Mastering-Product-Management-Step-Step/dp/1733839003/ref=sr_1_3?crid=PYM2K7DWJSNC&dchild=1&keywords=mastering+product+management+a+step-by-step+guide&qid=1607368736&sprefix=Mastering+Product%2Caps%2C202&sr=8-3) (Book)",2020-12-11 05:58:28,2020,12,0.07633791329443501,Good,Not Nuetral
+12,R data structures for Excel users,gc0biz,https://i.redd.it/h0gypuif2aw41.jpg,,2020-05-02 20:25:48,2020,5,0.0,Good,Nuetral
+13,Torch is now available in R,j24ghe,https://blog.rstudio.com/2020/09/29/torch/,,2020-09-30 09:54:56,2020,9,0.0,Good,Nuetral
+14,376 Tutorials on Important Functions in R (List / Cheat Sheet / Example Codes),ipd988,https://www.reddit.com/r/rprogramming/comments/ipd988/376_tutorials_on_important_functions_in_r_list/,"I've created a list of important R programming functions, containing 376 tutorials & R programming examples: [https://statisticsglobe.com/r-functions-list/](https://statisticsglobe.com/r-functions-list/) You may use it as a cheat sheet for the R programming language.",2020-09-10 02:17:17,2020,9,-0.175,Bad,Not Nuetral
+15,R Resources,htj7up,https://www.reddit.com/r/rprogramming/comments/htj7up/r_resources/,"Hi everyone!
+
+I am a big fan of compiling R resources. I stumbled across this really helpful website that I thought this community might find useful.
+
+Perhaps mods might want to pin this post or a similar post where this community as a whole can keep track of all the incredible resources?
+
+[https://jimgruman.netlify.app/post/education-r/](https://jimgruman.netlify.app/post/education-r/)
+
+Also,
+
+I have been compiling my own resource list, so feel free to use any of these as well.
+
+**Helpful YouTube channels to consider:** 
+
+[David Robinson](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)   
+ [Julia Silge](https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA)   
+ [Roger Peng](https://www.youtube.com/channel/UCZA0RbbSK1IXeeJysKYRWuQ)   
+ [Ronak Shah](https://www.youtube.com/channel/UCv3be7W260HXd2BoK9KihMQ)   
+ [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ)   
+ [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A)   
+ [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos)   
+ [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ)   
+ [Karandeep Singh](https://www.youtube.com/channel/UC7eRNr1Pprls2aU5WWPz15Q)   
+ [datascienceR](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q)   
+ [LearnR](https://www.youtube.com/c/TheLearnR/videos)   
+ [TidyX](https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ)   
+ [David Jablonski](https://www.youtube.com/channel/UCzE7zgPikKvVUJPBKrndHMA)   
+ [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG) 
+
+**Helpful books to consider:**
+
+ [R Cookbook, 2nd Edition](https://rc2e.com/index.html)   
+ [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/index.html)   
+ [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf)   
+ [Handling and Processing Strings in R](https://www.gastonsanchez.com/Handling_and_Processing_Strings_in_R.pdf)   
+ [R for Data Science](https://r4ds.had.co.nz/)   
+ [R for Data Science: Exercise Solutions](https://jrnold.github.io/r4ds-exercise-solutions/)   
+ [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)   
+ [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/)   
+ [A Sufficient Introduction to R](https://dereksonderegger.github.io/570L/) 
+
+**Helpful Articles to Consider:**
+
+ [Descriptive Statistics](https://rcompanion.org/handbook/C_02.html) 
+
+**Helpful Podcasts to consider:**
+
+ [Not so Standard Deviations](http://nssdeviations.com/)",2020-07-19 08:16:48,2020,7,0.2818181818181818,Good,Not Nuetral
+16,"Does anyone actually ""get"" ggplot's ""Grammar of Graphics""?",en4y2m,https://www.reddit.com/r/rprogramming/comments/en4y2m/does_anyone_actually_get_ggplots_grammar_of/,"Not quite a rant. More a confession of incomprehension. ggplot is THE graphics package to use these days. One reason is supposed to be its basis in a ""grammar of graphics"", which provides an underlying logical structure. Well, maybe, but I'm damned if I can see it or use it to guide me.
+
+For me ggplot is just a sequence of pretty arbitrary functions that produce nice plots. I mean, why ""aes""? It stands for ""aesthetics"" and mainly serves to define the data to use AFAIK. Why not call it ""setdata""?
+
+What prompted this post was yesterday when I had a facetted bar plot and I wanted all the bars the same width (there were different numbers of bars in each facet and the default is equal width facets). So, off to Google. After several failures, I finally found that all I needed to do was include ""space = ""free"" in ""facet\_grid"". Try to tell me with a straight face that that is obvious and logical. The other ""near miss"" solutions were completely different.
+
+In summary, ggplot is a great tool and you can find ways to do anything with it on Stack Overflow. Just don't tell me that there is some user-friendly logic to it.",2020-01-12 00:25:22,2020,1,0.14895833333333336,Good,Not Nuetral
+17,Teachers: I made a script to combine zoom attendance reports,ld05ya,https://www.reddit.com/r/rprogramming/comments/ld05ya/teachers_i_made_a_script_to_combine_zoom/,"So, when you teach a class on zoom, you can download a CSV file for each class meeting. This is cool, because you don't have to spend  class time to take attendence, but it's far from perfect, because:
+
+1. you have a different file for each class meeting,
+
+2. every time someone joins or leaves a breakout room, it creates an extra row, so you have to aggregate the rows to see how many minutes someone was in class, and
+
+3. The names aren't in alphabetical order.
+
+This little program I made today solves these problems. Check it out:
+
+[https://github.com/ave-63/attendant.r](https://github.com/ave-63/attendant.r)
+
+I am interested in feedback. I'd especially like to know about any problems or difficulties you have, because I'd like to share it with lots of teachers, some of whom aren't so tech savvy.",2021-02-05 21:16:30,2021,2,0.22361111111111112,Good,Not Nuetral
+18,R Tutorial for Beginners - Learn R Programming from Scratch - DataFlair,cq52h7,https://data-flair.training/blogs/r-tutorials-home/,,2019-08-14 21:06:19,2019,8,0.0,Good,Nuetral
+19,200 R Programming Video Tutorials on Statistics Globe,ifmcow,https://www.reddit.com/r/rprogramming/comments/ifmcow/200_r_programming_video_tutorials_on_statistics/,"Today, I'm celebrating that my [R programming YouTube channel](https://www.youtube.com/channel/UCyHEww8_SCdxZvEnkCfi55w) is releasing its 200th video tutorial. Thanks for all the support and interesting questions!",2020-08-25 02:18:15,2020,8,0.4125,Good,Not Nuetral
+20,Free R Programming Tutorials on Statistics Globe,ic0d13,https://www.reddit.com/r/rprogramming/comments/ic0d13/free_r_programming_tutorials_on_statistics_globe/,"I've created a learning plattform called Statistics Globe, which already provides more than 450 free R programming tutorials: [https://statisticsglobe.com/](https://statisticsglobe.com/)",2020-08-19 04:48:48,2020,8,0.05000000000000001,Good,Not Nuetral
+21,Best Recommended R Libraries and Packages for Data Science in 2021,l9e2vh,https://palakdatascientist.medium.com/best-recommended-r-libraries-and-packages-for-data-science-in-2021-d272d7b47e62,,2021-02-01 07:09:54,2021,2,0.0,Good,Nuetral
+22,How do I do this very simple thing in R? Thanks in advance 🙏🏼,kn2rgb,https://i.redd.it/ngxi8665zb861.jpg,,2020-12-31 06:00:51,2020,12,0.0,Good,Nuetral
+23,Plotting longitudinal data in R | 5 min for publication quality data visualization with ggplot2,gfudks,https://www.youtube.com/watch?v=ainAF9FaTbg,,2020-05-09 06:38:14,2020,5,0.0,Good,Nuetral
+24,R Learning Resource List,i0kemg,https://www.reddit.com/r/rprogramming/comments/i0kemg/r_learning_resource_list/,"Hi everyone,
+
+I made a [post](https://www.reddit.com/r/rprogramming/comments/htj7up/r_resources/) a little while ago providing the learning resources I have compiled over the past 6 months while learning to program. They've been invaluable to me, especially during the early stages. My hope was to maybe have it become a sticky or sidebar post, but that never happened.
+
+Since then I have updated the list and am hosting it on my blog for easier tracking. As I continue to learn, I plan on regularly updating the list, but please feel free to provide your resource suggestions here, as a comment in a disqus, or by email if you prefer.
+
+Blog: [https://ericfletcher.netlify.app/blog/r-educational-resource-list/](https://ericfletcher.netlify.app/blog/r-educational-resource-list/)
+
+Also available on my GitHub: [https://github.com/iamericfletcher/R-Learning-Resources](https://github.com/iamericfletcher/R-Learning-Resources)
+
+Sincerely,
+
+Eric",2020-07-31 03:28:32,2020,7,-0.053750000000000006,Bad,Not Nuetral
+25,250 Free R Programming Videos,khecbv,https://www.reddit.com/r/rprogramming/comments/khecbv/250_free_r_programming_videos/,"Hey, I have just released the 250th (!) R programming tutorial on my YouTube channel: https://www.youtube.com/c/statisticsglobe You may check it out in case you are looking for free R programming content :)",2020-12-22 01:55:55,2020,12,0.3,Good,Not Nuetral
+26,Excellent R Teaching Site,lms91x,https://www.reddit.com/r/rprogramming/comments/lms91x/excellent_r_teaching_site/,"Hello fellow stats-wizards, 
+
+I’m just starting with R and am impressed by the free and simple (and humorous) teaching website moderndive.com. I feel that I’ve already learned so much about basic R coding. I haven’t seen it being mentioned here so for those looking to start, this seems like excellent place. 
+
+Yeet",2021-02-19 09:35:06,2021,2,0.3875,Good,Not Nuetral
+27,My top 18 tidyverse tips & tricks for R,hz4cxh,https://youtu.be/ZM04jn95YP0,,2020-07-28 16:23:58,2020,7,0.0,Good,Nuetral
+28,Basic Data Structure in R,gluqup,https://i.redd.it/4ggoli5k8gz41.jpg,,2020-05-18 20:41:49,2020,5,0.0,Good,Nuetral
+29,R Packages For Data Science,gk2uk9,https://i.redd.it/t32fbxpb0vy41.jpg,,2020-05-15 21:02:06,2020,5,0.0,Good,Nuetral
+30,tidymodels.org : Tutorials and material for learning the tidymodel framework,g68yxg,https://tidymodels.org,,2020-04-23 12:41:16,2020,4,0.0,Good,Nuetral
+31,Great Looking Tables: gt (v0.2),fxfk42,https://blog.rstudio.com/2020/04/08/great-looking-tables-gt-0-2/,,2020-04-09 13:43:28,2020,4,0.0,Good,Nuetral
+32,"Why Gordon Shotwell use R? ""The thing is, I don’t use R out of some blind brand loyalty but because I don’t like working hard"". I use Python and R both and I agree with Gordon's view.",fjgag4,https://blog.shotwell.ca/posts/why_i_use_r/,,2020-03-16 22:13:27,2020,3,0.0,Good,Nuetral
+33,I Built a Trump Biden Election Forecast Model in R,j6rtzi,https://www.reddit.com/r/rprogramming/comments/j6rtzi/i_built_a_trump_biden_election_forecast_model_in_r/,"[https://medium.com/@earthc0137/build-a-trump-vs-biden-prediction-model-with-r-from-scratch-fa66aee9f5c2?source=friends\_link&sk=92d13bd0e743cef172e97b05363fa5e8](https://medium.com/@earthc0137/build-a-trump-vs-biden-prediction-model-with-r-from-scratch-fa66aee9f5c2?source=friends_link&sk=92d13bd0e743cef172e97b05363fa5e8)
+
+&#x200B;
+
+https://preview.redd.it/ab5hi4b3por51.png?width=1280&format=png&auto=webp&s=7e2b7eb1cfd625c5f020199ddccf3400fe4fb2bd",2020-10-08 06:28:18,2020,10,0.0,Good,Nuetral
+34,How should you practice R when your daily job has no application of R?,jeho9q,https://www.reddit.com/r/rprogramming/comments/jeho9q/how_should_you_practice_r_when_your_daily_job_has/,"R newbie here [Edit 1: infact programming newbie; R is the first programming language I'm trying to learn]. I am trying to learn R out of my own interest and with an aspiration of growing in my career. However, my current job doesn't require R or any other programming/analytics for that matter. Therefore, I'm left with no opportunity to practice R with real world problems. For about a year now I have been trying to read books, learn from data camp, but I have almost never been able to apply and practice. So, the theoretical learning is not being enough so far as even for small problems I have to look up stack overflow or Google. My question is, how can I learn by doing provided I don't have any opportunity to apply R in my daily job?
+
+
+[Edit 2]: looking at most of the responses, I felt my question does not provide enough information about the kind of job I have. I work 8-9 hours daily with my laptop. I work for pharma to conduct systematic reviews of clinical trials or observational studies. My job requires reading research papers, extracting useful data (both quantitative and text) from them, and writing reports. So, I use Excel, txt, CSV, doc files on a regular basis. I am aware of several R package developed for conducting systematic reviews and meta-analysis and I am working to learn and apply those. However, my greater interest is in developing R skills which has general applications, such as data cleaning/wrangling, indexing, using loop functions efficiently, writing my own functions, etc. I completely lack these abilities despite having basic understanding of these concepts. I few answers already provide solutions. However I felt providing more information might help you guys designing your answers better. Thank you all!",2020-10-20 19:31:18,2020,10,0.1733333333333333,Good,Not Nuetral
+35,Is there any R package to run in order to produce academic table looks like this one:,e0x8bw,https://i.redd.it/36lglbc7am041.jpg,,2019-11-25 03:09:37,2019,11,0.0,Good,Nuetral
+36,What's new in RStudio 1.4,jbljhw,https://alearrigo.medium.com/whats-new-in-rstudio-v1-4-preview-5611f08c6233?source=friends_link&sk=b4ee1b4372be730fe42f6a6adf0fba7d,,2020-10-16 03:10:42,2020,10,0.0,Good,Nuetral
+37,How to analyze text using R with tidytext + ggraph (analyzing user reviews data),hij915,https://youtu.be/ae_XVhjHd_o,,2020-07-01 00:24:28,2020,7,0.0,Good,Nuetral
+38,Most frequently mentioned words in the top 1000 StackOverflow questions tagged #R [x-post /r/DataArt],av2e8b,https://i.imgur.com/AFH3v7h.png,,2019-02-27 09:59:19,2019,2,0.0,Good,Nuetral
+39,R Programming Tutorials Challenge !,kq97g9,https://www.reddit.com/r/rprogramming/comments/kq97g9/r_programming_tutorials_challenge/,"This month, I have blocked anything else to work full-time on new R programming tutorials for my website. I will publish as many tutorials as I possibly can. You may find the newest tutorials here: https://statisticsglobe.com/#recent",2021-01-05 05:56:37,2021,1,0.21212121212121213,Good,Not Nuetral
+40,Downloading Stock Price and Accounting Variables in R!,jq36ul,https://www.youtube.com/watch?v=CD-Bk1YAYXk,,2020-11-08 17:51:40,2020,11,0.0,Good,Nuetral
+41,Free R Programming Language Course for Beginners,hulp3d,https://www.youtube.com/watch?v=amQVIinT3wo,,2020-07-21 05:57:51,2020,7,0.0,Good,Nuetral
+42,"Any good books to learn/review calculus, linear algebra, or math in R?",hdbnwy,https://www.reddit.com/r/rprogramming/comments/hdbnwy/any_good_books_to_learnreview_calculus_linear/,"I know some books exist for Python. I'm wanting to review some math , not exactly stats, in R. Any suggestions?",2020-06-22 10:18:53,2020,6,-0.125,Bad,Not Nuetral
+43,A great place to learn basic elements of various packages and other basic functions in R.,bbye2y,https://www.reddit.com/r/rprogramming/comments/bbye2y/a_great_place_to_learn_basic_elements_of_various/," [https://www.rstudio.com/resources/cheatsheets/](https://www.rstudio.com/resources/cheatsheets/) 
+
+&#x200B;
+
+https://preview.redd.it/cblcorv27mr21.png?width=1366&format=png&auto=webp&s=f3ba59be67a0bcfcc7f37cfb17180e47e0900453",2019-04-12 02:46:41,2019,4,0.0,Good,Nuetral
+44,How Does R's Pipe Operator (%>%) Actually Work?,lcc4q0,https://www.reddit.com/r/rprogramming/comments/lcc4q0/how_does_rs_pipe_operator_actually_work/,"> I think it’s fair to say that the pipe operator %>% from the {magrittr} package—made famous by its use in {dplyr}—revolutionized R. Using %>% you can chain together multiple functions to create pipelines for your data. That way you can write highly expressive code and mitigate the need to define intermediate variables for each step of you data processing. But how does %>% actually work? If you think about it, %>% does something quite astonishing: it applies the function on its right to the expression of its left. Achieving this is not really straightforward which is why I decided to write this post.
+
+Read on here: https://thomasadventure.blog/posts/how-does-the-pipe-operator-actually-work/",2021-02-05 01:31:50,2021,2,0.28869047619047616,Good,Not Nuetral
+45,Tutorial Series on Loops in R,it5qj8,https://www.reddit.com/r/rprogramming/comments/it5qj8/tutorial_series_on_loops_in_r/,"During the next days, I'll release a tutorial series about loops in R. The series starts with this introduction: [https://statisticsglobe.com/loops-in-r/](https://statisticsglobe.com/loops-in-r/)
+
+It explains the different types of loops (for-loops, while-loops & repeat-loops) & contains a list of advanced programming tutorials.
+
+You may [follow me on Twitter](https://twitter.com/JoachimSchork) to get notified when a new tutorial of the series is released.",2020-09-16 01:55:41,2020,9,-0.042727272727272725,Bad,Not Nuetral
+46,Animated plot showing the trends in COVID-19 outbreak in the USA. I have captured the reported daily incidence on cases from across the US since 1st February 2020 till 11 August 2020. [OC],i8dlqi,https://v.redd.it/k247ud2d4kg51,,2020-08-13 05:20:03,2020,8,0.0,Good,Nuetral
+47,R Programming Challenge,hst65c,https://www.reddit.com/r/rprogramming/comments/hst65c/r_programming_challenge/,"I will release 100 new R programming tutorials on [https://statisticsglobe.com/](https://statisticsglobe.com/) within the next 15 days! Do you have any topic suggestions?
+
+UPDATE: All 100 tutorials are online:
+
+[https://statisticsglobe.com/correlation-matrix-in-r](https://statisticsglobe.com/correlation-matrix-in-r)
+
+[https://statisticsglobe.com/display-large-numbers-separated-with-comma-in-r](https://statisticsglobe.com/display-large-numbers-separated-with-comma-in-r)
+
+[https://statisticsglobe.com/zoom-into-ggplot2-plot-without-removing-data-in-r](https://statisticsglobe.com/zoom-into-ggplot2-plot-without-removing-data-in-r)
+
+[https://statisticsglobe.com/read-files-directory-apply-function-to-each-data-frame-in-r](https://statisticsglobe.com/read-files-directory-apply-function-to-each-data-frame-in-r)
+
+[https://statisticsglobe.com/subset-of-data-frame-rows-containing-na-in-r](https://statisticsglobe.com/subset-of-data-frame-rows-containing-na-in-r)
+
+[https://statisticsglobe.com/remove-all-special-characters-from-string-in-r](https://statisticsglobe.com/remove-all-special-characters-from-string-in-r)
+
+[https://statisticsglobe.com/remove-first-row-of-data-frame-in-r](https://statisticsglobe.com/remove-first-row-of-data-frame-in-r)
+
+[https://statisticsglobe.com/convert-character-string-to-date-object-in-r](https://statisticsglobe.com/convert-character-string-to-date-object-in-r)
+
+[https://statisticsglobe.com/fit-smooth-curve-to-plot-of-data-in-r](https://statisticsglobe.com/fit-smooth-curve-to-plot-of-data-in-r)
+
+[https://statisticsglobe.com/convert-unix-timestamp-to-date-object-in-r](https://statisticsglobe.com/convert-unix-timestamp-to-date-object-in-r)
+
+[https://statisticsglobe.com/select-rows-with-partial-string-match-in-r](https://statisticsglobe.com/select-rows-with-partial-string-match-in-r)
+
+[https://statisticsglobe.com/unique-combinations-of-all-elements-from-two-vectors-in-r](https://statisticsglobe.com/unique-combinations-of-all-elements-from-two-vectors-in-r)
+
+[https://statisticsglobe.com/export-nicely-formatted-data-frame-in-r](https://statisticsglobe.com/export-nicely-formatted-data-frame-in-r)
+
+[https://statisticsglobe.com/disable-messages-when-loading-a-package-in-r](https://statisticsglobe.com/disable-messages-when-loading-a-package-in-r)
+
+[https://statisticsglobe.com/randomly-reorder-data-frame-by-row-and-column-in-r](https://statisticsglobe.com/randomly-reorder-data-frame-by-row-and-column-in-r)
+
+[https://statisticsglobe.com/ggplot2-title-subtitle-with-different-size-and-color-in-r](https://statisticsglobe.com/ggplot2-title-subtitle-with-different-size-and-color-in-r)
+
+[https://statisticsglobe.com/suppress-output-of-command-in-r](https://statisticsglobe.com/suppress-output-of-command-in-r)
+
+[https://statisticsglobe.com/paste-multiple-columns-together-in-r](https://statisticsglobe.com/paste-multiple-columns-together-in-r)
+
+[https://statisticsglobe.com/compute-eulers-number-in-r](https://statisticsglobe.com/compute-eulers-number-in-r)
+
+[https://statisticsglobe.com/change-spacing-of-axis-tick-marks-in-base-r-plot](https://statisticsglobe.com/change-spacing-of-axis-tick-marks-in-base-r-plot)
+
+[https://statisticsglobe.com/round-up-to-nearest-10-or-100-in-r](https://statisticsglobe.com/round-up-to-nearest-10-or-100-in-r)
+
+[https://statisticsglobe.com/find-position-of-character-in-string-in-r](https://statisticsglobe.com/find-position-of-character-in-string-in-r)
+
+[https://statisticsglobe.com/print-time-with-milliseconds-in-r](https://statisticsglobe.com/print-time-with-milliseconds-in-r)
+
+[https://statisticsglobe.com/find-values-contained-in-first-vector-but-not-another-in-r](https://statisticsglobe.com/find-values-contained-in-first-vector-but-not-another-in-r)
+
+[https://statisticsglobe.com/overlay-density-plots-in-base-r](https://statisticsglobe.com/overlay-density-plots-in-base-r)
+
+[https://statisticsglobe.com/repeat-rows-of-data-frame-n-times-in-r](https://statisticsglobe.com/repeat-rows-of-data-frame-n-times-in-r)
+
+[https://statisticsglobe.com/quit-restart-clean-r-session-from-within-r](https://statisticsglobe.com/quit-restart-clean-r-session-from-within-r)
+
+[https://statisticsglobe.com/skip-loop-to-next-iteration-in-r](https://statisticsglobe.com/skip-loop-to-next-iteration-in-r)
+
+[https://statisticsglobe.com/left-align-text-in-ggplot2-plot-in-r](https://statisticsglobe.com/left-align-text-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/convert-vector-to-list-in-r](https://statisticsglobe.com/convert-vector-to-list-in-r)
+
+[https://statisticsglobe.com/report-missing-values-in-data-frame-in-r](https://statisticsglobe.com/report-missing-values-in-data-frame-in-r)
+
+[https://statisticsglobe.com/set-ggplot2-axis-limit-only-on-one-side-in-r](https://statisticsglobe.com/set-ggplot2-axis-limit-only-on-one-side-in-r)
+
+[https://statisticsglobe.com/return-column-name-of-largest-value-for-each-row-in-r](https://statisticsglobe.com/return-column-name-of-largest-value-for-each-row-in-r)
+
+[https://statisticsglobe.com/remove-multiple-data-objects-using-rm-function-in-r](https://statisticsglobe.com/remove-multiple-data-objects-using-rm-function-in-r)
+
+[https://statisticsglobe.com/convert-characters-in-data-frame-to-uppercase-in-r](https://statisticsglobe.com/convert-characters-in-data-frame-to-uppercase-in-r)
+
+[https://statisticsglobe.com/add-count-labels-on-top-of-ggplot2-barchart-in-r](https://statisticsglobe.com/add-count-labels-on-top-of-ggplot2-barchart-in-r)
+
+[https://statisticsglobe.com/extract-numbers-from-character-string-vector-in-r](https://statisticsglobe.com/extract-numbers-from-character-string-vector-in-r)
+
+[https://statisticsglobe.com/apply-function-to-data-table-in-each-specified-column-in-r](https://statisticsglobe.com/apply-function-to-data-table-in-each-specified-column-in-r)
+
+[https://statisticsglobe.com/specify-column-names-for-x-y-when-joining-with-dplyr-package-in-r](https://statisticsglobe.com/specify-column-names-for-x-y-when-joining-with-dplyr-package-in-r)
+
+[https://statisticsglobe.com/convert-data-frame-to-data-table-in-r](https://statisticsglobe.com/convert-data-frame-to-data-table-in-r)
+
+[https://statisticsglobe.com/remove-multiple-columns-from-data-table-in-r](https://statisticsglobe.com/remove-multiple-columns-from-data-table-in-r)
+
+[https://statisticsglobe.com/get-column-index-in-data-frame-by-variable-name-in-r](https://statisticsglobe.com/get-column-index-in-data-frame-by-variable-name-in-r)
+
+[https://statisticsglobe.com/fix-aspect-ratio-in-ggplot2-plot-in-r](https://statisticsglobe.com/fix-aspect-ratio-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/plot-all-columns-of-data-frame-in-r](https://statisticsglobe.com/plot-all-columns-of-data-frame-in-r)
+
+[https://statisticsglobe.com/reset-par-to-default-values-in-r](https://statisticsglobe.com/reset-par-to-default-values-in-r)
+
+[https://statisticsglobe.com/control-size-of-ggplot2-legend-items-in-r](https://statisticsglobe.com/control-size-of-ggplot2-legend-items-in-r)
+
+[https://statisticsglobe.com/r-save-all-console-input-output-to-file](https://statisticsglobe.com/r-save-all-console-input-output-to-file)
+
+[https://statisticsglobe.com/r-split-data-frame-into-list-of-data-frames-based-on-id-column](https://statisticsglobe.com/r-split-data-frame-into-list-of-data-frames-based-on-id-column)
+
+[https://statisticsglobe.com/extract-data-table-column-as-vector-using-index-position-in-r](https://statisticsglobe.com/extract-data-table-column-as-vector-using-index-position-in-r)
+
+[https://statisticsglobe.com/set-area-margins-of-ggplot2-plot-in-r](https://statisticsglobe.com/set-area-margins-of-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/change-y-axis-to-percentages-in-ggplot2-barplot-in-r](https://statisticsglobe.com/change-y-axis-to-percentages-in-ggplot2-barplot-in-r)
+
+[https://statisticsglobe.com/count-number-of-words-in-character-string-in-r](https://statisticsglobe.com/count-number-of-words-in-character-string-in-r)
+
+[https://statisticsglobe.com/insert-new-column-between-two-data-frame-variables-in-r](https://statisticsglobe.com/insert-new-column-between-two-data-frame-variables-in-r)
+
+[https://statisticsglobe.com/sort-variables-of-data-frame-by-column-names-in-r](https://statisticsglobe.com/sort-variables-of-data-frame-by-column-names-in-r)
+
+[https://statisticsglobe.com/remove-empty-rows-of-data-frame-in-r](https://statisticsglobe.com/remove-empty-rows-of-data-frame-in-r)
+
+[https://statisticsglobe.com/create-comma-separated-vector-in-r](https://statisticsglobe.com/create-comma-separated-vector-in-r)
+
+[https://statisticsglobe.com/randomize-vector-in-r](https://statisticsglobe.com/randomize-vector-in-r)
+
+[https://statisticsglobe.com/split-data-frame-in-r](https://statisticsglobe.com/split-data-frame-in-r)
+
+[https://statisticsglobe.com/indexing-up-to-the-end-of-vector-data-frame-in-r](https://statisticsglobe.com/indexing-up-to-the-end-of-vector-data-frame-in-r)
+
+[https://statisticsglobe.com/replace-multiple-letters-with-accents-in-r](https://statisticsglobe.com/replace-multiple-letters-with-accents-in-r)
+
+[https://statisticsglobe.com/select-first-row-of-each-group-in-data-frame-in-r](https://statisticsglobe.com/select-first-row-of-each-group-in-data-frame-in-r)
+
+[https://statisticsglobe.com/select-first-element-of-nested-list-in-r](https://statisticsglobe.com/select-first-element-of-nested-list-in-r)
+
+[https://statisticsglobe.com/arrange-list-of-ggplot2-plots-in-r](https://statisticsglobe.com/arrange-list-of-ggplot2-plots-in-r)
+
+[https://statisticsglobe.com/multiply-rows-of-matrix-by-vector-in-r](https://statisticsglobe.com/multiply-rows-of-matrix-by-vector-in-r)
+
+[https://statisticsglobe.com/replace-values-in-data-frame-conditionally-in-r](https://statisticsglobe.com/replace-values-in-data-frame-conditionally-in-r)
+
+[https://statisticsglobe.com/create-data-frame-where-a-column-is-a-list-in-r](https://statisticsglobe.com/create-data-frame-where-a-column-is-a-list-in-r)
+
+[https://statisticsglobe.com/sum-across-multiple-rows-columns-using-dplyr-package-in-r](https://statisticsglobe.com/sum-across-multiple-rows-columns-using-dplyr-package-in-r)
+
+[https://statisticsglobe.com/extract-just-number-from-named-numeric-vector-in-r](https://statisticsglobe.com/extract-just-number-from-named-numeric-vector-in-r)
+
+[https://statisticsglobe.com/ggplot2-plot-in-script-is-not-displayed-in-r](https://statisticsglobe.com/ggplot2-plot-in-script-is-not-displayed-in-r)
+
+[https://statisticsglobe.com/change-display-order-of-ggplot2-plot-legend-in-r](https://statisticsglobe.com/change-display-order-of-ggplot2-plot-legend-in-r)
+
+[https://statisticsglobe.com/save-plot-in-data-object-in-base-r](https://statisticsglobe.com/save-plot-in-data-object-in-base-r)
+
+[https://statisticsglobe.com/unique-rows-of-data-frame-based-on-selected-columns-in-r](https://statisticsglobe.com/unique-rows-of-data-frame-based-on-selected-columns-in-r)
+
+[https://statisticsglobe.com/draw-multiple-lattice-plots-in-one-window-in-r](https://statisticsglobe.com/draw-multiple-lattice-plots-in-one-window-in-r)
+
+[https://statisticsglobe.com/convert-named-vector-to-data-frame-in-r](https://statisticsglobe.com/convert-named-vector-to-data-frame-in-r)
+
+[https://statisticsglobe.com/use-apply-function-only-for-specific-data-frame-columns-in-r](https://statisticsglobe.com/use-apply-function-only-for-specific-data-frame-columns-in-r)
+
+[https://statisticsglobe.com/check-existence-of-local-file-in-r](https://statisticsglobe.com/check-existence-of-local-file-in-r)
+
+[https://statisticsglobe.com/remove-gridlines-in-ggplot2-plot-in-r](https://statisticsglobe.com/remove-gridlines-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/coerce-list-object-to-type-double-in-r](https://statisticsglobe.com/coerce-list-object-to-type-double-in-r)
+
+[https://statisticsglobe.com/create-sequence-of-repeated-values-in-r](https://statisticsglobe.com/create-sequence-of-repeated-values-in-r)
+
+[https://statisticsglobe.com/select-multiple-elements-from-list-in-r](https://statisticsglobe.com/select-multiple-elements-from-list-in-r)
+
+[https://statisticsglobe.com/undefined-columns-selected-when-subsetting-data-frame-in-r](https://statisticsglobe.com/undefined-columns-selected-when-subsetting-data-frame-in-r)
+
+[https://statisticsglobe.com/dplyr-mutate-function-with-logical-condition-in-r](https://statisticsglobe.com/dplyr-mutate-function-with-logical-condition-in-r)
+
+[https://statisticsglobe.com/change-colors-in-ggplot2-line-plot-in-r](https://statisticsglobe.com/change-colors-in-ggplot2-line-plot-in-r)
+
+[https://statisticsglobe.com/keep-unused-factor-levels-in-ggplot2-barplot-in-r](https://statisticsglobe.com/keep-unused-factor-levels-in-ggplot2-barplot-in-r)
+
+[https://statisticsglobe.com/number-of-months-between-two-dates-in-r](https://statisticsglobe.com/number-of-months-between-two-dates-in-r)
+
+[https://statisticsglobe.com/drop-multiple-columns-from-data-frame-using-dplyr-package-in-r](https://statisticsglobe.com/drop-multiple-columns-from-data-frame-using-dplyr-package-in-r)
+
+[https://statisticsglobe.com/combine-two-ggplot2-plots-from-different-data-frames-in-r](https://statisticsglobe.com/combine-two-ggplot2-plots-from-different-data-frames-in-r)
+
+[https://statisticsglobe.com/determine-path-of-current-script-in-r](https://statisticsglobe.com/determine-path-of-current-script-in-r)
+
+[https://statisticsglobe.com/extract-regression-coefficients-of-linear-model-in-r](https://statisticsglobe.com/extract-regression-coefficients-of-linear-model-in-r)
+
+[https://statisticsglobe.com/draw-time-series-plot-with-events-using-ggplot2-in-r](https://statisticsglobe.com/draw-time-series-plot-with-events-using-ggplot2-in-r)
+
+[https://statisticsglobe.com/count-number-of-rows-by-group-using-dplyr-package-in-r](https://statisticsglobe.com/count-number-of-rows-by-group-using-dplyr-package-in-r)
+
+[https://statisticsglobe.com/reorder-facets-in-ggplot2-plot-in-r](https://statisticsglobe.com/reorder-facets-in-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/combine-multiple-ggplot2-legends-in-r](https://statisticsglobe.com/combine-multiple-ggplot2-legends-in-r)
+
+[https://statisticsglobe.com/display-only-integer-values-on-ggplot2-axis-in-r](https://statisticsglobe.com/display-only-integer-values-on-ggplot2-axis-in-r)
+
+[https://statisticsglobe.com/get-second-sub-element-of-every-list-element-in-r](https://statisticsglobe.com/get-second-sub-element-of-every-list-element-in-r)
+
+[https://statisticsglobe.com/merge-unequal-data-frames-replace-na-with-0-in-r](https://statisticsglobe.com/merge-unequal-data-frames-replace-na-with-0-in-r)
+
+[https://statisticsglobe.com/annotate-text-outside-of-ggplot2-plot-in-r](https://statisticsglobe.com/annotate-text-outside-of-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/control-point-border-thickness-of-ggplot2-plot-in-r](https://statisticsglobe.com/control-point-border-thickness-of-ggplot2-plot-in-r)
+
+[https://statisticsglobe.com/two-functions-with-same-name-in-different-packages-in-r](https://statisticsglobe.com/two-functions-with-same-name-in-different-packages-in-r)
+
+[https://statisticsglobe.com/convert-data-frame-with-date-column-to-time-series-object-in-r](https://statisticsglobe.com/convert-data-frame-with-date-column-to-time-series-object-in-r)
+
+&#x200B;",2020-07-18 02:13:31,2020,7,0.06818181818181818,Good,Not Nuetral
+48,BBC Visual and Data Journalism cookbook for R graphics,aoj0r9,https://bbc.github.io/rcookbook/,,2019-02-09 09:45:59,2019,2,0.0,Good,Nuetral
+49,R vs Python - What should I learn in 2019? | R and Python Comparison | I...,alpuu3,https://www.youtube.com/watch?v=eRP_J2yLjSU&feature=share,,2019-02-01 06:16:45,2019,2,0.0,Good,Nuetral
+50,DiscoRd's First Birthday!,lgzebz,https://www.reddit.com/r/rprogramming/comments/lgzebz/discords_first_birthday/,"We're celebrating discoRd's (the R-programming Discord server) first birthday today! Come join us as we commemorate our achievements over the past year by clicking the link below:
+https://discord.gg/FQp6ZNd",2021-02-11 09:56:49,2021,2,0.03125,Good,Not Nuetral
+51,"I'm reading Hadley Wickham's R for Data Science, any youtube videos that you recommend?",kkvzqj,https://www.reddit.com/r/rprogramming/comments/kkvzqj/im_reading_hadley_wickhams_r_for_data_science_any/,Kind of at a similar level -- I love videos where people tidy data in real time in front of you.,2020-12-27 19:11:14,2020,12,0.38,Good,Not Nuetral
+52,Need some good lectures for optimisation in R,kdkwdd,https://www.reddit.com/r/rprogramming/comments/kdkwdd/need_some_good_lectures_for_optimisation_in_r/,I am currently working on Lpsolve package in R for normal linear programming problems. I am wondering if any video lectures or any other resources are available to solve large scale optimisation problems in R. I need step-by-step guidance. Any lead will help. Thanks in advance.,2020-12-16 04:32:06,2020,12,0.1398809523809524,Good,Not Nuetral
+53,Predict the 2020 NCAA Football Season with Linear and Logistic Regression in R,jrkurm,https://youtu.be/HllkSUXRyQc,,2020-11-11 05:23:40,2020,11,0.0,Good,Nuetral
+54,R Statistics - Learning Statistics with R for Data Science,etq6h2,https://techvidvan.com/tutorials/r-statistics/,,2020-01-26 04:25:21,2020,1,0.0,Good,Nuetral
+55,Which one is better for Data Science - #R vs #python,cw48c8,https://i.redd.it/ctbsamh5qzi31.jpg,,2019-08-28 05:09:20,2019,8,0.0,Good,Nuetral
+56,Thought I'd post this for everyone who hasn't seen it yet: There's a new version of `slackr` available (that works!) for connecting R to Slack!,ldqtnb,https://github.com/mrkaye97/slackr,,2021-02-06 21:30:32,2021,2,0.0,Good,Nuetral
+57,Under New Management,jzv8jh,https://www.reddit.com/r/rprogramming/comments/jzv8jh/under_new_management/,"Hello all,
+
+I recently took over this channel. I am also the mod over at r/rshiny. If you are interested in helping moderate this channel or have any interesting topics/points, feel free to reach out!
+
+One note I will add to this post is that I plan on preventing some of the bots/spam that has the plagued this channel for a while. Let me know if you see it or report it to me if I miss it. 
+
+Thanks and Happy R Development!",2020-11-24 17:25:47,2020,11,0.33125,Good,Not Nuetral
+58,Colloborate and learn with R,d7m6m7,https://www.reddit.com/r/rprogramming/comments/d7m6m7/colloborate_and_learn_with_r/,"Hi,
+
+Looking to collaborate and learn with interested R programmers with all levels of experience. We will be collaborating on projects, sharing insights, encouraging and inspiring each other. Projects could range from simple analysis to Machine learning. Doesn't matter if you are a novice or an expert programmer. I encourage you to join even if you are slightly interested in analytics, statistics or data science.
+
+I have created a slack workspace for us to collab.
+
+[https://join.slack.com/t/r-collab/shared\_invite/enQtNzY4ODc0NjUzMDkzLTc4ZTU5ODJkNzU3NGM0NTA3YmE1MDNmYWE1MmI0MDUwYmNmMDJiZWEzYzJkYTcwMDEyYmZhNTFjOWU1NmEyMDE](https://join.slack.com/t/r-collab/shared_invite/enQtNzY4ODc0NjUzMDkzLTc4ZTU5ODJkNzU3NGM0NTA3YmE1MDNmYWE1MmI0MDUwYmNmMDJiZWEzYzJkYTcwMDEyYmZhNTFjOWU1NmEyMDE)
+
+Coz data will talk if you are willing to listen ;)
+
+Edit 1: If the above link fails to log you in, try joining r-collab.slack.com workspace.",2019-09-22 21:18:27,2019,9,0.09722222222222222,Good,Not Nuetral
+59,"My first attempt at writing a data science related article (Genetic Algorithms and baseball using R). Please take a look, give any suggestions or criticisms, etc. Thanks! Details and code included.",jj9x2s,https://rob-sneiderman.medium.com/combinatorial-optimization-using-genetic-algorithms-on-a-baseball-related-dataset-8f105d3fd38e,,2020-10-28 13:05:12,2020,10,0.0,Good,Nuetral
+60,"Anyone else get furious over the vague, ambiguous and completely unhelpful error messages r spits out?",je244k,https://www.reddit.com/r/rprogramming/comments/je244k/anyone_else_get_furious_over_the_vague_ambiguous/,"Just curious because I certainly am. Comparing R to python, R really makes me want to kms.
+
+&#x200B;
+
+Sorry folks I know we love R here, but debugging scripts my ex-colleagues wrote 3 years ago is destroying me in a way that no other language would. ",2020-10-20 05:58:40,2020,10,0.025255102040816324,Good,Not Nuetral
+61,YouTube Channel on ggplot and Statistical analysis in R,igaxm1,https://www.reddit.com/r/rprogramming/comments/igaxm1/youtube_channel_on_ggplot_and_statistical/,"Hey Everyone!
+
+I have just recently created a YouTube channel on data analysis in R, with my recent videos so far being on visual analysis using ggplot2. I have spent the past 4 years using R and ggplot2, having used it while finishing my degree in Mathematics and Statistics. I currently work full time, and daily use R for visual analysis as well as statistical analysis. I have spent quite a bit of time making these videos, so I hope you can get something out of them. The graphs at the moment aren't very complicated, but they will become so soon! 
+
+https://youtu.be/5kRbNMmd7zc",2020-08-26 04:12:24,2020,8,-0.06770833333333333,Bad,Not Nuetral
+62,I can't manage to learn R,hlnqm1,https://www.reddit.com/r/rprogramming/comments/hlnqm1/i_cant_manage_to_learn_r/," I have started learning R since February,. It's been almost 5 months but I can't managed to learn a simple thing in R. I have completed three courses in Coursera R but still. those assignments are way too tough for me to process and I am getting frustrated day by day. I wish there is a easy way to learn it.",2020-07-06 06:44:22,2020,7,-0.16388888888888886,Bad,Not Nuetral
+63,Decision Tree in R programming language | Fully explained,f9tt69,https://youtu.be/G5yzP-2f0lk,,2020-02-27 06:13:32,2020,2,0.0,Good,Nuetral
+64,New Subreddit for R beginners,egachq,https://www.reddit.com/r/rprogramming/comments/egachq/new_subreddit_for_r_beginners/,"Hey all, I noticed that the discussions here are usually quite advanced, and I also think very basic questions do not really fit here. Thus, I have created a subreddit for all those who are just getting started with R in order to give them a platform in which they don't have to feel self-conscious about asking ""basic"" questions. 
+
+Here it is: [https://www.reddit.com/r/rbeginner/](https://www.reddit.com/r/rbeginner/)",2019-12-28 03:58:29,2019,12,-0.13333333333333333,Bad,Not Nuetral
+65,Using R to Perform and Compare Sentiment Analysis on Earnings Calls Because IDW,boophj,https://jagg19.github.io/2019/04/sentiment-analysis-conf-call/,,2019-05-15 13:18:11,2019,5,0.0,Good,Nuetral
+66,Is cleaning data in a spreadsheet frowned upon?,knkc9s,https://www.reddit.com/r/rprogramming/comments/knkc9s/is_cleaning_data_in_a_spreadsheet_frowned_upon/,Is cleaning raw data in a spreadsheet before importing it into R for deep analysis frowned upon? If so why?   I am aware of some of the tools to tidy in R but I also enjoy doing it in a spreadsheets then simply importing the clean data. What are some pros and cons I may run into down the road? All input is appreciated.,2020-12-31 22:04:02,2020,12,0.15892687559354224,Good,Not Nuetral
+67,Extremely basic R question (comparing characters),kl9vp0,https://www.reddit.com/r/rprogramming/comments/kl9vp0/extremely_basic_r_question_comparing_characters/,"I'm going through a Data Camp course, and for one of the exercises I had to check whether the following was true or false:
+
+""raining"" <= ""raining dogs""
+
+It came out ""TRUE,"" but I'm not sure why
+
+Also, sorry if this isn't the place to ask questions like these. Let me know if there's a better sub for this",2020-12-28 11:38:59,2020,12,0.007142857142857125,Good,Not Nuetral
+68,Did any of you self teach and get jobs afterwards?,gwajln,https://www.reddit.com/r/rprogramming/comments/gwajln/did_any_of_you_self_teach_and_get_jobs_afterwards/,"I hear stories like that all the time with other languages but was wondering if anyone has a story about getting a job after self teaching R?
+
+I acknowledge my question might seem out of scope or foolish. Just trying to get a scope of things and a little perspective.
+
+Edit: I’m 25, got a biochem degree from a top school but I want a change in career field in data analytics. Any guidance/approach towards this would be greatly appreciated.",2020-06-04 20:52:58,2020,6,0.096875,Good,Not Nuetral
+69,"How to use lapply, apply, sapply and tapply?",ges2fy,https://www.reddit.com/r/rprogramming/comments/ges2fy/how_to_use_lapply_apply_sapply_and_tapply/,"I tried learning these from swirl, but I feel it is not enough. Can you please provide me some effective link?
+Thanks in advance.",2020-05-07 12:39:14,2020,5,0.26666666666666666,Good,Not Nuetral
+70,Detect Credit Card Fraud with Machine Learning in R - R Project,e2buiu,https://data-flair.training/blogs/data-science-machine-learning-project-credit-card-fraud-detection/,,2019-11-27 22:22:12,2019,11,0.0,Good,Nuetral
+71,"Since there is not a formal R certification, what is the best way to document R competency?",lnragr,https://www.reddit.com/r/rprogramming/comments/lnragr/since_there_is_not_a_formal_r_certification_what/,I have recently gotten my first official programming certification (in Mathematica).   I have been using R for considerably longer than that language and am wondering what programmers who work in R use to demonstrate competence in the absence of a formal cert.   How do I demonstrate skill level and experience outside a portfolio of projects?,2021-02-20 13:49:49,2021,2,0.06749999999999999,Good,Not Nuetral
+72,Is this considered 'good' R code?,jxphr3,https://www.reddit.com/r/rprogramming/comments/jxphr3/is_this_considered_good_r_code/,"I'd consider myself probably an intermediate R coder overall. I'm very comfortable manipulating datasets and doing statistical analysis, but I mostly use base R where I can (my professor in university strongly recommended this, so it kinda stuck as an idea). I mostly code my own things and rarely read other people's code, beyond the odd time when I might look into the source code for a package. 
+
+I've some time off now so was looking around at some Covid models, and found the below code file, and I find it incredibly hard to read. Is this a common style of coding that I'll just have to get used to? I can't say I've seen it that much.
+
+&#x200B;
+
+[https://github.com/SurgicalInformatics/4C\_mortality\_score/blob/master/05\_lasso.R](https://github.com/SurgicalInformatics/4C_mortality_score/blob/master/05_lasso.R)",2020-11-21 06:00:18,2020,11,0.10538461538461535,Good,Not Nuetral
+73,Top 5 Data Science Projects with R Programming,hvs8in,https://googleweblight.com/i?u=https://data-flair.training/blogs/data-science-projects-code/,,2020-07-23 03:39:28,2020,7,0.0,Good,Nuetral
+74,How to use Neovim or VIM Editor as an IDE for R,gin1ha,https://www.youtube.com/watch?v=nm45WagtV3w&feature=share,,2020-05-13 15:28:24,2020,5,0.0,Good,Nuetral
+75,The best books for starting learning R?,fug82y,https://www.reddit.com/r/rprogramming/comments/fug82y/the_best_books_for_starting_learning_r/,"Hello, I am looking for books to learn R, do you have any suggestion?",2020-04-04 12:50:52,2020,4,0.0,Good,Nuetral
+76,Introduction to Analysis of Variance with R (ANOVA),fk0y8c,https://www.reddit.com/r/rprogramming/comments/fk0y8c/introduction_to_analysis_of_variance_with_r_anova/," 
+
+When you want to buy a new commodity how can you test its quality and how can you understand its effectiveness amongst alternatives? People experience this common scenario, as most of the alternatives seem similar to each other. So, it becomes a challenge to choose the best one out of the collection. 
+
+Here is a simple depiction to describe the situation. Suppose there are three medical procedures to cure patients with a similar ailment. But to choose the best one, you need to consider which one requires the least time to relieve patients. To make a certain and realistic decision, you need strong evidence that supports your strategy. This is the concept of Analysis Of Variance or ANOVA.  
+
+**What is Analysis Of Variance?**
+
+ANOVA is a mathematical approach to discover a trustworthy method by checking the means of two or more groups. It compares the patterns on the foundation of their means and depicts how different these patterns are to find out the most suitable outcome. 
+
+You can use ANOVA to accept or reject if all the chosen procedures are equally effective or not when you accept something new. 
+
+**One Way ANOVA**
+
+**ANOVA** is a combination of numerous ideas and is used for manifold drives. As an effect, it is tough to express briefly or precisely.  It is used in a logistic retreat as well. Not only it calculates mean but also checks the diverse prototypical performance. F-Test is a process to compare the difference between the described variance and the unsolved variance. Here are a few examples to dive deep. 
+
+A new study claims that music enhances the focus of the students in a class and so, helps them engross more information. But a teacher may distrust it. 
+
+What if it disturbed the pupils in a damaging way? Or what type of tune would be a decent choice for this? It needs to have some proof to consider these issues. 
+
+To understand it more clearly, you need to make small groups of students. Select students from three different classes. Now you have three different groups of ten indiscriminately selected pupils of the same age from different classrooms. The classroom environment is not the same. When classroom A has particular music, continuously playing in the background, classroom B has variable music playing in the classroom and classroom C has no music during the study. Using the technology of **Analysis Of Variance**, you can detect which one is helpful out of the three categories. 
+
+**Two-way ANOVA**
+
+Let’s take an instance of a situation, which has elements such as surveillance, gender, and dosage with 16 interpretations of each. They all must be mathematical and statistical as mean and variance are being used.
+
+Here in gender, you have to alter into replica variable that includes assigning numbers like 1 and O for man and woman.  But LSS of variance can only be functional on measurable data.
+
+ANOVA is a specific form of arithmetical theory test profoundly used in the study of test data.  A numerical assumption test is a technique of making an evaluation using data. The test result is called statistically noteworthy if it is considered improbable to have happened by chance, assuming the fact of the valueless hypothesis. A mathematically substantial result, when the p-value (probability) is less than a maximum level, justifies the denial of the worthless proposition but only if the earlier probability of the unimportant theory is not high. 
+
+Hands-On system is one of the leading **R Programming Institute in Kolkata** where you have the highest satisfaction to reach your career goal with ease. The mentors and trainers are certified and highly experienced to offer the best training sessions becoming a skilled professional, to grasp numerous career opportunities. For courses and other details, visit the website.",2020-03-17 23:13:03,2020,3,0.11277848745061857,Good,Not Nuetral
+77,"I keep having to look up whether to use (), [], [[]], or $ to point to subsets of data. Help me understand?",ddqqik,https://www.reddit.com/r/rprogramming/comments/ddqqik/i_keep_having_to_look_up_whether_to_use_or_to/,"I guess they have to do with differences in the underlying data structure? I think it will help me remember which one to sue when if I understand those differences better. 
+
+I have a similar problem when writing functions using dplyr and ggplot, sometimes you should use ""%>%"", sometimes ""+"", but I don't really understand what the difference is so I keep guessing. Can anyone shed some light on this? 
+
+Thanks ahead!",2019-10-06 09:59:57,2019,10,0.27,Good,Not Nuetral
+78,Text analysis with R to find who wrote the NYT op-ed from inside the White House,9dry3i,https://www.reddit.com/r/rprogramming/comments/9dry3i/text_analysis_with_r_to_find_who_wrote_the_nyt/,"This blog post could hardly be more topical. And it cites a couple of others.
+
+[Who wrote the NYT op-ed from inside the White House](http://varianceexplained.org/r/op-ed-text-analysis/)
+
+Spoiler alert: the results are not conclusive. Not surpising given the small sample size.",2018-09-07 23:27:55,2018,9,0.0625,Good,Not Nuetral
+79,R markdown: the definitive guide,8yrz8j,https://bookdown.org/yihui/rmarkdown/,,2018-07-15 00:56:04,2018,7,0.0,Good,Nuetral
+80,Introduction To Time Series In R Basic Models,8n36n1,https://www.youtube.com/watch?v=8cKeAH2aGVI&t=117s,,2018-05-30 14:06:36,2018,5,0.0,Good,Nuetral
+81,Created my first function today (BMI Calculator) as part of learning R.,ijks0g,https://www.reddit.com/r/rprogramming/comments/ijks0g/created_my_first_function_today_bmi_calculator_as/,"Currently a SAS programmer professionally and expanding my hobbies into other programming languages.  So, I have decided to pick up R, and so far it is going rather smoothly.  There are some noticeable differences, but I am eager to see where it goes. 
+
+  
+
+I made a function that calculates your BMI.  
+
+&#x200B;
+
+&#x200B;
+
+  Weight = 175
+
+  Feet=5
+
+  Inches=11
+
+  Height=((Feet\*12)+Inches)
+
+&#x200B;
+
+bmi <- function(x,y) {
+
+703 \* ((x/y\^2))
+
+  }
+
+&#x200B;
+
+bmi(Weight,Height)",2020-08-31 13:17:51,2020,8,0.095,Good,Not Nuetral
+82,"Finding out which colors belong to which categories (factor analysis, r) : please see the comments",hqoj4o,https://i.redd.it/bvv666903pa51.png,,2020-07-14 13:44:46,2020,7,0.0,Good,Nuetral
+83,I'm hailing from Sociology as a discipline and want to learn R to do research on social science datasets. What are good free resources that I can use in addition to #swirl to learn R that are free and/or cost effective?,gq3e37,https://www.reddit.com/r/rprogramming/comments/gq3e37/im_hailing_from_sociology_as_a_discipline_and/,"I'm looking to go between ""Learning R"" by Richard Cotton, Swirl, and YouTube tutorials. However, what is a good free structured course that I can sign up for that will help me learn the content. I do great with teaching myself things I'm interested in, but I think i'm going to need to do hands on stuff with some lecturing in addition to really have these concepts sink in. What does this subreddit suggest?",2020-05-25 19:17:59,2020,5,0.4700000000000001,Good,Not Nuetral
+84,Tips for R project development,ezdqpn,https://www.reddit.com/r/rprogramming/comments/ezdqpn/tips_for_r_project_development/,"I've spent the last 6 years working with R and making some beautiful local scripts for my own research (R, Shiny, other stuff). However, I know nothing about how to produce code, specifically a Shiny web app, in a way that can be distributed to and used by others. Heck, *I don't even know what I don't know,* so googling leads to rabbit holes.
+
+I'd like to learn some of the pro tips on R development. I've browsed through some good packages, but that doesn't really inform me of  the ""why"" associated with good practices.
+
+I'm curious if anyone can share their favorite resources on the following:
+
+\- Best practices for package development;
+
+\- Best practices for Shiny web apps (hosting, common mistakes, common user issues);
+
+\- Best practices for github for Shiny and packages;
+
+\- Any neat tricks and tips you know with Shiny that make distribution of interactive plots more efficient and user friendly.
+
+If you have an example git repo or some code that you think exemplifies good practice, I'd love to hear about it too!
+
+edit: I'm currently working through the information here:  [https://www.r-bloggers.com/best-practice-development-of-robust-shiny-dashboards-as-r-packages/](https://www.r-bloggers.com/best-practice-development-of-robust-shiny-dashboards-as-r-packages/). If you have other suggestions, please share.
+
+edit: formatting",2020-02-06 10:15:45,2020,2,0.28958333333333336,Good,Not Nuetral
+85,Looking for a good modelling and simulation book.,eh0o7e,https://www.reddit.com/r/rprogramming/comments/eh0o7e/looking_for_a_good_modelling_and_simulation_book/,"I'm wanting to learn how to do create a few specific models/simulations from scratch. I've used r to do statistical analysis, but I am wanting to learn how to create predator prey models, population level colonization models, Game Theory simulations etc...
+
+What are some of your guys favorite books? Any you would suggest to a beginning programmer?",2019-12-29 19:13:31,2019,12,-0.025000000000000022,Bad,Not Nuetral
+86,Help Interpretating Linear Model With Avg. Variables,aoe09j,https://i.redd.it/1zifihffmaf21.png,,2019-02-08 23:01:17,2019,2,0.0,Good,Nuetral
+87,Building a telegram Bot from scratch using R,a7a0ub,https://codecampanion.blogspot.com/2018/12/bulding-telegram-bot-from-scratch-using.html,,2018-12-19 02:45:27,2018,12,0.0,Good,Nuetral
+88,The Most Popular Programming Languages - 1965/2020,lguzs0,https://youtu.be/UNSoPa-XQN0,,2021-02-11 06:40:50,2021,2,0.0,Good,Nuetral
+89,HELP: Baseball related question,le604n,https://www.reddit.com/r/rprogramming/comments/le604n/help_baseball_related_question/,"I'm an assistant coach with a college baseball team and I'm trying to brush up my skills with R studio.
+
+&#x200B;
+
+So I have a [spreadsheet/csv of pitch data](https://drive.google.com/file/d/1asuauIfCfsaDuuS-iU02lqrPFLnoQ-FW/view?usp=sharing) that was exported from a baseball software and I'm trying to make a radar/clock chart using 2 columns. I have a [picture of what I want it to look](https://imgur.com/cWkir8i) like but can't figure out the code and I keep getting stuck.
+
+&#x200B;
+
+Some notes:
+
+&#x200B;
+
+1. the column ""spin\\\_dir"" is listed as time on a clock as hh:mm
+2. spin\\\_eff is a percentage, 0-100
+3. I need pitch\\\_type to be different colors from one another.
+
+&#x200B;
+
+As you can see in the example picture, a pitch is plotted on the clock based on spin\\\_dir.
+
+&#x200B;
+
+If a pitch has a higher spin\\\_eff, the plotted pitch goes farther away from the center.
+
+&#x200B;
+
+Any help would be much appreciated. Thanks!!",2021-02-07 12:26:14,2021,2,0.1325,Good,Not Nuetral
+90,Webscraping without use of rvest?,l8mtra,https://www.reddit.com/r/rprogramming/comments/l8mtra/webscraping_without_use_of_rvest/,"I am quite new to webscraping but have used rvest, xml2 and inspector gadget. I am having trouble with a couple of pages, they may be JavaScript embedded but I am not really sure. 
+
+https://www.europeantour.com/european-tour/rankings/race-to-dubai/rankings/
+
+This is an example one, I am looking to scrape the large table containing the leaderboard. Is this something RSelenium would be used for, or any other suggestions? Any help appreciated!",2021-01-31 06:29:43,2021,1,0.004274891774891769,Good,Not Nuetral
+91,Short Maximum Likelihood Estimation Tutorial in R,jyojl3,https://www.youtube.com/watch?v=w3drLH-DFpE,,2020-11-22 19:17:58,2020,11,0.0,Good,Nuetral
+92,"Microsoft R Open 4.0.2 is out, finally",iyxlvs,https://mran.microsoft.com/open,,2020-09-25 05:49:27,2020,9,0.0,Good,Nuetral
+93,What is the best site to practice R,inobzg,https://www.reddit.com/r/rprogramming/comments/inobzg/what_is_the_best_site_to_practice_r/,I’m looking for a free website like hacker rank where I can relearn how to program in R after several years off.  Any ideas?,2020-09-07 07:52:29,2020,9,-0.13333333333333333,Bad,Not Nuetral
+94,How can I make a predicting equation that will help in this kind of skewed data?,ikj0sw,https://i.redd.it/bnf4s4vx0jk51.jpg,,2020-09-02 04:05:53,2020,9,0.0,Good,Nuetral
+95,Introduction to Venn Diagrams in R (Video),ihkrrs,https://youtu.be/o4gwg23CMAE,,2020-08-28 05:11:57,2020,8,0.0,Good,Nuetral
+96,How to plot a time series in R (new COVID-19 cases example),i55kyi,https://youtu.be/AeIRvIB1Ogs,,2020-08-07 18:28:47,2020,8,0.0,Good,Nuetral
+97,Understanding the '%>%' operator in R (dplyr),hl7z22,https://www.reddit.com/r/rprogramming/comments/hl7z22/understanding_the_operator_in_r_dplyr/,"I am reading this tutorial:
+
+https://dpmartin42.github.io/posts/r/cluster-mixed-types
+
+And i seem to have trouble understanding the following lines of code (towards the end), as well as why they are necessary:
+
+# I am not sure what this is doing# 
+
+tsne_data <- tsne_obj$Y %>% data.frame() %>% setNames(c(""X"", ""Y"")) %>% mutate(cluster = factor(pam_fit$clustering), name = college_clean$name)
+
+
+#this seems to select points from the graph, where X and Y are between certain ranges#
+
+tsne_data %>% filter(X > 15 & X < 25, Y > -15 & Y < -10) %>% left_join(college_clean, by = ""name"") %>% collect %>% .[[""name""]]
+
+
+Furthermore, does any one if its possible to extract the list of points inside red cluster (for example)?
+
+Thanks!
+
+
+Thanks!",2020-07-05 10:20:14,2020,7,0.029365079365079358,Good,Not Nuetral
+98,Learn How To Use Shiny To create Real Time Visualization,g2xuci,https://www.reddit.com/r/rprogramming/comments/g2xuci/learn_how_to_use_shiny_to_create_real_time/,[https://www.youtube.com/watch?v=klhfO5P10E4](https://www.youtube.com/watch?v=klhfO5P10E4),2020-04-18 00:17:12,2020,4,0.0,Good,Nuetral
+99,Importance of Shiny,e8c74z,https://www.reddit.com/r/rprogramming/comments/e8c74z/importance_of_shiny/,"I was just wondering what someone who is more experienced had some thoughts on Shiny as a whole?
+
+Do you work at a job where shiny is used often? 
+
+At my job I’m trying to “modernize” our data visuals and I think interactive widgets through a shiny server that the public can see is a sensible option but as the only person in my office with an analyst background I didn’t have anyone to bounce the ideas off of.",2019-12-10 08:31:08,2019,12,0.3,Good,Not Nuetral
