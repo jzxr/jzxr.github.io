@@ -8,8 +8,8 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>Tech Sights</title>
   <meta name="description" content="">
-  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.23/datatables.min.css"/>
-  
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.23/datatables.min.css" />
+
   <!-- Bootstrap core CSS -->
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -31,8 +31,15 @@
 
     <h1>Tech Sights</h1>
     <br />
-    <h2>C Programming</h2>
-    <br />
+    <h2>Reddit</h2>
+    <ul class="nav nav-tabs" role="tablist">
+      <li class="active">
+        <a href="#tab-table1" data-toggle="tab">Table 1</a>
+      </li>
+      <li>
+        <a href="#tab-table2" data-toggle="tab">Table 2</a>
+      </li>
+    </ul>
     <div id='cprogramming' class="order-column"></div>
     <br />
     <br />
@@ -78,7 +85,7 @@
   <script type="text/javascript" src="js/jquery.csv.min.js"></script>
   <script type="text/javascript" src="js/jquery.dataTables.min.js"></script>
   <script type="text/javascript" src="js/dataTables.bootstrap.js"></script>
-  <script type="text/javascript" src="js/csv_to_html_table.js"></script>
+  <script type="text/javascript" src="js/convertcsv.js"></script>
 
   <script type="text/javascript">
     function format_link(link) {
@@ -165,7 +172,7 @@
       custom_formatting: [[3, format_link]]
     });
   </script>
-  
+
 </body>
 
 </html>
