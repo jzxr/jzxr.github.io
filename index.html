@@ -111,17 +111,6 @@
     });
 
     CsvToHtmlTable.init({
-      csv_path: 'reddit/reddit1-csharp.csv',
-      element: 'csharp',
-      allow_download: true,
-      csv_options: { separator: ',', delimiter: '"' },
-      datatables_options: { "paging": true },
-      datatables_options: { "scrollY": 200 },
-
-      custom_formatting: [[3, format_link]]
-    });
-
-    CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-html.csv',
       element: 'html',
       allow_download: true,
