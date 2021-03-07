@@ -173,6 +173,67 @@
           <div id='recent-NeuralNetworks'></div>
         </div>
       </div>
+
+      <h2>Twitter (Top Posts)</h2>
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+          <a href="#tab-table22" role="tab" data-toggle="tab">100 Days Of Code</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-table23" role="tab" data-toggle="tab">Artificial Intelligence</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-table24" role="tab" data-toggle="tab">Data Science</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-table25" role="tab" data-toggle="tab">Deep Learning</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-table26" role="tab" data-toggle="tab">DEV Community</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-table27" role="tab" data-toggle="tab">Machine Learning</a>
+        </li>
+        <li role="presentation">
+          <a href="#tab-table28" role="tab" data-toggle="tab">Neural Network</a>
+        </li>
+      </ul>
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-table22">
+        <div id='top-100DaysOfCode'></div>
+      </div>
+        <div role="tabpanel" class="tab-pane" id="tab-table23">
+          <div id='top-ArtificialIntelligence'></div>
+        </div>
+        <div role="tabpanel" class="tab-pane " id="tab-table24">
+          <div id='top-DataScience'></div>
+        </div>
+        <div role="tabpanel" class="tab-pane " id="tab-table25">
+          <div id='top-DeepLearning'></div>
+        </div>
+        <div role="tabpanel" class="tab-pane " id="tab-table26">
+          <div id='top-DEVCommunity'></div>
+        </div>
+        <div role="tabpanel" class="tab-pane " id="tab-table27">
+          <div id='top-MachineLearning'></div>
+        </div>
+        <div role="tabpanel" class="tab-pane " id="tab-table28">
+          <div id='top-NeuralNetworks'></div>
+        </div>
+      </div>
+
+      <h2>Github Projects</h2>
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+          <a href="#tab-table29" role="tab" data-toggle="tab">C# Projects</a>
+        </li>
+      </ul>
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-table29">
+        <div id='github-csharp'></div>
+      </div>
+       
+      </div>
     </div><!-- /.container -->
 
     <!-- Bootstrap core JavaScript
@@ -339,7 +400,7 @@
         allow_download: true,
         csv_options: { separator: ',', delimiter: '"' },
         datatables_options: { "paging": true },
-        custom_formatting: [[2, format_link]]
+        custom_formatting: [[8, format_link],[9,format_link]]
       });
 
       CsvToHtmlTable.init({
@@ -348,44 +409,120 @@
         allow_download: true,
         csv_options: { separator: ',', delimiter: '"' },
         datatables_options: { "paging": true },
-        custom_formatting: [[2, format_link]]
+        custom_formatting: [[8, format_link],[9,format_link]]
       });
 
       CsvToHtmlTable.init({
-        csv_path: 'twittter/recentpost/DeepLearning.csv',
+        csv_path: 'twitter/recentpost/DeepLearning.csv',
         element: 'recent-DeepLearning',
         allow_download: true,
         csv_options: { separator: ',', delimiter: '"' },
         datatables_options: { "paging": true },
-        custom_formatting: [[2, format_link]]
+        custom_formatting: [[8, format_link],[9,format_link]]
       });
 
       CsvToHtmlTable.init({
-        csv_path: 'twittter/recentpost/DEVCommunity.csv',
+        csv_path: 'twitter/recentpost/DEVCommunity.csv',
         element: 'recent-DEVCommunity',
         allow_download: true,
         csv_options: { separator: ',', delimiter: '"' },
         datatables_options: { "paging": true },
-        custom_formatting: [[2, format_link]]
+        custom_formatting: [[8, format_link],[9,format_link]]
       });
 
       CsvToHtmlTable.init({
-        csv_path: 'twittter/recentpost/MachineLearning.csv',
+        csv_path: 'twitter/recentpost/MachineLearning.csv',
         element: 'recent-MachineLearning',
         allow_download: true,
         csv_options: { separator: ',', delimiter: '"' },
         datatables_options: { "paging": true },
-        custom_formatting: [[2, format_link]]
+        custom_formatting: [[8, format_link],[9,format_link]]
       });
 
       CsvToHtmlTable.init({
-        csv_path: 'twittter/recentpost/NeuralNetworks.csv',
+        csv_path: 'twitter/recentpost/NeuralNetworks.csv',
         element: 'recent-NeuralNetworks',
         allow_download: true,
         csv_options: { separator: ',', delimiter: '"' },
         datatables_options: { "paging": true },
-        custom_formatting: [[8, format_link]]
+        custom_formatting: [[8, format_link],[9,format_link]]
       });
+
+    // Twitter (Top Posts)
+    CsvToHtmlTable.init({
+        csv_path: 'twitter/toppost/100DaysOfCode.csv',
+        element: 'top-100DaysOfCode',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      CsvToHtmlTable.init({
+        csv_path: 'twitter/toppost/ArtificialIntelligence.csv',
+        element: 'top-ArtificialIntelligence',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      CsvToHtmlTable.init({
+        csv_path: 'twitter/toppost/DataScience.csv',
+        element: 'top-DataScience',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      CsvToHtmlTable.init({
+        csv_path: 'twitter/toppost/DeepLearning.csv',
+        element: 'top-DeepLearning',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      CsvToHtmlTable.init({
+        csv_path: 'twitter/toppost/DEVCommunity.csv',
+        element: 'top-DEVCommunity',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      CsvToHtmlTable.init({
+        csv_path: 'twitter/toppost/MachineLearning.csv',
+        element: 'top-MachineLearning',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      CsvToHtmlTable.init({
+        csv_path: 'twitter/toppost/NeuralNetworks.csv',
+        element: 'top-NeuralNetworks',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      // Github
+    CsvToHtmlTable.init({
+        csv_path: 'github/github-csharp.csv',
+        element: 'github-csharp',
+        allow_download: true,
+        csv_options: { separator: ',', delimiter: '"' },
+        datatables_options: { "paging": true },
+        custom_formatting: [[8, format_link],[9,format_link]]
+      });
+
+      
     </script>
 
 </body>
