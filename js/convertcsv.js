@@ -39,10 +39,14 @@ CsvToHtmlTable = {
                     for (var colIdx = 0; colIdx < csvData[rowIdx].length; colIdx++) {
                         var $tableBodyRowTd = $("<td></td>");
                         var cellTemplateFunc = customTemplates[colIdx];
+                        var rowData = csvData[rowIdx][colIdx];
                         if (cellTemplateFunc) {
-                            $tableBodyRowTd.html(cellTemplateFunc(csvData[rowIdx][colIdx]));
+                            $tableBodyRowTd.html(cellTemplateFunc(rowData));
                         } else {
-                            $tableBodyRowTd.text(csvData[rowIdx][colIdx]);
+                            if (rowData.length > 25) {
+                                rowData = rowData.substring(0, 25) + '...';
+                            }
+                            $tableBodyRowTd.text(rowData);
                         }
                         $tableBodyRow.append($tableBodyRowTd);
                         $tableBody.append($tableBodyRow);

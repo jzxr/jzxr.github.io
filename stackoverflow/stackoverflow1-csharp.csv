@@ -1,0 +1,51 @@
+,title,url,views,votes
+44,always round to 2 decimals using math.round in c# [closed],/questions/66314126/always-round-to-2-decimals-using-math-round-in-c-sharp,51,0
+32,Convert Json String to Datatable in C#,/questions/66314536/convert-json-string-to-datatable-in-c-sharp,39,-1
+47,Why string doesn't have a Equal method that takes a culture parameter? [closed],/questions/66313908/why-string-doesnt-have-a-equal-method-that-takes-a-culture-parameter,38,-4
+15,Compare string to List of strings ignoring case using Linq [duplicate],/questions/66315328/compare-string-to-list-of-strings-ignoring-case-using-linq,37,0
+22,Is it possible to start the program on a non-static method?,/questions/66314958/is-it-possible-to-start-the-program-on-a-non-static-method,35,1
+21,Check if char has no numbers from 0-9,/questions/66314961/check-if-char-has-no-numbers-from-0-9,35,-2
+33,How to fill a datagridView with my StoredProcedure on load,/questions/66314486/how-to-fill-a-datagridview-with-my-storedprocedure-on-load,33,0
+45,Chess Game with no default piece positions to start the game C# [closed],/questions/66314040/chess-game-with-no-default-piece-positions-to-start-the-game-c-sharp,30,-2
+6,How can I set response header in httpclient in C#?,/questions/66315649/how-can-i-set-response-header-in-httpclient-in-c,27,0
+8,Get the values of a custom control,/questions/66315549/get-the-values-of-a-custom-control,27,0
+18,"C# asp.net core webapi throwing ""The JSON value could not be converted to System.Nullable`1[System.DateTime]",/questions/66315073/c-sharp-asp-net-core-webapi-throwing-the-json-value-could-not-be-converted-to-s,25,-3
+42,Unnecessary using statements on IDisposable objects [closed],/questions/66314188/unnecessary-using-statements-on-idisposable-objects,24,0
+28,C# - Unity - Problem with Parameter passing,/questions/66314732/c-sharp-unity-problem-with-parameter-passing,23,0
+25,How to make the Rx callbacks run on the ThreadPool?,/questions/66314910/how-to-make-the-rx-callbacks-run-on-the-threadpool,22,1
+13,Thread.Join method does not always return the same value when the thread has already terminated (.NET 5 / Core),/questions/66315427/thread-join-method-does-not-always-return-the-same-value-when-the-thread-has-alr,20,3
+16,Turning off Virus and Threat Protection programmatically even when the Tamper Protection is turned on,/questions/66315302/turning-off-virus-and-threat-protection-programmatically-even-when-the-tamper-pr,20,-1
+36,How to make VS code support unity statements,/questions/66314310/how-to-make-vs-code-support-unity-statements,20,-2
+48,Whats the correct way to get output for this Powershell in C#,/questions/66313904/whats-the-correct-way-to-get-output-for-this-powershell-in-c-sharp,20,0
+40,C# HwndSource Capture Mouse Events and Keyboard strokes,/questions/66314203/c-sharp-hwndsource-capture-mouse-events-and-keyboard-strokes,19,0
+39,How to configure my packages or NuGet itself to automatically resolve dependencies to the lastest version in a configured range?,/questions/66314251/how-to-configure-my-packages-or-nuget-itself-to-automatically-resolve-dependenci,19,0
+12,Redirect to URL with POST method in Asp.Net Core3.1,/questions/66315437/redirect-to-url-with-post-method-in-asp-net-core3-1,18,0
+2,Repeat Text X Amount with New Numbers Each Time,/questions/66315780/repeat-text-x-amount-with-new-numbers-each-time,17,-1
+37,Custom DisplayMemberPath from multiple fields [duplicate],/questions/66314271/custom-displaymemberpath-from-multiple-fields,17,0
+14,Strange behavior with RegexOptions.IgnoreCase [duplicate],/questions/66315394/strange-behavior-with-regexoptions-ignorecase,17,0
+38,Genrate signed ads for SKAdnetwork in c# .net,/questions/66314260/genrate-signed-ads-for-skadnetwork-in-c-sharp-net,15,0
+19,Generic JSON API Response Handler that can work with different response format in C#,/questions/66315024/generic-json-api-response-handler-that-can-work-with-different-response-format-i,13,0
+11,Prevent IDE0055 style analyzer when aligning code with spaces,/questions/66315458/prevent-ide0055-style-analyzer-when-aligning-code-with-spaces,13,2
+46,System.AggregateException: 'One or more errors occurred.' [closed],/questions/66314020/system-aggregateexception-one-or-more-errors-occurred,12,-1
+30,link progress bar with value in function during function execution,/questions/66314679/link-progress-bar-with-value-in-function-during-function-execution,11,0
+34,Is it possible to commit a read only field using EF to the database in Cosmos?,/questions/66314440/is-it-possible-to-commit-a-read-only-field-using-ef-to-the-database-in-cosmos,11,0
+23,DotSpatial (C#) re-projections - 'InitializeExternalGrids' causes .Net to 'freeze',/questions/66314953/dotspatial-c-re-projections-initializeexternalgrids-causes-net-to-freez,11,0
+27,The problem of changes to a table with several different events (RabbitMQ) in a service and in ASP Core,/questions/66314760/the-problem-of-changes-to-a-table-with-several-different-events-rabbitmq-in-a,10,-1
+3,Xamarin.Forms Android Error after update to Xamarin.Forms 5.0 and Android 10,/questions/66315752/xamarin-forms-android-error-after-update-to-xamarin-forms-5-0-and-android-10,10,0
+17,Required service for type RootQuery not found in ASP.NET Core GraphQL,/questions/66315086/required-service-for-type-rootquery-not-found-in-asp-net-core-graphql,10,0
+41,possible to have sub-headers in objectlistview?,/questions/66314200/possible-to-have-sub-headers-in-objectlistview,9,-1
+49,How would I make a highlight button animation with LeanTween,/questions/66313748/how-would-i-make-a-highlight-button-animation-with-leantween,9,-1
+35,"How can I do Assertion in xunit tests “ Activation profile(s) of id(s) 416,417 deleted”? [closed]",/questions/66314419/how-can-i-do-assertion-in-xunit-tests-activation-profiles-of-ids-416-417-d,9,-2
+29,How to get git branch information about each of commit by using 'LibGit2sharp',/questions/66314728/how-to-get-git-branch-information-about-each-of-commit-by-using-libgit2sharp,9,0
+24,Selenium Chrome Web Driver & C# -> Problem with scheduling Program,/questions/66314939/selenium-chrome-web-driver-c-sharp-problem-with-scheduling-program,9,0
+1,Windows Form Text_Leave Message Sender Return Null,/questions/66315883/windows-form-text-leave-message-sender-return-null,8,0
+20,How to add git sub-module in a repo using LibGit2sharp,/questions/66314971/how-to-add-git-sub-module-in-a-repo-using-libgit2sharp,8,0
+43,How to make a character with legs walk using script (unity 2d),/questions/66314186/how-to-make-a-character-with-legs-walk-using-script-unity-2d,8,-1
+10,How to rotate texture on cube in OpenGL,/questions/66315492/how-to-rotate-texture-on-cube-in-opengl,7,0
+9,How to import a bacpac file to Sql Server by a stream,/questions/66315507/how-to-import-a-bacpac-file-to-sql-server-by-a-stream,7,-1
+7,Xamarin.Forms Image not showing from Source,/questions/66315551/xamarin-forms-image-not-showing-from-source,7,0
+5,DataProtectionProvider.UnprotectAsync(IBuffer) throws a ASN-1 error,/questions/66315689/dataprotectionprovider-unprotectasyncibuffer-throws-a-asn-1-error,7,0
+0,C# 4 tasks with parsing json?,/questions/66315960/c-sharp-4-tasks-with-parsing-json,7,0
+26,Cant add wmp.dll reference to C# .Net Core project,/questions/66314870/cant-add-wmp-dll-reference-to-c-sharp-net-core-project,6,0
+4,Bold font in specific dataGridView rows,/questions/66315731/bold-font-in-specific-datagridview-rows,5,0
+31,How to filter a specific colour with AForge,/questions/66314601/how-to-filter-a-specific-colour-with-aforge,4,0

@@ -33,50 +33,97 @@
     <br />
     <h2>Reddit</h2>
     <ul class="nav nav-tabs" role="tablist">
-      <li role = "presentation" class="active">
-        <a href="#tab-table1" role = "tab" data-toggle="tab">C</a>
+      <li role="presentation" class="active">
+        <a href="#tab-table1" role="tab" data-toggle="tab">C</a>
       </li>
-      <li role = "presentation">
-        <a href="#tab-table2" role = "tab" data-toggle="tab">C#</a>
+      <li role="presentation">
+        <a href="#tab-table2" role="tab" data-toggle="tab">C#</a>
       </li>
-      <li role = "presentation">
-        <a href="#tab-table3" role = "tab" data-toggle="tab">HTML</a>
+      <li role="presentation">
+        <a href="#tab-table3" role="tab" data-toggle="tab">HTML</a>
       </li>
-      <li role = "presentation">
-        <a href="#tab-table4" role = "tab" data-toggle="tab">Java</a>
+      <li role="presentation">
+        <a href="#tab-table4" role="tab" data-toggle="tab">Java</a>
       </li>
-      <li role = "presentation">
-        <a href="#tab-table5" role = "tab" data-toggle="tab">Javascript</a>
+      <li role="presentation">
+        <a href="#tab-table5" role="tab" data-toggle="tab">Javascript</a>
       </li>
-      <li role = "presentation">
-        <a href="#tab-table6" role = "tab" data-toggle="tab">Python</a>
+      <li role="presentation">
+        <a href="#tab-table6" role="tab" data-toggle="tab">Python</a>
       </li>
-      <li role = "presentation">
-        <a href="#tab-table7" role = "tab" data-toggle="tab">R Programming</a>
+      <li role="presentation">
+        <a href="#tab-table7" role="tab" data-toggle="tab">R Programming</a>
       </li>
     </ul>
     <div class="tab-content">
       <div role="tabpanel" class="tab-pane active" id="tab-table1">
-        <div id='cprogramming'></div>
+        <div id='reddit-cprogramming'></div>
       </div>
       <div role="tabpanel" class="tab-pane " id="tab-table2">
-        <div id='csharp' ></div>
+        <div id='reddit-csharp'></div>
       </div>
       <div role="tabpanel" class="tab-pane " id="tab-table3">
-        <div id='html' ></div>
+        <div id='reddit-html'></div>
       </div>
       <div role="tabpanel" class="tab-pane " id="tab-table4">
-        <div id='java' ></div>
+        <div id='reddit-java'></div>
       </div>
       <div role="tabpanel" class="tab-pane " id="tab-table5">
-        <div id='javascript'></div>
+        <div id='reddit-javascript'></div>
       </div>
       <div role="tabpanel" class="tab-pane " id="tab-table6">
-        <div id='python' ></div>
+        <div id='reddit-python'></div>
       </div>
       <div role="tabpanel" class="tab-pane " id="tab-table7">
-        <div id='rprogramming' ></div>
-        </div>
+        <div id='reddit-rprogramming'></div>
+      </div>
+
+      <h2>Stack Overflow</h2>
+    <ul class="nav nav-tabs" role="tablist">
+      <li role="presentation" class="active">
+        <a href="#tab-table8" role="tab" data-toggle="tab">C</a>
+      </li>
+      <li role="presentation">
+        <a href="#tab-table9" role="tab" data-toggle="tab">C#</a>
+      </li>
+      <li role="presentation">
+        <a href="#tab-table10" role="tab" data-toggle="tab">HTML</a>
+      </li>
+      <li role="presentation">
+        <a href="#tab-table11" role="tab" data-toggle="tab">Java</a>
+      </li>
+      <li role="presentation">
+        <a href="#tab-table12" role="tab" data-toggle="tab">Javascript</a>
+      </li>
+      <li role="presentation">
+        <a href="#tab-table13" role="tab" data-toggle="tab">Python</a>
+      </li>
+      <li role="presentation">
+        <a href="#tab-table14" role="tab" data-toggle="tab">R Programming</a>
+      </li>
+    </ul>
+    <div class="tab-content">
+      <!-- <div role="tabpanel" class="tab-pane active" id="tab-table8">
+        <div id='stackoverflow-cprogramming'></div>
+      </div> -->
+      <div role="tabpanel" class="tab-pane active" id="tab-table9">
+        <div id='stackoverflow-csharp'></div>
+      </div>
+      <div role="tabpanel" class="tab-pane " id="tab-table10">
+        <div id='stackoverflow-html'></div>
+      </div>
+      <div role="tabpanel" class="tab-pane " id="tab-table11">
+        <div id='stackoverflow-java'></div>
+      </div>
+      <div role="tabpanel" class="tab-pane " id="tab-table12">
+        <div id='stackoverflow-javascript'></div>
+      </div>
+      <div role="tabpanel" class="tab-pane " id="tab-table13">
+        <div id='stackoverflow-python'></div>
+      </div>
+      <div role="tabpanel" class="tab-pane " id="tab-table14">
+        <div id='stackoverflow-rprogramming'></div>
+      </div>
     </div>
 
   </div><!-- /.container -->
@@ -97,86 +144,136 @@
   <script type="text/javascript">
     function format_link(link) {
       if (link)
-        return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+        return "<a href='" + link + "' target='_blank'>" + "URL Link" + "</a>";
       else
         return "";
     }
-
+    //Reddit
     CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-c_programming.csv',
-      element: 'cprogramming',
+      element: 'reddit-cprogramming',
       allow_download: true,
       csv_options: { separator: ',', delimiter: '"' },
       datatables_options: { "paging": true },
-      //datatables_options: { "scrollY": 200 },
-
       custom_formatting: [[3, format_link]]
     });
 
     CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-csharp.csv',
-      element: 'csharp',
+      element: 'reddit-csharp',
       allow_download: true,
       csv_options: { separator: ',', delimiter: '"' },
       datatables_options: { "paging": true },
-      //datatables_options: { "scrollY": 200 },
-
       custom_formatting: [[3, format_link]]
     });
 
     CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-html.csv',
-      element: 'html',
+      element: 'reddit-html',
       allow_download: true,
       csv_options: { separator: ',', delimiter: '"' },
       datatables_options: { "paging": true },
-      //datatables_options: { "scrollY": 200 },
-
       custom_formatting: [[3, format_link]]
     });
 
     CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-java.csv',
-      element: 'java',
+      element: 'reddit-java',
       allow_download: true,
       csv_options: { separator: ',', delimiter: '"' },
       datatables_options: { "paging": true },
-      //datatables_options: { "scrollY": 200 },
-
       custom_formatting: [[3, format_link]]
     });
 
     CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-javascript.csv',
-      element: 'javascript',
+      element: 'reddit-javascript',
       allow_download: true,
       csv_options: { separator: ',', delimiter: '"' },
       datatables_options: { "paging": true },
-      //datatables_options: { "scrollY": 200 },
-
       custom_formatting: [[3, format_link]]
     });
 
     CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-Python.csv',
-      element: 'python',
+      element: 'reddit-python',
       allow_download: true,
       csv_options: { separator: ',', delimiter: '"' },
       datatables_options: { "paging": true },
-      //datatables_options: { "scrollY": 200 },
-
       custom_formatting: [[3, format_link]]
     });
 
     CsvToHtmlTable.init({
       csv_path: 'reddit/reddit1-rprogramming.csv',
-      element: 'rprogramming',
+      element: 'reddit-rprogramming',
       allow_download: true,
       csv_options: { separator: ',', delimiter: '"' },
       datatables_options: { "paging": true },
-
-
       custom_formatting: [[3, format_link]]
+    });
+
+    //Stackoverflow
+    // CsvToHtmlTable.init({
+    //   csv_path: 'stackoverflow/stackoverflow-c_programming.csv',
+    //   element: 'stackoverflow-cprogramming',
+    //   allow_download: true,
+    //   csv_options: { separator: ',', delimiter: '"' },
+    //   datatables_options: { "paging": true },
+    //   custom_formatting: [[3, format_link]]
+    // });
+
+    CsvToHtmlTable.init({
+      csv_path: 'stackoverflow/stackoverflow1-csharp.csv',
+      element: 'stackoverflow-csharp',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      custom_formatting: [[2, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'stackoverflow/stackoverflow1-html.csv',
+      element: 'stackoverflow-html',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      custom_formatting: [[2, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'stackoverflow/stackoverflow1-java.csv',
+      element: 'stackoverflow-java',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      custom_formatting: [[2, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'stackoverflow/stackoverflow1-javascript.csv',
+      element: 'stackoverflow-javascript',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      custom_formatting: [[2, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'stackoverflow/stackoverflow1-Python.csv',
+      element: 'stackoverflow-python',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      custom_formatting: [[2, format_link]]
+    });
+
+    CsvToHtmlTable.init({
+      csv_path: 'stackoverflow/stackoverflow1-rprogramming.csv',
+      element: 'stackoverflow-rprogramming',
+      allow_download: true,
+      csv_options: { separator: ',', delimiter: '"' },
+      datatables_options: { "paging": true },
+      custom_formatting: [[2, format_link]]
     });
   </script>
 
