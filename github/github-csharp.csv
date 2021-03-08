@@ -1,31 +1,31 @@
 ,Repository Name,Repository Description,Repository Stars,Repository Programming Language,Repository Other Language,Repository URL
-0,SharpSCADA,C# SCADA,1823,C#,"{'C#': 99.99, 'Batchfile': 0.01}",https://github.com/GavinYellow/SharpSCADA
-1,websocket-sharp,A C# implementation of the WebSocket protocol client and server,4025,C#,"{'C#': 99.78, 'JavaScript': 0.14, 'Shell': 0.06, 'HTML': 0.02}",https://github.com/sta/websocket-sharp
-2,C-Sharp,All algorithms implemented in C#.,2290,C#,{'C#': 100.0},https://github.com/TheAlgorithms/C-Sharp
-3,C-Sharp-Algorithms,:books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#,4181,C#,"{'C#': 99.98, 'Batchfile': 0.02}",https://github.com/aalhour/C-Sharp-Algorithms
-4,CefSharp,.NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework,7770,C#,"{'C#': 80.54, 'C++': 13.52, 'HTML': 3.19, 'CSS': 1.72, 'PowerShell': 0.61, 'JavaScript': 0.41, 'C': 0.01, 'Batchfile': 0.01}",https://github.com/cefsharp/CefSharp
-5,SharpZipLib,"#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.",2562,C#,"{'C#': 99.35, 'PowerShell': 0.55, 'Batchfile': 0.09}",https://github.com/icsharpcode/SharpZipLib
-6,CppSharp,Tools and libraries to glue C/C++ APIs to high-level languages,2013,C#,"{'C#': 83.29, 'C++': 16.24, 'Lua': 0.3, 'JavaScript': 0.06, 'Shell': 0.04, 'C': 0.04, 'TypeScript': 0.01, 'CMake': 0.0, 'PowerShell': 0.0}",https://github.com/mono/CppSharp
-7,SharpSploit, SharpSploit is a .NET post-exploitation library written in C#,1135,C#,{'C#': 100.0},https://github.com/cobbr/SharpSploit
-8,SharpBrowser,A full featured web-browser built using C# and CefSharp,487,C#,"{'C#': 73.9, 'CSS': 20.73, 'HTML': 5.37}",https://github.com/sharpbrowser/SharpBrowser
-9,SharpNav,Advanced Pathfinding for C#,418,C#,"{'C#': 99.37, 'Shell': 0.43, 'PowerShell': 0.2}",https://github.com/Robmaister/SharpNav
-10,sharpcompress,SharpCompress is a fully managed C# library to deal with many compression types and formats.,1391,C#,"{'C#': 71.55, 'C++': 27.3, 'HTML': 1.02, 'Makefile': 0.13}",https://github.com/adamhathcock/sharpcompress
-11,SharpHound,The Old BloodHound C# Ingestor (Deprecated),494,C#,"{'C#': 95.84, 'PowerShell': 4.16}",https://github.com/BloodHoundAD/SharpHound
-12,Sharp-Suite,My musings with C#,659,C#,{'C#': 100.0},https://github.com/FuzzySecurity/Sharp-Suite
-13,EnsageSharp,c#,89,C#,{'C#': 100.0},https://github.com/JumpAttacker/EnsageSharp
-14,SharpUp,SharpUp is a C# port of various PowerUp functionality.,457,C#,{'C#': 100.0},https://github.com/GhostPack/SharpUp
-15,AsyncRAT-C-Sharp,Open-Source Remote Administration Tool For Windows C# (RAT),811,C#,"{'C#': 99.99, 'Batchfile': 0.01}",https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
-16,SharpView,C# implementation of harmj0y's PowerView,418,C#,{'C#': 100.0},https://github.com/tevora-threat/SharpView
-17,SharpWMI,SharpWMI is a C# implementation of various WMI functionality.,441,C#,{'C#': 100.0},https://github.com/GhostPack/SharpWMI
-18,SharpRepository,"C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.",511,C#,"{'C#': 96.24, 'HTML': 2.78, 'JavaScript': 0.79, 'CSS': 0.19, 'ASP': 0.01}",https://github.com/SharpRepository/SharpRepository
-19,SharpLearning,Machine learning for C# .Net  ,292,C#,"{'C#': 99.93, 'PowerShell': 0.06, 'Batchfile': 0.0}",https://github.com/mdabros/SharpLearning
-20,SharpDPAPI,SharpDPAPI is a C# port of some Mimikatz DPAPI functionality.,415,C#,{'C#': 100.0},https://github.com/GhostPack/SharpDPAPI
-21,SharpNeedle,Inject C# code into a running process,301,C++,"{'C++': 86.51, 'C#': 7.88, 'C': 5.61}",https://github.com/ChadSki/SharpNeedle
-22,InstaSharp,A c# wrapper for the Instagram API,201,C#,"{'C#': 99.26, 'HTML': 0.67, 'ASP': 0.07}",https://github.com/InstaSharp/InstaSharp
-23,SharpDump,SharpDump is a C# port of PowerSploit's Out-Minidump.ps1 functionality.,438,C#,{'C#': 100.0},https://github.com/GhostPack/SharpDump
-24,ConvNetSharp,Deep Learning in C#,390,C#,"{'C#': 98.47, 'Cuda': 1.26, 'Batchfile': 0.27}",https://github.com/cbovar/ConvNetSharp
-25,BotSharp,The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.,1093,C#,"{'C#': 99.66, 'Dockerfile': 0.33, 'CSS': 0.02}",https://github.com/SciSharp/BotSharp
-26,RiotSharp,C# wrapper for the Riot Games API,247,C#,{'C#': 100.0},https://github.com/BenFradet/RiotSharp
-27,SharpKit,C# to JavaScript Compiler,147,C#,"{'C#': 99.2, 'Batchfile': 0.4, 'PowerShell': 0.19, 'Makefile': 0.12, 'HTML': 0.04, 'Shell': 0.03, 'JavaScript': 0.02}",https://github.com/SharpKit/SharpKit
-28,C-Sharp-Promise,Promises library for C# for management of asynchronous operations.,861,C#,{'C#': 100.0},https://github.com/Real-Serious-Games/C-Sharp-Promise
-29,c-sharp,"PubNub clients for C-Sharp based languages, including MS Windows C#/.net, Silveright, IIS, and Mono",92,C#,{'C#': 100.0},https://github.com/pubnub/c-sharp
+0,shadowsocksr-csharp,,837,C#,"{'C#': 99.98, 'Shell': 0.02}",https://github.com/shadowsocksr-rm/shadowsocksr-csharp
+1,shadowsocksr-csharp,,4411,C#,"{'C#': 99.98, 'Shell': 0.02}",https://github.com/shadowsocksr-backup/shadowsocksr-csharp
+2,csharplang,The official repo for the design of the C# programming language,6673,C#,{'C#': 100.0},https://github.com/dotnet/csharplang
+3,csharp,Work In Progress,491,C#,"{'C#': 99.92, 'Shell': 0.07, 'Batchfile': 0.01}",https://github.com/kubernetes-client/csharp
+4,csharp,Exercism exercises in C#.,167,C#,"{'C#': 98.26, 'PowerShell': 1.56, 'Shell': 0.1, 'Liquid': 0.08}",https://github.com/exercism/csharp
+5,Entitas-CSharp,Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity,4905,C#,"{'C#': 99.2, 'Shell': 0.8}",https://github.com/sschmid/Entitas-CSharp
+6,CSharpGuidelines,"A set of coding guidelines for C# 5.0, C# 6.0 and C# 7.0, design principles and layout rules for improving the overall quality of your code development. ",564,HTML,"{'HTML': 45.13, 'JavaScript': 28.22, 'CSS': 16.32, 'PowerShell': 8.74, 'Ruby': 1.47, 'Batchfile': 0.11}",https://github.com/dennisdoomen/CSharpGuidelines
+7,mongo-csharp-driver,.NET Driver for MongoDB,2572,C#,"{'C#': 97.95, 'Visual Basic .NET': 1.76, 'Shell': 0.11, 'Python': 0.05, 'Perl': 0.05, 'PowerShell': 0.05, 'JavaScript': 0.04, 'Makefile': 0.0}",https://github.com/mongodb/mongo-csharp-driver
+8,csharp,,162,C#,"{'C#': 99.8, 'Objective-C': 0.11, 'C++': 0.09, 'Shell': 0.0}",https://github.com/micros-uz/csharp
+9,CSharpGL,:green_apple:Object Oriented OpenGL in C#.,454,C#,"{'C#': 92.29, 'C': 4.8, 'Smalltalk': 2.48, 'C++': 0.37, 'GLSL': 0.07, 'Batchfile': 0.0}",https://github.com/bitzhuwei/CSharpGL
+10,CSharpFunctionalExtensions,Functional extensions for C#,1024,C#,"{'C#': 99.76, 'Dockerfile': 0.24}",https://github.com/vkhorikov/CSharpFunctionalExtensions
+11,sendgrid-csharp,"The Official Twilio SendGrid Led, Community Driven C#, .NetStandard, .NetCore API Library",833,C#,"{'C#': 96.04, 'JavaScript': 2.01, 'HTML': 0.99, 'ASP.NET': 0.57, 'CSS': 0.2, 'Dockerfile': 0.1, 'Makefile': 0.09}",https://github.com/sendgrid/sendgrid-csharp
+12,FuelSDK-CSharp,FuelSDK-CSharp,43,C#,"{'C#': 99.95, 'Batchfile': 0.05}",https://github.com/salesforce-marketingcloud/FuelSDK-CSharp
+13,MessagePack-CSharp,"Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",3207,C#,"{'C#': 98.72, 'PowerShell': 1.08, 'Batchfile': 0.1, 'Shell': 0.1}",https://github.com/neuecc/MessagePack-CSharp
+14,CSharpVerbalExpressions,,1070,C#,{'C#': 100.0},https://github.com/VerbalExpressions/CSharpVerbalExpressions
+15,agile-tickets-csharp,csharp version,34,JavaScript,"{'JavaScript': 96.41, 'C#': 3.58, 'ASP': 0.01}",https://github.com/caelum/agile-tickets-csharp
+16,bc-csharp,Bouncy Castle C# Distribution (Mirror),844,C#,"{'C#': 99.95, 'HTML': 0.05}",https://github.com/bcgit/bc-csharp
+17,PowerBI-CSharp,Welcome to the .NET developer community for Power BI. Here you will find resources for the .NET SDKs for Power BI Embedded V2.0.0,450,C#,"{'C#': 99.74, 'Batchfile': 0.13, 'PowerShell': 0.13}",https://github.com/microsoft/PowerBI-CSharp
+18,CSharpScripts,Collection of C# scripts,256,C#,{'C#': 100.0},https://github.com/Arno0x/CSharpScripts
+19,facebook-csharp-sdk,Facebook SDK for .NET,851,C#,"{'C#': 97.45, 'JavaScript': 2.52, 'Batchfile': 0.03}",https://github.com/facebook-csharp-sdk/facebook-csharp-sdk
+20,CSharp-GradeBookApplication,Project to add features to an existing C Sharp Grade Book Application.,26,C#,"{'C#': 99.75, 'Dockerfile': 0.25}",https://github.com/pluralsight-projects/CSharp-GradeBookApplication
+21,CSharpClient-for-Kafka,.Net implementation of the Apache Kafka Protocol that provides basic functionality through Producer/Consumer classes. The project also offers balanced consumer implementation.,455,C#,{'C#': 100.0},https://github.com/microsoft/CSharpClient-for-Kafka
+22,CSharp,C# : Test-Driven Learning,148,C#,{'C#': 100.0},https://github.com/MartinChavez/CSharp
+23,twilio-csharp,Twilio C#/.NET Helper Library for .NET Framework 3.5+ and supported .NET Core versions,541,C#,"{'C#': 99.99, 'Dockerfile': 0.01, 'Makefile': 0.01}",https://github.com/twilio/twilio-csharp
+24,my-Little-Ransomware,easy ransomware module base on csharp.,107,C#,{'C#': 100.0},https://github.com/aaaddress1/my-Little-Ransomware
+25,mongodb-csharp,A driver written in c# to connect to the MongoDB document oriented database.,575,C#,"{'C#': 99.66, 'Visual Basic': 0.34}",https://github.com/samus/mongodb-csharp
+26,CSharpBP-Basics,"Materials for the ""C# Best Practices: Improving on the Basics"" course",102,C#,{'C#': 100.0},https://github.com/DeborahK/CSharpBP-Basics
+27,azure-iot-sdk-csharp,A C# SDK for connecting devices to Microsoft Azure IoT services,344,C#,"{'C#': 98.44, 'PowerShell': 1.44, 'Shell': 0.08, 'Batchfile': 0.04}",https://github.com/Azure/azure-iot-sdk-csharp
+28,sdk-csharp,CSharp SDK for CloudEvents,92,C#,{'C#': 100.0},https://github.com/cloudevents/sdk-csharp
+29,csharp-driver,DataStax C# Driver for Apache Cassandra,475,C#,"{'C#': 99.64, 'XSLT': 0.23, 'PowerShell': 0.13, 'Shell': 0.0, 'Batchfile': 0.0}",https://github.com/datastax/csharp-driver
