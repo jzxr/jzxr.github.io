@@ -1,0 +1,51 @@
+,Title,URL,Views,Votes
+34,How to convert string to time string C#,/questions/66557872/how-to-convert-string-to-time-string-c-sharp,44,-1
+24,Async skips execution in the middle of method [duplicate],/questions/66558542/async-skips-execution-in-the-middle-of-method,43,2
+49,Why the result of the RSA encryption in C# is different from JavaScript？,/questions/66556877/why-the-result-of-the-rsa-encryption-in-c-sharp-is-different-from-javascript,37,0
+43,How to check if file exist after saved it?,/questions/66557334/how-to-check-if-file-exist-after-saved-it,33,0
+33,Insert a new line break in a single string in c# code [closed],/questions/66557995/insert-a-new-line-break-in-a-single-string-in-c-sharp-code,30,-2
+41,Replace 1 line in text file Linq c#,/questions/66557610/replace-1-line-in-text-file-linq-c-sharp,30,0
+40,Why aren't arrays able to have their memory region resized? [closed],/questions/66557626/why-arent-arrays-able-to-have-their-memory-region-resized,29,-1
+45,What do I technically get from defining the flag `AB = A | B` in a flag enum? [duplicate],/questions/66557159/what-do-i-technically-get-from-defining-the-flag-ab-a-b-in-a-flag-enum,28,-2
+18,cannot convert from 'double' to 'System.ReadOnlySpan<char>' error when trying to use `TryParse`,/questions/66558891/cannot-convert-from-double-to-system-readonlyspanchar-error-when-trying-to,26,-3
+44,How to make current date as the parameter instead of directly using it in postgresql?,/questions/66557283/how-to-make-current-date-as-the-parameter-instead-of-directly-using-it-in-postgr,23,0
+42,How do I count documents with a filter in mongodb from c#,/questions/66557553/how-do-i-count-documents-with-a-filter-in-mongodb-from-c-sharp,23,0
+5,How to convert this python code to c# code [closed],/questions/66559428/how-to-convert-this-python-code-to-c-sharp-code,22,-6
+48,C# to get database and collection in cosmos db sql api,/questions/66557050/c-sharp-to-get-database-and-collection-in-cosmos-db-sql-api,21,0
+23,setting player go.transform.position not changing position,/questions/66558629/setting-player-go-transform-position-not-changing-position,21,2
+35,How to create a class from JWT decode token,/questions/66557852/how-to-create-a-class-from-jwt-decode-token,21,-1
+26,Convert multiline text into List every Xth line in WPF,/questions/66558514/convert-multiline-text-into-list-every-xth-line-in-wpf,20,1
+30,How to Modify oauth Response?,/questions/66558144/how-to-modify-oauth-response,20,0
+21,C# LINQ filter results based on property filed exist and value match,/questions/66558670/c-sharp-linq-filter-results-based-on-property-filed-exist-and-value-match,19,3
+27,"How to create multipart/form-data which contains json and binary image data, then serialize it and pass it to IntPtr?",/questions/66558295/how-to-create-multipart-form-data-which-contains-json-and-binary-image-data-the,19,0
+28,Why GetInvocationList() creates a new array rather than return existing array? [duplicate],/questions/66558281/why-getinvocationlist-creates-a-new-array-rather-than-return-existing-array,19,-1
+13,"Cannot create a migration, or run a migration on my computer",/questions/66559045/cannot-create-a-migration-or-run-a-migration-on-my-computer,18,2
+46,Entity Framework Core: multiple relationships to one table of base type,/questions/66557110/entity-framework-core-multiple-relationships-to-one-table-of-base-type,18,0
+39,Is snowflake net connector thread safe?,/questions/66557662/is-snowflake-net-connector-thread-safe,17,-1
+37,Trying to manage a Service-based Database in C# WPF,/questions/66557717/trying-to-manage-a-service-based-database-in-c-sharp-wpf,17,0
+31,Show the image by image name in WPF C# apps,/questions/66558111/show-the-image-by-image-name-in-wpf-c-sharp-apps,15,-2
+6,"To repeatedly prompt for a number and sum it. When the sum just exceeds 100, stop the prompting and display the average of numbers at the end",/questions/66559405/to-repeatedly-prompt-for-a-number-and-sum-it-when-the-sum-just-exceeds-100-sto,15,-1
+12,C# Binding between two objects is not working . Why? [duplicate],/questions/66559136/c-sharp-binding-between-two-objects-is-not-working-why,14,0
+8,How can I deserialize this JSON to C# class [duplicate],/questions/66559329/how-can-i-deserialize-this-json-to-c-sharp-class,14,0
+19,How can i login to an Azure Database if i dont even have any credentials yet using c#?,/questions/66558867/how-can-i-login-to-an-azure-database-if-i-dont-even-have-any-credentials-yet-usi,13,0
+14,Newtonsoft.Json.JsonTextReader After parsing a value an unexpected character was encountered:,/questions/66559031/newtonsoft-json-jsontextreader-after-parsing-a-value-an-unexpected-character-was,12,0
+47,Display by date not by workweek MYSQL C#,/questions/66557094/display-by-date-not-by-workweek-mysql-c-sharp,12,0
+25,Unity Scriptable Object change field's type to new type based on another fields value,/questions/66558538/unity-scriptable-object-change-fields-type-to-new-type-based-on-another-fields,11,0
+29,Full Screen blur in WPF using Windows.UI.Composition API,/questions/66558158/full-screen-blur-in-wpf-using-windows-ui-composition-api,11,-2
+10,How do I connect to the https web with an http proxy?,/questions/66559271/how-do-i-connect-to-the-https-web-with-an-http-proxy,11,0
+15,Is web application development more difficult than video game development?,/questions/66559027/is-web-application-development-more-difficult-than-video-game-development,9,0
+2,How can i send important whats app message to 10 contact? [closed],/questions/66559540/how-can-i-send-important-whats-app-message-to-10-contact,9,0
+36,How to import specific excel range to datagridview,/questions/66557841/how-to-import-specific-excel-range-to-datagridview,9,0
+22,Obtain network location description of laptop/pc using asp.net,/questions/66558657/obtain-network-location-description-of-laptop-pc-using-asp-net,8,1
+20,“No such alert” - error for authentication prompt application in c# selenium chromedriver,/questions/66558790/no-such-alert-error-for-authentication-prompt-application-in-c-sharp-seleniu,7,0
+3,How to find out of 2 triangles on a 2D plane rotated in 3D space are intersecting?,/questions/66559502/how-to-find-out-of-2-triangles-on-a-2d-plane-rotated-in-3d-space-are-intersectin,7,0
+4,Publish has encountered an error. Build failed. Check the Output window for more details,/questions/66559500/publish-has-encountered-an-error-build-failed-check-the-output-window-for-more,7,-1
+16,How to check answers in your checkbox list asp.net using C#,/questions/66558976/how-to-check-answers-in-your-checkbox-list-asp-net-using-c-sharp,7,0
+11,How to connect to postmark API to send emails,/questions/66559269/how-to-connect-to-postmark-api-to-send-emails,7,-1
+7,C# to Extract XML Segments and Insert into SQL,/questions/66559364/c-sharp-to-extract-xml-segments-and-insert-into-sql,6,0
+32,EPPLUS ExcelRange creates table starting in wrong row,/questions/66558024/epplus-excelrange-creates-table-starting-in-wrong-row,6,0
+9,How to query field equals empty array?,/questions/66559321/how-to-query-field-equals-empty-array,6,0
+1,The type or namespace name 'UserScopedSettingAttributeAttribute' does not exist in the namespace 'System.Configuration',/questions/66559561/the-type-or-namespace-name-userscopedsettingattributeattribute-does-not-exist,4,0
+17,"DataGrid won't display the data from mysql using (phpmyadmin, c#, mysql)",/questions/66558926/datagrid-wont-display-the-data-from-mysql-using-phpmyadmin-c-mysql,3,0
+38,MSAL .AcquireTokenByUsernamePassword throws MSAL.Xamarin.iOS.4.27.0.0.MsalClientException: ErrorCode: parsing_wstrust_response_failed,/questions/66557690/msal-acquiretokenbyusernamepassword-throws-msal-xamarin-ios-4-27-0-0-msalclient,3,0
+0,Change 802.1X Settings with C#,/questions/66559586/change-802-1x-settings-with-c-sharp,2,0

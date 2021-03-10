@@ -1,31 +1,31 @@
 ,Repository Name,Repository Description,Repository Stars,Repository Programming Language,Repository Other Language,Repository URL
-0,html,HTML Standard,4378,HTML,"{'HTML': 99.94, 'CSS': 0.03, 'JavaScript': 0.02, 'Shell': 0.0, 'Makefile': 0.0}",https://github.com/whatwg/html
-1,html5-boilerplate,"A professional front-end template for building fast, robust, and adaptable web apps or sites.",49207,JavaScript,"{'JavaScript': 80.68, 'HTML': 19.32}",https://github.com/h5bp/html5-boilerplate
-2,html,HTML and Form Builders for the Laravel Framework,3605,PHP,{'PHP': 100.0},https://github.com/LaravelCollective/html
+0,html,HTML Standard,4383,HTML,"{'HTML': 99.94, 'CSS': 0.03, 'JavaScript': 0.02, 'Shell': 0.0, 'Makefile': 0.0}",https://github.com/whatwg/html
+1,html5-boilerplate,"A professional front-end template for building fast, robust, and adaptable web apps or sites.",49220,JavaScript,"{'JavaScript': 80.68, 'HTML': 19.32}",https://github.com/h5bp/html5-boilerplate
+2,html,HTML and Form Builders for the Laravel Framework,3606,PHP,{'PHP': 100.0},https://github.com/LaravelCollective/html
 3,html,Deliverables of the HTML Working Group until October 2018,1763,HTML,"{'HTML': 99.85, 'CSS': 0.13, 'Shell': 0.02}",https://github.com/w3c/html
-4,html2canvas,Screenshots with JavaScript,22904,TypeScript,"{'TypeScript': 56.43, 'HTML': 30.42, 'JavaScript': 12.86, 'CSS': 0.29}",https://github.com/niklasvh/html2canvas
-5,html5shiv,This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.,9789,JavaScript,"{'JavaScript': 85.8, 'HTML': 10.84, 'CSS': 3.36}",https://github.com/aFarkas/html5shiv
-6,reveal.js,The HTML Presentation Framework,55685,JavaScript,"{'JavaScript': 57.12, 'HTML': 25.74, 'SCSS': 16.73, 'CSS': 0.41}",https://github.com/hakimel/reveal.js
-7,html5demos,Collection of hacks and demos showing capability of HTML5 apps,4652,HTML,"{'HTML': 81.21, 'JavaScript': 11.12, 'CSS': 4.45, 'PHP': 2.71, 'Hack': 0.51}",https://github.com/remy/html5demos
+4,html2canvas,Screenshots with JavaScript,22920,TypeScript,"{'TypeScript': 56.43, 'HTML': 30.42, 'JavaScript': 12.86, 'CSS': 0.29}",https://github.com/niklasvh/html2canvas
+5,html5shiv,This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.,9790,JavaScript,"{'JavaScript': 85.8, 'HTML': 10.84, 'CSS': 3.36}",https://github.com/aFarkas/html5shiv
+6,reveal.js,The HTML Presentation Framework,55698,JavaScript,"{'JavaScript': 57.12, 'HTML': 25.74, 'SCSS': 16.73, 'CSS': 0.41}",https://github.com/hakimel/reveal.js
+7,html5demos,Collection of hacks and demos showing capability of HTML5 apps,4654,HTML,"{'HTML': 81.21, 'JavaScript': 11.12, 'CSS': 4.45, 'PHP': 2.71, 'Hack': 0.51}",https://github.com/remy/html5demos
 8,html,[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework),352,PHP,{'PHP': 100.0},https://github.com/illuminate/html
 9,HTMLPortfolioProject,Code School Project: HTML + CSS Portfolio,139,JavaScript,"{'JavaScript': 93.76, 'HTML': 6.24}",https://github.com/codeschool-projects/HTMLPortfolioProject
-10,angular.js,AngularJS - HTML enhanced for web apps!,59579,JavaScript,"{'JavaScript': 98.17, 'HTML': 1.22, 'Shell': 0.46, 'PHP': 0.1, 'CSS': 0.05}",https://github.com/angular/angular.js
-11,cocos2d-html5,Cocos2d for Web Browsers. Built using JavaScript.,2726,JavaScript,"{'JavaScript': 99.95, 'HTML': 0.05}",https://github.com/cocos2d/cocos2d-html5
-12,HTML5-Reset,A simple set of best practices to get HTML5 projects off on the right foot.,2292,CSS,"{'CSS': 53.76, 'HTML': 42.14, 'JavaScript': 4.1}",https://github.com/murtaugh/HTML5-Reset
-13,html2pdf.js,Client-side HTML-to-PDF rendering using pure JS.,1739,JavaScript,"{'JavaScript': 87.99, 'HTML': 12.01}",https://github.com/eKoopmans/html2pdf.js
-14,responsive-html-email-template,A free simple responsive HTML email template,9999,HTML,{'HTML': 100.0},https://github.com/leemunroe/responsive-html-email-template
+10,angular.js,AngularJS - HTML enhanced for web apps!,59581,JavaScript,"{'JavaScript': 98.17, 'HTML': 1.22, 'Shell': 0.46, 'PHP': 0.1, 'CSS': 0.05}",https://github.com/angular/angular.js
+11,HTML5-Reset,A simple set of best practices to get HTML5 projects off on the right foot.,2292,CSS,"{'CSS': 53.76, 'HTML': 42.14, 'JavaScript': 4.1}",https://github.com/murtaugh/HTML5-Reset
+12,cocos2d-html5,Cocos2d for Web Browsers. Built using JavaScript.,2727,JavaScript,"{'JavaScript': 99.95, 'HTML': 0.05}",https://github.com/cocos2d/cocos2d-html5
+13,html2pdf.js,Client-side HTML-to-PDF rendering using pure JS.,1740,JavaScript,"{'JavaScript': 87.99, 'HTML': 12.01}",https://github.com/eKoopmans/html2pdf.js
+14,responsive-html-email-template,A free simple responsive HTML email template,10005,HTML,{'HTML': 100.0},https://github.com/leemunroe/responsive-html-email-template
 15,html,HTML blocks,192,HTML,{'HTML': 100.0},https://github.com/mrmrs/html
-16,html2text,Convert HTML to Markdown-formatted text.,2124,Python,{'Python': 100.0},https://github.com/aaronsw/html2text
+16,html2text,Convert HTML to Markdown-formatted text.,2125,Python,{'Python': 100.0},https://github.com/aaronsw/html2text
 17,html,Use HTML in Elm!,343,Elm,{'Elm': 100.0},https://github.com/elm/html
-18,www.html5rocks.com,....a top-notch resource for web developers,2187,HTML,"{'HTML': 61.99, 'JavaScript': 33.51, 'Python': 2.46, 'CSS': 1.71, 'CoffeeScript': 0.22, 'Shell': 0.09, 'Makefile': 0.01, 'PHP': 0.0, 'Ruby': 0.0, 'Batchfile': 0.0}",https://github.com/html5rocks/www.html5rocks.com
-19,html5blank,:construction: Powerful shell for rapidly building your WordPress projects,1886,PHP,"{'PHP': 76.01, 'SCSS': 11.67, 'JavaScript': 11.38, 'CSS': 0.74, 'Shell': 0.2}",https://github.com/html5blank/html5blank
-20,htmlparser2,Forgiving HTML and XML parser,2945,TypeScript,"{'TypeScript': 98.87, 'HTML': 1.13}",https://github.com/fb55/htmlparser2
+18,www.html5rocks.com,....a top-notch resource for web developers,2188,HTML,"{'HTML': 61.99, 'JavaScript': 33.51, 'Python': 2.46, 'CSS': 1.71, 'CoffeeScript': 0.22, 'Shell': 0.09, 'Makefile': 0.01, 'PHP': 0.0, 'Ruby': 0.0, 'Batchfile': 0.0}",https://github.com/html5rocks/www.html5rocks.com
+19,htmlparser2,Forgiving HTML and XML parser,2947,TypeScript,"{'TypeScript': 98.87, 'HTML': 1.13}",https://github.com/fb55/htmlparser2
+20,html5blank,:construction: Powerful shell for rapidly building your WordPress projects,1887,PHP,"{'PHP': 76.01, 'SCSS': 11.67, 'JavaScript': 11.38, 'CSS': 0.74, 'Shell': 0.2}",https://github.com/html5blank/html5blank
 21,html5-device-mockups,"HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.",3563,CSS,"{'CSS': 64.88, 'HTML': 29.45, 'JavaScript': 5.67}",https://github.com/pixelsign/html5-device-mockups
-22,html2pdf,OFFICIAL PROJECT | HTML to PDF converter written in PHP,1216,PHP,"{'PHP': 99.81, 'PowerShell': 0.12, 'Shell': 0.06}",https://github.com/spipu/html2pdf
-23,html5_rtsp_player,html5 player for rtsp stream,1711,JavaScript,"{'JavaScript': 99.22, 'HTML': 0.78}",https://github.com/Streamedian/html5_rtsp_player
-24,requests-html,Pythonic HTML Parsing for Humans™,11636,Python,"{'Python': 99.66, 'Makefile': 0.34}",https://github.com/psf/requests-html
+22,html2pdf,OFFICIAL PROJECT | HTML to PDF converter written in PHP,1217,PHP,"{'PHP': 99.81, 'PowerShell': 0.12, 'Shell': 0.06}",https://github.com/spipu/html2pdf
+23,html5_rtsp_player,html5 player for rtsp stream,1714,JavaScript,"{'JavaScript': 99.22, 'HTML': 0.78}",https://github.com/Streamedian/html5_rtsp_player
+24,requests-html,Pythonic HTML Parsing for Humans™,11640,Python,"{'Python': 99.66, 'Makefile': 0.34}",https://github.com/psf/requests-html
 25,HTML,HTML Course Repository,72,HTML,"{'HTML': 98.48, 'CSS': 1.52}",https://github.com/TelerikAcademy/HTML
 26,tidy-html5,"The granddaddy of HTML tools, with support for modern standards",2247,C,"{'C': 75.32, 'C++': 11.59, 'Objective-C': 8.79, 'Ruby': 2.06, 'CMake': 0.99, 'Batchfile': 0.9, 'Shell': 0.27, 'HTML': 0.1}",https://github.com/htacg/tidy-html5
 27,html5sortable,Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.,1673,HTML,"{'HTML': 59.33, 'JavaScript': 40.67}",https://github.com/farhadi/html5sortable
-28,pdf2htmlEX,Convert PDF to HTML without losing text or format.,9110,HTML,"{'HTML': 83.14, 'C++': 12.69, 'JavaScript': 1.42, 'Python': 1.14, 'C': 0.56, 'CSS': 0.47, 'CMake': 0.45, 'Shell': 0.1, 'TeX': 0.04}",https://github.com/coolwanglu/pdf2htmlEX
+28,pdf2htmlEX,Convert PDF to HTML without losing text or format.,9112,HTML,"{'HTML': 83.14, 'C++': 12.69, 'JavaScript': 1.42, 'Python': 1.14, 'C': 0.56, 'CSS': 0.47, 'CMake': 0.45, 'Shell': 0.1, 'TeX': 0.04}",https://github.com/coolwanglu/pdf2htmlEX
 29,html,Laravel package designed to generate common HTML components,265,PHP,"{'PHP': 88.54, 'Blade': 11.46}",https://github.com/StydeNet/html

@@ -1,4 +1,4 @@
-,title,id,url,body,timestamp,year,month,sentiment,review,nuetral
+,Title,ID,URL,Body,timestamp,Year,Month,Sentiment,Review,Nuetral
 0,</2018>,abhk7t,https://www.reddit.com/r/HTML/comments/abhk7t/2018/,</2018><2019>,2019-01-02 03:34:45,2019,1,0.0,Good,Nuetral
 1,</2017>,7nda0d,https://www.reddit.com/r/HTML/comments/7nda0d/2017/,</2017><2018>,2018-01-01 20:39:38,2018,1,0.0,Good,Nuetral
 2,"Building your first site? Read this before starting, best guide on the internet",5ttutk,https://internetingishard.com/html-and-css/,,2017-02-14 08:36:57,2017,2,0.0,Good,Nuetral
@@ -150,7 +150,22 @@ Very interested in feedback, appreciate anyone willing to check it out.",2020-08
 20,Does anyone have any good HTML5 and CSS3 cheatsheets?,324s3i,https://www.reddit.com/r/HTML/comments/324s3i/does_anyone_have_any_good_html5_and_css3/,I'm just looking for good cheatsheets for HTML5 and CSS3. Thanks in advance. ,2015-04-11 08:03:08,2015,4,0.44999999999999996,Good,Not Nuetral
 21,while browsing amazon's source code for my beb design course i found this,148qsb,http://i.imgur.com/FzFeN.png?1,,2012-12-04 19:42:38,2012,12,0.0,Good,Nuetral
 22,"I struggle with Wordpress, but I’m building a website with plain HTML and CSS just fine",ipbvdb,https://www.reddit.com/r/HTML/comments/ipbvdb/i_struggle_with_wordpress_but_im_building_a/,"Anyone else find Wordpress to not make sense at all? I am building  a simple, mostly static 5 page website while learning the html  and css from scratch along the way...and I am making way more progress than I did trying to use Wordpress. Using Dreamweaver CS6 and using the design/live code split window.",2020-09-10 00:07:23,2020,9,0.3333333333333333,Good,Not Nuetral
-23,[RANT] Anybody else against CSS frameworks in general?,dyn86t,https://www.reddit.com/r/HTML/comments/dyn86t/rant_anybody_else_against_css_frameworks_in/," 
+23,My First Website,lxj82k,https://www.reddit.com/r/HTML/comments/lxj82k/my_first_website/,"Hi all, I created a website. I am a beginner in web development. I have created a very basic website about me. I have added some basic functionalities too.
+
+Languages I've Used: HTML, CSS, JavaScript, Python with Django
+
+Link to Git Repository: [https://github.com/Yash-Varshney-Creativities/MyDjangoWebsite](https://github.com/Yash-Varshney-Creativities/MyDjangoWebsite)
+
+Get Website Preview And Description Here: [https://yash-varshney-creativities.github.io/Preview-of-Website/](https://yash-varshney-creativities.github.io/Preview-of-Website/)
+
+Don't Forget to Follow me on Github and Star this repo. My Github Link: [https://github.com/Yash-Varshney-Creativities/](https://github.com/Yash-Varshney-Creativities/)
+
+Get the Published site on - [https://yash-varshney.herokuapp.com/](https://yash-varshney.herokuapp.com/)
+
+Thanks
+
+Yash",2021-03-05 04:18:31,2021,3,-0.3416666666666666,Bad,Not Nuetral
+24,[RANT] Anybody else against CSS frameworks in general?,dyn86t,https://www.reddit.com/r/HTML/comments/dyn86t/rant_anybody_else_against_css_frameworks_in/," 
 
 Especially Bootstrap, but even if it's as tight as Bulma ([https://bulma.io/](https://bulma.io/))  -- it's still violating the core principle of keeping ones HTML  semantic and not mixing it with anything style-related. Tears me up  seeing these YouTube-tuts where their HTML slowly but surely gets more  and more messy with tons of ugly classes and a Matryoshka doll type div  setup (container inside container inside container etc.).
 
@@ -159,12 +174,12 @@ The  same goes for grids - what's the point of that? Having ones RHTML/CSS  resp
 Having  said that, I agree with the Bulma author's reasoning that creating your  own HTML/CSS requires time, effort and the ability to make things  beautiful. But on the other hand, if you want something right, you gotta  do it yourself. And there's no doubt that one day the CSS framework you  currently use will be outdated and something prettier and simpler will  be available. Unless, ofcourse, you made the CSS yourself pretty to  begin with, and the HTML semantic without any visual involvement  whatsoever.
 
 What y'all think? Thanks for listening!",2019-11-20 09:05:20,2019,11,0.09956349206349206,Good,Not Nuetral
-24,Spotify Recreation using ONLY HMTL & CSS - Spotify Library,8sjwsm,https://www.reddit.com/r/HTML/comments/8sjwsm/spotify_recreation_using_only_hmtl_css_spotify/,"[https://codepen.io/kmr600/full/XYReJZ/](https://codepen.io/kmr600/full/XYReJZ/)
+25,Spotify Recreation using ONLY HMTL & CSS - Spotify Library,8sjwsm,https://www.reddit.com/r/HTML/comments/8sjwsm/spotify_recreation_using_only_hmtl_css_spotify/,"[https://codepen.io/kmr600/full/XYReJZ/](https://codepen.io/kmr600/full/XYReJZ/)
 
 Leave a like and share!
 
 Recreated Spotify library for mobile for a developer challenge.",2018-06-21 08:53:37,2018,6,0.0,Good,Nuetral
-25,"700+ Free Icons in Pure CSS, SVG, styled-components, Figma & Adobe XD | CSS.GG - 2.0",g7sg39,https://www.reddit.com/r/HTML/comments/g7sg39/700_free_icons_in_pure_css_svg_styledcomponents/,"CSS.GG 2.0 is live now \
+26,"700+ Free Icons in Pure CSS, SVG, styled-components, Figma & Adobe XD | CSS.GG - 2.0",g7sg39,https://www.reddit.com/r/HTML/comments/g7sg39/700_free_icons_in_pure_css_svg_styledcomponents/,"CSS.GG 2.0 is live now \
 700 UI Icons in Pure CSS,styled-components, SVG & Figma
 
 - 200 New Icons
@@ -181,11 +196,56 @@ Website: https://css.gg \
 Repo: https://github.com/astrit/css.gg
 
 This project is open source.",2020-04-26 04:06:27,2020,4,0.09740259740259741,Good,Not Nuetral
-26,"So created my first page today (it nothing special, worthy of downvotes lol)",8fecp7,https://www.reddit.com/r/HTML/comments/8fecp7/so_created_my_first_page_today_it_nothing_special/,"[My 1st Site](http://myfirstsiteccl2.surge.sh/)  
+27,"So created my first page today (it nothing special, worthy of downvotes lol)",8fecp7,https://www.reddit.com/r/HTML/comments/8fecp7/so_created_my_first_page_today_it_nothing_special/,"[My 1st Site](http://myfirstsiteccl2.surge.sh/)  
   
 as I teach myself new elements, I'm going to update the site. so right now it's just bare text, small formatting changes and an email address. but it's mine, and I coded it lol so I'm happy",2018-04-28 11:29:08,2018,4,0.3036796536796537,Good,Not Nuetral
-27,starting a new HTML document? Start here,nnxjd,http://www.htmlshell.com/,,2011-12-24 06:21:23,2011,12,0.0,Good,Nuetral
-28,Need hosting? Read this,51nt5r,https://www.reddit.com/r/HTML/comments/51nt5r/need_hosting_read_this/,"###Static Hosting (HTML/CSS + Assets)
+28,starting a new HTML document? Start here,nnxjd,http://www.htmlshell.com/,,2011-12-24 06:21:23,2011,12,0.0,Good,Nuetral
+29,Basic Overview of HTML for Beginners,lpn0ki,https://www.reddit.com/r/HTML/comments/lpn0ki/basic_overview_of_html_for_beginners/,"HTML stands for ""HyperText Markup Language"" and is the standard markup for all webpages. HTML has very simple tag syntax and structure, making it a no-brainer for new beginners to learn.
+
+I have the full in-depth [HTML Guide for Beginners](https://www.fastcodeace.com/html) on my website. [Click here](https://www.fastcodeace.com/html) to view it.
+
+# What are Elements?
+
+Elements are basically 'objects' on the page like text, headings, buttons, etc. This is the pattern elements follow: `<tagname>Content</tagname>`
+
+For example, a button with the text, ""Greet Me!"" would follow this pattern:`<button>Greet Me!</button>`
+
+There are more examples in the article, you can them out by clicking the link near the top of this post.
+
+# Exploring the HTML Structure
+
+Knowing about elements, we can build the basic structure.
+
+In the standard HTML5 Document Structure, there is an html element nesting the <head> and <body> elements. The <head> elements contains the <title> which is what displays in the browser's tab header, and the <body> contains the visual elements of the page. Again, more explantion in my article.
+
+    <html>
+        <head>
+            <title>This is my tab title!</title>
+        </head>
+        <body>
+            Visual Content here: buttons, lists, headers, footers, etc...
+        </body>
+    </html>
+
+# Taking a look at some common elements
+
+**Headings -** Headings come in 6 levels, differing in size and importance. Level 1 is the biggest and boldest, level 6 is the smallest and weakest.
+
+    <h1>Page Title</h1>
+    <h2>Main Points</h2>
+    <h3>Sub Points</h3>
+    <h4>Even Smaller</h4>
+    <h5>Way less important</h5>
+    <h6>Least important</h6>
+
+**Buttons -** To create a button with the text ""Click Me"", we would use this: `<button>Click Me</button>`
+
+**Links -** To create a link that when clicked on, goes somewhere, use this: `<a href=""`[`https://www.fastcodeace.com`](https://www.fastcodeace.com)`"">I'm a link! Click Me!</a>`
+
+# Overview
+
+This is just a small part of my [HTML Guide for Beginners](https://www.fastcodeace.com/html), in the article, I go into things way more depth, keeping it as simple as easy for new beginners(even kids) to learn HTML.",2021-02-23 04:36:30,2021,2,0.13080143540669856,Good,Not Nuetral
+30,Need hosting? Read this,51nt5r,https://www.reddit.com/r/HTML/comments/51nt5r/need_hosting_read_this/,"###Static Hosting (HTML/CSS + Assets)
 
 [Surge](https://surge.sh/): Super simple, free, no mess. Unlimited bandwidth, supports custom domains. Requires you to install [node.js](https://nodejs.org/en/) first.
 
@@ -201,8 +261,8 @@ as I teach myself new elements, I'm going to update the site. so right now it's 
 [Free Hosting Hero](http://freehostinghero.com/): Basic LAMP stack hosting, no frills.
 
 For more on PHP, please head over to /r/PHP.",2016-09-08 13:51:12,2016,9,0.22020833333333334,Good,Not Nuetral
-29,A Short Introduction To HTML,10i72i,http://www.blog.joomla-developers.com/short-introduction-to-html/,,2012-09-27 05:30:07,2012,9,0.0,Good,Nuetral
-30,Color Changing Toggle Switch | CSS + HTML | Tutorial,ivz4ac,https://www.reddit.com/r/HTML/comments/ivz4ac/color_changing_toggle_switch_css_html_tutorial/,"Hi guys. I made a simple quick little video tutorial showing you how you can make an interactive color changing toggle switch ui design with just CSS + HTML
+31,A Short Introduction To HTML,10i72i,http://www.blog.joomla-developers.com/short-introduction-to-html/,,2012-09-27 05:30:07,2012,9,0.0,Good,Nuetral
+32,Color Changing Toggle Switch | CSS + HTML | Tutorial,ivz4ac,https://www.reddit.com/r/HTML/comments/ivz4ac/color_changing_toggle_switch_css_html_tutorial/,"Hi guys. I made a simple quick little video tutorial showing you how you can make an interactive color changing toggle switch ui design with just CSS + HTML
 
 Video: [Color Changing Toggle Switch | CSS + HTML | Tutorial](https://youtu.be/tvdiN4zcwxI)
 
@@ -211,7 +271,7 @@ I also included links to the index.html and stylesheet.css files for your viewin
 Link to files is also in video description.
 
 Hope this can help some people!",2020-09-20 11:30:13,2020,9,-0.30833333333333335,Bad,Not Nuetral
-31,"My free tutorial on learning HTML, CSS and JS!",iucqtw,https://www.reddit.com/r/HTML/comments/iucqtw/my_free_tutorial_on_learning_html_css_and_js/,"Hi everyone, I run a [non-profit](https://shuddhifund.org) that teaches poor kids programming for free. I have created a free course on YouTube to help them learn web development. It is designed for complete beginners and I'm using these videos to teach 12-14 yo kids from rural parts of India remotely. It is also available in the Tamil language.
+33,"My free tutorial on learning HTML, CSS and JS!",iucqtw,https://www.reddit.com/r/HTML/comments/iucqtw/my_free_tutorial_on_learning_html_css_and_js/,"Hi everyone, I run a [non-profit](https://shuddhifund.org) that teaches poor kids programming for free. I have created a free course on YouTube to help them learn web development. It is designed for complete beginners and I'm using these videos to teach 12-14 yo kids from rural parts of India remotely. It is also available in the Tamil language.
 
 I just thought I'd post them here so that someone else may find it useful -
 
@@ -222,7 +282,7 @@ Tamil - [https://www.youtube.com/playlist?list=PLvXRsqIDZLga2OMwbv\_l37EHvzPDzVn
 Hope this is not in violation of the community rules. Also hope this helps someone else out!
 
 Please let me know if you have any feedback or suggestions for improvement!",2020-09-17 20:56:27,2020,9,0.12222222222222223,Good,Not Nuetral
-32,We've created a free 14-part HTML course,89p606,https://www.reddit.com/r/HTML/comments/89p606/weve_created_a_free_14part_html_course/,"Hey all,
+34,We've created a free 14-part HTML course,89p606,https://www.reddit.com/r/HTML/comments/89p606/weve_created_a_free_14part_html_course/,"Hey all,
 
 My name is Per, I'm the co-founder of Scrimba.com. Today we launched a free HTML course, and I figured I'd try sharing it here. Let me know if you want me to take it down, if you don't think it's ok to share courses like this.
 
@@ -232,9 +292,9 @@ https://medium.freecodecamp.org/want-to-learn-how-to-built-websites-heres-our-fr
 
 Thanks,
 Per",2018-04-05 04:51:27,2018,4,0.15555555555555559,Good,Not Nuetral
-33,(Do not upvote) How can I look at the different possibilities in an online quiz?,2om47v,https://www.reddit.com/r/HTML/comments/2om47v/do_not_upvote_how_can_i_look_at_the_different/,"I took an online buzzfeed-type quiz, and I was curious about how I could find the different responses and learn about the sorting algorithm used. It's a really trivial matter and I figured this would be the right place to come ",2014-12-08 20:02:27,2014,12,0.09642857142857142,Good,Not Nuetral
-34,"[HTML] Made a Web-browser Start Page, Thoughts? (Source in Comments)",121vuk,http://i.imgur.com/TUltY.png,,2012-10-25 21:26:54,2012,10,0.0,Good,Nuetral
-35,3 things that could help Junior Developers to stand out during an interview (besides coding):,kzwvpk,https://www.reddit.com/r/HTML/comments/kzwvpk/3_things_that_could_help_junior_developers_to/," 
+35,(Do not upvote) How can I look at the different possibilities in an online quiz?,2om47v,https://www.reddit.com/r/HTML/comments/2om47v/do_not_upvote_how_can_i_look_at_the_different/,"I took an online buzzfeed-type quiz, and I was curious about how I could find the different responses and learn about the sorting algorithm used. It's a really trivial matter and I figured this would be the right place to come ",2014-12-08 20:02:27,2014,12,0.09642857142857142,Good,Not Nuetral
+36,"[HTML] Made a Web-browser Start Page, Thoughts? (Source in Comments)",121vuk,http://i.imgur.com/TUltY.png,,2012-10-25 21:26:54,2012,10,0.0,Good,Nuetral
+37,3 things that could help Junior Developers to stand out during an interview (besides coding):,kzwvpk,https://www.reddit.com/r/HTML/comments/kzwvpk/3_things_that_could_help_junior_developers_to/," 
 
 1. Work on projects using version control: In professional settings, we use a version control system like git. It allows us to work on new features/code, whiteout touching the codebase. It means we have a master branch that contains production-ready code and you would branch out to work on a new feature. Let's say you need to implement a new button, you would branch out from master to write new code that would display a button. Once you are done writing the code, you would merge the code back to master, after it passed all the tests. So take a look at GitHub or GitLab and get familiar with basic commands like push, pull, merge, and commit. 
 2. Have a basic understanding of agile development: There is a certain prosses set in place that helps companies to deliver software for their customers. In software development, we have a number of steps before the code can be released. We have a set of Requirements, Design, Development, Testing (Design, Development, and Testing is repeated till testing has been satisfied), and only after you can Deploy. This is something you probably can't really practice by yourself. But knowing this could increase your chances of getting a junior position.
@@ -245,18 +305,18 @@ These are my top 3 pieces of advice that could help junior developers to stand o
 Subscribe to my youtube channel DevPool as my goal is to help beginners and juniors to succeed in the tech industry.
 
 [https://www.youtube.com/channel/UC03vw5F2isFkbJhyEZU5bvg](https://www.youtube.com/channel/UC03vw5F2isFkbJhyEZU5bvg)",2021-01-19 07:34:49,2021,1,0.15391929499072357,Good,Not Nuetral
-36,Does a second monitor help,jq8uxb,https://www.reddit.com/r/HTML/comments/jq8uxb/does_a_second_monitor_help/,does a second monitor help with programming when using a laptop?,2020-11-09 01:17:32,2020,11,0.0,Good,Nuetral
-37,What does ! Mean in <!DOCTYPE html >,fdtqg2,https://www.reddit.com/r/HTML/comments/fdtqg2/what_does_mean_in_doctype_html/,"Why do we use <!DOCTYPE html > and not just
+38,Does a second monitor help,jq8uxb,https://www.reddit.com/r/HTML/comments/jq8uxb/does_a_second_monitor_help/,does a second monitor help with programming when using a laptop?,2020-11-09 01:17:32,2020,11,0.0,Good,Nuetral
+39,What does ! Mean in <!DOCTYPE html >,fdtqg2,https://www.reddit.com/r/HTML/comments/fdtqg2/what_does_mean_in_doctype_html/,"Why do we use <!DOCTYPE html > and not just
 
 <DOCTYPE html > ?
 What is the significance?",2020-03-06 03:10:57,2020,3,0.0,Good,Nuetral
-38,[HTML] Look what I found when I viewed the source code of http://theoatmeal.com/,21kcjt,http://i.imgur.com/QIAugLP.png,,2014-03-28 19:15:38,2014,3,0.0,Good,Nuetral
-39,How to draw Santa using CSS | Video tutorial,a80fgb,https://www.reddit.com/r/HTML/comments/a80fgb/how_to_draw_santa_using_css_video_tutorial/,"Hi there!
+40,[HTML] Look what I found when I viewed the source code of http://theoatmeal.com/,21kcjt,http://i.imgur.com/QIAugLP.png,,2014-03-28 19:15:38,2014,3,0.0,Good,Nuetral
+41,How to draw Santa using CSS | Video tutorial,a80fgb,https://www.reddit.com/r/HTML/comments/a80fgb/how_to_draw_santa_using_css_video_tutorial/,"Hi there!
 
 My name is Alin and I am creating cute videos about short HTML/CSS tricks.
 
 If someone is interested in how to draw Santa using CSS, this is the [tutorial](https://www.youtube.com/watch?v=4i4L_r8YHj8). Enjoy!",2018-12-21 09:48:43,2018,12,0.3125,Good,Not Nuetral
-40,4 Things I wish I knew when I started writing HTML & CSS [x-post from r/tiwikwis],5nnj8i,https://www.reddit.com/r/HTML/comments/5nnj8i/4_things_i_wish_i_knew_when_i_started_writing/,"I've been doing front-end design and development professionally for 10+ years, so many of these techniques wouldn't have applied when I *first* started, but goddamn I wish I'd picked them up sooner.
+42,4 Things I wish I knew when I started writing HTML & CSS [x-post from r/tiwikwis],5nnj8i,https://www.reddit.com/r/HTML/comments/5nnj8i/4_things_i_wish_i_knew_when_i_started_writing/,"I've been doing front-end design and development professionally for 10+ years, so many of these techniques wouldn't have applied when I *first* started, but goddamn I wish I'd picked them up sooner.
 
 ##1. Always look for new shortcuts for your workflow
 
@@ -327,39 +387,68 @@ Sure, it's sloppy, but when I'm marking up 9,000-word sales pages for a quick A/
 -------------------
 
 I'm *always* on the hunt for new ways to make my job easier while still pumping out quality work. If you have any tips or examples that have made your front-end work life easier, let us know!",2017-01-13 17:26:02,2017,1,0.09586247086247089,Good,Not Nuetral
-41,How I learned code fairly quickly,1sjvl8,https://www.reddit.com/r/HTML/comments/1sjvl8/how_i_learned_code_fairly_quickly/,"This is just a quick tip but it works quite well, go ahead and download a HTML template (whether it's one you like or just a random one) then choose a brand or use your own name/business, and just go through and edit the site to make it your own e.g. change colors, logos, text, anything you can think of to make it your own. You will learn fairly quickly what bits of code does what.
+43,How I learned code fairly quickly,1sjvl8,https://www.reddit.com/r/HTML/comments/1sjvl8/how_i_learned_code_fairly_quickly/,"This is just a quick tip but it works quite well, go ahead and download a HTML template (whether it's one you like or just a random one) then choose a brand or use your own name/business, and just go through and edit the site to make it your own e.g. change colors, logos, text, anything you can think of to make it your own. You will learn fairly quickly what bits of code does what.
 
 
 I do recommend doing this along side other things such as actually learning and coding sites straight up but this definitely helped me",2013-12-11 07:29:12,2013,12,0.18560606060606058,Good,Not Nuetral
-42,"A little html & css code, Windows 8 Style",14h0fi,http://imgur.com/7WK3H,,2012-12-08 15:53:57,2012,12,0.0,Good,Nuetral
-43,I made a simple html clicker game,kt3cqv,https://www.reddit.com/r/HTML/comments/kt3cqv/i_made_a_simple_html_clicker_game/,"Hey guys! So I make simple browser games, and this is my very first clicker game! You can find the link here: [https://neildaniel00.github.io/clicker/game.html](https://neildaniel00.github.io/clicker/game.html). I would love feedback, since I have no one to talk to (because I have no friends:( ). Yes, I know there are some bugs, like the cheating mech., if you type too many zeros. Anyway, if it shows Clicks: NaN, wait 5 seconds, and it should reset.
+44,"A little html & css code, Windows 8 Style",14h0fi,http://imgur.com/7WK3H,,2012-12-08 15:53:57,2012,12,0.0,Good,Nuetral
+45,I made a simple html clicker game,kt3cqv,https://www.reddit.com/r/HTML/comments/kt3cqv/i_made_a_simple_html_clicker_game/,"Hey guys! So I make simple browser games, and this is my very first clicker game! You can find the link here: [https://neildaniel00.github.io/clicker/game.html](https://neildaniel00.github.io/clicker/game.html). I would love feedback, since I have no one to talk to (because I have no friends:( ). Yes, I know there are some bugs, like the cheating mech., if you type too many zeros. Anyway, if it shows Clicks: NaN, wait 5 seconds, and it should reset.
 
 Again, here's the link: [https://neildaniel00.github.io/clicker/game.html](https://neildaniel00.github.io/clicker.game.html)",2021-01-09 06:21:26,2021,1,-0.178125,Bad,Not Nuetral
-44,Where to learn about web design?,hjoo1x,https://www.reddit.com/r/HTML/comments/hjoo1x/where_to_learn_about_web_design/,"I'm not asking about how to write CSS or HTML. I'm talking more abouth the theory of colors and space that makes a website look neat.
+46,Where to learn about web design?,hjoo1x,https://www.reddit.com/r/HTML/comments/hjoo1x/where_to_learn_about_web_design/,"I'm not asking about how to write CSS or HTML. I'm talking more abouth the theory of colors and space that makes a website look neat.
 
 Are there any online resources or books? What do you recommend to get better at this?
 
 Thanks in advance.",2020-07-02 18:30:27,2020,7,0.39999999999999997,Good,Not Nuetral
-45,Can HTML coding be classified as programming?,g6d5nk,https://www.reddit.com/r/HTML/comments/g6d5nk/can_html_coding_be_classified_as_programming/,"So a program is classified as an executable file, right?
+47,Can HTML coding be classified as programming?,g6d5nk,https://www.reddit.com/r/HTML/comments/g6d5nk/can_html_coding_be_classified_as_programming/,"So a program is classified as an executable file, right?
 
 If you’re designing a game through HTML coding, can it technically be classified as a program? I’m just confused as HTML is regarded as a programming language.
 
 Thanks in advance.",2020-04-23 16:46:55,2020,4,-0.06285714285714286,Bad,Not Nuetral
-46,"Learning html, just wrote a basic page for my resume and bought a domain.",amgx73,https://www.reddit.com/r/HTML/comments/amgx73/learning_html_just_wrote_a_basic_page_for_my/,"Now I am lost. I purchased my domain on godaddy, but how do I get my own code up and not one of their cookie cutter templates? I see now that to actualy have my domain show something I have to pay godaddy another hosting fee i guess? 
+48,"Learning html, just wrote a basic page for my resume and bought a domain.",amgx73,https://www.reddit.com/r/HTML/comments/amgx73/learning_html_just_wrote_a_basic_page_for_my/,"Now I am lost. I purchased my domain on godaddy, but how do I get my own code up and not one of their cookie cutter templates? I see now that to actualy have my domain show something I have to pay godaddy another hosting fee i guess? 
 I went to dreamhost and their hosting cost is a lot less than godaddy and they said I could host with them and connect the code their to my domain with godaddy? I am confused, any help is appreciated.  ",2019-02-03 10:39:06,2019,2,0.058333333333333334,Good,Not Nuetral
-47,Willing to Teach HTML/CSS + more for free!,glq0bo,https://www.reddit.com/r/HTML/comments/glq0bo/willing_to_teach_htmlcss_more_for_free/,"Hello everyone,
+49,Willing to Teach HTML/CSS + more for free!,glq0bo,https://www.reddit.com/r/HTML/comments/glq0bo/willing_to_teach_htmlcss_more_for_free/,"Hello everyone,
 
 A group of fellow CS students and I have created a platform on which we can teach people the fundamentals of a variety of programming languages for free (HTML/CSS but also Python, C++, Go, Java, etc.). We're just doing this to gain experience and help others learn to code and there's no strings attached! We have free, live programming classes through Discord at many different times for anyone around the world to join and learn, regardless of age. We already have 500 students signed up! Here's a copy of a lecture of ours on Python if you kind of want to see how things work: [https://notes.codetheuniverse.org/python/lecture1.pdf](https://notes.codetheuniverse.org/python/lecture1.pdf). If you are interested in learning, here's our discord: [https://discord.gg/EzQSWzd](https://discord.gg/EzQSWzd) and our website (should be up again soon): [http://codetheuniverse.org/](http://codetheuniverse.org/).",2020-05-18 15:32:39,2020,5,0.013636363636363624,Good,Not Nuetral
-48,An article I wrote for beginners about some HTML <head> tags,drvuak,https://www.reddit.com/r/HTML/comments/drvuak/an_article_i_wrote_for_beginners_about_some_html/,"Any feedback is welcome, I'm studying to become a web developer and in my free-time I write about some useful tips and tools I find useful.
+50,An article I wrote for beginners about some HTML <head> tags,drvuak,https://www.reddit.com/r/HTML/comments/drvuak/an_article_i_wrote_for_beginners_about_some_html/,"Any feedback is welcome, I'm studying to become a web developer and in my free-time I write about some useful tips and tools I find useful.
 
 If any information is incorrect please let me know or if you find the article useful (I hope it is) a comment is always welcome. 
 
 Cheers!
 
 [https://mariodena.github.io/blog/html-css/about-head-tags.html](https://mariodena.github.io/blog/html-css/about-head-tags.html)",2019-11-05 23:22:52,2019,11,0.54,Good,Not Nuetral
-49,Can HTML & CSS only websites still be successful in 2018?,87w2dl,https://www.reddit.com/r/HTML/comments/87w2dl/can_html_css_only_websites_still_be_successful_in/,I am creating a website and as of now it is only HTML and CSS. Can static websites still be popular?,2018-03-29 14:11:54,2018,3,0.3666666666666667,Good,Not Nuetral
-50,I just started learning HTML/CSS last week and the first thing I've made is a new Chrome start page. Any advice would be much appreciated!,2pcex0,http://i.imgur.com/XISRci8.png,,2014-12-16 00:54:50,2014,12,0.0,Good,Nuetral
-51,What advice would I give to new Junior Developers.,kqpt4b,https://www.reddit.com/r/HTML/comments/kqpt4b/what_advice_would_i_give_to_new_junior_developers/,"1. You don't need to know everything when you starting out:
+51,Can HTML & CSS only websites still be successful in 2018?,87w2dl,https://www.reddit.com/r/HTML/comments/87w2dl/can_html_css_only_websites_still_be_successful_in/,I am creating a website and as of now it is only HTML and CSS. Can static websites still be popular?,2018-03-29 14:11:54,2018,3,0.3666666666666667,Good,Not Nuetral
+52,I just started learning HTML/CSS last week and the first thing I've made is a new Chrome start page. Any advice would be much appreciated!,2pcex0,http://i.imgur.com/XISRci8.png,,2014-12-16 00:54:50,2014,12,0.0,Good,Nuetral
+53,PSA: You Cannot Nest Interactive Elements,lsky98,https://www.reddit.com/r/HTML/comments/lsky98/psa_you_cannot_nest_interactive_elements/,"I see posts here time and time again showing code like this:
+
+    <a>
+        <button>This doesn't do what I thought...?</button>
+    </a>
+
+Or this:
+
+    <button>
+        <input type=""submit"" value=""this doesn't work right :("">
+    </button>
+
+Or this:
+
+    <a>
+        <input type=""submit"" value=""this link is goof'd!"">
+    </a>
+
+Or this:
+
+    <a>
+        <a>Why can't I click this!?!</a>
+    </a>
+
+The reason these don't work as expected is that it is _not_ valid HTML to have one interactive element nested inside of another one. 
+
+In essence: you cannot click a link inside of another link because you are clicking the parent link when you click the child link.
+
+Hopefully this clears up a lot of confusion.",2021-02-26 16:11:58,2021,2,-0.2505952380952381,Bad,Not Nuetral
+54,What advice would I give to new Junior Developers.,kqpt4b,https://www.reddit.com/r/HTML/comments/kqpt4b/what_advice_would_i_give_to_new_junior_developers/,"1. You don't need to know everything when you starting out:
    1. One of the things that I remember when I was a Junior Developer. I thought I had to know everything. But in reality, the expectation was how fast can I learn and can I work together with a team. Because when you are starting out, your seniors or supervisor will know that you are no expert and they would be giving you easy tasks that they know you can handle and learn from bit by bit. So don't forget, when you are starting out, focus on sharpening your skills and be a team member.
 2. Learn how to break code apart:
    1. One of the major things in writing code is to learn how can you make it reusable. It sounds easy, but it's a bit tricky in practice. One of the books that I would recommend (I read it as a junior and it helped me to jump-start my career) and is to read clean code written by  Robert Cecil Martin. 
@@ -374,13 +463,13 @@ If you like, you can subscribe to my youtube channel as my goal is to help begin
 
 
 [https://www.youtube.com/channel/UC03vw5F2isFkbJhyEZU5bvg](https://www.youtube.com/channel/UC03vw5F2isFkbJhyEZU5bvg)",2021-01-05 19:47:42,2021,1,0.14643141945773527,Good,Not Nuetral
-52,A youtube channel for learning web development the simple way,irbq3g,https://www.reddit.com/r/HTML/comments/irbq3g/a_youtube_channel_for_learning_web_development/,"Here the link to my channel : https://www.youtube.com/channel/UCB8UAORbvqjOQkz86k1iDPA
+55,A youtube channel for learning web development the simple way,irbq3g,https://www.reddit.com/r/HTML/comments/irbq3g/a_youtube_channel_for_learning_web_development/,"Here the link to my channel : https://www.youtube.com/channel/UCB8UAORbvqjOQkz86k1iDPA
 
 I plan to teach everything that’s necessary to become a successful web developer i upload a few videos each week i started the channel only a few weeks ago so there isnt a tone of content
 
 But please check it out if your interested and thank in advanced if you do watch my videos",2020-09-13 04:29:54,2020,9,0.14285714285714285,Good,Not Nuetral
-53,If you like coding you should come join our server,i0wsn6,https://www.reddit.com/r/HTML/comments/i0wsn6/if_you_like_coding_you_should_come_join_our_server/,https://discord.gg/CjFBGKD    Hope to see you guys there,2020-07-31 15:34:08,2020,7,0.0,Good,Nuetral
-54,How do you test your webpage or web app for cross browser compatibility HTML and CSS issues?,b5p65y,https://www.reddit.com/r/HTML/comments/b5p65y/how_do_you_test_your_webpage_or_web_app_for_cross/,"Browser compatibility testing — as scary as the name sounds, it demands effort, and a lot of it! Designing and development are important, but equally important is making sure that you have developed it as per the requirements. Ensuring a quality user experience regardless of the user's platform has emerged as one of the primary requirements in web development today. However, you don’t need to worry! A lot of online tools are available to help you with [browser compatibility testing](https://www.lambdatest.com/feature?utm_source=Reddit&utm_campaign=AL-26032019). Here is a comprehensive list of the top twelve browser compatibility testing tools.
+56,If you like coding you should come join our server,i0wsn6,https://www.reddit.com/r/HTML/comments/i0wsn6/if_you_like_coding_you_should_come_join_our_server/,https://discord.gg/CjFBGKD    Hope to see you guys there,2020-07-31 15:34:08,2020,7,0.0,Good,Nuetral
+57,How do you test your webpage or web app for cross browser compatibility HTML and CSS issues?,b5p65y,https://www.reddit.com/r/HTML/comments/b5p65y/how_do_you_test_your_webpage_or_web_app_for_cross/,"Browser compatibility testing — as scary as the name sounds, it demands effort, and a lot of it! Designing and development are important, but equally important is making sure that you have developed it as per the requirements. Ensuring a quality user experience regardless of the user's platform has emerged as one of the primary requirements in web development today. However, you don’t need to worry! A lot of online tools are available to help you with [browser compatibility testing](https://www.lambdatest.com/feature?utm_source=Reddit&utm_campaign=AL-26032019). Here is a comprehensive list of the top twelve browser compatibility testing tools.
 
 ## LambdaTest
 
@@ -433,9 +522,9 @@ Easily run Internet Explorer, Firefox, and other browser compatibility tests usi
 These are some of the most popular browser compatibility testing tools. Browser compatibility testing can be challenging. From switching between browsers and comparing all the results, it involves a lot! It is recommended that you make use of these awesome online tools to ease your job and get quick results.
 
 Source:  [https://dzone.com/articles/top-12-browser-compatibility-testing-tools-for-dev](https://dzone.com/articles/top-12-browser-compatibility-testing-tools-for-dev)",2019-03-27 04:36:54,2019,3,0.2300444767221084,Good,Not Nuetral
-55,W3C is doing a free course on HTML and web dev starting june 1st,341y5p,https://www.reddit.com/r/HTML/comments/341y5p/w3c_is_doing_a_free_course_on_html_and_web_dev/,https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x,2015-04-28 09:48:56,2015,4,0.0,Good,Nuetral
-56,A Beautifully Design Guide to Advanced HTML/CSS,16jvkt,http://learn.shayhowe.com/advanced-html-css/,,2013-01-15 06:33:07,2013,1,0.0,Good,Nuetral
-57,CSS Animations,le0yz7,https://www.reddit.com/r/HTML/comments/le0yz7/css_animations/,"Hey everyone! 
+58,W3C is doing a free course on HTML and web dev starting june 1st,341y5p,https://www.reddit.com/r/HTML/comments/341y5p/w3c_is_doing_a_free_course_on_html_and_web_dev/,https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x,2015-04-28 09:48:56,2015,4,0.0,Good,Nuetral
+59,A Beautifully Design Guide to Advanced HTML/CSS,16jvkt,http://learn.shayhowe.com/advanced-html-css/,,2013-01-15 06:33:07,2013,1,0.0,Good,Nuetral
+60,CSS Animations,le0yz7,https://www.reddit.com/r/HTML/comments/le0yz7/css_animations/,"Hey everyone! 
 
 I've recently (1 day) shifted to CSS animations and have made 4 different ones that can be found here:
 
@@ -450,19 +539,19 @@ I've recently (1 day) shifted to CSS animations and have made 4 different ones t
 &#x200B;
 
 I need ideas. Help me reddit users pls.",2021-02-07 08:29:25,2021,2,0.0,Good,Nuetral
-58,r/Markdown has been brought back from the dead,jiz7xz,https://www.reddit.com/r/HTML/comments/jiz7xz/rmarkdown_has_been_brought_back_from_the_dead/,"A bit of a shameless plug, but I have become the new top mod of r/Markdown, and have re-enabled posting and begun rebuilding the subreddit, and seeing as markdown is used a lot with HTML, I figured I’d let y’all know!",2020-10-28 03:17:37,2020,10,0.29545454545454547,Good,Not Nuetral
-59,What are some good sources to actually practice HTML?,ib8t0d,https://www.reddit.com/r/HTML/comments/ib8t0d/what_are_some_good_sources_to_actually_practice/,"So far, I have done a SoloLearn course on it and watched a one hours basics video taking notes. I want to practice now and I am wondering what are the sources you guys used to start working with HTML?",2020-08-17 22:17:25,2020,8,0.1,Good,Not Nuetral
-60,Entire website blur on menu hover,i3dr2q,https://www.reddit.com/r/HTML/comments/i3dr2q/entire_website_blur_on_menu_hover/,"[https://store.palmangels.com/en/US](https://store.palmangels.com/en/US)
+61,r/Markdown has been brought back from the dead,jiz7xz,https://www.reddit.com/r/HTML/comments/jiz7xz/rmarkdown_has_been_brought_back_from_the_dead/,"A bit of a shameless plug, but I have become the new top mod of r/Markdown, and have re-enabled posting and begun rebuilding the subreddit, and seeing as markdown is used a lot with HTML, I figured I’d let y’all know!",2020-10-28 03:17:37,2020,10,0.29545454545454547,Good,Not Nuetral
+62,What are some good sources to actually practice HTML?,ib8t0d,https://www.reddit.com/r/HTML/comments/ib8t0d/what_are_some_good_sources_to_actually_practice/,"So far, I have done a SoloLearn course on it and watched a one hours basics video taking notes. I want to practice now and I am wondering what are the sources you guys used to start working with HTML?",2020-08-17 22:17:25,2020,8,0.1,Good,Not Nuetral
+63,Entire website blur on menu hover,i3dr2q,https://www.reddit.com/r/HTML/comments/i3dr2q/entire_website_blur_on_menu_hover/,"[https://store.palmangels.com/en/US](https://store.palmangels.com/en/US)
 
 any idea how this is done?",2020-08-04 21:47:17,2020,8,0.0,Good,Nuetral
-61,HTML for Beginners!,gxv881,https://www.reddit.com/r/HTML/comments/gxv881/html_for_beginners/," 
+64,HTML for Beginners!,gxv881,https://www.reddit.com/r/HTML/comments/gxv881/html_for_beginners/," 
 
 Hey guys,
 
 I'm a new youtuber trying to make a coding video series starting off with HTML. Are there any topics within HTML that you guys would like to see me make a video on? Here's my first video if you guys want to take a look at it!
 
 [https://www.youtube.com/watch?v=X0198zBHGeU](https://www.youtube.com/watch?v=X0198zBHGeU)",2020-06-07 09:31:00,2020,6,0.14962121212121213,Good,Not Nuetral
-62,My first HTML course assignment - Pirple.com,ghaken,https://www.reddit.com/r/HTML/comments/ghaken/my_first_html_course_assignment_pirplecom/,"Recently I found out that there was a free HTML and CSS course on [Pirple.com](https://Pirple.com) so I decided to sign up and I am here to share what I have learned. I have learned how to define the document type to HTML and the basic structure of all HTML files that include Head, Body, and Paragraphs. After that, I learned how to create lists, both unordered and ordered.
+65,My first HTML course assignment - Pirple.com,ghaken,https://www.reddit.com/r/HTML/comments/ghaken/my_first_html_course_assignment_pirplecom/,"Recently I found out that there was a free HTML and CSS course on [Pirple.com](https://Pirple.com) so I decided to sign up and I am here to share what I have learned. I have learned how to define the document type to HTML and the basic structure of all HTML files that include Head, Body, and Paragraphs. After that, I learned how to create lists, both unordered and ordered.
 
 Shortly after this, I was given my first assignment: create a simple HTML document with a recipe of my choosing using both kinds of list learned previously, which I will share and explain.
 
@@ -561,14 +650,14 @@ The items between <!-- --> are comments inserted in the program to aid in the un
 `</html>`
 
 I can safely say I learned and I'm excited to learn even more during this course. :)",2020-05-11 14:00:05,2020,5,0.1616661814182195,Good,Not Nuetral
-63,New to HTML/CSS. Is it better to use an HTML table or cSS Grid for This?,ftmvwe,https://www.reddit.com/r/HTML/comments/ftmvwe/new_to_htmlcss_is_it_better_to_use_an_html_table/,"I have a table from Excel that I'm trying to implement in my HTML form. I'm rather new to this, but I've heard that you should generally avoid using HTML tables.
+66,New to HTML/CSS. Is it better to use an HTML table or cSS Grid for This?,ftmvwe,https://www.reddit.com/r/HTML/comments/ftmvwe/new_to_htmlcss_is_it_better_to_use_an_html_table/,"I have a table from Excel that I'm trying to implement in my HTML form. I'm rather new to this, but I've heard that you should generally avoid using HTML tables.
 
 Here's the general format of my [table](https://imgur.com/giaByXO), and the one I'm going to implement in my form will be on a much larger scale. Would it be better to use a table or CSS grid to format this?",2020-04-03 06:04:04,2020,4,0.14727272727272728,Good,Not Nuetral
-64,Merry Christmas!,efdj4f,https://www.reddit.com/r/HTML/comments/efdj4f/merry_christmas/,Thank you all in this sub for helping each other and being great human beings! I recently discovered here and began posting and everyone responds so quickly its refreshing. So far so great!,2019-12-25 23:17:39,2019,12,0.3260416666666667,Good,Not Nuetral
-65,How is it Soundcloud is able to seamlessly play music while navigating to different pages?,3aghsa,https://www.reddit.com/r/HTML/comments/3aghsa/how_is_it_soundcloud_is_able_to_seamlessly_play/,I'm a noob. Does it have to do with setting the function of the music player outside the separate pages hosting the content? ,2015-06-20 15:26:23,2015,6,0.0,Good,Nuetral
-66,A site i whipped up quick for giving the window size. I thought it might be useful for some of you.,2kmx4b,http://window-size.com,,2014-10-29 18:22:11,2014,10,0.0,Good,Nuetral
-67,Should we require all questions to have a jsFiddle? Vote now to decide on next week's rule change.,25c2u0,http://www.poll4you.com/showpoll.php?id=48422&type=link,,2014-05-12 20:34:08,2014,5,0.0,Good,Nuetral
-68,"new learner, the office fan",j206me,https://www.reddit.com/r/HTML/comments/j206me/new_learner_the_office_fan/,"hi people, I started to learn html/css/javascript a few months ago and as a the office fan I decided to do my first landing page project by myself a dunder mifflin landing page. I did the first time two months ago and it looked terrible, now that I learned a little more I decided to improve it. 
+67,Merry Christmas!,efdj4f,https://www.reddit.com/r/HTML/comments/efdj4f/merry_christmas/,Thank you all in this sub for helping each other and being great human beings! I recently discovered here and began posting and everyone responds so quickly its refreshing. So far so great!,2019-12-25 23:17:39,2019,12,0.3260416666666667,Good,Not Nuetral
+68,How is it Soundcloud is able to seamlessly play music while navigating to different pages?,3aghsa,https://www.reddit.com/r/HTML/comments/3aghsa/how_is_it_soundcloud_is_able_to_seamlessly_play/,I'm a noob. Does it have to do with setting the function of the music player outside the separate pages hosting the content? ,2015-06-20 15:26:23,2015,6,0.0,Good,Nuetral
+69,A site i whipped up quick for giving the window size. I thought it might be useful for some of you.,2kmx4b,http://window-size.com,,2014-10-29 18:22:11,2014,10,0.0,Good,Nuetral
+70,Should we require all questions to have a jsFiddle? Vote now to decide on next week's rule change.,25c2u0,http://www.poll4you.com/showpoll.php?id=48422&type=link,,2014-05-12 20:34:08,2014,5,0.0,Good,Nuetral
+71,"new learner, the office fan",j206me,https://www.reddit.com/r/HTML/comments/j206me/new_learner_the_office_fan/,"hi people, I started to learn html/css/javascript a few months ago and as a the office fan I decided to do my first landing page project by myself a dunder mifflin landing page. I did the first time two months ago and it looked terrible, now that I learned a little more I decided to improve it. 
 
 If you can check and see what can be improved. I have a problem with the navbar for mobile that I can't fix :/
 
@@ -579,9 +668,9 @@ and this is the code [https://github.com/Gabrielamcarvalho/DunderMifflin](https:
 &#x200B;
 
 thanks in advance",2020-09-30 06:24:19,2020,9,-0.05468749999999999,Bad,Not Nuetral
-69,I lack creativity,i1o7tj,https://www.reddit.com/r/HTML/comments/i1o7tj/i_lack_creativity/,"Morning all! First time poster here. So I have spent some time learning html and css and I am loving it. My problem? I am about as creative as a potato. I am thinking of copying other websites and seeing if I can code something that looks the same. Is this a good idea and If so can anyone recommend some sites that a beginner could do? 
+72,I lack creativity,i1o7tj,https://www.reddit.com/r/HTML/comments/i1o7tj/i_lack_creativity/,"Morning all! First time poster here. So I have spent some time learning html and css and I am loving it. My problem? I am about as creative as a potato. I am thinking of copying other websites and seeing if I can code something that looks the same. Is this a good idea and If so can anyone recommend some sites that a beginner could do? 
 Thanks all!",2020-08-01 23:20:25,2020,8,0.259375,Good,Not Nuetral
-70,Stroke Text CSS: 📕 The Definitive Guide,i0hbat,https://www.reddit.com/r/HTML/comments/i0hbat/stroke_text_css_the_definitive_guide/,"#  [Stroke Text CSS: 📕 The Definitive Guide](http://www.coding-dude.com/wp/css/css-stroke-text/)
+73,Stroke Text CSS: 📕 The Definitive Guide,i0hbat,https://www.reddit.com/r/HTML/comments/i0hbat/stroke_text_css_the_definitive_guide/,"#  [Stroke Text CSS: 📕 The Definitive Guide](http://www.coding-dude.com/wp/css/css-stroke-text/)
 
 In this tutorial I will show you how to create the **stroke text CSS** effect.
 
@@ -592,65 +681,109 @@ There’s actually more than one way to do this, and as I would like this to be 
 * Add Stroke To Text Using CSS SVG Filters
 * SVG Text Outline
 * HTML5 Canvas Text Outline",2020-07-30 22:47:06,2020,7,0.5,Good,Not Nuetral
-71,Stupid question but I’m new,ewoccj,https://www.reddit.com/r/HTML/comments/ewoccj/stupid_question_but_im_new/,How do you post your website on the internet? I’m new and want to experiment with ideas but I don’t know how to put my work up on the internet.,2020-02-01 05:18:04,2020,2,0.13636363636363635,Good,Not Nuetral
-72,"Yo dudes I’m a new timer here. Can anyone tell me how to put a website on the internet for everyone to see, and whether the procedure is free or not? I don’t know where to start so yeah.",dkweca,https://www.reddit.com/r/HTML/comments/dkweca/yo_dudes_im_a_new_timer_here_can_anyone_tell_me/,No text post just title,2019-10-21 22:33:25,2019,10,0.0,Good,Nuetral
-73,Why should I learn JavaScript after learning HTML and CSS?,blhwg9,https://www.reddit.com/r/HTML/comments/blhwg9/why_should_i_learn_javascript_after_learning_html/,I’ve been hearing that you should learn JavaScript and I just want to know what are the benefits of learning it and what it has to do with WebDevelopment. Sorry if I I sound dumb I am new to all of this.,2019-05-07 13:23:09,2019,5,-0.0846590909090909,Bad,Not Nuetral
-74,Would you guys like to see an online real-time HTML and CSS editor that you can edit with friends ?,3hww8j,https://www.reddit.com/r/HTML/comments/3hww8j/would_you_guys_like_to_see_an_online_realtime/,Would you guys like to see an online real-time HTML and CSS editor that you can edit with friends ? basically google docs but with custom color pack thingy for tags and more html stuff... my friend and i are working on this and we are doing it for fun but if we gain enough followers we will release it ,2015-08-22 16:03:05,2015,8,0.26666666666666666,Good,Not Nuetral
-75,What are some good rules of thumb for making a webpage look good?,hvgl80,https://www.reddit.com/r/HTML/comments/hvgl80/what_are_some_good_rules_of_thumb_for_making_a/,"I don't really know the ins and outs of HTML or CSS, but I know the very very very basics. So what's a good starting point for a CSS file? Like what are the minimum things you should do to make the webpage look better than it's CSS-less version?
+74,Stupid question but I’m new,ewoccj,https://www.reddit.com/r/HTML/comments/ewoccj/stupid_question_but_im_new/,How do you post your website on the internet? I’m new and want to experiment with ideas but I don’t know how to put my work up on the internet.,2020-02-01 05:18:04,2020,2,0.13636363636363635,Good,Not Nuetral
+75,"Yo dudes I’m a new timer here. Can anyone tell me how to put a website on the internet for everyone to see, and whether the procedure is free or not? I don’t know where to start so yeah.",dkweca,https://www.reddit.com/r/HTML/comments/dkweca/yo_dudes_im_a_new_timer_here_can_anyone_tell_me/,No text post just title,2019-10-21 22:33:25,2019,10,0.0,Good,Nuetral
+76,Why should I learn JavaScript after learning HTML and CSS?,blhwg9,https://www.reddit.com/r/HTML/comments/blhwg9/why_should_i_learn_javascript_after_learning_html/,I’ve been hearing that you should learn JavaScript and I just want to know what are the benefits of learning it and what it has to do with WebDevelopment. Sorry if I I sound dumb I am new to all of this.,2019-05-07 13:23:09,2019,5,-0.0846590909090909,Bad,Not Nuetral
+77,Would you guys like to see an online real-time HTML and CSS editor that you can edit with friends ?,3hww8j,https://www.reddit.com/r/HTML/comments/3hww8j/would_you_guys_like_to_see_an_online_realtime/,Would you guys like to see an online real-time HTML and CSS editor that you can edit with friends ? basically google docs but with custom color pack thingy for tags and more html stuff... my friend and i are working on this and we are doing it for fun but if we gain enough followers we will release it ,2015-08-22 16:03:05,2015,8,0.26666666666666666,Good,Not Nuetral
+78,Table Tag in HTML; What did I do wrong?,lt6c6k,https://www.reddit.com/r/HTML/comments/lt6c6k/table_tag_in_html_what_did_i_do_wrong/,"What did I do wrong for my code to execute like this( [https://imgur.com/Hn9qNxC](https://imgur.com/Hn9qNxC) )?
+
+My code: [https://pastebin.com/e70daxAM](https://pastebin.com/e70daxAM)
+
+Thank you in advance for any help.
+
+EDIT: Sorry about the ambiguity. I was trying to get a 2x2 table and have 2 equations stacking with the answer in the cell on the right. The pic above was pushing a couple rows into a third column I didn't want. I was trying to use the rowspans to practice, but I wasn't using them like I thought I was. For what I was trying to do, the rowspans weren't necessary at all. Appreciate the help.",2021-02-27 11:58:34,2021,2,-0.20918367346938777,Bad,Not Nuetral
+79,What are some good rules of thumb for making a webpage look good?,hvgl80,https://www.reddit.com/r/HTML/comments/hvgl80/what_are_some_good_rules_of_thumb_for_making_a/,"I don't really know the ins and outs of HTML or CSS, but I know the very very very basics. So what's a good starting point for a CSS file? Like what are the minimum things you should do to make the webpage look better than it's CSS-less version?
 
 I'm not an artistic person so I really struggle with envisioning how the webpage should look, which makes it hard to create an appealing webpage.",2020-07-22 13:43:56,2020,7,0.26685185185185184,Good,Not Nuetral
-76,Need a converter for a Really large HTML file.,ahi0qm,https://www.reddit.com/r/HTML/comments/ahi0qm/need_a_converter_for_a_really_large_html_file/,"I’m not that computer savvy and I don’t know if this is the right place for help. Essentially, I have a very large HTML file (119 MB) and I would like to convert it to a PDF, word doc or similar. 
+80,Need a converter for a Really large HTML file.,ahi0qm,https://www.reddit.com/r/HTML/comments/ahi0qm/need_a_converter_for_a_really_large_html_file/,"I’m not that computer savvy and I don’t know if this is the right place for help. Essentially, I have a very large HTML file (119 MB) and I would like to convert it to a PDF, word doc or similar. 
 
 It is so large because it is 2.5 years of skype conversation with my now deceased fiancé. I’d like to have a PDF version. 
 
 If I can break the HTML version down somehow and convert it that way, that works too. All I have is an HTML version. ",2019-01-19 18:42:47,2019,1,0.10383597883597884,Good,Not Nuetral
-77,What are some of the coolest examples of websites built with just HTML?,7ww5bh,https://www.reddit.com/r/HTML/comments/7ww5bh/what_are_some_of_the_coolest_examples_of_websites/,,2018-02-12 14:30:11,2018,2,0.0,Good,Nuetral
-78,Check out my drop-down navbar tutorial :),7lrkrd,https://www.reddit.com/r/HTML/comments/7lrkrd/check_out_my_dropdown_navbar_tutorial/,https://www.youtube.com/watch?v=IFnOootMXaw,2017-12-24 14:43:45,2017,12,0.0,Good,Nuetral
-79,"ELI5 please, what is the precise difference between .htm and .html",5otuca,https://www.reddit.com/r/HTML/comments/5otuca/eli5_please_what_is_the_precise_difference/,"I've taken a number of web design/dev classes over the last few years. 
+81,What are some of the coolest examples of websites built with just HTML?,7ww5bh,https://www.reddit.com/r/HTML/comments/7ww5bh/what_are_some_of_the_coolest_examples_of_websites/,,2018-02-12 14:30:11,2018,2,0.0,Good,Nuetral
+82,Check out my drop-down navbar tutorial :),7lrkrd,https://www.reddit.com/r/HTML/comments/7lrkrd/check_out_my_dropdown_navbar_tutorial/,https://www.youtube.com/watch?v=IFnOootMXaw,2017-12-24 14:43:45,2017,12,0.0,Good,Nuetral
+83,"ELI5 please, what is the precise difference between .htm and .html",5otuca,https://www.reddit.com/r/HTML/comments/5otuca/eli5_please_what_is_the_precise_difference/,"I've taken a number of web design/dev classes over the last few years. 
 
 The class I'm in now is the first one where the instructor is having us make index.htm pages instead of .html.
 
 I was just wondering, what is the exact difference?
 
 Thanks!",2017-01-19 18:07:45,2017,1,0.11000000000000001,Good,Not Nuetral
-80,"Googling for ""colour picker"" gets you Google's colour picker",551q6p,https://www.reddit.com/r/HTML/comments/551q6p/googling_for_colour_picker_gets_you_googles/,"[Here, confirm that it's neat](https://www.google.se/search?q=colour+picker&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=IPzsV6CRCMmq8wfN3KboDQ)!",2016-09-30 03:35:29,2016,9,0.0,Good,Nuetral
-81,"Programmer OP asking about HTML tattoo delivers, see the tattoo",4b70km,https://www.reddit.com/r/HTML/comments/4b70km/programmer_op_asking_about_html_tattoo_delivers/,"http://imgur.com/Lk472e3
+84,"Googling for ""colour picker"" gets you Google's colour picker",551q6p,https://www.reddit.com/r/HTML/comments/551q6p/googling_for_colour_picker_gets_you_googles/,"[Here, confirm that it's neat](https://www.google.se/search?q=colour+picker&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=IPzsV6CRCMmq8wfN3KboDQ)!",2016-09-30 03:35:29,2016,9,0.0,Good,Nuetral
+85,"Programmer OP asking about HTML tattoo delivers, see the tattoo",4b70km,https://www.reddit.com/r/HTML/comments/4b70km/programmer_op_asking_about_html_tattoo_delivers/,"http://imgur.com/Lk472e3
 
 Thank you all for the help!  I think it turned out well.",2016-03-21 01:58:27,2016,3,0.0,Good,Nuetral
-82,USING SVG TO SHRINK YOUR PNGS,2u716b,http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/,,2015-01-31 05:31:58,2015,1,0.0,Good,Nuetral
-83,My first website ! (Portfolio website),loeiu2,https://www.reddit.com/r/HTML/comments/loeiu2/my_first_website_portfolio_website/,"Hello, I just finished my first website made from scratch (except a part the image slideshow system) and wanted to share it. Feel free to give feedback ! 
+86,USING SVG TO SHRINK YOUR PNGS,2u716b,http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/,,2015-01-31 05:31:58,2015,1,0.0,Good,Nuetral
+87,"New to HTML, need help adding internal CSS",m0sdph,https://www.reddit.com/r/HTML/comments/m0sdph/new_to_html_need_help_adding_internal_css/,"Hi I'm brand new to HTML 5 and am having an issues with my coding it goes as follow
+
+<!DOCTYPE html>  
+
+
+<html>  
+
+
+  <head>  
+
+
+<title> CSS Intro </title>  
+
+
+<style type=""text/css"">  
+body {  
+font-family: arial:  
+background-color: rgb(10,128,128):}  
+h1 {  
+color: rgb(213,213,213):}        
+</style>  
+
+
+  </head>  
+
+
+  <body>  
+
+
+<h1>  Hi  
+
+
+But when I apply this to my HTML editor the CSS does not seem to work and my text appears normal is my dumbass missing or forgetting anything or am I doing it completely wrong?
+
+Edit: Reddit does not wish to use my spacing I apologize
+
+&#x200B;",2021-03-09 14:49:18,2021,3,0.0977272727272727,Good,Not Nuetral
+88,My first website ! (Portfolio website),loeiu2,https://www.reddit.com/r/HTML/comments/loeiu2/my_first_website_portfolio_website/,"Hello, I just finished my first website made from scratch (except a part the image slideshow system) and wanted to share it. Feel free to give feedback ! 
 
 The website:    http://evan.werquin.free.fr/
 
 **(menu is not perfect on mobile yet)**",2021-02-21 11:23:10,2021,2,0.08333333333333333,Good,Not Nuetral
-84,Clueless teacher with a question for someone who knows anything about HTML,lg77hq,https://www.reddit.com/r/HTML/comments/lg77hq/clueless_teacher_with_a_question_for_someone_who/,"Hello, History teacher here. I am completely illiterate in HTML but I found a map I'd really like to use for a class project, problem is, I'd need some of the text removed. There's a link on the side of this page that seems to indicate this file is HTML format. I want to know Would someone who knew what they were doing be able to remove some or all of the text from this file? Before I go around asking on Fiverr or something I wanted to see if this is something that is possible/simple for someone to do. Thanks for the help! 
+89,Clueless teacher with a question for someone who knows anything about HTML,lg77hq,https://www.reddit.com/r/HTML/comments/lg77hq/clueless_teacher_with_a_question_for_someone_who/,"Hello, History teacher here. I am completely illiterate in HTML but I found a map I'd really like to use for a class project, problem is, I'd need some of the text removed. There's a link on the side of this page that seems to indicate this file is HTML format. I want to know Would someone who knew what they were doing be able to remove some or all of the text from this file? Before I go around asking on Fiverr or something I wanted to see if this is something that is possible/simple for someone to do. Thanks for the help! 
 https://commons.wikimedia.org/wiki/File:Pacific_Area_-_Imperial_Powers_1939_-_Map.svg",2021-02-10 08:35:46,2021,2,0.2625,Good,Not Nuetral
-85,Natural Selection - CSS Framework without any styling.,kv62yy,https://www.reddit.com/r/HTML/comments/kv62yy/natural_selection_css_framework_without_any/,"Hi! I created a list of CSS selectors that are often used. It is kind of a CSS boilerplate that provides most element selectors that you would need to style in your next projects. But unlike traditional CSS frameworks, it does not style anything at all. What do you think of it?
+90,Natural Selection - CSS Framework without any styling.,kv62yy,https://www.reddit.com/r/HTML/comments/kv62yy/natural_selection_css_framework_without_any/,"Hi! I created a list of CSS selectors that are often used. It is kind of a CSS boilerplate that provides most element selectors that you would need to style in your next projects. But unlike traditional CSS frameworks, it does not style anything at all. What do you think of it?
 
 https://github.com/frontaid/natural-selection",2021-01-12 08:29:43,2021,1,0.2,Good,Not Nuetral
-86,My first webpage! What do u think?,jzeehb,https://www.reddit.com/r/HTML/comments/jzeehb/my_first_webpage_what_do_u_think/,"I  created a webpage to practice my HTML and CSS skills (and to celebrate  Christmas). It's just one page, but I've been studying HTML and CSS for  only two weeks, so I'm no expert yet. Here's the link:
+91,My first webpage! What do u think?,jzeehb,https://www.reddit.com/r/HTML/comments/jzeehb/my_first_webpage_what_do_u_think/,"I  created a webpage to practice my HTML and CSS skills (and to celebrate  Christmas). It's just one page, but I've been studying HTML and CSS for  only two weeks, so I'm no expert yet. Here's the link:
 
 [https://github.com/tika-glitch/Merry-Christmas](https://github.com/tika-glitch/Merry-Christmas). Please tell me what you think of it in the comments or in the issues. Thanks.",2020-11-24 01:13:15,2020,11,0.1,Good,Not Nuetral
-87,Looking for a pure HTML site,jqy3g1,https://www.reddit.com/r/HTML/comments/jqy3g1/looking_for_a_pure_html_site/,"Some time ago I found this amazing site written in pure HTML, responsive and cool looking. The only thing I remember was that the content was quite sassy and humorous, explaining how minimal and simple it was. It also showed how to make a site in that way.
+92,Looking for a pure HTML site,jqy3g1,https://www.reddit.com/r/HTML/comments/jqy3g1/looking_for_a_pure_html_site/,"Some time ago I found this amazing site written in pure HTML, responsive and cool looking. The only thing I remember was that the content was quite sassy and humorous, explaining how minimal and simple it was. It also showed how to make a site in that way.
 
 There was no colors or eye candies, just plain black text on white background.
 
 Can you help me find that site? Thank you in advance! ",2020-11-10 06:01:27,2020,11,0.11833333333333333,Good,Not Nuetral
-88,The Best Web Development Courses Online to Learn Web Development in 2020 | thecodingpie,j9s41t,https://www.reddit.com/r/HTML/comments/j9s41t/the_best_web_development_courses_online_to_learn/,"Hey friends, I have curated a list of **the best web development courses** available online to learn web development in 2020.
+93,The Best Web Development Courses Online to Learn Web Development in 2020 | thecodingpie,j9s41t,https://www.reddit.com/r/HTML/comments/j9s41t/the_best_web_development_courses_online_to_learn/,"Hey friends, I have curated a list of **the best web development courses** available online to learn web development in 2020.
 
 Whether you are a beginner or an established JS programmer, there is something for everyone...
 
 You can find the list here on Medium.com - [https://medium.com/@thecodingpie/9-best-web-development-courses-online-in-2020-a61e3a67f83e?source=friends\_link&sk=dd9cf6f41949239c4f54df3c5c55595c](https://medium.com/@thecodingpie/9-best-web-development-courses-online-in-2020-a61e3a67f83e?source=friends_link&sk=dd9cf6f41949239c4f54df3c5c55595c)
 
 I hope you will find this blog post useful. These are by far the best web development courses available online in 2020. If you have any doubts or If you think I had missed any course names then feel free to comment on my blog. Thank you ;)",2020-10-13 06:42:35,2020,10,0.48124999999999996,Good,Not Nuetral
-89,I made a site to track your TV shows and calculate your watch time!,j987q8,https://www.reddit.com/r/HTML/comments/j987q8/i_made_a_site_to_track_your_tv_shows_and/," 
+94,I made a site to track your TV shows and calculate your watch time!,j987q8,https://www.reddit.com/r/HTML/comments/j987q8/i_made_a_site_to_track_your_tv_shows_and/," 
 
 Live demo: [https://junkies-200810.web.app/](https://junkies-200810.web.app/)
 
 The source code can be found here: [https://gitlab.com/tobiaskaufmann/junkies-series-tracker](https://gitlab.com/tobiaskaufmann/junkies-series-tracker)
 
 The main technologies I used for this simple project are Angular and Firebase for the Backend. Besides some styling with CSS this was really not a lot of work but if you still have some questions feel free to ask them below :)",2020-10-12 08:15:14,2020,10,-0.049621212121212135,Bad,Not Nuetral
-90,"What is the cookie ""acceptCookies"" and how do I get rid of it? (My website)",hrwked,https://www.reddit.com/r/HTML/comments/hrwked/what_is_the_cookie_acceptcookies_and_how_do_i_get/,"Hello there,
+95,"What is the cookie ""acceptCookies"" and how do I get rid of it? (My website)",hrwked,https://www.reddit.com/r/HTML/comments/hrwked/what_is_the_cookie_acceptcookies_and_how_do_i_get/,"Hello there,
 
 I'm hosting a website on Linode (Apache2 on Ubuntu) and I have created a rather simple website which explicitly has no Cookies and does not use any external content (such as Facebook Pixel / Like or a Youtube Video). Every content on this site comes from the webserver itself (to my knowledge, I don't use any analytics or anything it's just blank html basically in my /html folder in Apache2).
 
@@ -667,7 +800,7 @@ Cheers
 &#x200B;
 
 \[Edit\] Additional information: It was created today 16:14 UTC+2 and expires September 13th 2020. At this time I was probably working on the site (uploading and changing HTML code via SFTP).",2020-07-16 13:30:41,2020,7,-0.05541666666666667,Bad,Not Nuetral
-91,"Why do Safari links with target=""_blank"" download an HTML instead of opening the page in a new window?",gvpiai,https://www.reddit.com/r/HTML/comments/gvpiai/why_do_safari_links_with_target_blank_download_an/,"Hi,
+96,"Why do Safari links with target=""_blank"" download an HTML instead of opening the page in a new window?",gvpiai,https://www.reddit.com/r/HTML/comments/gvpiai/why_do_safari_links_with_target_blank_download_an/,"Hi,
 
 I have a page with some links like this:
 
@@ -686,9 +819,9 @@ Note: I'm setting the href attribute dynamically from JS, could that be the caus
 &#x200B;
 
 thanks!",2020-06-03 23:45:21,2020,6,-0.12738636363636363,Bad,Not Nuetral
-92,Is creating tables with <table> still a thing?,grcsn7,https://www.reddit.com/r/HTML/comments/grcsn7/is_creating_tables_with_table_still_a_thing/,"I’m creating a data table but I forgot that <table> existed and just created it with a bunch of divs, what are the pros of using the table tag with it defined syntax vs using regular divs and css to style it?",2020-05-27 20:29:22,2020,5,0.0,Good,Nuetral
-93,What do i need to ask website owner to give me to be able to edit it?,cm8wgk,https://www.reddit.com/r/HTML/comments/cm8wgk/what_do_i_need_to_ask_website_owner_to_give_me_to/," So our company is ending conrtact with people that are updating our site, what do i need to ask them to send me, so i can do it myself ?",2019-08-06 01:42:00,2019,8,0.0,Good,Nuetral
-94,Career transition from non tech background to Web Developer,cayadw,https://www.reddit.com/r/HTML/comments/cayadw/career_transition_from_non_tech_background_to_web/," Hi guys, I work as a blogger and I run few money sites. I am above average to good at computers but I have not learned any computer language. I am from Mass Communication background. Now I want to switch career and start doing something that is more relevant to my work. I just turned 25 and I have a masters degree in Mass Communication. I wasted 2 years after my grad I was trying my luck with photography. I didn't like the environment and unorganized structure of the industry.
+97,Is creating tables with <table> still a thing?,grcsn7,https://www.reddit.com/r/HTML/comments/grcsn7/is_creating_tables_with_table_still_a_thing/,"I’m creating a data table but I forgot that <table> existed and just created it with a bunch of divs, what are the pros of using the table tag with it defined syntax vs using regular divs and css to style it?",2020-05-27 20:29:22,2020,5,0.0,Good,Nuetral
+98,What do i need to ask website owner to give me to be able to edit it?,cm8wgk,https://www.reddit.com/r/HTML/comments/cm8wgk/what_do_i_need_to_ask_website_owner_to_give_me_to/," So our company is ending conrtact with people that are updating our site, what do i need to ask them to send me, so i can do it myself ?",2019-08-06 01:42:00,2019,8,0.0,Good,Nuetral
+99,Career transition from non tech background to Web Developer,cayadw,https://www.reddit.com/r/HTML/comments/cayadw/career_transition_from_non_tech_background_to_web/," Hi guys, I work as a blogger and I run few money sites. I am above average to good at computers but I have not learned any computer language. I am from Mass Communication background. Now I want to switch career and start doing something that is more relevant to my work. I just turned 25 and I have a masters degree in Mass Communication. I wasted 2 years after my grad I was trying my luck with photography. I didn't like the environment and unorganized structure of the industry.
 
 Learning web development can serve a dual purpose, on one side I would be able to better manage my own websites and on the contrary, I can also get some freelance work online.
 
@@ -697,75 +830,3 @@ I watched a few videos and I loved HTML on the initial level. I have studied onl
 What do you guys suggest, is it a wise thing to do at this point?
 
 I hope I can get some guidance from real pros.",2019-07-10 00:53:34,2019,7,0.23823529411764705,Good,Not Nuetral
-95,40 questions about html,6bu73h,https://www.reddit.com/r/HTML/comments/6bu73h/40_questions_about_html/,"Here are about HTML test your knowledge. Feedback is also welcome. I'm using this to test students. 
-
-1. What is a tag? 
-2. Write the boilerplater HTML tags. 
-3. what is the head tag? 
-4. What is the title tag?
-5. Write a page that displays your name as a heading. 
-6. Mark up the sample text to the best of your ability. Focus on choosing the best tags to 
-describe the content. (The example text looks for good use of semantic HTML)
-7. What is semantic HTML? 
-8. What is an attribute? 
-9. Why use the meta tag?
-10. Explain the img tag and it's attributes.
-11. Describe the form tag and it's attributes. 
-12. What is an html entity?
-13. Use the figure tag? 
-14. What is an HTML element?
-15. What is the doctype? 
-16. Write a comment in HTML.
-17. What is an anchor tag?
-18. Mark up the sample text to the best of your ability. Focus on choosing the best tags to 
-describe the content. (The sample text looks for contextual tags) 
-19. What is the difference between SVG and Canvas?
-20. What is the difference between the frame and div tags?
-21. What is the difference between the article and section tags?
-22. Why use the article tag? 
-23. What is the option tag used for? 
-24. What's best practice when naming custom attributes? 
-25. What is the definition list? Write a short example. 
-26. Is HTML case sensitive? 
-27. Create a link to an element on the same page?
-28. What's the difference between a quote and a blockquote? 
-29. What is an image map? 
-30. What is a table? Write a an example with a header, three rows, and three columns. 
-31. When would use a table? Name three use cases. 
-32. What does the placeholder attribute do? 
-33. Write an input that only accepts the numbers 3 to 5. 
-34. Write a link that opens the default mail application? 
-35. Why use the br tag? 
-36. How would you use the header and footer? 
-37. Name the headings?
-38. What is a an iframe?
-39. Can you play video? If so how?  
-40. Can you play audio? If so how? 
-41. What is the option tag used for? ",2017-05-18 21:12:31,2017,5,0.6,Good,Not Nuetral
-96,9 important form concepts to master,2ej5ru,http://vegibit.com/the-top-9-most-important-html-form-concepts-you-should-master/,,2014-08-26 06:27:36,2014,8,0.0,Good,Nuetral
-97,[MOD] Please read this post before asking a question,1y1i5p,https://www.reddit.com/r/HTML/comments/1y1i5p/mod_please_read_this_post_before_asking_a_question/,"We have had a lot of questions recently which really aren't suited to the QA format that /r/HTML provides. While we want to keep the community as open as possible, we would like to ask that you try to only post questions which have an answer.
-
-What this means is that a question like ""I want my website to let users sign up and post stuff, like Facebook. How do I do this with HTML?"" are not really suited due to the huge scope of the question. We won't remove these questions, however we do discourage them.
-
-I would also like to take this time to clarify what HTML is. HTML is a markup language. This means that it is used for static pages or content. Below is a list of some frequently asked things which HTML cannot do:
-
-* Let users login/register
-* Connect to a database or anything related
-* Write to a file
-* Save things anywhere
-
-All of those things, and lots more, must be done server side. This means with a language like PHP (/r/php) or Node.js (/r/nodejs). HTML cannot do any of those things. Please ask yourself if your question falls under any of those categories before posting it.
-
-Thanks!
-
-/r/HTML Mods",2014-02-16 21:41:26,2014,2,0.1326923076923077,Good,Not Nuetral
-98,Job offers and developers,kac6hw,https://www.reddit.com/r/HTML/comments/kac6hw/job_offers_and_developers/,"Hi!,
-
-I found out that it is really hard to find a good discord server where I can find job offers or post an offer for developers... Because of that I decided to create a new discord server only for that. I would like to create a nice, friendly community to help each other finding new projects or developers to develop new incredible things! I would like to invite you there, here is a link [https://disboard.org/server/785944707582656513](https://disboard.org/pl/server/785944707582656513) I am also looking for mods and people that would like to help me to grow it so please feel free to write to me and ask for joining our admins!
-
-Kind regards",2020-12-11 01:06:52,2020,12,0.2974941724941725,Good,Not Nuetral
-99,is there any difference between just using <a> and styling it like a button or using <button>?,jifsvn,https://www.reddit.com/r/HTML/comments/jifsvn/is_there_any_difference_between_just_using_a_and/,"Hi
-
-In some courses I have seen the instructor using just an <a> tag and with CSS making it look like a button without using a <button> tag. Is there any advance/disadvantage to this?
-
-Thanks",2020-10-27 06:44:11,2020,10,0.2,Good,Not Nuetral
