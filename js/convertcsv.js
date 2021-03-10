@@ -43,7 +43,7 @@ CsvToHtmlTable = {
                         if (cellTemplateFunc) {
                             $tableBodyRowTd.html(cellTemplateFunc(rowData));
                         } else {
-                            if (rowData.length > 25) {
+                            if (rowData.length > 15) {
                                 rowData = rowData.substring(0, 25) + '...';
                             }
                             $tableBodyRowTd.text(rowData);

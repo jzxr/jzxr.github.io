@@ -108,7 +108,7 @@ div.dataTables_scrollBody table.dataTable thead .sorting_desc:after {
 
 table.dataTable thead .sorting_asc_disabled:after,
 table.dataTable thead .sorting_desc_disabled:after {
-	color: #eee;
+	color: rgb(255, 255, 255);
 }
 
 table.dataTable thead > tr > th {
@@ -134,7 +134,7 @@ table.dataTable.table-condensed thead .sorting_desc:after {
 
 /* Scrolling */
 div.dataTables_scrollHead table {
-	margin-bottom: 0 !important;
+	margin-bottom: 10 !important;
 	border-bottom-left-radius: 0;
 	border-bottom-right-radius: 0;
 }
