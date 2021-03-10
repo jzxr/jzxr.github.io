@@ -1,271 +1,365 @@
 ,Tweet Content,User Name,HashTags,Retweet Count,Favourite Count,URL
-0,Measuring effect size in ALDEx2  {https://t.co/7c5uGldhxq} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",0,0,https://twitter.com/dorianhmekni/status/1369564246430932993
-1,Accounting for the experimental design in linear/nonlinear regression analyses  {https://t.co/CqiZ9LNU3j} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",0,0,https://twitter.com/dorianhmekni/status/1369564165602480129
-2,Cool 3D plots  {https://t.co/M4G7fo6Yai} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",1,0,https://twitter.com/dorianhmekni/status/1369564060405096451
-3,From ”for()” loops to the ”split-apply-combine” paradigm for column-wise tasks: the transit  {https://t.co/2C9PzOgaOD} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",0,0,https://twitter.com/dorianhmekni/status/1369563884974145539
-4,Tracking Stan sampling progress in Shiny  {https://t.co/3DdyvF64L8} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",0,0,https://twitter.com/dorianhmekni/status/1369563825066938370
-5,"Zensar wins at 11th Annual Aegis Graham Bell Awards - https://t.co/1xIPvfOiO1 - thanks @RichardEudes #Analytics,#MachineLearning,#ArtificialIntelligence,#DataScience",AnalyticsFr,"['Analytics', 'MachineLearning', 'ArtificialIntelligence', 'DataScience']",1,0,https://twitter.com/AnalyticsFr/status/1369563116313448451
-6,"What is Artificial Intelligence? Explanation to: elementary school students, professionals and scientists - Entrepreneur
+0,"These days I'm a little busy, but after finishing working, I study about #GCP about 1 hour a day.
+GCP has been garnering attention, so I focus on studying about it in March and April.
+
+I keep on trying something new😌
 
-Read more here: https://t.co/OdZRn82pfY
+#DataScience 
+#AI",hawaiidatascie1,"['GCP', 'DataScience', 'AI']",1,0,https://twitter.com/hawaiidatascie1/status/1369639608217001984
+1,Introductory time series forecasting with torch via #rbloggers #rstats #datascience https://t.co/7IFCuomEIv,dataclaudius,"['rbloggers', 'rstats', 'datascience']",1,0,https://twitter.com/dataclaudius/status/1369639530035347457
+2,"#ExchangeServer Can’t Mount #Databases Over 1024GB: What To Do?
+
+https://t.co/MXy9MIuyoU
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",2,0,https://twitter.com/RobynPope83/status/1369563116145582082
-7,"Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems - PRNewswire
+Coincidentally
+Currently available
 
-Read more here: https://t.co/IvkkSKKPw2
+↪️https://t.co/ET8jCeGJ3E↩️
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",2,0,https://twitter.com/RobynPope83/status/1369563113306157060
-8,"Achieving artificial intelligence results at scale: an action plan for - Fast Company
+Pay 12 monthly installments
 
-Read more here: https://t.co/gW112OIvMi
+#data #BigData #Database #DataScience #DataScientist #datatesting #technology #SiliconValley #AI",JJdomains,"['ExchangeServer', 'Databases', 'data', 'BigData', 'Database', 'DataScience', 'DataScientist', 'datatesting', 'technology', 'SiliconValley', 'AI']",2,2,https://twitter.com/JJdomains/status/1369639408194961408
+3,"It’s #WiDSPittsburgh @CarnegieMellon Day! Over 360 people virtually talking about #DataScience. A huge thanks to @Pittsburgh City Council for declaring today “Women in Data Science Day”! If Data Science were a country, Pittsburgh would be the capital. https://t.co/fwdCrsstpz https://t.co/taHLi5IACR",CMU_Stats,"['WiDSPittsburgh', 'DataScience']",0,0,https://twitter.com/CMU_Stats/status/1369639364217692168
+4,Only 10 minutes? #Podcast #EmergingTech Sub to our daily sound bite! #TheDigitalExecutive #Coruzant @Coruzant #Digital #Publication #AI #ML #SiliconValley #Blockchain #AR #VR #NLP #RPA #Startups #DevOps #Cloud #CyberSecurity #DataScience #HealthTech 10 https://t.co/HGgP3rGATq https://t.co/t01OEuymzs,DivergentCIO,"['Podcast', 'EmergingTech', 'TheDigitalExecutive', 'Coruzant', 'Digital', 'Publication', 'AI', 'ML', 'SiliconValley', 'Blockchain', 'AR', 'VR', 'NLP', 'RPA', 'Startups', 'DevOps', 'Cloud', 'CyberSecurity', 'DataScience', 'HealthTech']",1,0,https://twitter.com/DivergentCIO/status/1369639211704451079
+5,Gartner Market Guide for #AIOps Platforms &gt; https://t.co/L6WSeCWtqs &gt; Via @ingliguori #DigitalTransformation #Cloud #MachineLearning #BigData #ArtificialIntelligence #cybersecurity #Blockchain #Analytics #AI #IIoT #DataScience #IoT #IoTPL #devops #MLOps @antgrasso @pierrepinna https://t.co/QUqGAo7I9W,ingliguori,"['AIOps', 'DigitalTransformation', 'Cloud', 'MachineLearning', 'BigData', 'ArtificialIntelligence', 'cybersecurity', 'Blockchain', 'Analytics', 'AI', 'IIoT', 'DataScience', 'IoT', 'IoTPL', 'devops', 'MLOps']",3,0,https://twitter.com/ingliguori/status/1369639195715768321
+6,"New Video : Is this the BEST BOOK on Google's BERT?
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",2,0,https://twitter.com/RobynPope83/status/1369563111863287811
-9,"Artificial Intelligence Technology Valley / Shenzhen Huahui Design - ArchDaily
+Video Link : https://t.co/5GhN3XEEe7
 
-Read more here: https://t.co/DZsl7oQ3ku
+#MachineLearning #DeepLearning #DataScience #Python #AI https://t.co/Q9tyz99lJ7",_bhaveshbhatt,"['MachineLearning', 'DeepLearning', 'DataScience', 'Python', 'AI']",3,1,https://twitter.com/_bhaveshbhatt/status/1369639173511147522
+7,"Get assistance #chemistry #pearson on #fiverr #fiverrgigs #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/mJTczajfTF
+https://t.co/mJTczajfTF",sashax2_,"['chemistry', 'pearson', 'fiverr', 'fiverrgigs', '100DaysOfCode', 'Machinelearning', 'IoT', '100DaysOfMLCode', 'Python', 'javascript', 'Nodejs', 'Serverless', 'womenwhocode', 'cybersecurity', 'RStats', 'CodeNewbie', 'DataScience', 'DEVCommunity']",6,4,https://twitter.com/sashax2_/status/1369638563764174852
+8,"Get assistance #pearson #math on #fiverr #fiverrgigs #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/hqVACaI4VW
+https://t.co/hqVACaI4VW",sashax2_,"['pearson', 'math', 'fiverr', 'fiverrgigs', '100DaysOfCode', 'Machinelearning', 'IoT', '100DaysOfMLCode', 'Python', 'javascript', 'Nodejs', 'Serverless', 'womenwhocode', 'cybersecurity', 'RStats', 'CodeNewbie', 'DataScience', 'DEVCommunity']",4,2,https://twitter.com/sashax2_/status/1369638332368642050
+9,"Optibus launches new AI platform to help cities plan transit routes https://t.co/IvD9jyGX2n #AI #MachineLearning #DataScience #ArtificialIntelligence
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",1,0,https://twitter.com/RobynPope83/status/1369563110378442752
-10,"Artificial Intelligence and Deep Learning Root Out Rogue Products – Metrology and Quality News - Online Magazine - ""metrology news""
+Trending AI/ML Article Identified &amp; Digested via Granola; a Machine-Driven RSS Bot by Ramsey Elbasheer https://t.co/Id3UiBuQj2",genericgranola,"['AI', 'MachineLearning', 'DataScience', 'ArtificialIntelligence']",1,0,https://twitter.com/genericgranola/status/1369638256632008706
+10,"Partially due to decisions made based on biased data. ""until the 1990s, drug and vaccine clinical trials largely excluded women. 'The drug dosages that are recommended are historically based on clinical trials that involve male participants.'"" #DataScience https://t.co/5ixglMC6PF",OpenSciPinay,['DataScience'],0,0,https://twitter.com/OpenSciPinay/status/1369638166186098696
+11,"Get assistance #math #stats #calculus on #fiverr #fiverrgigs #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/bchw1FWvV5
+https://t.co/bchw1FWvV5",sashax2_,"['math', 'stats', 'calculus', 'fiverr', 'fiverrgigs', '100DaysOfCode', 'Machinelearning', 'IoT', '100DaysOfMLCode', 'Python', 'javascript', 'Nodejs', 'Serverless', 'womenwhocode', 'cybersecurity', 'RStats', 'CodeNewbie', 'DataScience', 'DEVCommunity']",5,3,https://twitter.com/sashax2_/status/1369638074024656900
+12,"Commerce &amp; Cocktails is back with another #vodcast 📹. 
+#hclswlobp #nocode #lowcode #javascript #github #nodejs #cybersecurity #devops #100DaysOfCode #datascience #ai #bot #codenewbie #iot #machinelearning #Python #Serverless #womenintech https://t.co/nwNhXGURXW",PaoloPiccolo7,"['vodcast', 'hclswlobp', 'nocode', 'lowcode', 'javascript', 'github', 'nodejs', 'cybersecurity', 'devops', '100DaysOfCode', 'datascience', 'ai', 'bot', 'codenewbie', 'iot', 'machinelearning', 'Python', 'Serverless', 'womenintech']",8,7,https://twitter.com/PaoloPiccolo7/status/1369637949986533384
+13,.@Oracle teams up with @zoozuerich to help provide education and awareness about penguins with the power of #DataScience. https://t.co/kEan8nhuHl,LauraCaporusso,['DataScience'],1,0,https://twitter.com/LauraCaporusso/status/1369637947742384135
+14,Last week's #SASChat focused on how childhood obesity can be improved using #datascience. Check out this article on the long term effects on tackling this problem for children and the wider industry. https://t.co/GvPqpzhsgp https://t.co/3VKVfCEDsL,sas_nordic,"['SASChat', 'datascience']",2,1,https://twitter.com/sas_nordic/status/1369637645949796352
+15,Reading Different Data Inputs in Machine Learning with Python by Amit Chauhan via #TowardsAI → https://t.co/i1QE9ordAG #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,towards_AI,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",3,1,https://twitter.com/towards_AI/status/1369637453934563331
+16,Introductory time series forecasting with torch  {https://t.co/kgsBf72Zky} #rstats #DataScience,Rbloggers,"['rstats', 'DataScience']",7,8,https://twitter.com/Rbloggers/status/1369637273113931776
+17,"We still supported Python 2, which meant that we would need to use awkward comments for type annotations.
 
-Read more here: https://t.co/AV3h2wXzPp
+https://t.co/Wp4Ihy6y8q
+#NumPy #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats",tianhuil,"['NumPy', 'BigData', 'Analytics', 'DataScience', 'AI', 'MachineLearning', 'IoT', 'IIoT', 'Python', 'RStats']",5,1,https://twitter.com/tianhuil/status/1369637209570238467
+18,Introduction to Machine Learning with Python: A Guide for Data Scientists https://t.co/i3NmlHEg0r #datascience #ad,Datascience__,"['datascience', 'ad']",3,0,https://twitter.com/Datascience__/status/1369637081719463941
+19,Angelini Pharma Chooses AiDEA's Artificial Intelligence to Boost Its Digital Transformation and .... #datascience #aiforgood #robotics https://t.co/nqRkF8sq0P,nordicinst,"['datascience', 'aiforgood', 'robotics']",3,0,https://twitter.com/nordicinst/status/1369637072680665090
+20,"Check: https://t.co/fKdOayBhhj
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",3,0,https://twitter.com/RobynPope83/status/1369563108910501888
-11,"Unless America acts now, China could trounce it in artificial intelligence - The Washington Post
+@FiverrAppPromo @FiverrGigsOne @Fiverr
+ #DataScience  #Datascraper #leadgeneration #webscraper #webscraping #DigitalMarketing #emailcollection #LinkedIn",ShamimH43213460,"['DataScience', 'Datascraper', 'leadgeneration', 'webscraper', 'webscraping', 'DigitalMarketing', 'emailcollection', 'LinkedIn']",2,1,https://twitter.com/ShamimH43213460/status/1369637066254864390
+21,VB &gt; Optibus launches new AI platform to help cities plan transit routes &gt; https://t.co/ju629T7rXf &gt; #BigDataLove &gt; #BigData at https://t.co/WL2IJ33GOQ &gt; #BusinessIntelligence #ArtificialIntelligence #CognitiveComputing #DataScience #Analysis #Research,BigDataLove,"['BigDataLove', 'BigData', 'BusinessIntelligence', 'ArtificialIntelligence', 'CognitiveComputing', 'DataScience', 'Analysis', 'Research']",2,0,https://twitter.com/BigDataLove/status/1369637044939587584
+22,"Using AI to Turn Your Teams Into Superteams
 
-Read more here: https://t.co/mw5uTy8GvN
+https://t.co/HJYuEepXCC via @HarvardBiz @Deloitte 
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563107534766081
-12,"IAB AI Working Group to Establish Artificial Intelligence Standards - PRNewswire
+#datascience #artificialintelligence #technology",blue_metrix,"['datascience', 'artificialintelligence', 'technology']",2,0,https://twitter.com/blue_metrix/status/1369636915360784384
+23,How AI-Driven Cybersecurity Drastically Impacts Our Lives https://t.co/QROAPKF4qv #GetMoreInsights #CoolerData #Data #Analysis #Web #Marketing #DataScience #Analytics https://t.co/vt4DhCjO43,CoolerData,"['GetMoreInsights', 'CoolerData', 'Data', 'Analysis', 'Web', 'Marketing', 'DataScience', 'Analytics']",4,0,https://twitter.com/CoolerData/status/1369636673839984641
+24,"Sometimes you have multiple functions that you always use in conjunction and wish you can compose them into a single function.
 
-Read more here: https://t.co/uPhHwqqEdB
+Thanks to {compose} function from {purrr} 📦, you can do exactly that! 🎼
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563106104459266
-13,"The complexity of artificial intelligence - https://t.co/aLcvzhK7lu - thanks @RichardEudes #Analytics,#DeepLearning,#MachineLearning,#NeuralNetworks,#NLP,#TextAnalytics,#ArtificialIntelligence,#DataScience,#Analytics #DataScience",AnalyticsFr,"['Analytics', 'DeepLearning', 'MachineLearning', 'NeuralNetworks', 'NLP', 'TextAnalytics', 'ArtificialIntelligence', 'DataScience', 'Analytics', 'DataScience']",0,0,https://twitter.com/AnalyticsFr/status/1369563105714450434
-14,"IAB Artificial Intelligence Group To Build Standards, With Focus On AI, Machine Learning, Bias 03/10/2021 - MediaPost Communications
+https://t.co/zdydXfEM35
 
-Read more here: https://t.co/ySfrgPlpkP
+#rstats #DataScience https://t.co/teZ5w65uHS",rfunctionaday,"['rstats', 'DataScience']",8,12,https://twitter.com/rfunctionaday/status/1369635944652038146
+25,"Feature selection.
+#DataScience https://t.co/jIOl72ykVd",AfricaDataSch,['DataScience'],3,0,https://twitter.com/AfricaDataSch/status/1369635930802425861
+26,An Excellent Beginner's Guide To Information Architecture. #EnterpriseArchitecture #BusinessArchitecture #BusinessStrategy #DigitalTransformation #ChangeManagement #CIO #informationtechnology #planning #decisions #information #DataScience #data https://t.co/JzBNnkElUT https://t.co/AaE5fL9LXq,daniellambert07,"['EnterpriseArchitecture', 'BusinessArchitecture', 'BusinessStrategy', 'DigitalTransformation', 'ChangeManagement', 'CIO', 'informationtechnology', 'planning', 'decisions', 'information', 'DataScience', 'data']",4,0,https://twitter.com/daniellambert07/status/1369635916088811522
+27,"Amazon Web Services (#AWS) selected as Official #Cloud, #AI and #ML Provider of PGA Tour
+https://t.co/W3Rl1iehUO
+#Amazonwebservices #cloudcomputing #clouddata #bigdata #datacenter #innovation #azure #awscertified #datascience #datamining #dataanalytics #dataanalysis
+PC: Pixabay https://t.co/QroyDFPSOg",techsutram,"['AWS', 'Cloud', 'AI', 'ML', 'Amazonwebservices', 'cloudcomputing', 'clouddata', 'bigdata', 'datacenter', 'innovation', 'azure', 'awscertified', 'datascience', 'datamining', 'dataanalytics', 'dataanalysis']",4,1,https://twitter.com/techsutram/status/1369635722001518592
+28,"Barriers to AI adoption: Culture, Infrastructure, talent and fear :-
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563104485531650
-15,"Artificial Intelligence Is A Gamechanger In The Battery Boom - https://t.co/Rwys1HFh6c
+https://t.co/eGE4YITgYt
 
-Read more here: https://t.co/tX66WSKwzT
+#artificialintelligence #ai #machinelearning #technology #datascience #deeplearning #python #programming #robotics #tech #informationtechnology #technology #it #cybersecurity #tech # https://t.co/Tf9mvclNy3",GeekCrunchR,"['artificialintelligence', 'ai', 'machinelearning', 'technology', 'datascience', 'deeplearning', 'python', 'programming', 'robotics', 'tech', 'informationtechnology', 'technology', 'it', 'cybersecurity', 'tech']",7,1,https://twitter.com/GeekCrunchR/status/1369635399090335744
+29,"FRESH ON OUR BLOG! Last year during the #30DayMapChallenge, we tried out some new tools and tricks for #dataviz. Our Data Specialist @IvanVasilyev8 shared his experience using these techniques on our blog: https://t.co/WeVTaZSwwQ
+#maps #GIS #datascience #mapmakingsimplified",positium,"['30DayMapChallenge', 'dataviz', 'maps', 'GIS', 'datascience', 'mapmakingsimplified']",3,1,https://twitter.com/positium/status/1369635248494018560
+30,"Smart Reviews Platform Launched To Help Root Out Dropshipped “Burner Brands” - MarTech Series
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563102644146181
-16,"Furious AI researcher creates a list of non-reproducible machine learning papers - https://t.co/pnXM9aKKUc - thanks @RichardEudes #Analytics,#MachineLearning,#ArtificialIntelligence,#DataScience,#Analytics #DataScience",AnalyticsFr,"['Analytics', 'MachineLearning', 'ArtificialIntelligence', 'DataScience', 'Analytics', 'DataScience']",0,0,https://twitter.com/AnalyticsFr/status/1369563102526795780
-17,"A new program can animate old photos. But there's nothing human about artificial intelligence - KTVZ
+Read more here: https://t.co/hIXH8OQKXH
 
-Read more here: https://t.co/Zp0nyTzZqn
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",FabienBrodie,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",3,2,https://twitter.com/FabienBrodie/status/1369635215870660611
+31,"#WFH #Cybersecurity answered here: https://t.co/Sfew6M73iu
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563101268480004
-18,"Using AI In Public Sector Will Ensure Ethical Use Of Public Funds - https://t.co/Tb4XQZ9t0s - thanks @RichardEudes #Analytics,#Compliance,#MachineLearning,#RiskManagement,#ArtificialIntelligence,#DataScience,#Analytics #DataScience",AnalyticsFr,"['Analytics', 'Compliance', 'MachineLearning', 'RiskManagement', 'ArtificialIntelligence', 'DataScience', 'Analytics', 'DataScience']",0,0,https://twitter.com/AnalyticsFr/status/1369563100580614144
-19,"The Artificial Intelligence Battlespace - RUSI Analysis
+ #nocode #lowcode #javascript #github #nodejs #devops #100DaysOfCode #datascience #ai #bot #iot #machinelearning #DEVCommunity #Python #Serverless #womenintech #CX #flutter https://t.co/xOhk2oUnHt",MoZouine,"['WFH', 'Cybersecurity', 'nocode', 'lowcode', 'javascript', 'github', 'nodejs', 'devops', '100DaysOfCode', 'datascience', 'ai', 'bot', 'iot', 'machinelearning', 'DEVCommunity', 'Python', 'Serverless', 'womenintech', 'CX', 'flutter']",17,8,https://twitter.com/MoZouine/status/1369635188536467466
+32,"When dealing with data that comes in a sequence, such as time-series data, a frequent method of dealing with the problem is to apply a smoother. #DataScience #SQL https://t.co/6zf8cOrCtW",odsc,"['DataScience', 'SQL']",3,2,https://twitter.com/odsc/status/1369635186275651590
+33,"9 investors discuss hurdles, opportunities and the impact of cloud vendors in enterprise data lakes – TechCrunch https://t.co/lYCX5RCQRz #CloudComputing #TechJunkieNews #DataScience https://t.co/I1IYtZrtco",techjunkiejh,"['CloudComputing', 'TechJunkieNews', 'DataScience']",4,1,https://twitter.com/techjunkiejh/status/1369635157649592326
+34,SDC &gt; 10 Ways for SMEs To Strengthen Cybersecurity with Big Data &gt; https://t.co/ZKGZWAFT5Z &gt; #BigDataLove &gt; #BigData at https://t.co/WL2IJ33GOQ &gt; #BusinessIntelligence #ArtificialIntelligence #CognitiveComputing #DataScience #Analysis #Research,BigDataLove,"['BigDataLove', 'BigData', 'BusinessIntelligence', 'ArtificialIntelligence', 'CognitiveComputing', 'DataScience', 'Analysis', 'Research']",3,1,https://twitter.com/BigDataLove/status/1369635068126330881
+35,10 Ways for SMEs To Strengthen Cybersecurity with Big Data https://t.co/IsJUZUoq9G #GetMoreInsights #CoolerData #Data #DataScience #Database #Business #ArtificialIntelligence #MachineLearning https://t.co/lteMXaERAY,CoolerData,"['GetMoreInsights', 'CoolerData', 'Data', 'DataScience', 'Database', 'Business', 'ArtificialIntelligence', 'MachineLearning']",7,2,https://twitter.com/CoolerData/status/1369634919970869250
+36,"Master PyCharm basics fast for your next machine learning project with this comprehensive guide. 
 
-Read more here: https://t.co/7osgX1YCU4
+https://t.co/zibUdlABVk 
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563099573977088
-20,"CMU Students Using Artificial Intelligence For Smarter Restroom Cleaning At Pittsburgh International Airport - CBS Pittsburgh
+#MachineLearning #PyCharm #datascience #python",cnvrg_io,"['MachineLearning', 'PyCharm', 'datascience', 'python']",7,3,https://twitter.com/cnvrg_io/status/1369634582228779010
+37,"5 Reasons Why Google Colaboratory is the Right Tool for Beginner Data Scientists
 
-Read more here: https://t.co/1xorVmYGj8
+https://t.co/TfquqxuPOW
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563098059833346
-21,"Out-of-work Rhode Islanders lean on artificial intelligence for career direction - CBS News
+#machinelearning #artificialintelligence #datascience  https://t.co/TfquqxuPOW",rodolfo_mmendes,"['machinelearning', 'artificialintelligence', 'datascience']",3,1,https://twitter.com/rodolfo_mmendes/status/1369634383490134019
+38,Data Science Core Skills – What Matters the Most in 2021 https://t.co/XCjS5zlgyd #datascience,DataAugmented,['datascience'],4,1,https://twitter.com/DataAugmented/status/1369634377039183872
+39,Working with strings in Python: A cheat sheet https://t.co/TGepBS6R9n #datascience #ds,RichardEudes,"['datascience', 'ds']",3,0,https://twitter.com/RichardEudes/status/1369634322173530116
+40,"What is a Learning Rate in a Neural Network?
 
-Read more here: https://t.co/K2ENRNAuIp
+#neuralnetworks #neuralnetwork #deeplearning #machinelearning #keras #tensorflow #python #pytorch #lightning #ignite #datascience #model #100daysofcode #100daysofmlcode
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563096591851523
-22,"College students befriend bots, texting emotional messages - Los Angeles Times
+https://t.co/xPuo1RCmPm",MachineCurve,"['neuralnetworks', 'neuralnetwork', 'deeplearning', 'machinelearning', 'keras', 'tensorflow', 'python', 'pytorch', 'lightning', 'ignite', 'datascience', 'model', '100daysofcode', '100daysofmlcode']",19,7,https://twitter.com/MachineCurve/status/1369634303567609862
+41,"21 influencers share top tips for 2021 digital marketing
 
-Read more here: https://t.co/0Y6Dtpif5A
+#MachineLearning #Python #RPA #Analytics #AI #100DaysOfCode
+#DigitalMarketing #DL #DevOps #IoT #IIoT #Serverless #5G #NLP
+#womenintech #cybersecurity #DataScience #WomenWhoCode
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563094482051074
-23,"Lidar Crop Classification with Data Fusion and Machine Learning | GIM International - https://t.co/aFzg3EYJzw - thanks @RichardEudes #Analytics,#MachineLearning,#Analytics #DataScience",AnalyticsFr,"['Analytics', 'MachineLearning', 'Analytics', 'DataScience']",0,0,https://twitter.com/AnalyticsFr/status/1369563092917620738
-24,"Drive-thrus using artificial intelligence to predict orders | Connect the Dots - https://t.co/7AF9ynLGQ5
+https://t.co/zC1mEdu7eW https://t.co/YRGTNtU70U",Paula_Piccard,"['MachineLearning', 'Python', 'RPA', 'Analytics', 'AI', '100DaysOfCode', 'DigitalMarketing', 'DL', 'DevOps', 'IoT', 'IIoT', 'Serverless', '5G', 'NLP', 'womenintech', 'cybersecurity', 'DataScience', 'WomenWhoCode']",14,10,https://twitter.com/Paula_Piccard/status/1369634259175096322
+42,"Support the #opensource #datascience tools you use every day — become a NumFOCUS donor! 
 
-Read more here: https://t.co/o2UnkkOJlF
+https://t.co/149WtpFFVo
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563092674359301
-25,"BOTZ vs. ROBO: The Best Robotics &amp; Artificial Intelligence ETF For 2021 - TheStreet
-
-Read more here: https://t.co/gfjCn76ZsW
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563089981562881
-26,"Artificial Intelligence in Workplace: Automation is Knocking the Door - Analytics Insight
-
-Read more here: https://t.co/wCjpA5pdIk
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563087880257536
-27,"Does data science have a dangerous gender gap | https://t.co/m13fzN5ap8 - https://t.co/bj3wJ1BUui - thanks @RichardEudes #Analytics,#BigData,#DataScience",AnalyticsFr,"['Analytics', 'BigData', 'DataScience']",0,0,https://twitter.com/AnalyticsFr/status/1369563087045529601
-28,"Is Artificial Intelligence Close Enough In Understanding our Brain? - Analytics Insight
-
-Read more here: https://t.co/FcbzIhnReR
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563084625485826
-29,"CBA embeds data science staff into all parts of the bank - Finance - Software - Storage - iTnews - https://t.co/lPZIiMRf89 - thanks @RichardEudes #Analytics,#BigData,#DataScience",AnalyticsFr,"['Analytics', 'BigData', 'DataScience']",0,0,https://twitter.com/AnalyticsFr/status/1369563083652423680
-30,"Protecting and managing forests with artificial intelligence - Innovation Origins
-
-Read more here: https://t.co/BeeNq65h7M
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563082142453765
-31,"In a leap for battery research, machine learning gets scientific smarts | EurekAlert! Science News - https://t.co/RNsTaCrNQf - thanks @RichardEudes #Analytics,#MachineLearning,#Analytics #DataScience",AnalyticsFr,"['Analytics', 'MachineLearning', 'Analytics', 'DataScience']",0,0,https://twitter.com/AnalyticsFr/status/1369563080645111808
-32,"Healthcare AI investment will shift to these 5 areas in the next 2 years: survey - FierceHealthcare
-
-Read more here: https://t.co/LlILqnoU9D
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/RobynPope83/status/1369563079772626948
-33,"Can good data improve #policing, reduce excessive force and promote officer wellness? #ArtificialIntelligence #AI #DataScience #100DaysOfCode #Python #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT #RPA https://t.co/xB17VUKbqY",BristowColin,"['policing', 'ArtificialIntelligence', 'AI', 'DataScience', '100DaysOfCode', 'Python', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT', 'RPA']",4,0,https://twitter.com/BristowColin/status/1369562676746022915
-34,"I DON'T
-bELiEVE #MEGAN
-https://t.co/Rqxl27CsDU
-
-#bigdata
-#UK #LiNKEDiN
-#SUPPLYchain #WOMEN
-#iNSURtech #USA
-#SOCiALmedia
-#IIoT #IoT #Tech #Linux #javaScript #FinTech #dataScience #AI #dataScientist #FemTech #100daysOfCode #FRENCHtech #France #digitalTransformation
-#MACHiNELEARNiNG",chidambara09,"['MEGAN', 'bigdata', 'UK', 'LiNKEDiN', 'SUPPLYchain', 'WOMEN', 'iNSURtech', 'USA', 'SOCiALmedia', 'IIoT', 'IoT', 'Tech', 'Linux', 'javaScript', 'FinTech', 'dataScience', 'AI', 'dataScientist', 'FemTech', '100daysOfCode', 'FRENCHtech', 'France', 'digitalTransformation', 'MACHiNELEARNiNG']",7,2,https://twitter.com/chidambara09/status/1369562367009320960
-35,"Submit your latest work on the industrial tracks: 
-✍️@ACM_DEBS ➡️ https://t.co/qX3AXIpZFb
-⚙️@ECMLPKDD ➡️ https://t.co/GkZgaDye2R
-We are looking forward to reading your submissions!
-#datascience #research #paper #industry",euranova,"['datascience', 'research', 'paper', 'industry']",0,0,https://twitter.com/euranova/status/1369562254509826049
-36,via @RichardEudes - Top 3 Reasons Public Speaking Can Help You in Data Science https://t.co/apnHMMPIZz #datascience #ds https://t.co/boXcNHb0TL,AnalyticsFr,"['datascience', 'ds']",0,1,https://twitter.com/AnalyticsFr/status/1369561968202428418
-37,"via @RichardEudes - Understand TF-IDF by building it from scratch. https://t.co/XMJVYFyxKP #analytics #datascience, #datascience #ds, #machinelearning https://t.co/HHIYtVqR9b",AnalyticsFr,"['analytics', 'datascience', 'datascience', 'ds', 'machinelearning']",1,1,https://twitter.com/AnalyticsFr/status/1369561963097972738
-38,"via @RichardEudes - Artificial Intelligence Used in Different Industries https://t.co/pCC9k2iFAy #analytics, #analytics #datascience, #artificialintelligence, #datascience, #machinelearning https://t.co/s3BL7tJDfk",AnalyticsFr,"['analytics', 'analytics', 'datascience', 'artificialintelligence', 'datascience', 'machinelearning']",0,1,https://twitter.com/AnalyticsFr/status/1369561958735900674
-39,"Python 3+ cheat sheet for beginners. 
-#Python3  #100DaysOfCode #CodeNewbie #javascript  #webdevelopment #Python #DataScience #ai https://t.co/iTt4CGaxWn",kashifmanzoor,"['Python3', '100DaysOfCode', 'CodeNewbie', 'javascript', 'webdevelopment', 'Python', 'DataScience', 'ai']",8,4,https://twitter.com/kashifmanzoor/status/1369561924447436801
-40,"To reject the benefits of creating better AIs is as if we had denied the benefits of the evolution of transportation. We will lose a world of potential advantages and discoveries
-
-#strategy #innovation #datascience #MachineLearning #ML #AI #DeepLearning https://t.co/Xp3DaOwPvW",toncarrera,"['strategy', 'innovation', 'datascience', 'MachineLearning', 'ML', 'AI', 'DeepLearning']",0,3,https://twitter.com/toncarrera/status/1369561914196463617
-41,"These are the best books to learn #Algorithms 
-
-1 https://t.co/kO6tKhh8mp
-2 https://t.co/ZTazmGTIIv
-3 https://t.co/EDlXBRKkzh
-4 https://t.co/5AgfJrbpUM
-
-#MachineLearning #100DaysOfCode #CodeNewbies #WomenWhoCode #DEVCommunity #Coding #DataScience #AI #ArtificialIntelligence https://t.co/lu3sLls0r6",rasangarocks,"['Algorithms', 'MachineLearning', '100DaysOfCode', 'CodeNewbies', 'WomenWhoCode', 'DEVCommunity', 'Coding', 'DataScience', 'AI', 'ArtificialIntelligence']",16,7,https://twitter.com/rasangarocks/status/1369561865106321411
-42,"Viewpoint: What should we do when Artificial Intelligence crosses ethical lines?
-
-https://t.co/DelDaS4jE3
-
-#ai #artificalintelligence #DataScience #MachineLearning https://t.co/7HudRBLw7m",MKAI_Org,"['ai', 'artificalintelligence', 'DataScience', 'MachineLearning']",0,1,https://twitter.com/MKAI_Org/status/1369561671623192577
-43,"Check out our #opensource playlist with videos on contributing to
-NumPy
-Scikit-learn
-Pandas
-CPython
-#python #datascience
-https://t.co/lAiGIQvLST https://t.co/Uzc5wjAqus",DataUmbrellaAFR,"['opensource', 'python', 'datascience']",4,2,https://twitter.com/DataUmbrellaAFR/status/1369561423433633798
-44,"Mastering Machine Learning Algorithms: Expert techniques for implementing popular machine learning algorithms, fine-tuning your models, and understanding how they work, 2nd Edition https://t.co/ZQaUQtwH4m #datascience #ad",Datascience__,"['datascience', 'ad']",1,0,https://twitter.com/Datascience__/status/1369561322644443136
-45,"Data Scientist or Data Analyst? - https://t.co/CUecARTLLx - thanks @RichardEudes #DataScience #DS,#BigData,#DataScience",BigData_Fr,"['DataScience', 'DS', 'BigData', 'DataScience']",0,2,https://twitter.com/BigData_Fr/status/1369561027050889216
-46,"Implementing explainability for Gradient Boosting Trees - https://t.co/uAgmDIf9M5 - thanks @RichardEudes #DataScience #DS,#BigData,#MachineLearning,#Statistics,#DataScience,#Analytics #DataScience",BigData_Fr,"['DataScience', 'DS', 'BigData', 'MachineLearning', 'Statistics', 'DataScience', 'Analytics', 'DataScience']",0,1,https://twitter.com/BigData_Fr/status/1369561024219787265
-47,A stronger maths foundation in first grade - https://t.co/oAPqiEOmWw - thanks @RichardEudes #DataScience #DS,BigData_Fr,"['DataScience', 'DS']",0,1,https://twitter.com/BigData_Fr/status/1369561016795885570
-48,Multicellular liver-on-a-chip for modeling fatty liver disease - https://t.co/Q0Z0lTfQs3 - thanks @RichardEudes #DataScience #DS,BigData_Fr,"['DataScience', 'DS']",0,1,https://twitter.com/BigData_Fr/status/1369561014052732928
-49,"Cells, Vol. 10, Pages 608: Tumor Necrosis Factor (TNF) Is Required for Spatial Learning and Memory in Male Mice under Physiological, but Not Immune-Challenged Conditions - https://t.co/UrWE8NXeKh - thanks @RichardEudes #DataScience #DS",BigData_Fr,"['DataScience', 'DS']",0,0,https://twitter.com/BigData_Fr/status/1369561008734404610
-50,"Data Science Manager, GTM - https://t.co/Wm09xVlmru - thanks @RichardEudes #DataScience #DS,#BigData,#DataEngineering,#DataGovernance,#DataManagement,#DataQuality,#MachineLearning,#Statistics,#BusinessIntelligence,#DataScience,#BI,#Analytics #DataScience",BigData_Fr,"['DataScience', 'DS', 'BigData', 'DataEngineering', 'DataGovernance', 'DataManagement', 'DataQuality', 'MachineLearning', 'Statistics', 'BusinessIntelligence', 'DataScience', 'BI', 'Analytics', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369561006133895173
-51,Broadcasting and functors - https://t.co/0HAL9OyBeL - thanks @RichardEudes #DataScience #DS,BigData_Fr,"['DataScience', 'DS']",1,0,https://twitter.com/BigData_Fr/status/1369561003218862081
-52,"Moving between vectors and diagonal matrices - https://t.co/9JitmTsgYH - thanks @RichardEudes #DataScience #DS,#Statistics,#Analytics #DataScience",BigData_Fr,"['DataScience', 'DS', 'Statistics', 'Analytics', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369560999829905408
-53,"Samsung launches its first 5G network in New Zealand with Spark - https://t.co/BJl3A7h0ol - thanks @RichardEudes #DataScience #DS,#BigData,#DataLake,#Hadoop",BigData_Fr,"['DataScience', 'DS', 'BigData', 'DataLake', 'Hadoop']",0,0,https://twitter.com/BigData_Fr/status/1369560997598478340
-54,What Data and Analytics Will Look Like in the Post-COVID World | Qlik Blog - https://t.co/gvgoWc90LA - thanks @RichardEudes #DataScience #DS,BigData_Fr,"['DataScience', 'DS']",0,0,https://twitter.com/BigData_Fr/status/1369560993064452100
-55,"Chatbots as a means of building confidence in AI - The SAS Data Science Blog - https://t.co/9IUly6B8C7 - thanks @RichardEudes #DataScience #DS,#BigData,#MachineLearning,#ArtificialIntelligence,#DataScience",BigData_Fr,"['DataScience', 'DS', 'BigData', 'MachineLearning', 'ArtificialIntelligence', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369560990241730560
-56,"There's no real AI revolution without ethics - Video | ZDNet - https://t.co/99voKjrLC9 - thanks @RichardEudes #DataScience #DS,#MachineLearning,#ArtificialIntelligence,#DataScience",BigData_Fr,"['DataScience', 'DS', 'MachineLearning', 'ArtificialIntelligence', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369560986366140422
-57,"httpsaiethics.worldblogfthe-rise-of-the-digital-angel-1 - https://t.co/p3HhdIg5Z4 - thanks @RichardEudes #DataScience #DS,#DigitalTransformation,#BusinessAnalytics",BigData_Fr,"['DataScience', 'DS', 'DigitalTransformation', 'BusinessAnalytics']",2,1,https://twitter.com/BigData_Fr/status/1369560984487133185
-58,"4 ways to keep control of your AI data - TechRepublic - https://t.co/wJaa8CAvTG - thanks @RichardEudes #DataScience #DS,#MachineLearning,#ArtificialIntelligence,#DataScience",BigData_Fr,"['DataScience', 'DS', 'MachineLearning', 'ArtificialIntelligence', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369560982150909955
-59,"rOpenSci Statistical Software Testing and Peer Review – Community Call Summary - https://t.co/afIjKYVQCk - thanks @RichardEudes #DataScience #DS,#Statistics,#Analytics #DataScience",BigData_Fr,"['DataScience', 'DS', 'Statistics', 'Analytics', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369560978640297985
-60,"Easy CDC Replication to Snowflake - https://t.co/Vo95hAEw2Q - thanks @RichardEudes #DataScience #DS,#BigData,#DataEngineering,#DataLake,#DataManagement",BigData_Fr,"['DataScience', 'DS', 'BigData', 'DataEngineering', 'DataLake', 'DataManagement']",0,0,https://twitter.com/BigData_Fr/status/1369560976228507654
-61,"Using Docker for Deep Learning - https://t.co/bpaoRZBrn8 - thanks @RichardEudes #DataScience #DS,#BigData,#DeepLearning,#MachineLearning,#NeuralNetworks,#ArtificialIntelligence,#DataScience,#Analytics #DataScience",BigData_Fr,"['DataScience', 'DS', 'BigData', 'DeepLearning', 'MachineLearning', 'NeuralNetworks', 'ArtificialIntelligence', 'DataScience', 'Analytics', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369560972726312963
-62,"What is machine learning? - https://t.co/oGJLxBL3fw - thanks @RichardEudes #DataScience #DS,#BigData,#MachineLearning,#DataScience,#Analytics #DataScience",BigData_Fr,"['DataScience', 'DS', 'BigData', 'MachineLearning', 'DataScience', 'Analytics', 'DataScience']",0,0,https://twitter.com/BigData_Fr/status/1369560970595622912
-63,#10 statistical lessons from the past pandemic year 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/dJoz4Ir1IR,Rahul_B,"['DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560852140032001
-64,#A Schematic of Data Visualization Type and Purpose 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/VgAjjyPjNh,Rahul_B,"['A', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560850793693185
-65,#4 Machine Learning Concepts I Wish I Knew When I Built My First Model 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/7UcfArX1Dq,Rahul_B,"['DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560848998469633
-66,#2021 Week 10 | Power BI: Violin Plot Custom Visual 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/dwGQPlQpt2,Rahul_B,"['DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560847559823362
-67,#Hospitals are running out of oxygen to treat covid-19 patients 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/nD5aifii59,Rahul_B,"['Hospitals', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560846033125378
-68,#New to tableau. How can I create a single date filter for my dashboard? 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/T1S1fsqvfh,Rahul_B,"['New', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560842732269570
-69,#Copied Tableau Assignment 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/QY2LBBOg1R,Rahul_B,"['Copied', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560841373286400
-70,#3 Innovative Ways to Highlight Selections in Tableau 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/2JIH4QOIdL,Rahul_B,"['DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560839947223042
-71,#Bald And Beautiful – 10 Of The Best Paid Bald Actors 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/uPTcvZ39lF,Rahul_B,"['Bald', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560838521118722
-72,#Is It Too Late to Learn AI? 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/gMVq8XIeT4,Rahul_B,"['Is', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560837078327296
-73,#Listen to Understand 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/9kS63op37D,Rahul_B,"['Listen', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560835203493888
-74,#Tableau 2021.1 preview ahead of release 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/iCUSVhbsoQ,Rahul_B,"['Tableau', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560832040964097
-75,#Mapped: Where Women Hold the Most and Least Political Power 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/zN7mnpVfJz,Rahul_B,"['Mapped', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560829532717057
-76,"#Numpy Dot, Explained 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/D54k5aeROv",Rahul_B,"['Numpy', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560827901186049
-77,#Obstacles to Gender Equality 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/eau28InRjS,Rahul_B,"['Obstacles', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",1,0,https://twitter.com/Rahul_B/status/1369560824709341187
-78,#Bringing Custom Color to Your Tableau Dashboards 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/59kRZ5rUZW,Rahul_B,"['Bringing', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560821186101248
-79,#Only a Fraction of U.S. IPOs Have Female Founders 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/gzd1Ol1f7P,Rahul_B,"['Only', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560818346569732
-80,##MakeoverMonday: Female Participation in the Summer Olympics 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/4YNbnS7tfc,Rahul_B,"['MakeoverMonday', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",1,0,https://twitter.com/Rahul_B/status/1369560815662161921
-81,#Top 5 Cloud Storage Solutions for Businesses in 2021 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/ocea805mqj,Rahul_B,"['Top', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560813221126149
-82,#Fleet Management and Big Data: Points to Consider 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/0C5RjaOxYx,Rahul_B,"['Fleet', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560809861439490
-83,#Denver Tableau User Group - 5 March 2021 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/Cg1DbxKkTj,Rahul_B,"['Denver', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560801682599937
-84,#The Right () and Left () Functions in Tableau 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/t3c40lDl3u,Rahul_B,"['The', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560797937074177
-85,"#How Automation can be used for faster recovery, revival, and improved resilience in the wake of COVID-19 📊 #DataScience 🧮 #DataVisualization #DataAnalytics #DataFam https://t.co/I20YRyPgTT",Rahul_B,"['How', 'DataScience', 'DataVisualization', 'DataAnalytics', 'DataFam']",0,0,https://twitter.com/Rahul_B/status/1369560794162212865
-86,"Chinese Technology Stocks Have Fallen Harder Than U.S. Peers - The Wall Street Journal
-
-Read more here: https://t.co/taqqu4N90H
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",6,1,https://twitter.com/fedora_rapp/status/1369560056409260034
-87,"Computex Technology Solutions Named Largest Houston-Area Cybersecurity Company By Houston Business Journal For Second Year In A Row - Yahoo Finance
-
-Read more here: https://t.co/DYeNNxxn4r
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Pytho…",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Pytho']",4,0,https://twitter.com/fedora_rapp/status/1369560054559612928
-88,"The Technology 202: One of Silicon Valley's top challengers is up for a key Justice Department position - Washington Post
-
-Read more here: https://t.co/KzY5WN2Csl
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robo…",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robo']",8,1,https://twitter.com/fedora_rapp/status/1369560052848357379
-89,"Is Micron Technology (MU) Stock Outpacing Its Computer and Technology Peers This Year? - Yahoo Finance
-
-Read more here: https://t.co/YDytYY3asF
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",7,3,https://twitter.com/fedora_rapp/status/1369560050835021828
-90,"Q&amp;A: reducing emissions with Windship Technology - Ship Technology
-
-Read more here: https://t.co/GYoObw1yuB
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",9,0,https://twitter.com/fedora_rapp/status/1369560049073467392
-91,"MediaKind Partners with New Digital Technology to Deliver 4K UHD Content for Beijing Radio &amp; Television’s Winter Sporting Events Channel - Yahoo Finance
-
-Read more here: https://t.co/vOVfFxfLII
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #…",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode']",4,1,https://twitter.com/fedora_rapp/status/1369560045260783618
-92,"Swyft introduces contactless shopping technology - Retail Customer Experience
-
-Read more here: https://t.co/f4bOD9kkI5
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",4,1,https://twitter.com/fedora_rapp/status/1369560043713073152
-93,"Three Trends Shaping Cable Technology - CableFAX - CableFAX
-
-Read more here: https://t.co/yyoXlI3oYl
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",7,0,https://twitter.com/fedora_rapp/status/1369560041905328131
-94,"CBP Announces Simplified Arrival, Using Facial Biometric Comparison Technology at Hidalgo Port of Entry - Customs and Border Protection
-
-Read more here: https://t.co/iXbjYxxxI4
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearn…",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearn']",4,1,https://twitter.com/fedora_rapp/status/1369560040231886851
-95,"VisionNav at LTT 2021: Driverless Industrial Vehicles with Latest Vision Technology Renovating Factory Intralogistics - PRNewswire
-
-Read more here: https://t.co/m4ZChDE4Q6
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #…",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning']",6,1,https://twitter.com/fedora_rapp/status/1369560038428323841
-96,"Rajneesh Mittal, Head of Technology &amp; Content, UNext Learning - https://t.co/cCD1mTZUcM
-
-Read more here: https://t.co/aHSZTd0hk7
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",9,1,https://twitter.com/fedora_rapp/status/1369560036704419841
-97,"New technology being used to find aggressive prostate cancer in Tampa Bay - WFLA
-
-Read more here: https://t.co/wgopGBOLDm
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",4,0,https://twitter.com/fedora_rapp/status/1369560035009961986
-98,"A proposed technology refresh plan would bring updated technology to Bay District Schools - WJHG
-
-Read more here: https://t.co/LPKtOgaPEv
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",7,1,https://twitter.com/fedora_rapp/status/1369560032543715333
-99,"LexisNexis® Risk Solutions Named Best Cybersecurity Solution by Asian Private Banker Technology Awards for Second Year in a Row - PRNewswire
-
-Read more here: https://t.co/x3r8onXQPZ
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #Deep…",fedora_rapp,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'Deep']",6,1,https://twitter.com/fedora_rapp/status/1369560030660399105
+#python #pydata #julialang #rstats #bayesian #bigdata #machinelearning #dataviz #openscience #opendata https://t.co/AFpJoPgtfA",NumFOCUS,"['opensource', 'datascience', 'python', 'pydata', 'julialang', 'rstats', 'bayesian', 'bigdata', 'machinelearning', 'dataviz', 'openscience', 'opendata']",9,1,https://twitter.com/NumFOCUS/status/1369634178313097220
+43,"Data Science: Deep Learning in #Python #udemycoupon 
+
+-&gt; https://t.co/G2bqle9Icx
+
+#100DaysOfCode #DataScience #Python #MachineLearning #ARTIFICIALINTELLIGENCE #Statistics #Coding #ReactJS #Linux #Books #BigData #IoT #IIoT #JavaScript #Free #discount #udemy",bukmedianet,"['Python', 'udemycoupon', '100DaysOfCode', 'DataScience', 'Python', 'MachineLearning', 'ARTIFICIALINTELLIGENCE', 'Statistics', 'Coding', 'ReactJS', 'Linux', 'Books', 'BigData', 'IoT', 'IIoT', 'JavaScript', 'Free', 'discount', 'udemy']",20,3,https://twitter.com/bukmedianet/status/1369634148608999429
+44,"With machine learning, Amazon reduced its “click to ship” time to 15 minutes, a 225% decrease. - McKinsey
+
+#MachineLearning #ArtificialIntelligence #Data #datascience #Innovation #BigData #FunFacts",emerge_iq,"['MachineLearning', 'ArtificialIntelligence', 'Data', 'datascience', 'Innovation', 'BigData', 'FunFacts']",3,1,https://twitter.com/emerge_iq/status/1369634144054042625
+45,"With our partners at @AnglianWater, we are delighted to have been shortlisted for the 'Customer Initiative of the Year 2021' at @WWT_online → https://t.co/CiJyaBUS9Q
+
+We look forward to the ceremony! 👏 
+
+#waterindustryawards21 #WIA21 #data #AI #DataScience https://t.co/1HXY063dlC",AiimiLtd,"['waterindustryawards21', 'WIA21', 'data', 'AI', 'DataScience']",2,0,https://twitter.com/AiimiLtd/status/1369633972712509443
+46,A New Course in Applied Clinical #DataScience and #MachineLearning @OHSUnews for HCIN Students by @williamhersh https://t.co/QFmrc2Dpti,AnswersNetwork,"['DataScience', 'MachineLearning']",2,2,https://twitter.com/AnswersNetwork/status/1369633911299600384
+47,A New Course in Applied Clinical #DataScience and #MachineLearning @OHSUnews for HCIN Students by @williamhersh https://t.co/UxloD9d6Ab,healthitanswers,"['DataScience', 'MachineLearning']",2,1,https://twitter.com/healthitanswers/status/1369633908904574976
+48,"""We quantify and forecast the risk of preventable injury.""
+
+Excerpt from Tal Brown's chat with @AnalyticsFC on the details (and misconceptions) surrounding #datascience in sport. Full episode link below.
+
+https://t.co/eg1azPK67x 
+
+#machinelearning #injuryprevention https://t.co/atg4WY3Wug",Zone7ai,"['datascience', 'machinelearning', 'injuryprevention']",5,6,https://twitter.com/Zone7ai/status/1369633802574782465
+49,"Positions Available: Applied Maths, Pure Maths &amp; Data Science | School of Mathematics and Statistics https://t.co/vck26sl9b2  #DataScience",machinelearnflx,['DataScience'],5,5,https://twitter.com/machinelearnflx/status/1369633786795802625
+50,My 2 cents on the “R vs Python” squabble  {https://t.co/l8QriMDUhu} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",5,1,https://twitter.com/dorianhmekni/status/1369633664116621318
+51,"An interesting read for data scientists and for people who work with data scientists.
+#datascience 
+Thanks for sharing @Arnold_Haine https://t.co/cuHbCW9fVQ",zivbaida,['datascience'],2,0,https://twitter.com/zivbaida/status/1369633626808270860
+52,“Real life” DAG simulation using the simMixedDAG package  {https://t.co/uYuoAR7D2U} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",5,1,https://twitter.com/dorianhmekni/status/1369633615634653190
+53,Using ecmwfr to measure global warming  {https://t.co/XteqxoDT3z} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",5,1,https://twitter.com/dorianhmekni/status/1369633500958179341
+54,Causal inference bake off (Kaggle style!)  {https://t.co/6EhxeHHAlv} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",5,1,https://twitter.com/dorianhmekni/status/1369633421186789378
+55,Why I love data.table  {https://t.co/SgRlOJHIYd} #rstats #DataScience,dorianhmekni,"['rstats', 'DataScience']",5,1,https://twitter.com/dorianhmekni/status/1369633343130775555
+56,"#cdo  #cao #mustreads on the path forward for #datascience from @thedatadoc1 and @tdav in https://t.co/2TukilJSWt
+
+#dama_i #analytics #tdwi",silverdata,"['cdo', 'cao', 'mustreads', 'datascience', 'dama_i', 'analytics', 'tdwi']",2,0,https://twitter.com/silverdata/status/1369632649879388167
+57,"Catch up with our #tutorials, #webinars, etc., on our YouTube channel and make sure you subscribe and turn notifications on - to always get notified when we add a new video.
+
+👉https://t.co/NW2DLc0YBf 
+
+#DataScience #dataviz #digitalsecurity https://t.co/x5LaUiasib",PollicyOrg,"['tutorials', 'webinars', 'DataScience', 'dataviz', 'digitalsecurity']",2,2,https://twitter.com/PollicyOrg/status/1369632447961460742
+58,#ai #ml #artificialintelligence #machinelearning #datascience #bigdata #analytics #blockchain #tech #data @Nicochan33 @TrippBraden @Paula_Piccard @haroldsinnott @sallyeaves California Reviewing Tesla’s ‘Full Self-Driving’ Feature After Company Clarifie... https://t.co/g4kyWMqjVR https://t.co/0Mxeji5qer,cuongcz,"['ai', 'ml', 'artificialintelligence', 'machinelearning', 'datascience', 'bigdata', 'analytics', 'blockchain', 'tech', 'data']",2,1,https://twitter.com/cuongcz/status/1369631886092427268
+59,"** Virtual Internship Alert **
+
+Edvicer brings you the Top 4 DATA Science Virtual internships to pursue
+
+🔥Check out: https://t.co/hCu3eEznny 
+
+#Edvicer #datascience  #dataanalytics #machinelearning #ai #python #deeplearning #developer #software #bhfyp https://t.co/dBk0AxXoWS",EdvicerCourses,"['Edvicer', 'datascience', 'dataanalytics', 'machinelearning', 'ai', 'python', 'deeplearning', 'developer', 'software', 'bhfyp']",8,3,https://twitter.com/EdvicerCourses/status/1369631565978931202
+60,"Are you an energy forecaster, innovator or power system planner? Want more value from your smart meter data/weather forecasts, or a solution to planning your LV network or operating a flexibility service?
+
+TNEI's Data Science team is here: https://t.co/3h6vQx2aTM #DataScience #AI",TNEIServices,"['DataScience', 'AI']",3,1,https://twitter.com/TNEIServices/status/1369630937487704066
+61,"Who would be #nyc mayor between Carrie Bradshaw, George Costanza, and Don Draper?  Check out the newest 2xParked!
+
+#NewYork #NewYorkCity #Election2021 #SexandtheCity #Seinfeld #vote #madmen #GossipGirl #data #DataScience #Econometrics #Poll #BREAKING
+ https://t.co/f5Wxb7zHQt",2xParked,"['nyc', 'NewYork', 'NewYorkCity', 'Election2021', 'SexandtheCity', 'Seinfeld', 'vote', 'madmen', 'GossipGirl', 'data', 'DataScience', 'Econometrics', 'Poll', 'BREAKING']",3,2,https://twitter.com/2xParked/status/1369630912057643011
+62,"How a highly granular approach to B2B costing and pricing at individual customer level can pay big dividends.
+
+#pricing #PricingStrategy #DataScience #DataAnalytics 
+
+https://t.co/dHFILydcmQ",theifactory1,"['pricing', 'PricingStrategy', 'DataScience', 'DataAnalytics']",1,1,https://twitter.com/theifactory1/status/1369630365166440450
+63,"Battle of the Best Data Science Tools😃 😃 😃 
+.
+.
+.
+.
+.
+#technews #technology #datascience #python https://t.co/Ftja6z0p1k",TRO_Insights,"['technews', 'technology', 'datascience', 'python']",6,2,https://twitter.com/TRO_Insights/status/1369630129169825794
+64,"The technology landscape is ever-evolving, and its impact on the world economy is driving businesses towards a data-driven decision-making process. ML-driven intelligent decision models can enable organisations to make decisions more cost-efficient and faster 
+ #DataScience #ML https://t.co/6R0KH6bl6h",Technosoft_Corp,"['DataScience', 'ML']",3,1,https://twitter.com/Technosoft_Corp/status/1369630114254712833
+65,"Master in Data Visualization and Analysis with R in 2021 
+
+➡️ https://t.co/IhvxImeWCE
+
+🕸️ @udemy #DataVisualization #RollUpToWin 
+ #DeepLearning #DataScience #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Coding #100DaysofCode #100DaysOfMLCode https://t.co/qfmnPQzAH8",couponed_code,"['DataVisualization', 'RollUpToWin', 'DeepLearning', 'DataScience', 'MachineLearning', 'IoT', 'IIoT', 'Python', 'RStats', 'CloudComputing', 'Serverless', 'Linux', 'Coding', '100DaysofCode', '100DaysOfMLCode']",13,3,https://twitter.com/couponed_code/status/1369630113579536390
+66,"Indiana using artificial intelligence to power job search website - https://t.co/HfLawTBB4v
+
+Read more here: https://t.co/v08FdlPYuD
+
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",SuzanneC0leman,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",6,1,https://twitter.com/SuzanneC0leman/status/1369629950567972869
+67,"College students befriend bots, texting emotional messages - Los Angeles Times
+
+Read more here: https://t.co/Le5if49pqV
+
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",SuzanneC0leman,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",6,1,https://twitter.com/SuzanneC0leman/status/1369629946348527617
+68,"Algorithmic Training Technique Aims to Democratize Deep Learning-Enhanced Microscopy - https://t.co/wgh002sMGl
+
+Read more here: https://t.co/VFrfLPfXiw
+
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",TaylorLevi6,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",20,3,https://twitter.com/TaylorLevi6/status/1369629903814094848
+69,"Get-in depth knowledge on #python programming, code for #BigData, #DataScience and many more. With  our #job oriented training program grab a high paying job in top MNC's. Enroll now.
+https://t.co/2zg9xciAtZ
+#Mar10Day #elearning #WednesdayMotivation #wednesday
+#wednesdaythought https://t.co/VabZ8LQqlG",Folksitelearn,"['python', 'BigData', 'DataScience', 'job', 'Mar10Day', 'elearning', 'WednesdayMotivation', 'wednesday', 'wednesdaythought']",6,1,https://twitter.com/Folksitelearn/status/1369629892258623489
+70,"The Ultimate Guide to Cracking Business Case Interviews for Data Scientists (Part 1)   @TDataScience https://t.co/5oeRPXWVOH
+
+#DataScience",Roger_M_Taylor,['DataScience'],2,1,https://twitter.com/Roger_M_Taylor/status/1369629792165855234
+71,"Let's get #social!
+Twitter https://t.co/DHl41Jw63h
+Linkedin https://t.co/bTD7kpHgw0
+Facebook https://t.co/xRy5wbwToN
+Pinterest https://t.co/XFzscLpahH
+Instagram https://t.co/edwmuwM5pY
+Youtube https://t.co/UIUpk6vglD
+#socialmedia #socialmediamarketing #DataScience #CyberSecurity https://t.co/cUgJnLCueT",logstail,"['social', 'socialmedia', 'socialmediamarketing', 'DataScience', 'CyberSecurity']",1,2,https://twitter.com/logstail/status/1369629644908093440
+72,"In this series, we would like to introduce you to our advisors. The experts who support, encourage and mentor our team during Predictiva's journey.
+
+Please meet Dr Walid Magdy, our Data Science Advisor.
+
+#ArtificialIntelligence #DataScience #predictiva https://t.co/9apuKpGtXF",Predictivaltd,"['ArtificialIntelligence', 'DataScience', 'predictiva']",2,1,https://twitter.com/Predictivaltd/status/1369629576465444881
+73,"Deep Learning was Top In-demand Skill of 2020, List of Most Popular Nanodegree Programs
+
+via @Dataquest_India
+#dataengineering #datascience #data  https://t.co/BTrGprLcA9",qubole,"['dataengineering', 'datascience', 'data']",2,1,https://twitter.com/qubole/status/1369629125112172546
+74,"IAB AI Working Group to Establish Artificial Intelligence Standards - Yahoo Finance
+
+Read more here: https://t.co/MoDWUysAqV
+
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",BenjaminP3ters,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",8,1,https://twitter.com/BenjaminP3ters/status/1369628642557431817
+75,"College students befriend bots, texting emotional messages - Los Angeles Times
+
+Read more here: https://t.co/W43yAEHuAp
+
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",BenjaminP3ters,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",4,1,https://twitter.com/BenjaminP3ters/status/1369628639545950214
+76,"Algorithmic Training Technique Aims to Democratize Deep Learning-Enhanced Microscopy - https://t.co/I346E2za2x
+
+Read more here: https://t.co/FP6BfrZjxJ
+
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",J3nTyrell,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",3,1,https://twitter.com/J3nTyrell/status/1369628530066219014
+77,Lecturer in Marketing Particular Marketing Analytics &amp; Data Science 0.2-0.5 FTE - ... in https://t.co/RhSDUvBa2M #datascience #intoAInews,into_AI,"['datascience', 'intoAInews']",2,1,https://twitter.com/into_AI/status/1369628440022970370
+78,"Global opportunities open for local data science talent - Data scientists Dippnall, Dave https://t.co/LaEyvmAfxw #datascience #intoAInews",into_AI,"['datascience', 'intoAInews']",2,1,https://twitter.com/into_AI/status/1369628416308359169
+79,Learn How To Become An Expert In Machine Learning &amp; Data Science With This Training - The https://t.co/iiN4CIMYWW #datascience #intoAInews,into_AI,"['datascience', 'intoAInews']",2,2,https://twitter.com/into_AI/status/1369628395374575622
+80,Take a look at this article from Analytics Insight to find out how companies and organisations can utilise the data science to enhance their daily transactions. #datascience https://t.co/VPqn7vZzQB https://t.co/TqEalhwQUH,alagusubramani,['datascience'],2,1,https://twitter.com/alagusubramani/status/1369628369244069888
+81,"#Announcement
+#Public #Policy and #Data #Analytics #Program
+
+Program starts on: 18th April 2021
+Last date for application: 11th April 2021
+Who is eligible to apply: Any individual passionate to learn can join in.
+Admission Link: https://t.co/dKO8SNcKIK
+#datascience #opportunity https://t.co/DPFYEh25t5",CASPR_INDIA,"['Announcement', 'Public', 'Policy', 'Data', 'Analytics', 'Program', 'datascience', 'opportunity']",0,0,https://twitter.com/CASPR_INDIA/status/1369627932436533257
+82,"Suicide risk with selective serotonin reuptake inhibitors and new-generation serotonergic-noradrenergic antidepressants in adults: a systematic review and meta-analysis of observational studies - https://t.co/ECi5Ve9zEF
+-
+ #datascience",ds_vault,['datascience'],1,0,https://twitter.com/ds_vault/status/1369627771723513860
+83,"The 10 most innovative companies in data science - https://t.co/4bg8jiCqlU
+-
+ #datascience #science",ds_vault,"['datascience', 'science']",0,0,https://twitter.com/ds_vault/status/1369627770561642500
+84,Where is Marketing Data Science Headed? | GreenBook https://t.co/zPqzv7G23C #DataScience #TechJunkieNews https://t.co/l2hX8Hes6Q,techjunkiejh,"['DataScience', 'TechJunkieNews']",0,0,https://twitter.com/techjunkiejh/status/1369627604916051969
+85,"Guide to Bayesian Optimization Using BoTorch.
+#machinelearning #BigData #DataScience #python #JavaScript #ReactJS #CloudComputing #Programming #Coding #100DaysOfCode #DataScientists #AI #PyTorch
+
+https://t.co/nTVrGdWrEE",Analyticsindiam,"['machinelearning', 'BigData', 'DataScience', 'python', 'JavaScript', 'ReactJS', 'CloudComputing', 'Programming', 'Coding', '100DaysOfCode', 'DataScientists', 'AI', 'PyTorch']",12,4,https://twitter.com/Analyticsindiam/status/1369627530131501061
+86,"3 #DataScience Trends We’ll See More in 2021
+Rightwards arrow 
+https://t.co/a6D2ortbo9
+ @Galil @AITechmeme @nordicinst @machine_ml 
+
+#BigData #AI  #ML #TechTrends #IoT #IIoT #IoTPL #Serverless #CloudComputing #CyberSecurity  #WomenWhoCode #DEVCommunity #programming https://t.co/Kp7qyMokmo",automeme,"['DataScience', 'BigData', 'AI', 'ML', 'TechTrends', 'IoT', 'IIoT', 'IoTPL', 'Serverless', 'CloudComputing', 'CyberSecurity', 'WomenWhoCode', 'DEVCommunity', 'programming']",5,1,https://twitter.com/automeme/status/1369627368529289217
+87,Getting More from Predictive Analytics with Holistic Technology - Coruzant Technologies https://t.co/Jt39qZOb2v #PredictiveModeling #Analytics #NLP #BigData #Forecast #GIS #PubicSafety #FirstResponders #Data #DataScience #Coruzant,Coruzant,"['PredictiveModeling', 'Analytics', 'NLP', 'BigData', 'Forecast', 'GIS', 'PubicSafety', 'FirstResponders', 'Data', 'DataScience', 'Coruzant']",0,0,https://twitter.com/Coruzant/status/1369627098000855043
+88,"Data Science Core Skills – What Matters the Most in 2021 https://t.co/2V08OX89Dy
+
+#CodeNewbies #100DaysOfCode #developer #github #DevOps #powerbi #SQL #Algebra #Algorithms #kaggle #PyTorch #bigdata #DataScience #DataScientist #TensorFlow #deeplearning #MachineLearning #Cloud",Shradha55989917,"['CodeNewbies', '100DaysOfCode', 'developer', 'github', 'DevOps', 'powerbi', 'SQL', 'Algebra', 'Algorithms', 'kaggle', 'PyTorch', 'bigdata', 'DataScience', 'DataScientist', 'TensorFlow', 'deeplearning', 'MachineLearning', 'Cloud']",11,4,https://twitter.com/Shradha55989917/status/1369627029369393156
+89,"#Gender Inequality Persists in #DataScience and AI | 
+
+And 10 things you can do to increase gender diversity in data science. 
+
+https://t.co/Zi2txryJTj
+
+#artificialintelligence #IWD2021 https://t.co/G1zp67Fqip",bobehayes,"['Gender', 'DataScience', 'artificialintelligence', 'IWD2021']",2,2,https://twitter.com/bobehayes/status/1369626728407121923
+90,"Exciting news to share today.  I'm so proud to be part of this amazing team launching a free data and analytics up-skilling programme to support 10,000 job seekers back into work. https://t.co/Dm6bSOO0tG #datascience #analyt #AI #learning #upskill #BigData @SASsoftwareUKI https://t.co/yxmZDDPkzd",T_J_Carpenter,"['datascience', 'analyt', 'AI', 'learning', 'upskill', 'BigData']",0,2,https://twitter.com/T_J_Carpenter/status/1369626721444630537
+91,"Combining  AI powered track-and-trace solutions with mobile devices for associates lets stores meet consumer demand in real time. - https://t.co/MARXd3SeZd
+
+#ODA #Blockchain #FinTech #software #DataSecurity #DataScience  #AI #Agility",ondemandagility,"['ODA', 'Blockchain', 'FinTech', 'software', 'DataSecurity', 'DataScience', 'AI', 'Agility']",1,0,https://twitter.com/ondemandagility/status/1369626708756807682
+92,"The Future of Artificial Intelligence  — Abundance of Data Can be Detrimental
+ https://t.co/9zc2cd7TpK 
+
+ #ai #artificialintelligence #machinelearning #deeplearning #DataScience 
+@Heart35000 @artificialpodc @andresvilarino",automeme,"['ai', 'artificialintelligence', 'machinelearning', 'deeplearning', 'DataScience']",1,2,https://twitter.com/automeme/status/1369626610522021889
+93,"HUAWEI Mate 30 Pro How to film Timelapses in 4K
+
+Follow @TheNewsModel
+for #Tech #Robotics #Drones #AI #AR #VR #IoT #technology #ArtificialIntelligence #DataScience #Wearables #futureofwork https://t.co/jDGeGKluLI",TheNewsModel,"['Tech', 'Robotics', 'Drones', 'AI', 'AR', 'VR', 'IoT', 'technology', 'ArtificialIntelligence', 'DataScience', 'Wearables', 'futureofwork']",1,1,https://twitter.com/TheNewsModel/status/1369626593853804548
+94,"The right Data Analyst can give you invaluable business insights into the past, present and future. 
+
+#data #datascience #datavisualization  #dataanalytics #dataviz #business  #powerbi #tableau #dataviz #businessintelligence #datascience #looker #Qlikview https://t.co/bSUWqdX2tv",thedataframeso1,"['data', 'datascience', 'datavisualization', 'dataanalytics', 'dataviz', 'business', 'powerbi', 'tableau', 'dataviz', 'businessintelligence', 'datascience', 'looker', 'Qlikview']",0,1,https://twitter.com/thedataframeso1/status/1369626433715339264
+95,"[#Government #Water Pros] Join your worldwide peers at the #AWWAACE June 13-16, virtually or #inperson @CityofSanDiego! Topics include:
+
+✔️ #WaterConservation
+✔️ #Technology: #DataScience #Automation
+✔️ Special sessions for #LocalGov officials
+
+https://t.co/55zQweuIUY @AWWA #CA https://t.co/T5rjKg9cjd",GovEventsGroup,"['Government', 'Water', 'AWWAACE', 'inperson', 'WaterConservation', 'Technology', 'DataScience', 'Automation', 'LocalGov', 'CA']",1,0,https://twitter.com/GovEventsGroup/status/1369626344259215360
+96,"Proactive #CyberSecurity ! My deep dive 
+@digitaljournal with @unisyscorp
+ 's Mat Newfield on rise of #ransomware 
+
+Full interview https://t.co/KLnGq1EQlz 
+#Security #data #DataScience #culture #cyber  
+ 
+@CurieuxExplorer
+ 
+@PawlowskiMario
+ 
+@FrRonconi
+ 
+@gvalan https://t.co/RXQS4lg9eX",automeme,"['CyberSecurity', 'ransomware', 'Security', 'data', 'DataScience', 'culture', 'cyber']",4,4,https://twitter.com/automeme/status/1369626332506820610
+97,"Day 7 of #100daysofcode  
+#javascript #java #python #100daysofcode #programmingjoke #code #coding #javascript #python #datascience #programming #programmer #joke #100daysofcode #webdev #webdevelopment #php #java #linux #css #programmingmemes #codinglife #codingpics",DeepakGehlod10,"['100daysofcode', 'javascript', 'java', 'python', '100daysofcode', 'programmingjoke', 'code', 'coding', 'javascript', 'python', 'datascience', 'programming', 'programmer', 'joke', '100daysofcode', 'webdev', 'webdevelopment', 'php', 'java', 'linux', 'css', 'programmingmemes', 'codinglife', 'codingpics']",9,6,https://twitter.com/DeepakGehlod10/status/1369626140789252097
+98,"Top 5 JavaScript Machine Learning Libraries:
+
+ 1 Synaptic  
+
+2 Keras.Js
+
+3). Brain.JS
+
+4). TensorFlow.js 
+
+5). Conventjs  
+
+#100DaysOfCode #CodeNewbie #javascript #MachineLearning #DataScience",HarunMbaabu,"['100DaysOfCode', 'CodeNewbie', 'javascript', 'MachineLearning', 'DataScience']",16,12,https://twitter.com/HarunMbaabu/status/1369626054617337861
+99,"Developing #AI w/ Reasoning Like Humans #MachineLearning 
+
+https://t.co/azNEy9TNwK
+
+@SpirosMargaris
+ 
+@Xbond49
+ 
+@psb_dc
+ 
+@jblefevre60
+
+@Paula_Piccard
+ 
+@ShiCooks
+ 
+@JimMarous
+
+@gvalan
+
+#DeepLearning #DataScience #Fintech #5G https://t.co/NwcskdWJxC",automeme,"['AI', 'MachineLearning', 'DeepLearning', 'DataScience', 'Fintech', '5G']",1,1,https://twitter.com/automeme/status/1369625959482220544
