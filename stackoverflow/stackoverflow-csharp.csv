@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-24,How can I store linq queries?,/questions/66564852/how-can-i-store-linq-queries,51,3
-31,C# 9 - How to call default interface method with reflection?,/questions/66564549/c-sharp-9-how-to-call-default-interface-method-with-reflection,51,4
-48,Update a null column in sql with spexecutesql,/questions/66564067/update-a-null-column-in-sql-with-spexecutesql,38,0
-46,Time validations in c#,/questions/66564172/time-validations-in-c-sharp,38,1
-21,"How do I check if an int is divisible by another int? Using c#, Following specified the conditions",/questions/66565052/how-do-i-check-if-an-int-is-divisible-by-another-int-using-c-following-specif,35,-1
-22,ASP.NET Core MVC controller receives null for input parameter from ajax call,/questions/66564866/asp-net-core-mvc-controller-receives-null-for-input-parameter-from-ajax-call,27,2
-47,C#: Can't include class from annother namespace [duplicate],/questions/66564098/c-cant-include-class-from-annother-namespace,25,0
-44,C# - Byte array from SecureString,/questions/66564204/c-sharp-byte-array-from-securestring,24,0
-7,How can I pass an encoded url as a path parameter in c#,/questions/66565578/how-can-i-pass-an-encoded-url-as-a-path-parameter-in-c-sharp,24,0
-14,Ignore Null value in order by with linq,/questions/66565394/ignore-null-value-in-order-by-with-linq,23,0
-32,DB2 C# Date Conversion,/questions/66564511/db2-c-sharp-date-conversion,22,1
-12,Is it possible to write the expression with with async and Null-conditional operators ?. briefly?,/questions/66565467/is-it-possible-to-write-the-expression-with-with-async-and-null-conditional-oper,22,0
-29,Xamarin.Forms would not compile Android Project,/questions/66564661/xamarin-forms-would-not-compile-android-project,21,1
-28,Moving Player 'X' from text file in C#,/questions/66564736/moving-player-x-from-text-file-in-c-sharp,20,0
-11,Code returns“The Name 'noiseMap' does not exist in current context”,/questions/66565479/code-returnsthe-name-noisemap-does-not-exist-in-current-context,20,0
-20,How to set style of some parts of text in DataGrid by condition in C#,/questions/66565073/how-to-set-style-of-some-parts-of-text-in-datagrid-by-condition-in-c-sharp,20,1
-10,MemoryStream Return Large Amounts of Byte Array,/questions/66565544/memorystream-return-large-amounts-of-byte-array,20,-2
-43,Get CheckBox Content with Databinding in C# ListView Checkbox,/questions/66564247/get-checkbox-content-with-databinding-in-c-sharp-listview-checkbox,19,0
-17,issue with spawning multiples of the same snake food,/questions/66565289/issue-with-spawning-multiples-of-the-same-snake-food,19,2
-45,File does not convert Image format in asp.net core,/questions/66564201/file-does-not-convert-image-format-in-asp-net-core,19,0
-25,SqlException: 'SCOPE_INDENTITY' is not a recognized built-in function name [closed],/questions/66564821/sqlexception-scope-indentity-is-not-a-recognized-built-in-function-name,17,0
-38,Relashionship configuration of multiple navigation properties of same type?,/questions/66564383/relashionship-configuration-of-multiple-navigation-properties-of-same-type,15,0
-40,Rest API post call with token & multipartform returns 401 error,/questions/66564314/rest-api-post-call-with-token-multipartform-returns-401-error,15,0
-33,Printint multiple pdf pages on per page with C#,/questions/66564505/printint-multiple-pdf-pages-on-per-page-with-c-sharp,14,0
-13,ASP.NET Core 3.1 responsive image,/questions/66565420/asp-net-core-3-1-responsive-image,14,0
-36,Timer (C#) does not tick when native code debugging is enabled,/questions/66564445/timer-c-does-not-tick-when-native-code-debugging-is-enabled,13,0
-49,SSIS C# Debugging and Breakpoints not working with Integration Services Object,/questions/66564021/ssis-c-sharp-debugging-and-breakpoints-not-working-with-integration-services-obj,13,0
-6,ASP.NET core: NSwag vs. Swashbuckle,/questions/66565597/asp-net-core-nswag-vs-swashbuckle,13,0
-4,How to pass a Lua array into C# function,/questions/66565693/how-to-pass-a-lua-array-into-c-sharp-function,12,0
-37,I want to use IHttpClientFactory with Prism,/questions/66564435/i-want-to-use-ihttpclientfactory-with-prism,12,1
-30,Listview row colour with no subitems not changing colour correctly,/questions/66564567/listview-row-colour-with-no-subitems-not-changing-colour-correctly,11,0
-23,How to set an existing key in the registry editor using C sharp,/questions/66564865/how-to-set-an-existing-key-in-the-registry-editor-using-c-sharp,11,0
-35,How to create MaterialSingleLineTextField dynamically in windows forms,/questions/66564456/how-to-create-materialsinglelinetextfield-dynamically-in-windows-forms,11,2
-8,how to play a sound from .NetStandard 2.0 class library?,/questions/66565560/how-to-play-a-sound-from-netstandard-2-0-class-library,11,1
-9,cannot find the dll file while using nunit,/questions/66565548/cannot-find-the-dll-file-while-using-nunit,10,-3
-2,Swagger get class fileds,/questions/66565830/swagger-get-class-fileds,10,0
-19,New models present after upgrading Swashbuckle.AspNetCore 6.0.1,/questions/66565253/new-models-present-after-upgrading-swashbuckle-aspnetcore-6-0-1,10,1
-18,"When i try to rename files, i encountered an error about the File.Move method",/questions/66565285/when-i-try-to-rename-files-i-encountered-an-error-about-the-file-move-method,10,0
-27,C#.NET WinForms: Connect to oracle cloud db via server,/questions/66564804/c-net-winforms-connect-to-oracle-cloud-db-via-server,8,0
-15,Hours Watched Twitch API,/questions/66565345/hours-watched-twitch-api,8,0
-26,How to block download for SharePoint in CSOM,/questions/66564819/how-to-block-download-for-sharepoint-in-csom,8,0
-5,Queues management in C# devs team,/questions/66565683/queues-management-in-c-sharp-devs-team,7,0
-3,Microsoft Graph API: Get message with expand and filter fails with an Exception: “Found an unbalanced bracket expression.” (using C#),/questions/66565810/microsoft-graph-api-get-message-with-expand-and-filter-fails-with-an-exception,7,0
-1,"Decrypt using public key, RSA and Bouncy castle",/questions/66565832/decrypt-using-public-key-rsa-and-bouncy-castle,7,0
-41,Xamarin.Forms Cell Rendering Error after updating to Android 10,/questions/66564302/xamarin-forms-cell-rendering-error-after-updating-to-android-10,6,0
-34,Writing additional bytes to picture c#,/questions/66564462/writing-additional-bytes-to-picture-c-sharp,6,0
-39,Variable size of exported OxyPlot graph based on size of legend,/questions/66564356/variable-size-of-exported-oxyplot-graph-based-on-size-of-legend,5,0
-42,ASP.NET Core Runtime Compilation fails with “Cannot find compilation library location for package” for dynamically loaded Razor Class Library,/questions/66564269/asp-net-core-runtime-compilation-fails-with-cannot-find-compilation-library-loc,5,0
-16,Bittrex API V3 invalid API key,/questions/66565295/bittrex-api-v3-invalid-api-key,4,0
-0,Why entity framework results are reference type?,/questions/66565922/why-entity-framework-results-are-reference-type,3,0
+31,How can I store linq queries?,/questions/66564852/how-can-i-store-linq-queries,54,3
+38,C# 9 - How to call default interface method with reflection?,/questions/66564549/c-sharp-9-how-to-call-default-interface-method-with-reflection,51,4
+28,"How do I check if an int is divisible by another int? Using c#, Following specified the conditions [closed]",/questions/66565052/how-do-i-check-if-an-int-is-divisible-by-another-int-using-c-following-specif,41,-1
+29,ASP.NET Core MVC controller receives null for input parameter from ajax call,/questions/66564866/asp-net-core-mvc-controller-receives-null-for-input-parameter-from-ajax-call,29,2
+13,How can I pass an encoded url as a path parameter in c#,/questions/66565578/how-can-i-pass-an-encoded-url-as-a-path-parameter-in-c-sharp,25,0
+20,Ignore Null value in order by with linq,/questions/66565394/ignore-null-value-in-order-by-with-linq,24,0
+18,Is it possible to write the expression with with async and Null-conditional operators ?. briefly?,/questions/66565467/is-it-possible-to-write-the-expression-with-with-async-and-null-conditional-oper,24,0
+23,issue with spawning multiples of the same snake food,/questions/66565289/issue-with-spawning-multiples-of-the-same-snake-food,22,2
+39,DB2 C# Date Conversion,/questions/66564511/db2-c-sharp-date-conversion,22,1
+36,Xamarin.Forms would not compile Android Project,/questions/66564661/xamarin-forms-would-not-compile-android-project,22,1
+16,MemoryStream Return Large Amounts of Byte Array,/questions/66565544/memorystream-return-large-amounts-of-byte-array,21,-2
+35,Moving Player 'X' from text file in C#,/questions/66564736/moving-player-x-from-text-file-in-c-sharp,20,0
+27,How to set style of some parts of text in DataGrid by condition in C#,/questions/66565073/how-to-set-style-of-some-parts-of-text-in-datagrid-by-condition-in-c-sharp,20,1
+17,Code returns“The Name 'noiseMap' does not exist in current context”,/questions/66565479/code-returnsthe-name-noisemap-does-not-exist-in-current-context,20,0
+45,Relashionship configuration of multiple navigation properties of same type?,/questions/66564383/relashionship-configuration-of-multiple-navigation-properties-of-same-type,17,0
+32,SqlException: 'SCOPE_INDENTITY' is not a recognized built-in function name [closed],/questions/66564821/sqlexception-scope-indentity-is-not-a-recognized-built-in-function-name,17,0
+47,Rest API post call with token & multipartform returns 401 error,/questions/66564314/rest-api-post-call-with-token-multipartform-returns-401-error,15,0
+12,ASP.NET core: NSwag vs. Swashbuckle,/questions/66565597/asp-net-core-nswag-vs-swashbuckle,15,0
+10,How to pass a Lua array into C# function,/questions/66565693/how-to-pass-a-lua-array-into-c-sharp-function,14,0
+19,ASP.NET Core 3.1 responsive image,/questions/66565420/asp-net-core-3-1-responsive-image,14,0
+40,Printint multiple pdf pages on per page with C#,/questions/66564505/printint-multiple-pdf-pages-on-per-page-with-c-sharp,14,0
+6,Why entity framework results are reference type?,/questions/66565922/why-entity-framework-results-are-reference-type,13,0
+43,Timer (C#) does not tick when native code debugging is enabled,/questions/66564445/timer-c-does-not-tick-when-native-code-debugging-is-enabled,13,0
+30,How to set an existing key in the registry editor using C sharp,/questions/66564865/how-to-set-an-existing-key-in-the-registry-editor-using-c-sharp,12,0
+42,How to create MaterialSingleLineTextField dynamically in windows forms,/questions/66564456/how-to-create-materialsinglelinetextfield-dynamically-in-windows-forms,12,2
+44,I want to use IHttpClientFactory with Prism,/questions/66564435/i-want-to-use-ihttpclientfactory-with-prism,12,1
+3,Datatable Bulk update,/questions/66566028/datatable-bulk-update,12,0
+14,how to play a sound from .NetStandard 2.0 class library?,/questions/66565560/how-to-play-a-sound-from-netstandard-2-0-class-library,11,1
+37,Listview row colour with no subitems not changing colour correctly,/questions/66564567/listview-row-colour-with-no-subitems-not-changing-colour-correctly,11,0
+26,New models present after upgrading Swashbuckle.AspNetCore 6.0.1,/questions/66565253/new-models-present-after-upgrading-swashbuckle-aspnetcore-6-0-1,10,1
+8,Swagger get class fileds,/questions/66565830/swagger-get-class-fileds,10,0
+24,"When i try to rename files, i encountered an error about the File.Move method",/questions/66565285/when-i-try-to-rename-files-i-encountered-an-error-about-the-file-move-method,10,0
+15,cannot find the dll file while using nunit,/questions/66565548/cannot-find-the-dll-file-while-using-nunit,10,-3
+7,"Decrypt using public key, RSA and Bouncy castle",/questions/66565832/decrypt-using-public-key-rsa-and-bouncy-castle,9,0
+9,Microsoft Graph API: Get message with expand and filter fails with an exception: “Found an unbalanced bracket expression.” (using C#),/questions/66565810/microsoft-graph-api-get-message-with-expand-and-filter-fails-with-an-exception,9,0
+34,C#.NET WinForms: Connect to oracle cloud db via server,/questions/66564804/c-net-winforms-connect-to-oracle-cloud-db-via-server,9,0
+33,How to block download for SharePoint in CSOM,/questions/66564819/how-to-block-download-for-sharepoint-in-csom,8,0
+11,Queues management in C# devs team,/questions/66565683/queues-management-in-c-sharp-devs-team,8,0
+5,Application don't show on Desktop but Taskmanager lists that application,/questions/66565979/application-dont-show-on-desktop-but-taskmanager-lists-that-application,8,0
+21,Hours Watched Twitch API,/questions/66565345/hours-watched-twitch-api,8,0
+41,Writing additional bytes to picture c#,/questions/66564462/writing-additional-bytes-to-picture-c-sharp,7,0
+2,How can convert integer into decimal format by fractions 60,/questions/66566068/how-can-convert-integer-into-decimal-format-by-fractions-60,7,0
+25,Change the value within the resource file according to the condition in app setting (asp.net core),/questions/66565277/change-the-value-within-the-resource-file-according-to-the-condition-in-app-sett,7,0
+48,Xamarin.Forms Cell Rendering Error after updating to Android 10,/questions/66564302/xamarin-forms-cell-rendering-error-after-updating-to-android-10,6,0
+46,Variable size of exported OxyPlot graph based on size of legend,/questions/66564356/variable-size-of-exported-oxyplot-graph-based-on-size-of-legend,5,0
+49,ASP.NET Core Runtime Compilation fails with “Cannot find compilation library location for package” for dynamically loaded Razor Class Library,/questions/66564269/asp-net-core-runtime-compilation-fails-with-cannot-find-compilation-library-loc,5,0
+1,Show all possible NullReferenceExceptions for property,/questions/66566081/show-all-possible-nullreferenceexceptions-for-property,5,0
+4,How can i create a script that even if iclose the game is gonna work?,/questions/66566027/how-can-i-create-a-script-that-even-if-iclose-the-game-is-gonna-work,5,0
+22,Bittrex API V3 invalid API key,/questions/66565295/bittrex-api-v3-invalid-api-key,4,0
+0,Getting cors error in .net framework in release release,/questions/66566082/getting-cors-error-in-net-framework-in-release-release,3,0

@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-45,Displaying messages from an object,/questions/66564928/displaying-messages-from-an-object,49,3
-41,Recursively replace all occurances of large JSON keys having - to _ character,/questions/66564971/recursively-replace-all-occurances-of-large-json-keys-having-to-character,35,1
-40,How to create this shape using css and html? [closed],/questions/66565015/how-to-create-this-shape-using-css-and-html,31,-4
-27,How to group an array from given array of objects,/questions/66565426/how-to-group-an-array-from-given-array-of-objects,30,0
-24,Is it possible to write data in JSON file without AJAX or backend?,/questions/66565490/is-it-possible-to-write-data-in-json-file-without-ajax-or-backend,29,0
-36,is there way to customize timestamp in AJAX,/questions/66565157/is-there-way-to-customize-timestamp-in-ajax,26,1
-26,How to make image responsive in navbar html + css,/questions/66565451/how-to-make-image-responsive-in-navbar-html-css,26,0
-35,Refresh Datas after each second in js (async functions),/questions/66565209/refresh-datas-after-each-second-in-js-async-functions,23,1
-32,how to make show and hide paragraph using checkbox,/questions/66565305/how-to-make-show-and-hide-paragraph-using-checkbox,22,0
-15,javascript dynamically import a class module and get the name of the class,/questions/66565671/javascript-dynamically-import-a-class-module-and-get-the-name-of-the-class,20,0
-25,sort array of arrays in specific order using lodash,/questions/66565480/sort-array-of-arrays-in-specific-order-using-lodash,20,-1
-17,How get all “names” from array of objects? [closed],/questions/66565650/how-get-all-names-from-array-of-objects,19,-7
-18,push array in class is undefined,/questions/66565643/push-array-in-class-is-undefined,19,0
-7,javascript .map doesn't work on big array of strings (8k strings),/questions/66565775/javascript-map-doesnt-work-on-big-array-of-strings-8k-strings,19,0
-30,Copy Column name and number in table1 to table2,/questions/66565315/copy-column-name-and-number-in-table1-to-table2,15,1
-19,How to assert array in array?,/questions/66565633/how-to-assert-array-in-array,15,0
-37,How to maintain scrollPosition of a div after it's children's style changes,/questions/66565153/how-to-maintain-scrollposition-of-a-div-after-its-childrens-style-changes,15,1
-22,How to use react router dom and express,/questions/66565538/how-to-use-react-router-dom-and-express,15,-1
-14,Rename the property in an object using Object.keys,/questions/66565710/rename-the-property-in-an-object-using-object-keys,14,-5
-3,Js unit conversion,/questions/66565857/js-unit-conversion,14,0
-8,How to create the table using javacript !!! Answer 👇,/questions/66565772/how-to-create-the-table-using-javacript-answer,14,-2
-46,How to solve problem with boostrap navigation bar?,/questions/66564892/how-to-solve-problem-with-boostrap-navigation-bar,13,1
-29,How to avoid overwrite frame styles?,/questions/66565371/how-to-avoid-overwrite-frame-styles,13,0
-23,How can i send/receive JSON files through gRPC communications? Node.js,/questions/66565519/how-can-i-send-receive-json-files-through-grpc-communications-node-js,13,0
-16,Download attribute does not work for PDFs,/questions/66565660/download-attribute-does-not-work-for-pdfs,13,0
-13,Localstorage query not working and intro.js not running,/questions/66565719/localstorage-query-not-working-and-intro-js-not-running,12,0
-31,how can i flip image in react-native?,/questions/66565309/how-can-i-flip-image-in-react-native,12,0
-10,I can't map through the array 'products'(React/Redux),/questions/66565750/i-cant-map-through-the-array-productsreact-redux,11,0
-28,Mongodb Merging/Joining Nested Objects,/questions/66565374/mongodb-merging-joining-nested-objects,11,0
-48,Auto deselect the “first selected item” after selecting two items in Material UI,/questions/66564887/auto-deselect-the-first-selected-item-after-selecting-two-items-in-material-ui,11,0
-33,Stripe : Non-inr currency payment failing for india issued cards,/questions/66565266/stripe-non-inr-currency-payment-failing-for-india-issued-cards,10,0
-43,Unable to connect to printer using node js,/questions/66564935/unable-to-connect-to-printer-using-node-js,10,0
-38,How to restrict unauthorised access to html page on firebase hosted site,/questions/66565128/how-to-restrict-unauthorised-access-to-html-page-on-firebase-hosted-site,9,0
-47,Is there any way to use nested HOC component in react-router-dom?,/questions/66564891/is-there-any-way-to-use-nested-hoc-component-in-react-router-dom,9,0
-44,Jest change mock implementation for a POJO module between tests,/questions/66564931/jest-change-mock-implementation-for-a-pojo-module-between-tests,9,0
-49,How to solve cross origin error in iframe? [duplicate],/questions/66564875/how-to-solve-cross-origin-error-in-iframe,9,-2
-34,Outlook web add in with msal 1.x loginRedirect - no longer working with latest iOS,/questions/66565236/outlook-web-add-in-with-msal-1-x-loginredirect-no-longer-working-with-latest-i,9,0
-1,Prepend a string property value based on its parent array key name,/questions/66565885/prepend-a-string-property-value-based-on-its-parent-array-key-name,8,0
-12,How do you add an instance to an instanced object using Javascript?,/questions/66565744/how-do-you-add-an-instance-to-an-instanced-object-using-javascript,8,0
-5,how to assign data to an array from http get request in angular 8,/questions/66565805/how-to-assign-data-to-an-array-from-http-get-request-in-angular-8,8,0
-21,Javascript: open new page in same window in laravel when id pass,/questions/66565627/javascript-open-new-page-in-same-window-in-laravel-when-id-pass,7,-1
-6,"How to remote CSS from global scope and only import to the specific pages in React, Gatsby",/questions/66565789/how-to-remote-css-from-global-scope-and-only-import-to-the-specific-pages-in-rea,7,0
-20,Using context API (React.js) to change only a particular key in state object,/questions/66565632/using-context-api-react-js-to-change-only-a-particular-key-in-state-object,6,0
-11,jsPDF returning blank page,/questions/66565746/jspdf-returning-blank-page,6,0
-9,How to hide or disable the address bar on Edge?,/questions/66565763/how-to-hide-or-disable-the-address-bar-on-edge,6,0
-39,Provide file without hash in Strapi,/questions/66565045/provide-file-without-hash-in-strapi,5,0
-42,Heroku application file upload - file is deleted after some time?,/questions/66564970/heroku-application-file-upload-file-is-deleted-after-some-time,4,0
-4,JSX vs Component reference as value type,/questions/66565853/jsx-vs-component-reference-as-value-type,4,0
-2,One user instance tied to one session dataset,/questions/66565866/one-user-instance-tied-to-one-session-dataset,4,0
-0,how to sort a multidimensional array with javascript,/questions/66565927/how-to-sort-a-multidimensional-array-with-javascript,4,0
+40,How to make image responsive in navbar html + css,/questions/66565451/how-to-make-image-responsive-in-navbar-html-css,33,0
+41,How to group an array from given array of objects,/questions/66565426/how-to-group-an-array-from-given-array-of-objects,31,0
+38,Is it possible to write data in JSON file without AJAX or backend?,/questions/66565490/is-it-possible-to-write-data-in-json-file-without-ajax-or-backend,30,0
+21,javascript .map doesn't work on big array of strings (8k strings),/questions/66565775/javascript-map-doesnt-work-on-big-array-of-strings-8k-strings,29,-1
+46,how to make show and hide paragraph using checkbox,/questions/66565305/how-to-make-show-and-hide-paragraph-using-checkbox,25,0
+49,Refresh Datas after each second in js (async functions),/questions/66565209/refresh-datas-after-each-second-in-js-async-functions,24,1
+39,sort array of arrays in specific order using lodash,/questions/66565480/sort-array-of-arrays-in-specific-order-using-lodash,22,-1
+29,javascript dynamically import a class module and get the name of the class,/questions/66565671/javascript-dynamically-import-a-class-module-and-get-the-name-of-the-class,21,0
+17,Js unit conversion,/questions/66565857/js-unit-conversion,21,0
+32,push array in class is undefined,/questions/66565643/push-array-in-class-is-undefined,20,0
+31,How get all “names” from array of objects? [closed],/questions/66565650/how-get-all-names-from-array-of-objects,20,-7
+5,How to add class/id to image based on its title or alt,/questions/66566032/how-to-add-class-id-to-image-based-on-its-title-or-alt,18,1
+14,how to sort a multidimensional array with javascript,/questions/66565927/how-to-sort-a-multidimensional-array-with-javascript,18,-3
+7,Click on a div to activate other div,/questions/66566007/click-on-a-div-to-activate-other-div,17,1
+33,How to assert array in array?,/questions/66565633/how-to-assert-array-in-array,16,0
+44,Copy Column name and number in table1 to table2,/questions/66565315/copy-column-name-and-number-in-table1-to-table2,15,1
+43,How to avoid overwrite frame styles?,/questions/66565371/how-to-avoid-overwrite-frame-styles,15,0
+36,How to use react router dom and express,/questions/66565538/how-to-use-react-router-dom-and-express,15,-1
+30,Download attribute does not work for PDFs,/questions/66565660/download-attribute-does-not-work-for-pdfs,14,0
+28,Rename the property in an object using Object.keys,/questions/66565710/rename-the-property-in-an-object-using-object-keys,14,-5
+22,How to create the table using javacript !!! Answer 👇,/questions/66565772/how-to-create-the-table-using-javacript-answer,14,-2
+37,How can i send/receive JSON files through gRPC communications? Node.js,/questions/66565519/how-can-i-send-receive-json-files-through-grpc-communications-node-js,14,0
+45,how can i flip image in react-native?,/questions/66565309/how-can-i-flip-image-in-react-native,13,0
+42,Mongodb Merging/Joining Nested Objects,/questions/66565374/mongodb-merging-joining-nested-objects,12,0
+27,Localstorage query not working and intro.js not running,/questions/66565719/localstorage-query-not-working-and-intro-js-not-running,12,0
+6,Javascript function not working in Wordpress post,/questions/66566025/javascript-function-not-working-in-wordpress-post,12,-1
+24,I can't map through the array 'products'(React/Redux),/questions/66565750/i-cant-map-through-the-array-productsreact-redux,11,0
+47,Stripe : Non-inr currency payment failing for india issued cards,/questions/66565266/stripe-non-inr-currency-payment-failing-for-india-issued-cards,11,0
+4,How to edit elements created with javascript via a loop when click/hover,/questions/66566043/how-to-edit-elements-created-with-javascript-via-a-loop-when-click-hover,11,-1
+2,Filtering only JSON data from a text file,/questions/66566052/filtering-only-json-data-from-a-text-file,11,-2
+18,JSX vs Component reference as value type,/questions/66565853/jsx-vs-component-reference-as-value-type,10,0
+34,Using context API (React.js) to change only a particular key in state object,/questions/66565632/using-context-api-react-js-to-change-only-a-particular-key-in-state-object,10,0
+19,how to assign data to an array from http get request in angular 8,/questions/66565805/how-to-assign-data-to-an-array-from-http-get-request-in-angular-8,10,0
+15,Prepend a string property value based on its parent array key name,/questions/66565885/prepend-a-string-property-value-based-on-its-parent-array-key-name,9,0
+48,Outlook web add in with msal 1.x loginRedirect - no longer working with latest iOS,/questions/66565236/outlook-web-add-in-with-msal-1-x-loginredirect-no-longer-working-with-latest-i,9,0
+20,"How to remote CSS from global scope and only import to the specific pages in React, Gatsby",/questions/66565789/how-to-remote-css-from-global-scope-and-only-import-to-the-specific-pages-in-rea,8,0
+26,How do you add an instance to an instanced object using Javascript?,/questions/66565744/how-do-you-add-an-instance-to-an-instanced-object-using-javascript,8,0
+11,Unable to preventDefault inside passive event listener invocation,/questions/66565981/unable-to-preventdefault-inside-passive-event-listener-invocation,8,0
+25,jsPDF returning blank page,/questions/66565746/jspdf-returning-blank-page,7,0
+35,Javascript: open new page in same window in laravel when id pass,/questions/66565627/javascript-open-new-page-in-same-window-in-laravel-when-id-pass,7,-1
+23,How to hide or disable the address bar on Edge?,/questions/66565763/how-to-hide-or-disable-the-address-bar-on-edge,7,0
+16,One user instance tied to one session dataset,/questions/66565866/one-user-instance-tied-to-one-session-dataset,7,0
+12,How to add a polygon on top of an image and get image pixels inside that polygon in javascript?,/questions/66565941/how-to-add-a-polygon-on-top-of-an-image-and-get-image-pixels-inside-that-polygon,6,0
+3,Strange behavior when toggle on/off the `highlights update` option in React Devtools,/questions/66566047/strange-behavior-when-toggle-on-off-the-highlights-update-option-in-react-devt,6,0
+1,Navigate to the next input after clicking tab in Ionic Angular app,/questions/66566065/navigate-to-the-next-input-after-clicking-tab-in-ionic-angular-app,5,0
+13,I have a google chrome extension working in my react application.I need to know which part of documentation can help me,/questions/66565935/i-have-a-google-chrome-extension-working-in-my-react-application-i-need-to-know,5,0
+10,React-table. How to make a button that will be added 7 elements down without breaking the sorting?,/questions/66565990/react-table-how-to-make-a-button-that-will-be-added-7-elements-down-without-bre,5,0
+8,Change api value from false to true with axios,/questions/66566001/change-api-value-from-false-to-true-with-axios,5,0
+0,How to perform HTTPS-Request using Preprocessor in Jmeter,/questions/66566080/how-to-perform-https-request-using-preprocessor-in-jmeter,5,0
+9,How to calculate the required amount of RAM and CPUs for a Node app?,/questions/66566000/how-to-calculate-the-required-amount-of-ram-and-cpus-for-a-node-app,4,0
