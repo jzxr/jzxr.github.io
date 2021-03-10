@@ -3,17 +3,17 @@
 1,Python,,,,,,My Python Examples,"{'Python': 73.03, 'Jupyter Notebook': 25.72, 'Tcl': 1.1, 'Java': 0.15}",Python,20660.0,https://github.com/geekcomputers/Python
 2,Python,,,,,,Python脚本。模拟登录知乎， 爬虫，操作excel，微信公众号，远程开机,{'Python': 100.0},Python,6485.0,https://github.com/injetlee/Python
 3,Python,,,,,,最良心的 Python 教程：,{},,8797.0,https://github.com/TwoWater/Python
-4,python,,,,,,Show Me the Code Python version.,"{'HTML': 56.91, 'Python': 27.05, 'Jupyter Notebook': 15.17, 'C++': 0.26, 'JavaScript': 0.25, 'C': 0.18, 'CSS': 0.16, 'Mako': 0.02, 'Java': 0.01}",HTML,3095.0,https://github.com/Show-Me-the-Code/python
-5,python,,,,,,Official Python client library for kubernetes,"{'Python': 99.86, 'Shell': 0.14, 'Batchfile': 0.0}",Python,3509.0,https://github.com/kubernetes-client/python
-6,python,,,,,,Python Books && Courses,{},,2276.0,https://github.com/xxg1413/python
+4,python,,,,,,Show Me the Code Python version.,"{'HTML': 56.91, 'Python': 27.05, 'Jupyter Notebook': 15.17, 'C++': 0.26, 'JavaScript': 0.25, 'C': 0.18, 'CSS': 0.16, 'Mako': 0.02, 'Java': 0.01}",HTML,3096.0,https://github.com/Show-Me-the-Code/python
+5,python,,,,,,Official Python client library for kubernetes,"{'Python': 99.86, 'Shell': 0.14, 'Batchfile': 0.0}",Python,3510.0,https://github.com/kubernetes-client/python
+6,python,,,,,,Python Books && Courses,{},,2277.0,https://github.com/xxg1413/python
 7,PythonDataScienceHandbook,,,,,,Python Data Science Handbook: full text in Jupyter Notebooks,"{'Jupyter Notebook': 99.73, 'Python': 0.09, 'CSS': 0.09, 'HTML': 0.07, 'Makefile': 0.02}",Jupyter Notebook,28365.0,https://github.com/jakevdp/PythonDataScienceHandbook
 8,Python,,,,,,Python code for YouTube videos.,"{'Jupyter Notebook': 90.31, 'Python': 9.69}",Jupyter Notebook,899.0,https://github.com/joeyajames/Python
 9,python,,,,,,Docker Official Image packaging for Python,"{'Dockerfile': 91.79, 'Shell': 8.21}",Dockerfile,1594.0,https://github.com/docker-library/python
 10,python,,,,,,Exercism exercises in Python.,"{'Python': 87.28, 'HTML': 12.32, 'Shell': 0.4}",Python,918.0,https://github.com/exercism/python
 11,python,,,,,,THIS COOKBOOK IS DEPRECATED – Chef cookbook to install Python and related tools,"{'Python': 98.0, 'Ruby': 1.94, 'Shell': 0.07}",Python,527.0,https://github.com/poise/python
 12,awesome-python,,,,,,"A curated list of awesome Python frameworks, libraries, software and resources","{'Python': 92.58, 'Makefile': 7.42}",Python,94763.0,https://github.com/vinta/awesome-python
-13,Python-100-Days,,,,,,Python - 100天从新手到大师,"{'Python': 41.51, 'HTML': 28.86, 'Jupyter Notebook': 28.61, 'Java': 0.83, 'CSS': 0.12, 'JavaScript': 0.07}",Python,100436.0,https://github.com/jackfrued/Python-100-Days
-14,PythonRobotics,,,,,,Python sample codes for robotics algorithms.,"{'Jupyter Notebook': 80.22, 'Python': 19.41, 'TeX': 0.35, 'Shell': 0.02}",Jupyter Notebook,11697.0,https://github.com/AtsushiSakai/PythonRobotics
+13,PythonRobotics,,,,,,Python sample codes for robotics algorithms.,"{'Jupyter Notebook': 80.22, 'Python': 19.41, 'TeX': 0.35, 'Shell': 0.02}",Jupyter Notebook,11697.0,https://github.com/AtsushiSakai/PythonRobotics
+14,Python-100-Days,,,,,,Python - 100天从新手到大师,"{'Python': 41.51, 'HTML': 28.86, 'Jupyter Notebook': 28.61, 'Java': 0.83, 'CSS': 0.12, 'JavaScript': 0.07}",Python,100436.0,https://github.com/jackfrued/Python-100-Days
 15,Complete-Python-3-Bootcamp,,,,,,Course Files for Complete Python 3 Bootcamp Course on Udemy,"{'Jupyter Notebook': 99.99, 'Python': 0.01}",Jupyter Notebook,14935.0,https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
 16,python,,,,,,python常用脚本,{'Python': 100.0},Python,665.0,https://github.com/joe011/python
 17,learn-python3,,,,,,Learn Python 3 Sample Code,{},,5020.0,https://github.com/michaelliao/learn-python3
@@ -25,7 +25,7 @@
 23,PythonSpiderNotes,,,,,,Python入门网络爬虫之精华版,"{'Python': 64.09, 'Java': 35.83, 'Batchfile': 0.08}",Python,5299.0,https://github.com/lining0806/PythonSpiderNotes
 24,python-patterns,,,,,,A collection of design patterns/idioms in Python,"{'Python': 98.08, 'Makefile': 1.56, 'Shell': 0.36}",Python,27804.0,https://github.com/faif/python-patterns
 25,learn_python3_spider,,,,,,python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等,"{'Python': 96.15, 'C': 2.63, 'XSLT': 0.66, 'C++': 0.26, 'Objective-C': 0.12, 'GAP': 0.08, 'Roff': 0.06, 'Shell': 0.02}",Python,6248.0,https://github.com/wistbean/learn_python3_spider
-26,python-guide,,,,,,"Python best practices guidebook, written for humans. ","{'Batchfile': 95.89, 'Makefile': 4.11}",Batchfile,22640.0,https://github.com/realpython/python-guide
-27,awesome-python3-webapp,,,,,,小白的Python入门教程实战篇：网站+iOS App源码→ http://t.cn/R2PDyWN 赞助→ http://t.cn/R5bhVpf,{},,2003.0,https://github.com/michaelliao/awesome-python3-webapp
+26,awesome-python3-webapp,,,,,,小白的Python入门教程实战篇：网站+iOS App源码→ http://t.cn/R2PDyWN 赞助→ http://t.cn/R5bhVpf,{},,2003.0,https://github.com/michaelliao/awesome-python3-webapp
+27,python-guide,,,,,,"Python best practices guidebook, written for humans. ","{'Batchfile': 95.89, 'Makefile': 4.11}",Batchfile,22640.0,https://github.com/realpython/python-guide
 28,interview_python,,,,,,关于Python的面试题,{'Shell': 100.0},Shell,13674.0,https://github.com/taizilongxu/interview_python
 29,python-spider,,,,,,:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等,"{'Python': 94.62, 'JavaScript': 3.27, 'HTML': 2.11}",Python,12638.0,https://github.com/Jack-Cherish/python-spider

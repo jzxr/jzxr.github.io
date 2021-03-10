@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-23,I can't install modules on python 3,/questions/66565255/i-cant-install-modules-on-python-3,29,0
-32,How to remove the elements from the list if the condition is true?,/questions/66565182/how-to-remove-the-elements-from-the-list-if-the-condition-is-true,28,0
-49,i'm having problem extracting string values through regex,/questions/66564961/im-having-problem-extracting-string-values-through-regex,27,0
-29,why my code doesn't answer right? Problem 5 of Project Euler,/questions/66565219/why-my-code-doesnt-answer-right-problem-5-of-project-euler,25,-2
-39,how to take user defined number of tuple element in the list,/questions/66565082/how-to-take-user-defined-number-of-tuple-element-in-the-list,21,-3
-38,find the shortest path between those vertices using the Dijkstra's algorithm,/questions/66565085/find-the-shortest-path-between-those-vertices-using-the-dijkstras-algorithm,20,-2
-14,How can you make an if statement that checks if input is a str/int,/questions/66565415/how-can-you-make-an-if-statement-that-checks-if-input-is-a-str-int,19,0
-45,how to get value access to an item in an array in json file#,/questions/66564999/how-to-get-value-access-to-an-item-in-an-array-in-json-file,19,1
-15,Python : Make Unique Values in One Column to multiple columns,/questions/66565408/python-make-unique-values-in-one-column-to-multiple-columns,17,0
-36,how to transfer server ownership on discord.py?,/questions/66565121/how-to-transfer-server-ownership-on-discord-py,16,0
-35,Predictive algorithm or machine learning? [closed],/questions/66565139/predictive-algorithm-or-machine-learning,16,-1
-41,"How replace NA's with values by row,column?",/questions/66565061/how-replace-nas-with-values-by-row-column,16,-1
-42,how to solve the following error in python using cloab,/questions/66565027/how-to-solve-the-following-error-in-python-using-cloab,15,0
-28,clone from github with pycharm files,/questions/66565224/clone-from-github-with-pycharm-files,15,0
-27,Adding lines from a text file and printing out result using a for loop - Python,/questions/66565230/adding-lines-from-a-text-file-and-printing-out-result-using-a-for-loop-python,15,0
-26,Select a subset of a Data Frame based on timestamp conditions in Pandas [duplicate],/questions/66565242/select-a-subset-of-a-data-frame-based-on-timestamp-conditions-in-pandas,13,0
-8,How to minmize interpolating function?,/questions/66565485/how-to-minmize-interpolating-function,13,0
-24,How to change the interval between two iterations in a task,/questions/66565246/how-to-change-the-interval-between-two-iterations-in-a-task,13,0
-13,"how to fix: TypeError: expected str, bytes or os.PathLike object, not builtin_function_or_method",/questions/66565431/how-to-fix-typeerror-expected-str-bytes-or-os-pathlike-object-not-builtin-fu,12,0
-10,finding all the indices of an array occuring in another arrays in python,/questions/66565471/finding-all-the-indices-of-an-array-occuring-in-another-arrays-in-python,12,1
-37,How i can give a role to user when its join the server?,/questions/66565100/how-i-can-give-a-role-to-user-when-its-join-the-server,12,0
-12,How can I rate-limit my Flask application per user?,/questions/66565435/how-can-i-rate-limit-my-flask-application-per-user,12,1
-21,Pyyaml not reading special character correctly (“§”),/questions/66565304/pyyaml-not-reading-special-character-correctly,11,1
-22,Matplotlib y-axis range,/questions/66565264/matplotlib-y-axis-range,10,1
-25,Avoiding no such column error in sqlalchemy when querying all columns except the manually added one,/questions/66565243/avoiding-no-such-column-error-in-sqlalchemy-when-querying-all-columns-except-the,9,0
-20,Date in the wrong format [dataframe python] [duplicate],/questions/66565308/date-in-the-wrong-format-dataframe-python,9,0
-17,Python error when creating classes dynamically,/questions/66565391/python-error-when-creating-classes-dynamically,9,-1
-19,Find Division Operator Instances in C file,/questions/66565355/find-division-operator-instances-in-c-file,8,0
-48,Tensorflow stack and unstack on a batch to replace channels causes error,/questions/66564964/tensorflow-stack-and-unstack-on-a-batch-to-replace-channels-causes-error,8,0
-46,Running export_inference_graph.py throws value error,/questions/66564976/running-export-inference-graph-py-throws-value-error,8,0
-7,Calculate gini index manually,/questions/66565500/calculate-gini-index-manually,7,0
-30,"In Django, charfield avoid character duplicates",/questions/66565217/in-django-charfield-avoid-character-duplicates,7,0
-40,How to make a contingency table from categorical data using Python?,/questions/66565064/how-to-make-a-contingency-table-from-categorical-data-using-python,7,0
-11,How can I reliably choose only the outer contour of a maksed droplet image with python opencv?,/questions/66565437/how-can-i-reliably-choose-only-the-outer-contour-of-a-maksed-droplet-image-with,7,0
-9,Not able to redirect to another page after clicking on submit button django,/questions/66565484/not-able-to-redirect-to-another-page-after-clicking-on-submit-button-django,7,0
-5,Moving row cell to column if index is same,/questions/66565531/moving-row-cell-to-column-if-index-is-same,6,0
-6,How to Handel Zero with Decimal figure in pandas Dataframe,/questions/66565524/how-to-handel-zero-with-decimal-figure-in-pandas-dataframe,6,0
-34,How to solve a max recursion error using python MIP?,/questions/66565172/how-to-solve-a-max-recursion-error-using-python-mip,6,0
-33,Insert list of tuples into sqlite3 database with unknown tuple size,/questions/66565181/insert-list-of-tuples-into-sqlite3-database-with-unknown-tuple-size,6,0
-16,Tkinter button event binding in another file,/questions/66565401/tkinter-button-event-binding-in-another-file,6,0
-47,Using JSON file as database for twitter bot vs MySQL,/questions/66564966/using-json-file-as-database-for-twitter-bot-vs-mysql,6,0
-44,Preprocess the data before creating the .mlmodel in Python,/questions/66565007/preprocess-the-data-before-creating-the-mlmodel-in-python,5,0
-4,How can I put different route in my tabs with a singe html page in Flask?,/questions/66565532/how-can-i-put-different-route-in-my-tabs-with-a-singe-html-page-in-flask,5,0
-43,Ajout d'un nouvel onglet dans Odoo 11,/questions/66565021/ajout-dun-nouvel-onglet-dans-odoo-11,5,0
-1,Does Virtual Desktop Infrastructure (VDI) throttle Python multiprocessing?,/questions/66565568/does-virtual-desktop-infrastructure-vdi-throttle-python-multiprocessing,4,0
-31,Side input in Apache Beam streaming pipeline produces error “NoneType has no attribute max_timestamp”,/questions/66565192/side-input-in-apache-beam-streaming-pipeline-produces-error-nonetype-has-no-att,4,0
-18,swift - pythonKit crashes on release version,/questions/66565367/swift-pythonkit-crashes-on-release-version,4,0
-0,How do you combine different SQL queries into a single dataframe (Python)?,/questions/66565571/how-do-you-combine-different-sql-queries-into-a-single-dataframe-python,4,0
-2,How to solve CDK CLI version mismatch,/questions/66565550/how-to-solve-cdk-cli-version-mismatch,3,0
-3,LDL factorization of a sparse matrix in Python,/questions/66565547/ldl-factorization-of-a-sparse-matrix-in-python,3,0
+47,I can't install modules on python 3,/questions/66565255/i-cant-install-modules-on-python-3,32,0
+16,python str.replace does not work with '\' [duplicate],/questions/66565716/python-str-replace-does-not-work-with,26,0
+38,How can you make an if statement that checks if input is a str/int,/questions/66565415/how-can-you-make-an-if-statement-that-checks-if-input-is-a-str-int,25,0
+45,Pyyaml not reading (non-ascii) character correctly (“§”),/questions/66565304/pyyaml-not-reading-non-ascii-character-correctly,23,1
+17,How to create find all combinations of a nested list [duplicate],/questions/66565688/how-to-create-find-all-combinations-of-a-nested-list,21,-1
+9,"remove special character from string, not replace them with space",/questions/66565800/remove-special-character-from-string-not-replace-them-with-space,20,0
+39,Python : Make Unique Values in One Column to multiple columns,/questions/66565408/python-make-unique-values-in-one-column-to-multiple-columns,19,0
+30,Moving row cell to column if index is same,/questions/66565531/moving-row-cell-to-column-if-index-is-same,19,1
+19,Dealing with numeric range-like data in a dataframe,/questions/66565666/dealing-with-numeric-range-like-data-in-a-dataframe,17,0
+36,How can I rate-limit my Flask application per user?,/questions/66565435/how-can-i-rate-limit-my-flask-application-per-user,17,1
+48,How to change the interval between two iterations in a task,/questions/66565246/how-to-change-the-interval-between-two-iterations-in-a-task,16,0
+34,finding all the indices of an array occuring in other arrays in python,/questions/66565471/finding-all-the-indices-of-an-array-occuring-in-other-arrays-in-python,15,1
+24,"NameError: name '_private' is not defined, when import skimage",/questions/66565593/nameerror-name-private-is-not-defined-when-import-skimage,15,0
+8,how to return a tuple from a dictionary that satisfy True value parameter in Python,/questions/66565801/how-to-return-a-tuple-from-a-dictionary-that-satisfy-true-value-parameter-in-pyt,15,-1
+14,Taking an element from a list/variable,/questions/66565765/taking-an-element-from-a-list-variable,14,0
+37,"how to fix: TypeError: expected str, bytes or os.PathLike object, not builtin_function_or_method",/questions/66565431/how-to-fix-typeerror-expected-str-bytes-or-os-pathlike-object-not-builtin-fu,14,0
+32,How to minmize interpolating function?,/questions/66565485/how-to-minmize-interpolating-function,13,0
+21,Concatenate records from a file in Python,/questions/66565637/concatenate-records-from-a-file-in-python,13,1
+25,How do you combine different SQL queries into a single dataframe (Python)?,/questions/66565571/how-do-you-combine-different-sql-queries-into-a-single-dataframe-python,13,0
+31,How to Handel Zero with Decimal figure in pandas Dataframe,/questions/66565524/how-to-handel-zero-with-decimal-figure-in-pandas-dataframe,12,0
+44,Date in the wrong format [dataframe python] [duplicate],/questions/66565308/date-in-the-wrong-format-dataframe-python,11,0
+3,How to remove empty rows in csv using pandas?,/questions/66565862/how-to-remove-empty-rows-in-csv-using-pandas,11,0
+33,Not able to redirect to another page after clicking on submit button django,/questions/66565484/not-able-to-redirect-to-another-page-after-clicking-on-submit-button-django,11,0
+46,Matplotlib y-axis range [duplicate],/questions/66565264/matplotlib-y-axis-range,11,1
+12,Regular expression to find numbers before a string [closed],/questions/66565781/regular-expression-to-find-numbers-before-a-string,11,-3
+41,Python error when creating classes dynamically,/questions/66565391/python-error-when-creating-classes-dynamically,10,-1
+26,Does Virtual Desktop Infrastructure (VDI) throttle Python multiprocessing?,/questions/66565568/does-virtual-desktop-infrastructure-vdi-throttle-python-multiprocessing,10,0
+29,How can I put different route in my tabs with a singe html page in Flask?,/questions/66565532/how-can-i-put-different-route-in-my-tabs-with-a-singe-html-page-in-flask,10,0
+40,Tkinter button event binding in another file,/questions/66565401/tkinter-button-event-binding-in-another-file,9,0
+35,How can I reliably choose only the outer contour of a maksed droplet image with python opencv?,/questions/66565437/how-can-i-reliably-choose-only-the-outer-contour-of-a-maksed-droplet-image-with,9,0
+43,Find Division Operator Instances in C file,/questions/66565355/find-division-operator-instances-in-c-file,9,0
+49,Avoiding no such column error in sqlalchemy when querying all columns except the manually added one,/questions/66565243/avoiding-no-such-column-error-in-sqlalchemy-when-querying-all-columns-except-the,9,0
+18,How to automatically download tar.gz packages of python libraries that already installed on venv at PyCharm,/questions/66565686/how-to-automatically-download-tar-gz-packages-of-python-libraries-that-already-i,9,0
+10,Numpy array to image for CNN processing,/questions/66565785/numpy-array-to-image-for-cnn-processing,9,0
+27,How to solve CDK CLI version mismatch,/questions/66565550/how-to-solve-cdk-cli-version-mismatch,9,0
+28,LDL factorization of a sparse matrix in Python,/questions/66565547/ldl-factorization-of-a-sparse-matrix-in-python,6,0
+5,Can't send a html code string to sql database with pymysql?,/questions/66565854/cant-send-a-html-code-string-to-sql-database-with-pymysql,6,0
+13,Conda - ModuleNotFoundError: No module named 'torch',/questions/66565780/conda-modulenotfounderror-no-module-named-torch,6,0
+11,how to break down json response into multiple parts specific to the name value?,/questions/66565784/how-to-break-down-json-response-into-multiple-parts-specific-to-the-name-value,6,0
+20,How to install cryptographic lib of charm on Mac with Python3.7,/questions/66565661/how-to-install-cryptographic-lib-of-charm-on-mac-with-python3-7,6,0
+0,BERT Encoder layer is non-trainable,/questions/66565894/bert-encoder-layer-is-non-trainable,6,0
+15,Selenium - driver.find_element_by_css_selector can't find the element in Python,/questions/66565738/selenium-driver-find-element-by-css-selector-cant-find-the-element-in-python,5,0
+22,FFT for Spectral Analysis,/questions/66565626/fft-for-spectral-analysis,5,0
+42,swift - pythonKit crashes on release version,/questions/66565367/swift-pythonkit-crashes-on-release-version,5,0
+23,I'm trying to loop one column from dataframe and trying to get the sentiment analysis for all the rows in the column. I'm unable to get that,/questions/66565604/im-trying-to-loop-one-column-from-dataframe-and-trying-to-get-the-sentiment-ana,5,0
+6,get the original smoothed data after using differential smooth by Savitzky-Golay filter in savgol_filter,/questions/66565838/get-the-original-smoothed-data-after-using-differential-smooth-by-savitzky-golay,5,0
+1,How do I give the legend a background color in matplotlib?,/questions/66565892/how-do-i-give-the-legend-a-background-color-in-matplotlib,5,0
+4,Discord bot can't be disconnected - python 3.8,/questions/66565861/discord-bot-cant-be-disconnected-python-3-8,5,0
+7,Basic authentication with Wordpress RESTAPI using python Wordpress pip package,/questions/66565831/basic-authentication-with-wordpress-restapi-using-python-wordpress-pip-package,4,0
+2,Increasing the accuracy of np.linalg.lstsq() or other matrix operations in numpy,/questions/66565872/increasing-the-accuracy-of-np-linalg-lstsq-or-other-matrix-operations-in-numpy,4,0

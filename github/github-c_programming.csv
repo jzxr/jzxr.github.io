@@ -21,11 +21,11 @@
 19,ProgrammingBlockchainCodeExamples,,,,,,Don't talk. Code!,{'C#': 100.0},C#,256.0,https://github.com/ProgrammingBlockchain/ProgrammingBlockchainCodeExamples
 20,functional-csharp-code,,,,,,Code samples for Functional Programming in C#,"{'C#': 99.64, 'F#': 0.36}",C#,386.0,https://github.com/la-yumba/functional-csharp-code
 21,programming-collective-intelligence-code,,,,,,Examples from Programming Collective Intelligence,{},Python,52.0,https://github.com/ferronrsmith/programming-collective-intelligence-code
-22,competitive-programming,,,,,,my foray into the world of competitive programming,{'C++': 100.0},C++,27.0,https://github.com/rahulmj19/competitive-programming
-23,Linux-C-Programming,,,,,,Linux C Programming,"{'C': 74.92, 'C++': 10.21, 'Assembly': 7.3, 'Makefile': 3.16, 'Roff': 1.92, 'Rebol': 1.04, 'Shell': 0.77, 'HTML': 0.47, 'Objective-C': 0.14, 'QMake': 0.03, 'Ruby': 0.03, 'Scheme': 0.02, 'Awk': 0.01}",C,51.0,https://github.com/limingth/Linux-C-Programming
+22,Linux-C-Programming,,,,,,Linux C Programming,"{'C': 74.92, 'C++': 10.21, 'Assembly': 7.3, 'Makefile': 3.16, 'Roff': 1.92, 'Rebol': 1.04, 'Shell': 0.77, 'HTML': 0.47, 'Objective-C': 0.14, 'QMake': 0.03, 'Ruby': 0.03, 'Scheme': 0.02, 'Awk': 0.01}",C,51.0,https://github.com/limingth/Linux-C-Programming
+23,competitive-programming,,,,,,my foray into the world of competitive programming,{'C++': 100.0},C++,27.0,https://github.com/rahulmj19/competitive-programming
 24,luna,,,,,,"luna programming language - a small, elegant VM implemented in C","{'C': 96.28, 'C++': 2.82, 'Makefile': 0.9}",C,2443.0,https://github.com/tj/luna
 25,chrome_extensions_and_apps_programming,,,,,,Chrome扩展及应用开发,{'JavaScript': 100.0},JavaScript,889.0,https://github.com/Sneezry/chrome_extensions_and_apps_programming
 26,c-style,,,,,,My favorite C programming practices.,{},,517.0,https://github.com/mcinglis/c-style
 27,Rust-for-undergrads,,,,,,C/C++ programming probelms re-written in Rust,{'Rust': 100.0},Rust,231.0,https://github.com/rustindia/Rust-for-undergrads
-28,concurrent-programming,,,,,,:cactus:《实战java高并发程序设计》源码整理,{'Java': 100.0},Java,558.0,https://github.com/ZHENFENG13/concurrent-programming
-29,kokkos,,,,,,Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction,"{'C++': 92.96, 'CMake': 2.84, 'Shell': 2.78, 'Makefile': 1.16, 'Python': 0.26, 'Fortran': 0.0, 'C': 0.0}",C++,741.0,https://github.com/kokkos/kokkos
+28,kokkos,,,,,,Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction,"{'C++': 92.96, 'CMake': 2.84, 'Shell': 2.78, 'Makefile': 1.16, 'Python': 0.26, 'Fortran': 0.0, 'C': 0.0}",C++,741.0,https://github.com/kokkos/kokkos
+29,concurrent-programming,,,,,,:cactus:《实战java高并发程序设计》源码整理,{'Java': 100.0},Java,558.0,https://github.com/ZHENFENG13/concurrent-programming

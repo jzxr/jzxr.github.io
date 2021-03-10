@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-26,Displaying messages from an object,/questions/66564928/displaying-messages-from-an-object,45,2
-33,hide/show div using id property with index in javascript,/questions/66564794/hide-show-div-using-id-property-with-index-in-javascript,34,0
-22,Recursively replace all occurances of large JSON keys having - to _ character,/questions/66564971/recursively-replace-all-occurances-of-large-json-keys-having-to-character,29,1
-20,How to create this shape using css and html? [closed],/questions/66565015/how-to-create-this-shape-using-css-and-html,28,-4
-19,There is a localStorage with arbitrary duration? [duplicate],/questions/66565035/there-is-a-localstorage-with-arbitrary-duration,26,-3
-35,Remove duplicate json from Array no work without using new Set? JS,/questions/66564714/remove-duplicate-json-from-array-no-work-without-using-new-set-js,26,-1
-32,ASP.NET Core MVC controller receives null for input parameter from ajax call,/questions/66564866/asp-net-core-mvc-controller-receives-null-for-input-parameter-from-ajax-call,23,2
-6,How to group an array from given array of objects,/questions/66565426/how-to-group-an-array-from-given-array-of-objects,23,0
-15,is there way to customize timestamp in AJAX,/questions/66565157/is-there-way-to-customize-timestamp-in-ajax,23,1
-42,Email verification with nodejs,/questions/66564568/email-verification-with-nodejs,21,0
-46,Dynamically writing data into nested objects in JavaScript,/questions/66564488/dynamically-writing-data-into-nested-objects-in-javascript,19,2
-40,Why is my React countdown timer component is flashing NaN with correct rendering of time,/questions/66564615/why-is-my-react-countdown-timer-component-is-flashing-nan-with-correct-rendering,19,0
-14,Refresh Datas after each second in js (async functions),/questions/66565209/refresh-datas-after-each-second-in-js-async-functions,19,0
-47,How to use my global variable outside function after button click [closed],/questions/66564474/how-to-use-my-global-variable-outside-function-after-button-click,18,-3
-37,Multiple inputs into blocks and validate phone numbers,/questions/66564649/multiple-inputs-into-blocks-and-validate-phone-numbers,17,0
-3,Is it possible to write data in JSON file without AJAX or backend?,/questions/66565490/is-it-possible-to-write-data-in-json-file-without-ajax-or-backend,17,0
-36,Alreay decleard and defined present still getting error “TypeError: Cannot read property 'present' of undefined”,/questions/66564672/alreay-decleard-and-defined-present-still-getting-error-typeerror-cannot-read,16,-1
-16,How to maintain scrollPosition of a div after it's children's style changes,/questions/66565153/how-to-maintain-scrollposition-of-a-div-after-its-childrens-style-changes,15,1
-49,how to count an array object in a mongdb schema in nodejs?,/questions/66564404/how-to-count-an-array-object-in-a-mongdb-schema-in-nodejs,15,1
-34,Create interaction between charts and tables using javascript/d3.js in a flexdashboard,/questions/66564769/create-interaction-between-charts-and-tables-using-javascript-d3-js-in-a-flexdas,14,0
-39,Why does __proto__ not update when prototype is set to null [duplicate],/questions/66564627/why-does-proto-not-update-when-prototype-is-set-to-null,14,0
-48,Chrome: Automatically run 'debugger' command when click on inspect element,/questions/66564406/chrome-automatically-run-debugger-command-when-click-on-inspect-element,14,0
-38,In Apple Safari 14.0.3 Javascript will not set cookie expiry more than one week in future,/questions/66564639/in-apple-safari-14-0-3-javascript-will-not-set-cookie-expiry-more-than-one-week,13,-1
-27,How to solve problem with boostrap navigation bar?,/questions/66564892/how-to-solve-problem-with-boostrap-navigation-bar,13,1
-5,How to make image responsive in navbar html + css,/questions/66565451/how-to-make-image-responsive-in-navbar-html-css,13,0
-9,Copy Column name and number in table1 to table2,/questions/66565315/copy-column-name-and-number-in-table1-to-table2,12,0
-31,'Read more' affecting more than one box - how to change it? (jQuery/JS/CSS),/questions/66564869/read-more-affecting-more-than-one-box-how-to-change-it-jquery-js-css,12,0
-8,How to avoid overwrite frame styles?,/questions/66565371/how-to-avoid-overwrite-frame-styles,11,0
-21,Cannot use import statement outside a module error on imported file,/questions/66565001/cannot-use-import-statement-outside-a-module-error-on-imported-file,10,1
-29,Auto deselect the “first selected item” after selecting two items in Material UI,/questions/66564887/auto-deselect-the-first-selected-item-after-selecting-two-items-in-material-ui,10,0
-11,how to make show and hide paragraph using checkbox,/questions/66565305/how-to-make-show-and-hide-paragraph-using-checkbox,9,0
-24,Unable to connect to printer using node js,/questions/66564935/unable-to-connect-to-printer-using-node-js,9,0
-30,How to solve cross origin error in iframe? [duplicate],/questions/66564875/how-to-solve-cross-origin-error-in-iframe,9,-2
-17,How to restrict unauthorised access to html page on firebase hosted site,/questions/66565128/how-to-restrict-unauthorised-access-to-html-page-on-firebase-hosted-site,9,0
-45,"I'm displaying a Shortcode within a Woocommerce alert, the problem is it sets the href to ' Void(0 ' when clicked, how do I stop this?",/questions/66564512/im-displaying-a-shortcode-within-a-woocommerce-alert-the-problem-is-it-sets-th,8,0
-0,How to use react router dom and express,/questions/66565538/how-to-use-react-router-dom-and-express,8,0
-28,Is there any way to use nested HOC component in react-router-dom?,/questions/66564891/is-there-any-way-to-use-nested-hoc-component-in-react-router-dom,8,0
-1,Create child process with custom name javascript,/questions/66565526/create-child-process-with-custom-name-javascript,8,-1
-13,Outlook web add in with msal 1.x loginRedirect - no longer working with latest iOS,/questions/66565236/outlook-web-add-in-with-msal-1-x-loginredirect-no-longer-working-with-latest-i,8,0
-12,Stripe : Non-inr currency payment failing for india issued cards,/questions/66565266/stripe-non-inr-currency-payment-failing-for-india-issued-cards,8,0
-4,sort array of arrays in specific order using lodash,/questions/66565480/sort-array-of-arrays-in-specific-order-using-lodash,8,0
-44,Sending data from browser to Ethernet shield,/questions/66564533/sending-data-from-browser-to-ethernet-shield,7,0
-2,How can i send/receive JSON files through gRPC communications? Node.js,/questions/66565519/how-can-i-send-receive-json-files-through-grpc-communications-node-js,7,0
-25,Jest change mock implementation for a POJO module between tests,/questions/66564931/jest-change-mock-implementation-for-a-pojo-module-between-tests,7,0
-10,how can i flip image in react-native?,/questions/66565309/how-can-i-flip-image-in-react-native,6,0
-18,Provide file without hash in Strapi,/questions/66565045/provide-file-without-hash-in-strapi,5,0
-41,How to get data from firebase and display on my google gauge chart,/questions/66564589/how-to-get-data-from-firebase-and-display-on-my-google-gauge-chart,5,0
-7,Mongodb Merging/Joining Nested Objects,/questions/66565374/mongodb-merging-joining-nested-objects,5,0
-23,Heroku application file upload - file is deleted after some time?,/questions/66564970/heroku-application-file-upload-file-is-deleted-after-some-time,4,0
-43,How to call module after browserify (nodejs and erexpress js) on html,/questions/66564535/how-to-call-module-after-browserify-nodejs-and-erexpress-js-on-html,3,0
+45,Displaying messages from an object,/questions/66564928/displaying-messages-from-an-object,49,3
+41,Recursively replace all occurances of large JSON keys having - to _ character,/questions/66564971/recursively-replace-all-occurances-of-large-json-keys-having-to-character,35,1
+40,How to create this shape using css and html? [closed],/questions/66565015/how-to-create-this-shape-using-css-and-html,31,-4
+27,How to group an array from given array of objects,/questions/66565426/how-to-group-an-array-from-given-array-of-objects,30,0
+24,Is it possible to write data in JSON file without AJAX or backend?,/questions/66565490/is-it-possible-to-write-data-in-json-file-without-ajax-or-backend,29,0
+36,is there way to customize timestamp in AJAX,/questions/66565157/is-there-way-to-customize-timestamp-in-ajax,26,1
+26,How to make image responsive in navbar html + css,/questions/66565451/how-to-make-image-responsive-in-navbar-html-css,26,0
+35,Refresh Datas after each second in js (async functions),/questions/66565209/refresh-datas-after-each-second-in-js-async-functions,23,1
+32,how to make show and hide paragraph using checkbox,/questions/66565305/how-to-make-show-and-hide-paragraph-using-checkbox,22,0
+15,javascript dynamically import a class module and get the name of the class,/questions/66565671/javascript-dynamically-import-a-class-module-and-get-the-name-of-the-class,20,0
+25,sort array of arrays in specific order using lodash,/questions/66565480/sort-array-of-arrays-in-specific-order-using-lodash,20,-1
+17,How get all “names” from array of objects? [closed],/questions/66565650/how-get-all-names-from-array-of-objects,19,-7
+18,push array in class is undefined,/questions/66565643/push-array-in-class-is-undefined,19,0
+7,javascript .map doesn't work on big array of strings (8k strings),/questions/66565775/javascript-map-doesnt-work-on-big-array-of-strings-8k-strings,19,0
+30,Copy Column name and number in table1 to table2,/questions/66565315/copy-column-name-and-number-in-table1-to-table2,15,1
+19,How to assert array in array?,/questions/66565633/how-to-assert-array-in-array,15,0
+37,How to maintain scrollPosition of a div after it's children's style changes,/questions/66565153/how-to-maintain-scrollposition-of-a-div-after-its-childrens-style-changes,15,1
+22,How to use react router dom and express,/questions/66565538/how-to-use-react-router-dom-and-express,15,-1
+14,Rename the property in an object using Object.keys,/questions/66565710/rename-the-property-in-an-object-using-object-keys,14,-5
+3,Js unit conversion,/questions/66565857/js-unit-conversion,14,0
+8,How to create the table using javacript !!! Answer 👇,/questions/66565772/how-to-create-the-table-using-javacript-answer,14,-2
+46,How to solve problem with boostrap navigation bar?,/questions/66564892/how-to-solve-problem-with-boostrap-navigation-bar,13,1
+29,How to avoid overwrite frame styles?,/questions/66565371/how-to-avoid-overwrite-frame-styles,13,0
+23,How can i send/receive JSON files through gRPC communications? Node.js,/questions/66565519/how-can-i-send-receive-json-files-through-grpc-communications-node-js,13,0
+16,Download attribute does not work for PDFs,/questions/66565660/download-attribute-does-not-work-for-pdfs,13,0
+13,Localstorage query not working and intro.js not running,/questions/66565719/localstorage-query-not-working-and-intro-js-not-running,12,0
+31,how can i flip image in react-native?,/questions/66565309/how-can-i-flip-image-in-react-native,12,0
+10,I can't map through the array 'products'(React/Redux),/questions/66565750/i-cant-map-through-the-array-productsreact-redux,11,0
+28,Mongodb Merging/Joining Nested Objects,/questions/66565374/mongodb-merging-joining-nested-objects,11,0
+48,Auto deselect the “first selected item” after selecting two items in Material UI,/questions/66564887/auto-deselect-the-first-selected-item-after-selecting-two-items-in-material-ui,11,0
+33,Stripe : Non-inr currency payment failing for india issued cards,/questions/66565266/stripe-non-inr-currency-payment-failing-for-india-issued-cards,10,0
+43,Unable to connect to printer using node js,/questions/66564935/unable-to-connect-to-printer-using-node-js,10,0
+38,How to restrict unauthorised access to html page on firebase hosted site,/questions/66565128/how-to-restrict-unauthorised-access-to-html-page-on-firebase-hosted-site,9,0
+47,Is there any way to use nested HOC component in react-router-dom?,/questions/66564891/is-there-any-way-to-use-nested-hoc-component-in-react-router-dom,9,0
+44,Jest change mock implementation for a POJO module between tests,/questions/66564931/jest-change-mock-implementation-for-a-pojo-module-between-tests,9,0
+49,How to solve cross origin error in iframe? [duplicate],/questions/66564875/how-to-solve-cross-origin-error-in-iframe,9,-2
+34,Outlook web add in with msal 1.x loginRedirect - no longer working with latest iOS,/questions/66565236/outlook-web-add-in-with-msal-1-x-loginredirect-no-longer-working-with-latest-i,9,0
+1,Prepend a string property value based on its parent array key name,/questions/66565885/prepend-a-string-property-value-based-on-its-parent-array-key-name,8,0
+12,How do you add an instance to an instanced object using Javascript?,/questions/66565744/how-do-you-add-an-instance-to-an-instanced-object-using-javascript,8,0
+5,how to assign data to an array from http get request in angular 8,/questions/66565805/how-to-assign-data-to-an-array-from-http-get-request-in-angular-8,8,0
+21,Javascript: open new page in same window in laravel when id pass,/questions/66565627/javascript-open-new-page-in-same-window-in-laravel-when-id-pass,7,-1
+6,"How to remote CSS from global scope and only import to the specific pages in React, Gatsby",/questions/66565789/how-to-remote-css-from-global-scope-and-only-import-to-the-specific-pages-in-rea,7,0
+20,Using context API (React.js) to change only a particular key in state object,/questions/66565632/using-context-api-react-js-to-change-only-a-particular-key-in-state-object,6,0
+11,jsPDF returning blank page,/questions/66565746/jspdf-returning-blank-page,6,0
+9,How to hide or disable the address bar on Edge?,/questions/66565763/how-to-hide-or-disable-the-address-bar-on-edge,6,0
+39,Provide file without hash in Strapi,/questions/66565045/provide-file-without-hash-in-strapi,5,0
+42,Heroku application file upload - file is deleted after some time?,/questions/66564970/heroku-application-file-upload-file-is-deleted-after-some-time,4,0
+4,JSX vs Component reference as value type,/questions/66565853/jsx-vs-component-reference-as-value-type,4,0
+2,One user instance tied to one session dataset,/questions/66565866/one-user-instance-tied-to-one-session-dataset,4,0
+0,how to sort a multidimensional array with javascript,/questions/66565927/how-to-sort-a-multidimensional-array-with-javascript,4,0
