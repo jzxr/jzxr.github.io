@@ -1,19 +1,19 @@
-,Title,ID,URL,Body,timestamp,Year,Month,Sentiment,Review,Nuetral
-0,Recursion,g6p4k5,https://i.redd.it/jyc2w1k7alu41.jpg,,2020-04-24 07:52:19,2020,4,0.0,Good,Nuetral
-1,"thanks gcc, very cool",hkdr1h,https://i.redd.it/4xtkxqkt0l851.jpg,,2020-07-03 21:57:17,2020,7,0.0,Good,Nuetral
-2,"how do I make it 20 by 20 in a shorter way, without having to put 20 times ""++"" please",ff5zph,https://i.redd.it/nvhqy6q41dl41.png,,2020-03-08 18:30:37,2020,3,0.0,Good,Nuetral
-3,Elon Musk likes C,ei0wpw,https://i.redd.it/oh8914meyx741.jpg,,2020-01-01 01:53:47,2020,1,0.0,Good,Nuetral
-4,Wow! Today I'm #1 Trending C Developer on GitHub! 😄,kmg9nb,https://i.redd.it/ke2vrjl285861.png,,2020-12-30 07:18:06,2020,12,0.0,Good,Nuetral
-5,I created a rubik's cube in C that runs in a terminal using only ncurses!,ebo37s,https://gfycat.com/altruisticgrossadouri,,2019-12-17 16:42:12,2019,12,0.0,Good,Nuetral
-6,After reading Axel-Tobias's OOC book,k1mxdp,https://i.redd.it/a76u8xs0bn161.jpg,,2020-11-27 12:39:24,2020,11,0.0,Good,Nuetral
-7,The way C Programers explain pointers,ek53ma,https://imgs.xkcd.com/comics/pointers.png,,2020-01-05 16:22:44,2020,1,0.0,Good,Nuetral
-8,I think I'll keep this one,ggykfa,https://i.redd.it/4bv6ps2srwx41.jpg,,2020-05-11 01:42:30,2020,5,0.0,Good,Nuetral
-9,Learned C just so I could make this stupid joke,ddct61,https://i.redd.it/vdlt8cnr0lq31.jpg,,2019-10-05 12:13:39,2019,10,0.0,Good,Nuetral
-10,Donut-shaped C code that generates a 3D spinning donut,i4vuih,https://v.redd.it/decl0t925ac51,,2020-08-07 09:15:56,2020,8,0.0,Good,Nuetral
-11,Program in C,jaa8d7,https://v.redd.it/gmx99de37rs51,,2020-10-14 01:46:57,2020,10,0.0,Good,Nuetral
-12,Guess I'm a clown now,hlqwfp,https://i.redd.it/97m2wr92u2951.jpg,,2020-07-06 09:54:38,2020,7,0.0,Good,Nuetral
-13,Introducing 'bic': A C interpreter & API explorer,d371ar,https://i.redd.it/mv3y1xkcn5m31.gif,,2019-09-13 04:16:54,2019,9,0.0,Good,Nuetral
-14,Just learned about clobbering,i4ewzx,https://i.redd.it/uye7s8p3b9f51.png,,2020-08-06 14:02:45,2020,8,0.0,Good,Nuetral
+,Title,ID,URL,Body,timestamp,Year,Month,Sentiment,Review,Neutral
+0,Recursion,g6p4k5,https://i.redd.it/jyc2w1k7alu41.jpg,,2020-04-24 07:52:19,2020,4,0.0,Good,Neutral
+1,"thanks gcc, very cool",hkdr1h,https://i.redd.it/4xtkxqkt0l851.jpg,,2020-07-03 21:57:17,2020,7,0.0,Good,Neutral
+2,"how do I make it 20 by 20 in a shorter way, without having to put 20 times ""++"" please",ff5zph,https://i.redd.it/nvhqy6q41dl41.png,,2020-03-08 18:30:37,2020,3,0.0,Good,Neutral
+3,Elon Musk likes C,ei0wpw,https://i.redd.it/oh8914meyx741.jpg,,2020-01-01 01:53:47,2020,1,0.0,Good,Neutral
+4,Wow! Today I'm #1 Trending C Developer on GitHub! 😄,kmg9nb,https://i.redd.it/ke2vrjl285861.png,,2020-12-30 07:18:06,2020,12,0.0,Good,Neutral
+5,I created a rubik's cube in C that runs in a terminal using only ncurses!,ebo37s,https://gfycat.com/altruisticgrossadouri,,2019-12-17 16:42:12,2019,12,0.0,Good,Neutral
+6,After reading Axel-Tobias's OOC book,k1mxdp,https://i.redd.it/a76u8xs0bn161.jpg,,2020-11-27 12:39:24,2020,11,0.0,Good,Neutral
+7,The way C Programers explain pointers,ek53ma,https://imgs.xkcd.com/comics/pointers.png,,2020-01-05 16:22:44,2020,1,0.0,Good,Neutral
+8,I think I'll keep this one,ggykfa,https://i.redd.it/4bv6ps2srwx41.jpg,,2020-05-11 01:42:30,2020,5,0.0,Good,Neutral
+9,Learned C just so I could make this stupid joke,ddct61,https://i.redd.it/vdlt8cnr0lq31.jpg,,2019-10-05 12:13:39,2019,10,0.0,Good,Neutral
+10,Donut-shaped C code that generates a 3D spinning donut,i4vuih,https://v.redd.it/decl0t925ac51,,2020-08-07 09:15:56,2020,8,0.0,Good,Neutral
+11,Program in C,jaa8d7,https://v.redd.it/gmx99de37rs51,,2020-10-14 01:46:57,2020,10,0.0,Good,Neutral
+12,Guess I'm a clown now,hlqwfp,https://i.redd.it/97m2wr92u2951.jpg,,2020-07-06 09:54:38,2020,7,0.0,Good,Neutral
+13,Introducing 'bic': A C interpreter & API explorer,d371ar,https://i.redd.it/mv3y1xkcn5m31.gif,,2019-09-13 04:16:54,2019,9,0.0,Good,Neutral
+14,Just learned about clobbering,i4ewzx,https://i.redd.it/uye7s8p3b9f51.png,,2020-08-06 14:02:45,2020,8,0.0,Good,Neutral
 15,I am rewriting age of empires 2 in C,eovjvq,https://www.reddit.com/r/C_Programming/comments/eovjvq/i_am_rewriting_age_of_empires_2_in_c/,"[https://github.com/glouw/openempires](https://github.com/glouw/openempires)
 
 Figured I challenge myself and make it all C99.
@@ -26,15 +26,15 @@ I plan to have an MVP of sorts with 4 civilizations and some small but balanced 
 
 I was getting 30 FPS running two clients on my x230 laptop. I simulate latency and packet drops on localhost with \`tc qdisc netm\`.
 
-Hope you enjoy! If there are any C experts out here willing to give some network advice I am all ears. Networking is my weakest point.",2020-01-15 17:59:35,2020,1,0.052083333333333336,Good,Not Nuetral
-16,a meme,fchlev,https://i.redd.it/03sueww9bbk41.jpg,,2020-03-03 11:38:44,2020,3,0.0,Good,Nuetral
-17,It came early :) I'm ready to learn from the big wigs,e90eok,https://i.redd.it/n9pj6lt7uw341.jpg,,2019-12-11 17:52:17,2019,12,0.0,Good,Nuetral
-18,"Happy birthday to Father of C, Dennis MacAlistair Ritchie. He would've been 76 today.",6z4cn5,https://i.redd.it/3c6nevo6dxkz.jpg,,2017-09-10 13:29:04,2017,9,0.0,Good,Nuetral
-19,A month ago I started learning C. Today I plotted the Lorenz Attractor!,i7vivz,https://i.redd.it/damuf0y2neg51.png,,2020-08-12 09:03:30,2020,8,0.0,Good,Nuetral
-20,My first program on my own programming language.,jyvpr8,https://i.redd.it/66cnqlaqns061.png,,2020-11-23 05:34:22,2020,11,0.0,Good,Nuetral
-21,Fact,b2fp6h,https://i.redd.it/65odjua7ytm21.jpg,,2019-03-18 23:29:54,2019,3,0.0,Good,Nuetral
-22,HBD Dennis Ritchie 🎂🎂🎂,d2zuod,https://i.redd.it/vllyn44l52m31.jpg,,2019-09-12 16:31:23,2019,9,0.0,Good,Nuetral
-23,A step-by-step guide how to write your own simple OS from scratch using C and ARM assembler.,8oyaux,https://github.com/s-matyukevich/raspberry-pi-os,,2018-06-06 22:10:40,2018,6,0.0,Good,Nuetral
+Hope you enjoy! If there are any C experts out here willing to give some network advice I am all ears. Networking is my weakest point.",2020-01-15 17:59:35,2020,1,0.052083333333333336,Good,Not Neutral
+16,a meme,fchlev,https://i.redd.it/03sueww9bbk41.jpg,,2020-03-03 11:38:44,2020,3,0.0,Good,Neutral
+17,It came early :) I'm ready to learn from the big wigs,e90eok,https://i.redd.it/n9pj6lt7uw341.jpg,,2019-12-11 17:52:17,2019,12,0.0,Good,Neutral
+18,"Happy birthday to Father of C, Dennis MacAlistair Ritchie. He would've been 76 today.",6z4cn5,https://i.redd.it/3c6nevo6dxkz.jpg,,2017-09-10 13:29:04,2017,9,0.0,Good,Neutral
+19,A month ago I started learning C. Today I plotted the Lorenz Attractor!,i7vivz,https://i.redd.it/damuf0y2neg51.png,,2020-08-12 09:03:30,2020,8,0.0,Good,Neutral
+20,My first program on my own programming language.,jyvpr8,https://i.redd.it/66cnqlaqns061.png,,2020-11-23 05:34:22,2020,11,0.0,Good,Neutral
+21,Fact,b2fp6h,https://i.redd.it/65odjua7ytm21.jpg,,2019-03-18 23:29:54,2019,3,0.0,Good,Neutral
+22,HBD Dennis Ritchie 🎂🎂🎂,d2zuod,https://i.redd.it/vllyn44l52m31.jpg,,2019-09-12 16:31:23,2019,9,0.0,Good,Neutral
+23,A step-by-step guide how to write your own simple OS from scratch using C and ARM assembler.,8oyaux,https://github.com/s-matyukevich/raspberry-pi-os,,2018-06-06 22:10:40,2018,6,0.0,Good,Neutral
 24,Found this hilarious comment about C on this Python blog post,5zcic2,https://www.reddit.com/r/C_Programming/comments/5zcic2/found_this_hilarious_comment_about_c_on_this/,"https://thescienceweb.wordpress.com/2015/03/19/all-other-languages-tired-of-pythons-shit/
 
 ""Igor Nikolskiy says:	
@@ -42,31 +42,31 @@ March 19, 2015 at 4:22 pm
 
 I don’t think C gets enough credit. Sure, C doesn’t love you. C isn’t about love–C is about thrills. C hangs around in the bad part of town. C knows all the gang signs. C has a motorcycle, and wears the leathers everywhere, and never wears a helmet, because that would mess up C’s punked-out hair. C likes to give cops the finger and grin and speed away. Mention that you’d like something, and C will pretend to ignore you; the next day, C will bring you one, no questions asked, and toss it to you with a you-know-you-want-me smirk that makes your heart race. Where did C get it? “It fell off a truck,” C says, putting away the boltcutters. You start to feel like C doesn’t know the meaning of “private” or “protected”: what C wants, C takes. This excites you. C knows how to get you anything but safety. C will give you anything but commitment
 
-In the end, you’ll leave C, not because you want something better, but because you can’t handle the intensity. C says “I’m gonna live fast, die young, and leave a good-looking corpse,” but you know that C can never die, not so long as C is still the fastest thing on the road.""",2017-03-15 06:45:15,2017,3,0.0931818181818182,Good,Not Nuetral
-25,"This subreddit has almost a USHRT_MAX, UINT16_MAX, 2^16-1 or 65535 subscribers",dysp1o,https://i.redd.it/zu1bczm66qz31.png,,2019-11-20 15:14:18,2019,11,0.0,Good,Nuetral
-26,virgin malloc vs chad alloca,g60u8b,https://i.redd.it/45g5zrcfcdu41.png,,2020-04-23 05:11:08,2020,4,0.0,Good,Nuetral
-27,Why are there no hashtables in the C standard library?,eo4ccg,https://i.redd.it/73njjp99wja41.png,,2020-01-14 05:49:49,2020,1,0.0,Good,Nuetral
-28,"I don’t know if this kind of post is allowed or not, but this sub rocks, THANKS to this sub, I am the only one in my class who got A in C-programming class in my uni. Again, THANK YOU!!! 🙏🙏😭",kkhf6h,https://i.redd.it/yuow12f3si761.jpg,,2020-12-27 03:49:28,2020,12,0.0,Good,Nuetral
-29,Simulating epidemics in C: Staying home vs Everyday movement,g8g91e,https://v.redd.it/ggfxl3qhk6v41,,2020-04-27 07:29:25,2020,4,0.0,Good,Nuetral
-30,“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler,e7i8kk,https://www.reddit.com/r/C_Programming/comments/e7i8kk/any_fool_can_write_code_that_a_computer_can/,,2019-12-08 10:58:11,2019,12,0.0,Good,Nuetral
-31,"Just got my copy of K&R C back, now signed by none other than Brian Kernighan!",8sj51f,https://i.redd.it/6is1k0cga6511.jpg,,2018-06-21 07:19:36,2018,6,0.0,Good,Nuetral
-32,Tic-tac-toe implemented in a single call to printf(),gx7aui,https://github.com/carlini/printf-tac-toe,,2020-06-06 08:01:39,2020,6,0.0,Good,Nuetral
-33,After 25 years of C programming decided to read it. After 50 pages it's clear that was a huge mistake don't allocate time for it 20 years ago.,ep8db7,https://i.redd.it/ra6ln134b0b41.jpg,,2020-01-16 13:01:02,2020,1,0.0,Good,Nuetral
-34,So I coded Plague Inc. in C... for a Calculator,i1z2zh,https://youtu.be/DOE36S2dobk,,2020-08-02 12:24:41,2020,8,0.0,Good,Nuetral
-35,Explanation of Quake III's fast inverse square algorithm,kq3nig,https://youtu.be/p8u_k2LIZyo,,2021-01-04 23:14:05,2021,1,0.0,Good,Nuetral
-36,Is it true what the book say?,jt75uf,https://i.redd.it/jit5zu4fmwy51.png,,2020-11-13 16:45:34,2020,11,0.0,Good,Nuetral
-37,I’ve been learning programming in C for hours each day over the holidays. I was a little confused for a second when I opened my banking app,kpe6cp,https://i.redd.it/r7rb47kuu1961.jpg,,2021-01-03 21:02:47,2021,1,0.0,Good,Nuetral
-38,Someone made a Snake game in Ncurses (written in C),hdi2dz,https://v.redd.it/9awqrcxttb651,,2020-06-22 16:45:02,2020,6,0.0,Good,Nuetral
-39,Over 20 years later and this book printed in 1998 on the Win32 API is still useful today,ehl45k,https://i.redd.it/4athjh2fdr741.png,,2019-12-31 03:45:31,2019,12,0.0,Good,Nuetral
-40,"I was so freaking confused by the replies like plumbers, electrician... Took me awhile to realise it.",fdcska,/r/AskReddit/comments/fd0fwg/what_are_some_decent_paying_jobs_you_can_get_if/,,2020-03-05 05:11:23,2020,3,0.0,Good,Nuetral
-41,A beginners' guide away from scanf() (2017),dhlgry,http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html,,2019-10-14 20:20:13,2019,10,0.0,Good,Nuetral
-42,"Simple raylib Paint program in C, 210 lines of code with comments",cjsmlk,https://i.redd.it/kxxxl5t9cgd31.gif,,2019-07-31 06:36:31,2019,7,0.0,Good,Nuetral
-43,I Coded a 3D Calculator Game in C,leq0jh,https://youtu.be/_dTSCxV5KUE,,2021-02-08 08:43:55,2021,2,0.0,Good,Nuetral
-44,Simulating epidemics in C: Introducing central locations,ge4r62,https://v.redd.it/m0miclhm30x41,,2020-05-06 11:53:00,2020,5,0.0,Good,Nuetral
+In the end, you’ll leave C, not because you want something better, but because you can’t handle the intensity. C says “I’m gonna live fast, die young, and leave a good-looking corpse,” but you know that C can never die, not so long as C is still the fastest thing on the road.""",2017-03-15 06:45:15,2017,3,0.0931818181818182,Good,Not Neutral
+25,"This subreddit has almost a USHRT_MAX, UINT16_MAX, 2^16-1 or 65535 subscribers",dysp1o,https://i.redd.it/zu1bczm66qz31.png,,2019-11-20 15:14:18,2019,11,0.0,Good,Neutral
+26,virgin malloc vs chad alloca,g60u8b,https://i.redd.it/45g5zrcfcdu41.png,,2020-04-23 05:11:08,2020,4,0.0,Good,Neutral
+27,Why are there no hashtables in the C standard library?,eo4ccg,https://i.redd.it/73njjp99wja41.png,,2020-01-14 05:49:49,2020,1,0.0,Good,Neutral
+28,"I don’t know if this kind of post is allowed or not, but this sub rocks, THANKS to this sub, I am the only one in my class who got A in C-programming class in my uni. Again, THANK YOU!!! 🙏🙏😭",kkhf6h,https://i.redd.it/yuow12f3si761.jpg,,2020-12-27 03:49:28,2020,12,0.0,Good,Neutral
+29,Simulating epidemics in C: Staying home vs Everyday movement,g8g91e,https://v.redd.it/ggfxl3qhk6v41,,2020-04-27 07:29:25,2020,4,0.0,Good,Neutral
+30,“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler,e7i8kk,https://www.reddit.com/r/C_Programming/comments/e7i8kk/any_fool_can_write_code_that_a_computer_can/,,2019-12-08 10:58:11,2019,12,0.0,Good,Neutral
+31,"Just got my copy of K&R C back, now signed by none other than Brian Kernighan!",8sj51f,https://i.redd.it/6is1k0cga6511.jpg,,2018-06-21 07:19:36,2018,6,0.0,Good,Neutral
+32,Tic-tac-toe implemented in a single call to printf(),gx7aui,https://github.com/carlini/printf-tac-toe,,2020-06-06 08:01:39,2020,6,0.0,Good,Neutral
+33,After 25 years of C programming decided to read it. After 50 pages it's clear that was a huge mistake don't allocate time for it 20 years ago.,ep8db7,https://i.redd.it/ra6ln134b0b41.jpg,,2020-01-16 13:01:02,2020,1,0.0,Good,Neutral
+34,So I coded Plague Inc. in C... for a Calculator,i1z2zh,https://youtu.be/DOE36S2dobk,,2020-08-02 12:24:41,2020,8,0.0,Good,Neutral
+35,Explanation of Quake III's fast inverse square algorithm,kq3nig,https://youtu.be/p8u_k2LIZyo,,2021-01-04 23:14:05,2021,1,0.0,Good,Neutral
+36,Is it true what the book say?,jt75uf,https://i.redd.it/jit5zu4fmwy51.png,,2020-11-13 16:45:34,2020,11,0.0,Good,Neutral
+37,I’ve been learning programming in C for hours each day over the holidays. I was a little confused for a second when I opened my banking app,kpe6cp,https://i.redd.it/r7rb47kuu1961.jpg,,2021-01-03 21:02:47,2021,1,0.0,Good,Neutral
+38,Someone made a Snake game in Ncurses (written in C),hdi2dz,https://v.redd.it/9awqrcxttb651,,2020-06-22 16:45:02,2020,6,0.0,Good,Neutral
+39,Over 20 years later and this book printed in 1998 on the Win32 API is still useful today,ehl45k,https://i.redd.it/4athjh2fdr741.png,,2019-12-31 03:45:31,2019,12,0.0,Good,Neutral
+40,"I was so freaking confused by the replies like plumbers, electrician... Took me awhile to realise it.",fdcska,/r/AskReddit/comments/fd0fwg/what_are_some_decent_paying_jobs_you_can_get_if/,,2020-03-05 05:11:23,2020,3,0.0,Good,Neutral
+41,A beginners' guide away from scanf() (2017),dhlgry,http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html,,2019-10-14 20:20:13,2019,10,0.0,Good,Neutral
+42,"Simple raylib Paint program in C, 210 lines of code with comments",cjsmlk,https://i.redd.it/kxxxl5t9cgd31.gif,,2019-07-31 06:36:31,2019,7,0.0,Good,Neutral
+43,I Coded a 3D Calculator Game in C,leq0jh,https://youtu.be/_dTSCxV5KUE,,2021-02-08 08:43:55,2021,2,0.0,Good,Neutral
+44,Simulating epidemics in C: Introducing central locations,ge4r62,https://v.redd.it/m0miclhm30x41,,2020-05-06 11:53:00,2020,5,0.0,Good,Neutral
 45,"8 years ago, Dennis Ritchie passed away",dgw6dg,https://www.reddit.com/r/C_Programming/comments/dgw6dg/8_years_ago_dennis_ritchie_passed_away/,"12 October 2011 
 
-Just a tribute to his memory.",2019-10-13 06:55:24,2019,10,0.0,Good,Nuetral
-46,Made a Text Editor,lhlj9k,https://i.redd.it/b3avcla3xug61.png,,2021-02-12 06:16:34,2021,2,0.0,Good,Nuetral
+Just a tribute to his memory.",2019-10-13 06:55:24,2019,10,0.0,Good,Neutral
+46,Made a Text Editor,lhlj9k,https://i.redd.it/b3avcla3xug61.png,,2021-02-12 06:16:34,2021,2,0.0,Good,Neutral
 47,IKOS 2.1: an open source static analyzer for C and C++,a5a5nc,https://www.reddit.com/r/C_Programming/comments/a5a5nc/ikos_21_an_open_source_static_analyzer_for_c_and_c/,"I would like to introduce IKOS: [https://github.com/NASA-SW-VnV/ikos](https://github.com/NASA-SW-VnV/ikos)
 
 &#x200B;
@@ -85,7 +85,7 @@ IKOS was designed to target embedded systems written in C, and that's where it r
 
 &#x200B;
 
-Feel free to report bugs on Github. Feedback is also welcome on the mailing list: [ikos@lists.nasa.gov](mailto:ikos@lists.nasa.gov)",2018-12-12 11:39:26,2018,12,0.09722222222222222,Good,Not Nuetral
+Feel free to report bugs on Github. Feedback is also welcome on the mailing list: [ikos@lists.nasa.gov](mailto:ikos@lists.nasa.gov)",2018-12-12 11:39:26,2018,12,0.09722222222222222,Good,Not Neutral
 48,How to properly write in C,jl98wt,https://www.reddit.com/r/C_Programming/comments/jl98wt/how_to_properly_write_in_c/,"    #include <stdio.h>
     
     #define eee long
@@ -121,11 +121,11 @@ Feel free to report bugs on Github. Feedback is also welcome on the mailing list
     
     	ee(&e);
     	eeeeeee(EEEE, e);
-    }",2020-10-31 17:01:01,2020,10,0.05833333333333333,Good,Not Nuetral
-49,A Red Black (Christmas) Tree,jy1vai,https://v.redd.it/mbxzafz6wh061,,2020-11-21 17:22:47,2020,11,0.0,Good,Nuetral
-50,"“Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?” - Brian Kernighan",e8e6rk,https://www.reddit.com/r/C_Programming/comments/e8e6rk/everyone_knows_that_debugging_is_twice_as_hard_as/,,2019-12-10 10:53:39,2019,12,0.0,Good,Nuetral
-51,Write Your Own Virtual Machine (in C),ia7ppi,https://justinmeiners.github.io/lc3-vm/,,2020-08-16 05:53:14,2020,8,0.0,Good,Nuetral
-52,Time to #include <dos.h>,htl1w8,https://i.imgur.com/PkCNwsb.jpg,,2020-07-19 10:04:11,2020,7,0.0,Good,Nuetral
+    }",2020-10-31 17:01:01,2020,10,0.05833333333333333,Good,Not Neutral
+49,A Red Black (Christmas) Tree,jy1vai,https://v.redd.it/mbxzafz6wh061,,2020-11-21 17:22:47,2020,11,0.0,Good,Neutral
+50,"“Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?” - Brian Kernighan",e8e6rk,https://www.reddit.com/r/C_Programming/comments/e8e6rk/everyone_knows_that_debugging_is_twice_as_hard_as/,,2019-12-10 10:53:39,2019,12,0.0,Good,Neutral
+51,Write Your Own Virtual Machine (in C),ia7ppi,https://justinmeiners.github.io/lc3-vm/,,2020-08-16 05:53:14,2020,8,0.0,Good,Neutral
+52,Time to #include <dos.h>,htl1w8,https://i.imgur.com/PkCNwsb.jpg,,2020-07-19 10:04:11,2020,7,0.0,Good,Neutral
 53,The creation of a game from scratch on a live stream,ckath6,https://www.reddit.com/r/C_Programming/comments/ckath6/the_creation_of_a_game_from_scratch_on_a_live/,"Hello everybody!
 
 A little background: after 3.5 years developing a single game (my first commercial game) and releasing it to the PC and PS4, I realized I didn't actually *know* programming. I started off by just visually connecting nodes in Unreal and by the time the game demanded some C++ to integrate the console SDKs with the FMOD middleware and all sorts of crazy stuff, I desperately searched the internet, asked a ton of people and tried-and-error'ed my way into release. I decided to take a step back and learn programming for real.
@@ -170,13 +170,13 @@ Let me know if you enjoyed it, or have any questions.
 
 Thanks,
 
-Dan Zaidan",2019-08-01 08:33:22,2019,8,0.01263342126623377,Good,Not Nuetral
-54,C Programming Language | Brian Kernighan and Lex Fridman,hu1r0t,https://www.youtube.com/watch?v=G1-wse8nsxY,,2020-07-20 06:55:28,2020,7,0.0,Good,Nuetral
-55,OpenGL Real-Time Strategy Game Engine in Pure C [38k SLOC C99],gwg5u5,https://github.com/eduard-permyakov/permafrost-engine,,2020-06-05 04:04:51,2020,6,0.0,Good,Nuetral
-56,So you think you know C?,c9nv6f,https://wordsandbuttons.online/so_you_think_you_know_c.html,,2019-07-06 17:25:33,2019,7,0.0,Good,Nuetral
-57,"""Why I Write Games in C (yes, C)"", by Jonathan Whiting",d6tol6,https://jonathanwhiting.com/writing/blog/games_in_c/,,2019-09-21 03:43:16,2019,9,0.0,Good,Nuetral
-58,Sharing a demo of my nocurses.h library - based on old conio.h,dlcbhr,https://i.redd.it/b4zbur5km0u31.gif,,2019-10-22 19:57:33,2019,10,0.0,Good,Nuetral
-59,If anyone wonders how much code it takes to implement simple immediate mode slider,gwz6xr,https://i.redd.it/nprhnyrza1351.png,,2020-06-05 22:22:44,2020,6,0.0,Good,Nuetral
+Dan Zaidan",2019-08-01 08:33:22,2019,8,0.01263342126623377,Good,Not Neutral
+54,C Programming Language | Brian Kernighan and Lex Fridman,hu1r0t,https://www.youtube.com/watch?v=G1-wse8nsxY,,2020-07-20 06:55:28,2020,7,0.0,Good,Neutral
+55,OpenGL Real-Time Strategy Game Engine in Pure C [38k SLOC C99],gwg5u5,https://github.com/eduard-permyakov/permafrost-engine,,2020-06-05 04:04:51,2020,6,0.0,Good,Neutral
+56,So you think you know C?,c9nv6f,https://wordsandbuttons.online/so_you_think_you_know_c.html,,2019-07-06 17:25:33,2019,7,0.0,Good,Neutral
+57,"""Why I Write Games in C (yes, C)"", by Jonathan Whiting",d6tol6,https://jonathanwhiting.com/writing/blog/games_in_c/,,2019-09-21 03:43:16,2019,9,0.0,Good,Neutral
+58,Sharing a demo of my nocurses.h library - based on old conio.h,dlcbhr,https://i.redd.it/b4zbur5km0u31.gif,,2019-10-22 19:57:33,2019,10,0.0,Good,Neutral
+59,If anyone wonders how much code it takes to implement simple immediate mode slider,gwz6xr,https://i.redd.it/nprhnyrza1351.png,,2020-06-05 22:22:44,2020,6,0.0,Good,Neutral
 60,What is the coolest thing you have programmed in C?,k91x15,https://www.reddit.com/r/C_Programming/comments/k91x15/what_is_the_coolest_thing_you_have_programmed_in_c/,"For me, it was an interpreter for a made up language (a simpler C, called C Minus). This was really interesting as I had to go through steps of building: 
 
 
@@ -191,7 +191,7 @@ an abstract syntax tree, generated as code was parsed;
 and finally the interpreter itself, which ran through the AST using a stack to evaluate blocks.
 
 It's an amazing feeling to see the ""made up code"" and to understand the exact process by which it is interpreted to become a real program.
-This was the nicest programming course I had so far in university, now I know what languages like Python are doing under the hood when you run a program.",2020-12-09 02:28:14,2020,12,0.22142857142857145,Good,Not Nuetral
+This was the nicest programming course I had so far in university, now I know what languages like Python are doing under the hood when you run a program.",2020-12-09 02:28:14,2020,12,0.22142857142857145,Good,Not Neutral
 61,"This sub would be a lot more interesting without all the ""Do my Intro To Programming homework for me"" posts",9xvvpf,https://www.reddit.com/r/C_Programming/comments/9xvvpf/this_sub_would_be_a_lot_more_interesting_without/,"The vast majority of posts on this sub are either people asking absolute beginner-level C questions that could be answered by just reading about the language for less than an hour; or much more annoyingly, literally posting a picture of their homework sheet and basically saying ""do this for me"". These posts get downvoted but there's so many of them compared to the slower rate of C news and discussion that interesting posts don't stay at the top spots.
 
 To prove my point, look at the difference between the front pages of two subreddits right now:
@@ -224,7 +224,7 @@ I'm not saying that it should be forbidden to ask questions, but I think the sub
 
 or 
 
-* There were rules enforced on a bare minimum standard for questions posted. Eg, show that you have at least made some effort to solve the problem yourself; provide enough context for people to help, not just ""my code doesn't work""; *no posting entire homework assignments*.",2018-11-18 04:04:14,2018,11,0.10097835497835497,Good,Not Nuetral
+* There were rules enforced on a bare minimum standard for questions posted. Eg, show that you have at least made some effort to solve the problem yourself; provide enough context for people to help, not just ""my code doesn't work""; *no posting entire homework assignments*.",2018-11-18 04:04:14,2018,11,0.10097835497835497,Good,Not Neutral
 62,I wrote a full-featured file manager with awesome performance in C,edpnf6,https://www.reddit.com/r/C_Programming/comments/edpnf6/i_wrote_a_fullfeatured_file_manager_with_awesome/,"GitHub project page: https://github.com/jarun/nnn
 
 When I started, the goal was to write a reasonably featured (but performant) file manager for a Pi used as a media player. Over the course of time I developed `nnn`. Besides being a file manager, it is also a du analyzer, an app launcher, a batch renamer and a file picker. It also comes with tons of plugins.
@@ -233,19 +233,19 @@ When I started, the goal was to write a reasonably featured (but performant) fil
 
 I have been developing it alone for about 2.5 yrs. And now we have an efficient small team. So if you have any feature requests or suggestions, we are happy to listen.
 
-Don't forget to visit the project wiki! It has a lot of information on central concepts, program usage, how-tos and troubleshooting.",2019-12-22 04:59:18,2019,12,0.22142857142857145,Good,Not Nuetral
-63,"100k members! To celebrate, what is your favorite piece of C code you have written?",lbnhol,https://www.reddit.com/r/C_Programming/comments/lbnhol/100k_members_to_celebrate_what_is_your_favorite/,It could be anything just one that you made and are proud of.,2021-02-04 05:27:54,2021,2,0.8,Good,Not Nuetral
-64,My proposal for POSIX was accepted. Soon we can query the terminal size in a portable manner!,74ikse,http://austingroupbugs.net/view.php?id=1151#c3856,,2017-10-06 12:06:23,2017,10,0.0,Good,Nuetral
-65,"Happy birthday, Dennis Ritchie and thank you! (09.09.1941)",9eflxt,https://en.m.wikipedia.org/wiki/Dennis_Ritchie,,2018-09-10 11:15:34,2018,9,0.0,Good,Nuetral
-66,Conway's Game of Life in C - Demo,jwj4w2,https://v.redd.it/6regg7rt01061,,2020-11-19 08:41:34,2020,11,0.0,Good,Nuetral
-67,The 1973 Bourne shell in Unix version 5 was only 858 lines of C,bakk3w,https://i.redd.it/39s4sakkgwq21.png,,2019-04-08 12:12:59,2019,4,0.0,Good,Nuetral
-68,Why is this output compiler dependent?,cma6pw,https://i.redd.it/b2wehauzfme31.jpg,,2019-08-06 04:11:07,2019,8,0.0,Good,Nuetral
-69,The C Template Library,kdxn00,https://github.com/glouw/ctl,,2020-12-16 15:52:00,2020,12,0.0,Good,Nuetral
-70,"This book is an introduction to programming in C, and system programming (processes, threads, synchronization, networking and more!)",c3vtl6,http://cs241.cs.illinois.edu/coursebook/,,2019-06-23 14:45:45,2019,6,0.0,Good,Nuetral
-71,"tinywm - an X11 window manager in 40 lines of public-domain C, perfect for learning or building upon.",d57rt0,https://github.com/mackstann/tinywm,,2019-09-17 14:27:32,2019,9,0.0,Good,Nuetral
-72,"""Created"" a 3D ""renderer"" in C",agf8vg,https://i.redd.it/i8cbtco2hoa21.png,,2019-01-16 16:15:21,2019,1,0.0,Good,Nuetral
-73,My Christmas project (description and link in comments),kkbcpm,https://i.redd.it/50fwj6bq6g761.gif,,2020-12-26 19:06:21,2020,12,0.0,Good,Nuetral
-74,"Hotfix from a big project I am working on (with 10 other people). Just to mention that the project requires high level of security, time accuracy etc. :D",c22jdr,https://i.redd.it/dw2i98sge4531.png,,2019-06-19 05:55:14,2019,6,0.0,Good,Nuetral
+Don't forget to visit the project wiki! It has a lot of information on central concepts, program usage, how-tos and troubleshooting.",2019-12-22 04:59:18,2019,12,0.22142857142857145,Good,Not Neutral
+63,"100k members! To celebrate, what is your favorite piece of C code you have written?",lbnhol,https://www.reddit.com/r/C_Programming/comments/lbnhol/100k_members_to_celebrate_what_is_your_favorite/,It could be anything just one that you made and are proud of.,2021-02-04 05:27:54,2021,2,0.8,Good,Not Neutral
+64,My proposal for POSIX was accepted. Soon we can query the terminal size in a portable manner!,74ikse,http://austingroupbugs.net/view.php?id=1151#c3856,,2017-10-06 12:06:23,2017,10,0.0,Good,Neutral
+65,"Happy birthday, Dennis Ritchie and thank you! (09.09.1941)",9eflxt,https://en.m.wikipedia.org/wiki/Dennis_Ritchie,,2018-09-10 11:15:34,2018,9,0.0,Good,Neutral
+66,Conway's Game of Life in C - Demo,jwj4w2,https://v.redd.it/6regg7rt01061,,2020-11-19 08:41:34,2020,11,0.0,Good,Neutral
+67,The 1973 Bourne shell in Unix version 5 was only 858 lines of C,bakk3w,https://i.redd.it/39s4sakkgwq21.png,,2019-04-08 12:12:59,2019,4,0.0,Good,Neutral
+68,Why is this output compiler dependent?,cma6pw,https://i.redd.it/b2wehauzfme31.jpg,,2019-08-06 04:11:07,2019,8,0.0,Good,Neutral
+69,The C Template Library,kdxn00,https://github.com/glouw/ctl,,2020-12-16 15:52:00,2020,12,0.0,Good,Neutral
+70,"This book is an introduction to programming in C, and system programming (processes, threads, synchronization, networking and more!)",c3vtl6,http://cs241.cs.illinois.edu/coursebook/,,2019-06-23 14:45:45,2019,6,0.0,Good,Neutral
+71,"tinywm - an X11 window manager in 40 lines of public-domain C, perfect for learning or building upon.",d57rt0,https://github.com/mackstann/tinywm,,2019-09-17 14:27:32,2019,9,0.0,Good,Neutral
+72,"""Created"" a 3D ""renderer"" in C",agf8vg,https://i.redd.it/i8cbtco2hoa21.png,,2019-01-16 16:15:21,2019,1,0.0,Good,Neutral
+73,My Christmas project (description and link in comments),kkbcpm,https://i.redd.it/50fwj6bq6g761.gif,,2020-12-26 19:06:21,2020,12,0.0,Good,Neutral
+74,"Hotfix from a big project I am working on (with 10 other people). Just to mention that the project requires high level of security, time accuracy etc. :D",c22jdr,https://i.redd.it/dw2i98sge4531.png,,2019-06-19 05:55:14,2019,6,0.0,Good,Neutral
 75,I wrote a minimal POSIX-compliant sleep utility that can fit on a QR code,l4wfoo,https://www.reddit.com/r/C_Programming/comments/l4wfoo/i_wrote_a_minimal_posixcompliant_sleep_utility/,"[https://github.com/Virv12/sleep/](https://github.com/Virv12/sleep/)
 
 I developed a minimal, POSIX-compliant (I think), sleep utility.
@@ -258,18 +258,18 @@ Fun fact: as said in the title you can put the entire binary in a QR code since 
 
 Your opinion is highly appreciated.
 
-Thanks.",2021-01-26 12:15:26,2021,1,0.08333333333333333,Good,Not Nuetral
-76,awesome-c: A curated list of awesome C resources,e3vz2d,https://github.com/Bfgeshka/awesome-c,,2019-12-01 05:03:22,2019,12,0.0,Good,Nuetral
-77,C2x: the future C standard,hzd3lb,https://habr.com/ru/company/badoo/blog/512802/,,2020-07-29 03:36:36,2020,7,0.0,Good,Nuetral
-78,This sub really should have an icon.,luwbld,https://www.reddit.com/r/C_Programming/comments/luwbld/this_sub_really_should_have_an_icon/,Maybe just that standard C logo with the hexagon?,2021-03-01 17:27:48,2021,3,0.0,Good,Nuetral
-79,Please help me with understanding this program i had on a quiz today!!,kt9jrj,https://i.redd.it/bpmr1o9es5a61.png,,2021-01-09 11:20:29,2021,1,0.0,Good,Nuetral
-80,Lindenmayer System in C: Dragon Curve,g93s3g,https://v.redd.it/mb2mzdclxdv41,,2020-04-28 08:17:36,2020,4,0.0,Good,Nuetral
-81,shitposting in c,7v9ern,https://s3-us-west-2.amazonaws.com/tootcatapril2017/media_attachments/files/000/484/384/original/media.mp4,,2018-02-05 12:39:33,2018,2,0.0,Good,Nuetral
+Thanks.",2021-01-26 12:15:26,2021,1,0.08333333333333333,Good,Not Neutral
+76,awesome-c: A curated list of awesome C resources,e3vz2d,https://github.com/Bfgeshka/awesome-c,,2019-12-01 05:03:22,2019,12,0.0,Good,Neutral
+77,C2x: the future C standard,hzd3lb,https://habr.com/ru/company/badoo/blog/512802/,,2020-07-29 03:36:36,2020,7,0.0,Good,Neutral
+78,This sub really should have an icon.,luwbld,https://www.reddit.com/r/C_Programming/comments/luwbld/this_sub_really_should_have_an_icon/,Maybe just that standard C logo with the hexagon?,2021-03-01 17:27:48,2021,3,0.0,Good,Neutral
+79,Please help me with understanding this program i had on a quiz today!!,kt9jrj,https://i.redd.it/bpmr1o9es5a61.png,,2021-01-09 11:20:29,2021,1,0.0,Good,Neutral
+80,Lindenmayer System in C: Dragon Curve,g93s3g,https://v.redd.it/mb2mzdclxdv41,,2020-04-28 08:17:36,2020,4,0.0,Good,Neutral
+81,shitposting in c,7v9ern,https://s3-us-west-2.amazonaws.com/tootcatapril2017/media_attachments/files/000/484/384/original/media.mp4,,2018-02-05 12:39:33,2018,2,0.0,Good,Neutral
 82,What are common uses of C in the real world outside of embedded and OS dev?,llwg2e,https://www.reddit.com/r/C_Programming/comments/llwg2e/what_are_common_uses_of_c_in_the_real_world/,"I’ve grown to love C over the past year of learning it and I’d like to use it professionally (whenever that time comes). I’ve almost finished working through Operating Systems: Three Easy Pieces and I’m probably going to start learning about embedded systems since that seems to be the main path to use it professionally.
 
-But I’m wondering where else C is used in the real world. All I know of is the Apache web server and Python interpreter.",2021-02-18 07:04:38,2021,2,0.17857142857142858,Good,Not Nuetral
-83,A minigolf game I wrote (mostly) from scratch in C,iz9l5k,https://github.com/mgerdes/minigolf,,2020-09-25 16:43:58,2020,9,0.0,Good,Nuetral
-84,#programmer life,azscij,https://i.redd.it/9ztvf5yl6hl21.jpg,,2019-03-12 03:29:48,2019,3,0.0,Good,Nuetral
+But I’m wondering where else C is used in the real world. All I know of is the Apache web server and Python interpreter.",2021-02-18 07:04:38,2021,2,0.17857142857142858,Good,Not Neutral
+83,A minigolf game I wrote (mostly) from scratch in C,iz9l5k,https://github.com/mgerdes/minigolf,,2020-09-25 16:43:58,2020,9,0.0,Good,Neutral
+84,#programmer life,azscij,https://i.redd.it/9ztvf5yl6hl21.jpg,,2019-03-12 03:29:48,2019,3,0.0,Good,Neutral
 85,"I have 20 experience as a C developer, but it was in the period from 1985 to 2005. Another career since 2005. How can I find C work today?",ga8tue,https://www.reddit.com/r/C_Programming/comments/ga8tue/i_have_20_experience_as_a_c_developer_but_it_was/,"Greetings, Code Jockeys,
 
 I started writing C in 1985 while employed by a small software company.  Over the next 20 years, I wrote about a million lines of C that ran on various flavors of UNIX, mostly business applications, device controllers, data exchange software and the like.  My software is still used by thousands of businesses.
@@ -278,16 +278,16 @@ I switched careers about 2006.  My current career choice has been crushed by COV
 
 Any suggestions about the type of company and projects that might be interested in a person of my skills?
 
-Thanks.",2020-04-30 04:49:27,2020,4,0.06000000000000001,Good,Not Nuetral
-86,My week couldn't be any better,6bqpug,https://i.redd.it/u8np2id2x3yy.jpg,,2017-05-18 10:52:02,2017,5,0.0,Good,Nuetral
-87,Welcome to the jungle,a091cf,https://i.redd.it/fxrty8u0qh021.jpg,,2018-11-26 06:51:45,2018,11,0.0,Good,Nuetral
-88,Git's list of banned C functions,ly0ydt,https://github.com/git/git/blob/master/banned.h,,2021-03-05 17:40:54,2021,3,0.0,Good,Nuetral
-89,This video shows the most popular programming languages on Stack Overflow,d2rbd4,https://v.redd.it/d2ioo1ou5zl31,,2019-09-12 06:48:31,2019,9,0.0,Good,Nuetral
-90,Cellular Automata in C,grm3j5,https://v.redd.it/7kjy52fdvb151,,2020-05-28 07:45:41,2020,5,0.0,Good,Nuetral
-91,"C++ is NOT a superset of C: tentative definitions, implicit conversions, implicit declarations &more",f4oapt,https://www.youtube.com/watch?v=s3Cv0-U5bXc,,2020-02-17 01:13:02,2020,2,0.0,Good,Nuetral
-92,My very first playable program! Tic tac toe for Nintendo 3ds! You can reset the board and score counter.,cestsj,https://i.redd.it/xfwgof2ni2b31.jpg,,2019-07-19 05:57:55,2019,7,0.0,Good,Nuetral
-93,One of the most underrated C tutorial series on YouTube [prof. Jacob Sorber],9thqve,https://www.youtube.com/user/jms36086/videos,,2018-11-02 22:53:08,2018,11,0.0,Good,Nuetral
-94,Some C gamedev: I challenged myself to build a Minecraft clone from scratch in C and OpenGL in 48 hours last weekend and I made a video about how it was done,g8gd47,https://www.youtube.com/watch?v=4O0_-1NaWnY,,2020-04-27 07:35:54,2020,4,0.0,Good,Nuetral
+Thanks.",2020-04-30 04:49:27,2020,4,0.06000000000000001,Good,Not Neutral
+86,My week couldn't be any better,6bqpug,https://i.redd.it/u8np2id2x3yy.jpg,,2017-05-18 10:52:02,2017,5,0.0,Good,Neutral
+87,Welcome to the jungle,a091cf,https://i.redd.it/fxrty8u0qh021.jpg,,2018-11-26 06:51:45,2018,11,0.0,Good,Neutral
+88,Git's list of banned C functions,ly0ydt,https://github.com/git/git/blob/master/banned.h,,2021-03-05 17:40:54,2021,3,0.0,Good,Neutral
+89,This video shows the most popular programming languages on Stack Overflow,d2rbd4,https://v.redd.it/d2ioo1ou5zl31,,2019-09-12 06:48:31,2019,9,0.0,Good,Neutral
+90,Cellular Automata in C,grm3j5,https://v.redd.it/7kjy52fdvb151,,2020-05-28 07:45:41,2020,5,0.0,Good,Neutral
+91,"C++ is NOT a superset of C: tentative definitions, implicit conversions, implicit declarations &more",f4oapt,https://www.youtube.com/watch?v=s3Cv0-U5bXc,,2020-02-17 01:13:02,2020,2,0.0,Good,Neutral
+92,My very first playable program! Tic tac toe for Nintendo 3ds! You can reset the board and score counter.,cestsj,https://i.redd.it/xfwgof2ni2b31.jpg,,2019-07-19 05:57:55,2019,7,0.0,Good,Neutral
+93,One of the most underrated C tutorial series on YouTube [prof. Jacob Sorber],9thqve,https://www.youtube.com/user/jms36086/videos,,2018-11-02 22:53:08,2018,11,0.0,Good,Neutral
+94,Some C gamedev: I challenged myself to build a Minecraft clone from scratch in C and OpenGL in 48 hours last weekend and I made a video about how it was done,g8gd47,https://www.youtube.com/watch?v=4O0_-1NaWnY,,2020-04-27 07:35:54,2020,4,0.0,Good,Neutral
 95,C Project Based Tutorials?,872rlt,https://www.reddit.com/r/C_Programming/comments/872rlt/c_project_based_tutorials/,"**Update: Check out the Github [repo](https://github.com/rby90/C-Project-Based-Tutorials) for a more updated list.**
 
 Anyone have recommendations on project based tutorials or even books that work towards the completion of small or large projects? I've started collecting a few for unknown reasons below...
@@ -340,13 +340,13 @@ Anyone have recommendations on project based tutorials or even books that work t
 - [Handmade Hero](https://handmadehero.org/)
 
 **Edit 01:** Attempted to structure the list.  
-**Edit 02:** Added additional tutorials.",2018-03-26 10:49:48,2018,3,-0.05528711484593838,Bad,Not Nuetral
-96,C is such a joy to program in.,2iio00,https://www.reddit.com/r/C_Programming/comments/2iio00/c_is_such_a_joy_to_program_in/,"So for my Operating System class project we had to implement a basic shell in C. I thought C would be a nightmare, coming from higher level languages like Java and C#, but I'm loving it. I love the ""I'm C and I do it the machine way"" type of feel. Like in Java, you didn't need to worry too much about strings. Strings were just... text in quotation marks. But in C, you HAVE to know your strings. You have to know your pointers. I didn't even know about the newline character and the \0 character until I started C programming. What's even more amazing is that you can implement many of the basic functions that K&R made decades ago, like strncpy (and many of them are exercises in K&R too). Programming in C has made me realize the importance of bits, text files, and strings. Best of all I can play around in C in just about any Unix setting. Give me a black and white Unix console and I'll write some C programs in it. Seems like the language doesn't try to coddle you at all, and that has made me feel like a manly programming lumberjack.",2014-10-07 18:41:39,2014,10,0.34487179487179487,Good,Not Nuetral
-97,The 27th International Obfuscated C Code Contest Results,kqvjp1,https://www.ioccc.org/2020/,,2021-01-06 02:09:23,2021,1,0.0,Good,Nuetral
-98,"Pottery, a header-only container and algorithm template library in C",kelqk5,https://github.com/ludocode/pottery,,2020-12-17 16:15:18,2020,12,0.0,Good,Nuetral
+**Edit 02:** Added additional tutorials.",2018-03-26 10:49:48,2018,3,-0.05528711484593838,Bad,Not Neutral
+96,C is such a joy to program in.,2iio00,https://www.reddit.com/r/C_Programming/comments/2iio00/c_is_such_a_joy_to_program_in/,"So for my Operating System class project we had to implement a basic shell in C. I thought C would be a nightmare, coming from higher level languages like Java and C#, but I'm loving it. I love the ""I'm C and I do it the machine way"" type of feel. Like in Java, you didn't need to worry too much about strings. Strings were just... text in quotation marks. But in C, you HAVE to know your strings. You have to know your pointers. I didn't even know about the newline character and the \0 character until I started C programming. What's even more amazing is that you can implement many of the basic functions that K&R made decades ago, like strncpy (and many of them are exercises in K&R too). Programming in C has made me realize the importance of bits, text files, and strings. Best of all I can play around in C in just about any Unix setting. Give me a black and white Unix console and I'll write some C programs in it. Seems like the language doesn't try to coddle you at all, and that has made me feel like a manly programming lumberjack.",2014-10-07 18:41:39,2014,10,0.34487179487179487,Good,Not Neutral
+97,The 27th International Obfuscated C Code Contest Results,kqvjp1,https://www.ioccc.org/2020/,,2021-01-06 02:09:23,2021,1,0.0,Good,Neutral
+98,"Pottery, a header-only container and algorithm template library in C",kelqk5,https://github.com/ludocode/pottery,,2020-12-17 16:15:18,2020,12,0.0,Good,Neutral
 99,Making a retro-style video game from scratch in C.,gf7vgs,https://www.reddit.com/r/C_Programming/comments/gf7vgs/making_a_retrostyle_video_game_from_scratch_in_c/,"Hi,
 
 I'm starting a new video series documenting the process of coding an entire retro-style video game from scratch in the C programming language. I'm doing it not just because I enjoy programming but also in the hopes that documenting the process for others to see will encourage me to actually finish the project. You can watch it here:  
 
 
- [https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP\_tDE7](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7)",2020-05-08 06:46:51,2020,5,0.022727272727272724,Good,Not Nuetral
+ [https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP\_tDE7](https://www.youtube.com/playlist?list=PLlaINRtydtNWuRfd4Ra3KeD6L9FP_tDE7)",2020-05-08 06:46:51,2020,5,0.022727272727272724,Good,Not Neutral

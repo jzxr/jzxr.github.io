@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-48,Create ArrayList of arrays using Arrays.asList [duplicate],/questions/66564613/create-arraylist-of-arrays-using-arrays-aslist,45,3
-35,java getting list from other class,/questions/66564889/java-getting-list-from-other-class,29,1
-30,i'm having problem extracting string values through regex,/questions/66564961/im-having-problem-extracting-string-values-through-regex,24,0
-45,How can I save data from JSON Url and pass it in another activity?,/questions/66564642/how-can-i-save-data-from-json-url-and-pass-it-in-another-activity,21,0
-23,How do you make a function that subtracts 2 values but will make value “a” not go beneath 0?,/questions/66565136/how-do-you-make-a-function-that-subtracts-2-values-but-will-make-value-a-not-g,21,-3
-36,How scan all databases in postgreSQL?,/questions/66564880/how-scan-all-databases-in-postgresql,18,0
-22,Implementing CrudeRepository with an interface and Long,/questions/66565137/implementing-cruderepository-with-an-interface-and-long,17,0
-24,how to invoke a method in JSP (Spring MVC),/questions/66565072/how-to-invoke-a-method-in-jsp-spring-mvc,16,0
-13,How to disable whitelabel error page in application.yaml (spring boot),/questions/66565233/how-to-disable-whitelabel-error-page-in-application-yaml-spring-boot,15,0
-26,The purpose of children duplicates prohibition,/questions/66565022/the-purpose-of-children-duplicates-prohibition,15,-1
-42,Jersey 3 - Configuring binding with bindFactory,/questions/66564662/jersey-3-configuring-binding-with-bindfactory,14,1
-41,How To Add Checkboxes To ListView (Each list) in Android Studio,/questions/66564665/how-to-add-checkboxes-to-listview-each-list-in-android-studio,14,0
-8,Index 3 out of bounds for length 0 When trying to set a Student object to a Laboratory Array(java),/questions/66565361/index-3-out-of-bounds-for-length-0-when-trying-to-set-a-student-object-to-a-labo,13,-1
-7,Accessing Instance Variable on Another Method Java,/questions/66565365/accessing-instance-variable-on-another-method-java,12,0
-4,Why do I see unknown source in stack traces when I have sources downloaded?,/questions/66565398/why-do-i-see-unknown-source-in-stack-traces-when-i-have-sources-downloaded,12,0
-47,Accessing Azure Key Vault for local development,/questions/66564623/accessing-azure-key-vault-for-local-development,12,0
-43,Is there a way to use 'user variable' instead of 'system variable' in windows,/questions/66564648/is-there-a-way-to-use-user-variable-instead-of-system-variable-in-windows,11,0
-28,spring framework classreader exception,/questions/66564985/spring-framework-classreader-exception,11,0
-2,Multiple database connection reusing entity mapping,/questions/66565452/multiple-database-connection-reusing-entity-mapping,11,0
-34,scala parallel collection equivalent in python,/questions/66564908/scala-parallel-collection-equivalent-in-python,10,0
-18,How to return enum in the DTO?,/questions/66565191/how-to-return-enum-in-the-dto,10,0
-11,"Adding a whitespace inside a List of strings, java?",/questions/66565339/adding-a-whitespace-inside-a-list-of-strings-java,10,0
-37,How to get tweets from twitter by Selenium Java [closed],/questions/66564849/how-to-get-tweets-from-twitter-by-selenium-java,10,-1
-14,How to run a java project of Stanford Open Information Extraction? [closed],/questions/66565223/how-to-run-a-java-project-of-stanford-open-information-extraction,10,-4
-39,sending and receiving byte array using rest template in service to service call java spring boot,/questions/66564751/sending-and-receiving-byte-array-using-rest-template-in-service-to-service-call,9,0
-3,how to get data from json object inside json array [duplicate],/questions/66565436/how-to-get-data-from-json-object-inside-json-array,9,-5
-49,maven mark running test as ERROR when some tests are skipped,/questions/66564607/maven-mark-running-test-as-error-when-some-tests-are-skipped,9,0
-0,Replace Java with/ or add OpenWebStart on 2012 R2 Windows Server,/questions/66565464/replace-java-with-or-add-openwebstart-on-2012-r2-windows-server,8,-4
-5,how to find files that neve opend before?,/questions/66565385/how-to-find-files-that-neve-opend-before,8,0
-21,Android 9 and above webview scroll is not working like android 8,/questions/66565143/android-9-and-above-webview-scroll-is-not-working-like-android-8,8,0
-19,How can I choose between two jars in a different librarys?,/questions/66565189/how-can-i-choose-between-two-jars-in-a-different-librarys,8,1
-17,Is it possiblet to change Header data dynamically in HTTP header,/questions/66565196/is-it-possiblet-to-change-header-data-dynamically-in-http-header,8,-1
-31,Can't upload mediaRecorder file on firebase storage,/questions/66564913/cant-upload-mediarecorder-file-on-firebase-storage,7,0
-6,How is this injection happening in spring [duplicate],/questions/66565369/how-is-this-injection-happening-in-spring,7,0
-38,Java Return result of JOOQ query,/questions/66564777/java-return-result-of-jooq-query,7,0
-9,How to convert LocalDateTime back to Instant without knowing timezone but with Clock?,/questions/66565352/how-to-convert-localdatetime-back-to-instant-without-knowing-timezone-but-with-c,7,0
-25,"Java Process API waitFor() method returns “1” OR negative integer(inconsistent) value, hangs sometime",/questions/66565058/java-process-api-waitfor-method-returns-1-or-negative-integerinconsistent,6,0
-32,Guice: Inject singleton with constructor with own parameters?,/questions/66564911/guice-inject-singleton-with-constructor-with-own-parameters,6,0
-44,Navigation bottom menu with submenu,/questions/66564645/navigation-bottom-menu-with-submenu,5,0
-46,"My modded code isn't appearing,MC-1.12.2 forge 14.23.5.2847",/questions/66564630/my-modded-code-isnt-appearing-mc-1-12-2-forge-14-23-5-2847,5,-1
-27,How to add libgdx google play service? Step by step please,/questions/66565008/how-to-add-libgdx-google-play-service-step-by-step-please,5,-1
-40,Get ICC Profile information from Adobe Experience Manager asset,/questions/66564729/get-icc-profile-information-from-adobe-experience-manager-asset,5,0
-20,How to join OneToMany in Spring boot JPA with a complex Where condition?,/questions/66565176/how-to-join-onetomany-in-spring-boot-jpa-with-a-complex-where-condition,5,0
-16,Install Failed Missing Shared Library,/questions/66565197/install-failed-missing-shared-library,5,0
-15,Spring Boot: Use Views from a MySQL database,/questions/66565198/spring-boot-use-views-from-a-mysql-database,4,0
-12,Rawquery to some tables always returns empty cursor,/questions/66565307/rawquery-to-some-tables-always-returns-empty-cursor,4,0
-29,Where can I add javax.media.jai Jar package in Java?,/questions/66564983/where-can-i-add-javax-media-jai-jar-package-in-java,4,0
-33,"After parsing a valid expression, there is still more data in the expression:@Value annotation",/questions/66564909/after-parsing-a-valid-expression-there-is-still-more-data-in-the-expressionva,4,0
-1,search by maximum value in MongoDB,/questions/66565459/search-by-maximum-value-in-mongodb,4,0
-10,Java Multiplication Table Formatting,/questions/66565349/java-multiplication-table-formatting,3,0
+37,java getting list from other class,/questions/66564889/java-getting-list-from-other-class,30,1
+32,i'm having problem extracting string values through regex,/questions/66564961/im-having-problem-extracting-string-values-through-regex,27,0
+25,How do you make a function that subtracts 2 values but will make value “a” not go beneath 0?,/questions/66565136/how-do-you-make-a-function-that-subtracts-2-values-but-will-make-value-a-not-g,21,-3
+47,How can I save data from JSON Url and pass it in another activity?,/questions/66564642/how-can-i-save-data-from-json-url-and-pass-it-in-another-activity,21,0
+24,Implementing CrudeRepository with an interface and Long,/questions/66565137/implementing-cruderepository-with-an-interface-and-long,20,0
+38,How scan all databases in postgreSQL?,/questions/66564880/how-scan-all-databases-in-postgresql,18,0
+26,how to invoke a method in JSP (Spring MVC),/questions/66565072/how-to-invoke-a-method-in-jsp-spring-mvc,17,0
+20,How to return enum in the DTO?,/questions/66565191/how-to-return-enum-in-the-dto,16,0
+15,How to disable whitelabel error page in application.yaml (spring boot),/questions/66565233/how-to-disable-whitelabel-error-page-in-application-yaml-spring-boot,15,0
+44,Jersey 3 - Configuring binding with bindFactory,/questions/66564662/jersey-3-configuring-binding-with-bindfactory,15,1
+43,How To Add Checkboxes To ListView (Each list) in Android Studio,/questions/66564665/how-to-add-checkboxes-to-listview-each-list-in-android-studio,15,0
+28,The purpose of children duplicates prohibition,/questions/66565022/the-purpose-of-children-duplicates-prohibition,15,-1
+10,Index 3 out of bounds for length 0 When trying to set a Student object to a Laboratory Array(java),/questions/66565361/index-3-out-of-bounds-for-length-0-when-trying-to-set-a-student-object-to-a-labo,13,-2
+49,Accessing Azure Key Vault for local development,/questions/66564623/accessing-azure-key-vault-for-local-development,12,0
+9,Accessing Instance Variable on Another Method Java,/questions/66565365/accessing-instance-variable-on-another-method-java,12,0
+2,Replace Java with/ or add OpenWebStart on 2012 R2 Windows Server [closed],/questions/66565464/replace-java-with-or-add-openwebstart-on-2012-r2-windows-server,12,-6
+6,Why do I see unknown source in stack traces when I have sources downloaded?,/questions/66565398/why-do-i-see-unknown-source-in-stack-traces-when-i-have-sources-downloaded,12,0
+7,how to find files that neve opend before?,/questions/66565385/how-to-find-files-that-neve-opend-before,11,0
+45,Is there a way to use 'user variable' instead of 'system variable' in windows,/questions/66564648/is-there-a-way-to-use-user-variable-instead-of-system-variable-in-windows,11,0
+30,spring framework classreader exception,/questions/66564985/spring-framework-classreader-exception,11,0
+4,Multiple database connection reusing entity mapping,/questions/66565452/multiple-database-connection-reusing-entity-mapping,11,0
+36,scala parallel collection equivalent in python,/questions/66564908/scala-parallel-collection-equivalent-in-python,10,0
+5,how to get data from json object inside json array [duplicate],/questions/66565436/how-to-get-data-from-json-object-inside-json-array,10,-5
+39,How to get tweets from twitter by Selenium Java [closed],/questions/66564849/how-to-get-tweets-from-twitter-by-selenium-java,10,-1
+13,"Adding a whitespace inside a List of strings, java?",/questions/66565339/adding-a-whitespace-inside-a-list-of-strings-java,10,0
+16,How to run a java project of Stanford Open Information Extraction? [closed],/questions/66565223/how-to-run-a-java-project-of-stanford-open-information-extraction,10,-4
+41,sending and receiving byte array using rest template in service to service call java spring boot,/questions/66564751/sending-and-receiving-byte-array-using-rest-template-in-service-to-service-call,9,0
+21,How can I choose between two jars in a different librarys?,/questions/66565189/how-can-i-choose-between-two-jars-in-a-different-librarys,9,1
+23,Android 9 and above webview scroll is not working like android 8,/questions/66565143/android-9-and-above-webview-scroll-is-not-working-like-android-8,9,0
+11,How to convert LocalDateTime back to Instant without knowing timezone but with Clock?,/questions/66565352/how-to-convert-localdatetime-back-to-instant-without-knowing-timezone-but-with-c,8,0
+19,Is it possiblet to change Header data dynamically in HTTP header,/questions/66565196/is-it-possiblet-to-change-header-data-dynamically-in-http-header,8,-1
+40,Java Return result of JOOQ query,/questions/66564777/java-return-result-of-jooq-query,7,0
+33,Can't upload mediaRecorder file on firebase storage,/questions/66564913/cant-upload-mediarecorder-file-on-firebase-storage,7,0
+0,Excel XML to Java Object,/questions/66565549/excel-xml-to-java-object,7,0
+8,How is this injection happening in spring [duplicate],/questions/66565369/how-is-this-injection-happening-in-spring,7,0
+34,Guice: Inject singleton with constructor with own parameters?,/questions/66564911/guice-inject-singleton-with-constructor-with-own-parameters,6,0
+27,"Java Process API waitFor() method returns “1” OR negative integer(inconsistent) value, hangs sometime",/questions/66565058/java-process-api-waitfor-method-returns-1-or-negative-integerinconsistent,6,0
+46,Navigation bottom menu with submenu,/questions/66564645/navigation-bottom-menu-with-submenu,6,0
+29,How to add libgdx google play service? Step by step please,/questions/66565008/how-to-add-libgdx-google-play-service-step-by-step-please,5,-1
+22,How to join OneToMany in Spring boot JPA with a complex Where condition?,/questions/66565176/how-to-join-onetomany-in-spring-boot-jpa-with-a-complex-where-condition,5,0
+42,Get ICC Profile information from Adobe Experience Manager asset,/questions/66564729/get-icc-profile-information-from-adobe-experience-manager-asset,5,0
+3,search by maximum value in MongoDB,/questions/66565459/search-by-maximum-value-in-mongodb,5,0
+18,Install Failed Missing Shared Library,/questions/66565197/install-failed-missing-shared-library,5,0
+17,Spring Boot: Use Views from a MySQL database,/questions/66565198/spring-boot-use-views-from-a-mysql-database,5,0
+48,"My modded code isn't appearing,MC-1.12.2 forge 14.23.5.2847",/questions/66564630/my-modded-code-isnt-appearing-mc-1-12-2-forge-14-23-5-2847,5,-1
+35,"After parsing a valid expression, there is still more data in the expression:@Value annotation",/questions/66564909/after-parsing-a-valid-expression-there-is-still-more-data-in-the-expressionva,4,0
+31,Where can I add javax.media.jai Jar package in Java?,/questions/66564983/where-can-i-add-javax-media-jai-jar-package-in-java,4,0
+1,Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception […] with root cause [duplicate],/questions/66565533/servlet-service-for-servlet-dispatcherservlet-in-context-with-path-threw,4,0
+14,Rawquery to some tables always returns empty cursor,/questions/66565307/rawquery-to-some-tables-always-returns-empty-cursor,4,0
+12,Java Multiplication Table Formatting,/questions/66565349/java-multiplication-table-formatting,3,0
