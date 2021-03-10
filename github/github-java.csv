@@ -1,31 +1,31 @@
 ,Repository Name,Repository Description,Repository Stars,Repository Programming Language,Repository Other Language,Repository URL
-0,Java,All Algorithms implemented in Java,35889,Java,"{'Java': 99.96, 'Dockerfile': 0.04}",https://github.com/TheAlgorithms/Java
-1,Java,27天成为Java大神,7874,Java,{'Java': 100.0},https://github.com/DuGuQiuBai/Java
-2,JavaGuide,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,99080,Java,{'Java': 100.0},https://github.com/Snailclimb/JavaGuide
+0,Java,All Algorithms implemented in Java,35895,Java,"{'Java': 99.96, 'Dockerfile': 0.04}",https://github.com/TheAlgorithms/Java
+1,Java,27天成为Java大神,7877,Java,{'Java': 100.0},https://github.com/DuGuQiuBai/Java
+2,JavaGuide,「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！,99119,Java,{'Java': 100.0},https://github.com/Snailclimb/JavaGuide
 3,Java,Java related code,630,Java,"{'Java': 77.48, 'JavaScript': 13.45, 'HTML': 6.49, 'CSS': 2.5, 'PLSQL': 0.09}",https://github.com/hmkcode/Java
 4,Java,java项目实战练习,1508,Java,"{'Java': 99.94, 'TSQL': 0.06}",https://github.com/HelloWorld521/Java
 5,java,Official Java client library for kubernetes,1674,Java,"{'Java': 99.94, 'Shell': 0.03, 'Groovy': 0.02, 'Dockerfile': 0.01}",https://github.com/kubernetes-client/java
-6,JAVA,存放JAVA开发的设计思想、算法：《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》；一些大的上传不上来的文件在README,1615,,{},https://github.com/singgel/JAVA
+6,JAVA,存放JAVA开发的设计思想、算法：《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》；一些大的上传不上来的文件在README,1617,,{},https://github.com/singgel/JAVA
 7,Java,一些用Java写的小东西（没什么用，大家不要star了😄）,1077,Java,{'Java': 100.0},https://github.com/gaopu/Java
-8,java,"PubNub Java-based APIs for core Java, Android",531,Java,{'Java': 100.0},https://github.com/pubnub/java
-9,java,jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go,1307,Java,{'Java': 100.0},https://github.com/json-iterator/java
-10,java,,450,HTML,"{'HTML': 98.59, 'Java': 1.38, 'CSS': 0.02, 'JavaScript': 0.01, 'PLSQL': 0.0, 'PHP': 0.0, 'Batchfile': 0.0}",https://github.com/bjmashibing/java
-11,JavaScript30,30 Day Vanilla JS Challenge,15071,HTML,"{'HTML': 86.75, 'CSS': 9.71, 'JavaScript': 3.54}",https://github.com/wesbos/JavaScript30
-12,java,Development repository for the java cookbook,365,Ruby,"{'Ruby': 99.77, 'HTML': 0.23}",https://github.com/sous-chefs/java
-13,java,Java Dockerfile for trusted automated Docker builds.,706,Shell,{'Shell': 100.0},https://github.com/dockerfile/java
-14,Java,Java的学习之路，学习JavaEE以及框架时候的一些项目，结合博客和源码，让你受益匪浅，适合Java初学者和刚入门开始学框架者,773,Java,"{'Java': 70.76, 'HTML': 27.96, 'JavaScript': 0.74, 'CSS': 0.3, 'Batchfile': 0.11, 'Visual Basic': 0.08, 'Shell': 0.05}",https://github.com/chenhaoxiang/Java
-15,javascript,JavaScript Style Guide,106275,JavaScript,{'JavaScript': 100.0},https://github.com/airbnb/javascript
-16,JavaFamily,【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。,22838,,{},https://github.com/AobingJava/JavaFamily
-17,java,Exercism exercises in Java.,390,Java,"{'Java': 97.26, 'Shell': 2.74}",https://github.com/exercism/java
-18,java,Structurizr for Java,764,Java,{'Java': 100.0},https://github.com/structurizr/java
-19,javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,99142,JavaScript,{'JavaScript': 100.0},https://github.com/trekhleb/javascript-algorithms
-20,advanced-java,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,52598,Java,"{'Java': 97.02, 'JavaScript': 2.98}",https://github.com/doocs/advanced-java
-21,java8-tutorial,Modern Java - A Guide to Java 8,14471,Java,"{'Java': 92.53, 'JavaScript': 7.47}",https://github.com/winterbe/java8-tutorial
-22,Java,✏️  计算机基础☕️ Java👫 面向对象📝 编程题💾 数据库🔨 消息中间件📖 系统设计💻 工具🔧 进阶指南🙊 参考资料,611,,{},https://github.com/DuHouAn/Java
-23,Java,Java code for YouTube videos,129,Java,{'Java': 100.0},https://github.com/joeyajames/Java
-24,java-design-patterns,Design patterns implemented in Java,64576,Java,"{'Java': 99.01, 'HTML': 0.6, 'CSS': 0.32, 'JavaScript': 0.03, 'Gherkin': 0.03}",https://github.com/iluwatar/java-design-patterns
-25,Java,这是我用Java写的一些程序,323,Java,"{'Java': 99.89, 'Shell': 0.11}",https://github.com/bottleleung/Java
-26,JavaEETest,Spring、SpringMVC、MyBatis、Spring Boot案例,2842,Java,"{'Java': 94.43, 'CSS': 4.52, 'PHP': 1.05}",https://github.com/lenve/JavaEETest
-27,RxJava,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,44319,Java,"{'Java': 99.9, 'CSS': 0.08, 'Shell': 0.02}",https://github.com/ReactiveX/RxJava
-28,java,17mon IP库解析代码,200,Java,{'Java': 100.0},https://github.com/17mon/java
-29,awesome-java,"A curated list of awesome frameworks, libraries and software for the Java programming language.",28083,,{},https://github.com/akullpp/awesome-java
+8,java,jsoniter (json-iterator) is fast and flexible JSON parser available in Java and Go,1308,Java,{'Java': 100.0},https://github.com/json-iterator/java
+9,java,,451,HTML,"{'HTML': 98.59, 'Java': 1.38, 'CSS': 0.02, 'JavaScript': 0.01, 'PLSQL': 0.0, 'PHP': 0.0, 'Batchfile': 0.0}",https://github.com/bjmashibing/java
+10,JavaScript30,30 Day Vanilla JS Challenge,15075,HTML,"{'HTML': 86.75, 'CSS': 9.71, 'JavaScript': 3.54}",https://github.com/wesbos/JavaScript30
+11,java,Development repository for the java cookbook,365,Ruby,"{'Ruby': 99.77, 'HTML': 0.23}",https://github.com/sous-chefs/java
+12,java,Java Dockerfile for trusted automated Docker builds.,706,Shell,{'Shell': 100.0},https://github.com/dockerfile/java
+13,Java,Java的学习之路，学习JavaEE以及框架时候的一些项目，结合博客和源码，让你受益匪浅，适合Java初学者和刚入门开始学框架者,774,Java,"{'Java': 70.76, 'HTML': 27.96, 'JavaScript': 0.74, 'CSS': 0.3, 'Batchfile': 0.11, 'Visual Basic': 0.08, 'Shell': 0.05}",https://github.com/chenhaoxiang/Java
+14,javascript,JavaScript Style Guide,106284,JavaScript,{'JavaScript': 100.0},https://github.com/airbnb/javascript
+15,JavaFamily,【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。,22850,,{},https://github.com/AobingJava/JavaFamily
+16,java,Exercism exercises in Java.,390,Java,"{'Java': 97.26, 'Shell': 2.74}",https://github.com/exercism/java
+17,java,Structurizr for Java,764,Java,{'Java': 100.0},https://github.com/structurizr/java
+18,javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings,99155,JavaScript,{'JavaScript': 100.0},https://github.com/trekhleb/javascript-algorithms
+19,advanced-java,😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识,52611,Java,"{'Java': 97.02, 'JavaScript': 2.98}",https://github.com/doocs/advanced-java
+20,java8-tutorial,Modern Java - A Guide to Java 8,14471,Java,"{'Java': 92.53, 'JavaScript': 7.47}",https://github.com/winterbe/java8-tutorial
+21,Java,✏️  计算机基础☕️ Java👫 面向对象📝 编程题💾 数据库🔨 消息中间件📖 系统设计💻 工具🔧 进阶指南🙊 参考资料,611,,{},https://github.com/DuHouAn/Java
+22,Java,Java code for YouTube videos,129,Java,{'Java': 100.0},https://github.com/joeyajames/Java
+23,java-design-patterns,Design patterns implemented in Java,64584,Java,"{'Java': 99.01, 'HTML': 0.6, 'CSS': 0.32, 'JavaScript': 0.03, 'Gherkin': 0.03}",https://github.com/iluwatar/java-design-patterns
+24,Java,这是我用Java写的一些程序,323,Java,"{'Java': 99.89, 'Shell': 0.11}",https://github.com/bottleleung/Java
+25,JavaEETest,Spring、SpringMVC、MyBatis、Spring Boot案例,2842,Java,"{'Java': 94.43, 'CSS': 4.52, 'PHP': 1.05}",https://github.com/lenve/JavaEETest
+26,RxJava,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,44319,Java,"{'Java': 99.9, 'CSS': 0.08, 'Shell': 0.02}",https://github.com/ReactiveX/RxJava
+27,java,17mon IP库解析代码,200,Java,{'Java': 100.0},https://github.com/17mon/java
+28,awesome-java,"A curated list of awesome frameworks, libraries and software for the Java programming language.",28090,,{},https://github.com/akullpp/awesome-java
+29,guava,Google core libraries for Java,40540,Java,"{'Java': 99.94, 'CSS': 0.05, 'Shell': 0.01, 'JavaScript': 0.0}",https://github.com/google/guava

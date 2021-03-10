@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-21,Initializing parent variables in Child Class,/questions/66558929/initializing-parent-variables-in-child-class,30,1
-40,Getting null by sorting map by values,/questions/66558175/getting-null-by-sorting-map-by-values,28,0
-12,JSON Object not being deserialized properly by Spring Boot,/questions/66559122/json-object-not-being-deserialized-properly-by-spring-boot,27,1
-32,java.time.format.DateTimeParseException: Text '10-03-2021' could not be parsed at index 0,/questions/66558495/java-time-format-datetimeparseexception-text-10-03-2021-could-not-be-parsed-a,25,0
-20,Why FileOutputStream can't count space between string?,/questions/66558945/why-fileoutputstream-cant-count-space-between-string,25,-2
-29,Can you explain the dry run of the below java code … I am not able to identify the value for “minCost1” “minCost2”,/questions/66558690/can-you-explain-the-dry-run-of-the-below-java-code-i-am-not-able-to-identify,23,-4
-9,"java.util.ConcurrentModificationException, IndexOutOfBoundsException, NullPointerException, NegativeArraySizeException",/questions/66559166/java-util-concurrentmodificationexception-indexoutofboundsexception-nullpointe,20,-3
-41,onKeyDown .capture keystrokes,/questions/66558166/onkeydown-capture-keystrokes,20,0
-34,jdk1.8 StringBuffer source code method without synchronized keyword,/questions/66558428/jdk1-8-stringbuffer-source-code-method-without-synchronized-keyword,19,1
-43,"FlowLayout takes up too much vertical space, change height",/questions/66558059/flowlayout-takes-up-too-much-vertical-space-change-height,19,0
-23,Type mismatch for java generics [duplicate],/questions/66558841/type-mismatch-for-java-generics,17,0
-13,Why when I insert java code in JSP Code something goes wrong?,/questions/66559073/why-when-i-insert-java-code-in-jsp-code-something-goes-wrong,17,-3
-46,Is there any way to pass string “objectA.objectB.objectC” into java so it can access the property of objectA?,/questions/66558028/is-there-any-way-to-pass-string-objecta-objectb-objectc-into-java-so-it-can-ac,17,-1
-47,"cannot find symbol, although import statement is included [duplicate]",/questions/66558025/cannot-find-symbol-although-import-statement-is-included,17,0
-35,How do I make this program into 4 classes?,/questions/66558396/how-do-i-make-this-program-into-4-classes,16,0
-38,is there any replacement for @org.apache.commons.lang.ArrayUtils@contains method?,/questions/66558213/is-there-any-replacement-for-org-apache-commons-lang-arrayutilscontains-method,15,0
-36,Junit and mockito test case how to write below example test case?,/questions/66558235/junit-and-mockito-test-case-how-to-write-below-example-test-case,15,-1
-25,ViewPager inside left drawer of DrawerLayout,/questions/66558755/viewpager-inside-left-drawer-of-drawerlayout,15,0
-39,Bean Validation to check for one of a few integer values,/questions/66558209/bean-validation-to-check-for-one-of-a-few-integer-values,14,0
-16,Child bean is not found by the spring container,/questions/66559043/child-bean-is-not-found-by-the-spring-container,14,0
-19,Default value for a particular value retrieved from Hibernate,/questions/66558981/default-value-for-a-particular-value-retrieved-from-hibernate,14,0
-45,Is there any extension in VS Code to handle Android packages?,/questions/66558039/is-there-any-extension-in-vs-code-to-handle-android-packages,14,0
-8,Converting a non-serializable object to input stream in java,/questions/66559209/converting-a-non-serializable-object-to-input-stream-in-java,13,0
-27,How to pass variable to event Handler in JavaFX,/questions/66558705/how-to-pass-variable-to-event-handler-in-javafx,13,-1
-6,SunCertPathException caused by Maven,/questions/66559336/suncertpathexception-caused-by-maven,13,0
-42,"In JavaFX, Is it possible to enable a CheckBox when the TextField's value is not set to Zero",/questions/66558087/in-javafx-is-it-possible-to-enable-a-checkbox-when-the-textfields-value-is-not,12,0
-49,Print only complete paths from source to destination DFS,/questions/66557960/print-only-complete-paths-from-source-to-destination-dfs,12,-1
-4,Folder download without zipping,/questions/66559460/folder-download-without-zipping,12,0
-14,In what manner(or way) the data is being readed from the InputStream?,/questions/66559048/in-what-manneror-way-the-data-is-being-readed-from-the-inputstream,11,0
-26,JavaFX event triggered by time value triggers multiple times,/questions/66558748/javafx-event-triggered-by-time-value-triggers-multiple-times,9,0
-18,Zip the files fetched from Amazon S3 using java,/questions/66558994/zip-the-files-fetched-from-amazon-s3-using-java,9,-3
-31,How to consume events form from AWS MSK cluster using KafkaConsumer java SDK?,/questions/66558641/how-to-consume-events-form-from-aws-msk-cluster-using-kafkaconsumer-java-sdk,9,0
-3,Java Eclipse Hebrew word order reveresed,/questions/66559462/java-eclipse-hebrew-word-order-reveresed,8,0
-33,"HikariCP failing to initilize pool: 'FATAL: sorry, too many clients already'",/questions/66558446/hikaricp-failing-to-initilize-pool-fatal-sorry-too-many-clients-already,7,0
-28,Listen to multiple type of objects in the same Kafka topic,/questions/66558697/listen-to-multiple-type-of-objects-in-the-same-kafka-topic,7,0
-30,gradle shadowJar task is not finding class org.apache.tools.zip.ZipOutputStream,/questions/66558656/gradle-shadowjar-task-is-not-finding-class-org-apache-tools-zip-zipoutputstream,7,0
-11,"Correct the classpath of your application so that it contains a single, compatible version of javax.annotation.Resource",/questions/66559132/correct-the-classpath-of-your-application-so-that-it-contains-a-single-compatib,7,0
-5,Access the ImageView is in a Layout Integer in a ViewPager,/questions/66559384/access-the-imageview-is-in-a-layout-integer-in-a-viewpager,7,1
-1,switch case is being evaluated without any input in java,/questions/66559522/switch-case-is-being-evaluated-without-any-input-in-java,7,0
-22,Quartz Job does not interrupt through scheduler.interrupt(jobKey) method,/questions/66558925/quartz-job-does-not-interrupt-through-scheduler-interruptjobkey-method,6,0
-48,How to connect to MongoDB within Quarkus on AWS Lambda?,/questions/66558002/how-to-connect-to-mongodb-within-quarkus-on-aws-lambda,6,0
-17,What is the difference between “Java Build Path” and “Deployment assembly” in Eclipse dynamic web project IDE?,/questions/66559015/what-is-the-difference-between-java-build-path-and-deployment-assembly-in-ec,6,0
-10,Running pitest using ant java.lang.ClassNotFoundException: org.pitest.coverage.execute.CoverageMinion,/questions/66559137/running-pitest-using-ant-java-lang-classnotfoundexception-org-pitest-coverage-e,6,1
-44,getAction() Not Working in 1.16.5 API?(Spigot),/questions/66558050/getaction-not-working-in-1-16-5-apispigot,6,0
-37,Issue setting IntentView.INTENT_VIEW_FULL in intent,/questions/66558228/issue-setting-intentview-intent-view-full-in-intent,6,0
-7,Running a Kotlin github repository from the command line,/questions/66559328/running-a-kotlin-github-repository-from-the-command-line,5,0
-2,PDAnnotationTextMarkup missing when rendering a pdf page to image PDFBox Java,/questions/66559511/pdannotationtextmarkup-missing-when-rendering-a-pdf-page-to-image-pdfbox-java,4,0
-15,Error net.sf.cglib.core.CodeGenerationException: java.lang.reflect.InvocationTargetException-->null,/questions/66559046/error-net-sf-cglib-core-codegenerationexception-java-lang-reflect-invocationtar,4,0
-24,Add event listener to the MotiveWave UI,/questions/66558832/add-event-listener-to-the-motivewave-ui,4,0
-0,Uploading audio using AWS API gateway with authentication header,/questions/66559543/uploading-audio-using-aws-api-gateway-with-authentication-header,3,0
+48,Create ArrayList of arrays using Arrays.asList [duplicate],/questions/66564613/create-arraylist-of-arrays-using-arrays-aslist,45,3
+35,java getting list from other class,/questions/66564889/java-getting-list-from-other-class,29,1
+30,i'm having problem extracting string values through regex,/questions/66564961/im-having-problem-extracting-string-values-through-regex,24,0
+45,How can I save data from JSON Url and pass it in another activity?,/questions/66564642/how-can-i-save-data-from-json-url-and-pass-it-in-another-activity,21,0
+23,How do you make a function that subtracts 2 values but will make value “a” not go beneath 0?,/questions/66565136/how-do-you-make-a-function-that-subtracts-2-values-but-will-make-value-a-not-g,21,-3
+36,How scan all databases in postgreSQL?,/questions/66564880/how-scan-all-databases-in-postgresql,18,0
+22,Implementing CrudeRepository with an interface and Long,/questions/66565137/implementing-cruderepository-with-an-interface-and-long,17,0
+24,how to invoke a method in JSP (Spring MVC),/questions/66565072/how-to-invoke-a-method-in-jsp-spring-mvc,16,0
+13,How to disable whitelabel error page in application.yaml (spring boot),/questions/66565233/how-to-disable-whitelabel-error-page-in-application-yaml-spring-boot,15,0
+26,The purpose of children duplicates prohibition,/questions/66565022/the-purpose-of-children-duplicates-prohibition,15,-1
+42,Jersey 3 - Configuring binding with bindFactory,/questions/66564662/jersey-3-configuring-binding-with-bindfactory,14,1
+41,How To Add Checkboxes To ListView (Each list) in Android Studio,/questions/66564665/how-to-add-checkboxes-to-listview-each-list-in-android-studio,14,0
+8,Index 3 out of bounds for length 0 When trying to set a Student object to a Laboratory Array(java),/questions/66565361/index-3-out-of-bounds-for-length-0-when-trying-to-set-a-student-object-to-a-labo,13,-1
+7,Accessing Instance Variable on Another Method Java,/questions/66565365/accessing-instance-variable-on-another-method-java,12,0
+4,Why do I see unknown source in stack traces when I have sources downloaded?,/questions/66565398/why-do-i-see-unknown-source-in-stack-traces-when-i-have-sources-downloaded,12,0
+47,Accessing Azure Key Vault for local development,/questions/66564623/accessing-azure-key-vault-for-local-development,12,0
+43,Is there a way to use 'user variable' instead of 'system variable' in windows,/questions/66564648/is-there-a-way-to-use-user-variable-instead-of-system-variable-in-windows,11,0
+28,spring framework classreader exception,/questions/66564985/spring-framework-classreader-exception,11,0
+2,Multiple database connection reusing entity mapping,/questions/66565452/multiple-database-connection-reusing-entity-mapping,11,0
+34,scala parallel collection equivalent in python,/questions/66564908/scala-parallel-collection-equivalent-in-python,10,0
+18,How to return enum in the DTO?,/questions/66565191/how-to-return-enum-in-the-dto,10,0
+11,"Adding a whitespace inside a List of strings, java?",/questions/66565339/adding-a-whitespace-inside-a-list-of-strings-java,10,0
+37,How to get tweets from twitter by Selenium Java [closed],/questions/66564849/how-to-get-tweets-from-twitter-by-selenium-java,10,-1
+14,How to run a java project of Stanford Open Information Extraction? [closed],/questions/66565223/how-to-run-a-java-project-of-stanford-open-information-extraction,10,-4
+39,sending and receiving byte array using rest template in service to service call java spring boot,/questions/66564751/sending-and-receiving-byte-array-using-rest-template-in-service-to-service-call,9,0
+3,how to get data from json object inside json array [duplicate],/questions/66565436/how-to-get-data-from-json-object-inside-json-array,9,-5
+49,maven mark running test as ERROR when some tests are skipped,/questions/66564607/maven-mark-running-test-as-error-when-some-tests-are-skipped,9,0
+0,Replace Java with/ or add OpenWebStart on 2012 R2 Windows Server,/questions/66565464/replace-java-with-or-add-openwebstart-on-2012-r2-windows-server,8,-4
+5,how to find files that neve opend before?,/questions/66565385/how-to-find-files-that-neve-opend-before,8,0
+21,Android 9 and above webview scroll is not working like android 8,/questions/66565143/android-9-and-above-webview-scroll-is-not-working-like-android-8,8,0
+19,How can I choose between two jars in a different librarys?,/questions/66565189/how-can-i-choose-between-two-jars-in-a-different-librarys,8,1
+17,Is it possiblet to change Header data dynamically in HTTP header,/questions/66565196/is-it-possiblet-to-change-header-data-dynamically-in-http-header,8,-1
+31,Can't upload mediaRecorder file on firebase storage,/questions/66564913/cant-upload-mediarecorder-file-on-firebase-storage,7,0
+6,How is this injection happening in spring [duplicate],/questions/66565369/how-is-this-injection-happening-in-spring,7,0
+38,Java Return result of JOOQ query,/questions/66564777/java-return-result-of-jooq-query,7,0
+9,How to convert LocalDateTime back to Instant without knowing timezone but with Clock?,/questions/66565352/how-to-convert-localdatetime-back-to-instant-without-knowing-timezone-but-with-c,7,0
+25,"Java Process API waitFor() method returns “1” OR negative integer(inconsistent) value, hangs sometime",/questions/66565058/java-process-api-waitfor-method-returns-1-or-negative-integerinconsistent,6,0
+32,Guice: Inject singleton with constructor with own parameters?,/questions/66564911/guice-inject-singleton-with-constructor-with-own-parameters,6,0
+44,Navigation bottom menu with submenu,/questions/66564645/navigation-bottom-menu-with-submenu,5,0
+46,"My modded code isn't appearing,MC-1.12.2 forge 14.23.5.2847",/questions/66564630/my-modded-code-isnt-appearing-mc-1-12-2-forge-14-23-5-2847,5,-1
+27,How to add libgdx google play service? Step by step please,/questions/66565008/how-to-add-libgdx-google-play-service-step-by-step-please,5,-1
+40,Get ICC Profile information from Adobe Experience Manager asset,/questions/66564729/get-icc-profile-information-from-adobe-experience-manager-asset,5,0
+20,How to join OneToMany in Spring boot JPA with a complex Where condition?,/questions/66565176/how-to-join-onetomany-in-spring-boot-jpa-with-a-complex-where-condition,5,0
+16,Install Failed Missing Shared Library,/questions/66565197/install-failed-missing-shared-library,5,0
+15,Spring Boot: Use Views from a MySQL database,/questions/66565198/spring-boot-use-views-from-a-mysql-database,4,0
+12,Rawquery to some tables always returns empty cursor,/questions/66565307/rawquery-to-some-tables-always-returns-empty-cursor,4,0
+29,Where can I add javax.media.jai Jar package in Java?,/questions/66564983/where-can-i-add-javax-media-jai-jar-package-in-java,4,0
+33,"After parsing a valid expression, there is still more data in the expression:@Value annotation",/questions/66564909/after-parsing-a-valid-expression-there-is-still-more-data-in-the-expressionva,4,0
+1,search by maximum value in MongoDB,/questions/66565459/search-by-maximum-value-in-mongodb,4,0
+10,Java Multiplication Table Formatting,/questions/66565349/java-multiplication-table-formatting,3,0

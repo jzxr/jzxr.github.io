@@ -25,6 +25,7 @@ import re
 import datetime
 from datetime import timedelta
 import schedule
+import os
 
 
 
@@ -89,7 +90,7 @@ class crawledreddit(crawleddata):
     def getsentiment(self):
         self.df['Sentiment'] = self.df['Body'].apply(lambda x: TextBlob(x).sentiment.polarity)
         self.df['Review'] = np.where(self.df['Sentiment']>=0, "Good","Bad")
-        self.df['Nuetral'] = np.where(self.df['Sentiment']==0, "Nuetral","Not Nuetral")
+        self.df['Neutral'] = np.where(self.df['Sentiment']==0, "Neutral","Not Neutral")
         return self.df
     
     def cleandata(self):
@@ -104,7 +105,9 @@ class crawledreddit(crawleddata):
 
     
     def saveCV(self):
-        self.df.to_csv("reddit-" + self.topic + ".csv")
+        if not os.path.exists('reddit'):
+            os.makedirs('reddit')
+        self.df.to_csv("reddit/reddit-" + self.topic + ".csv")
 
 
 #stack overflow subclass
@@ -132,7 +135,9 @@ class stack(crawleddata):
         return self.df
                             
     def saveCV(self):
-        self.df.to_csv("stackoverflow-" + self.topic + ".csv")
+        if not os.path.exists('stackoverflow'):
+            os.makedirs('stackoverflow')
+        self.df.to_csv("stackoverflow/stackoverflow-" + self.topic + ".csv")
 
 #github subclass
 class crawledgithub(crawleddata):
@@ -166,11 +171,11 @@ class crawledgithub(crawleddata):
                     repository_other_languages = {}
 
                     self.df = self.df.append({'Repository Name': repository_name,
-                                 'Repository Description': repository_description,
-                                 'Repository Stars': repository_stars,
-                                     'Repository Programming Language': repository_programming_language,
-                                     'Repository Other Language': repository_other_languages,
-                                     'Repository URL': repository_url}, ignore_index=True)
+                                 'Description': repository_description,
+                                 'Stars': repository_stars,
+                                     'Programming Language': repository_programming_language,
+                                     'Other Language': repository_other_languages,
+                                     'URL': repository_url}, ignore_index=True)
 
                     #Calculation for the percentage of all the languages present in the repository
                     count_value = sum([value for value in programming_language_response.values()])
@@ -180,7 +185,9 @@ class crawledgithub(crawleddata):
         return self.df
 
     def saveCV(self):
-        self.df.to_csv("github-" + self.topic + ".csv")
+        if not os.path.exists('github'):
+            os.makedirs('github')
+        self.df.to_csv("github/github-" + self.topic + ".csv")
 
 #crawl Twitter
 
@@ -263,12 +270,18 @@ class crawledtwitter(crawleddata):
         return self.df
 
     def saveCV(self, name):
+        if not os.path.exists('twitter'):
+            os.makedirs('twitter')
         if name == "r":
+            if not os.path.exists('twitter/recentpost'):
+                os.makedirs('twitter/recentpost')
             fname = "_".join(re.findall(r"#(\w+)",self.topic))
-            self.df.to_csv("twitter_recent_" + fname+".csv")
+            self.df.to_csv("twitter/recentpost/twitter_recent_" + fname+".csv")
         else:
+            if not os.path.exists('twitter/toppost'):
+                os.makedirs('twitter/toppost')
             fname = "_".join(re.findall(r"#(\w+)",self.topic))
-            self.df.to_csv("twitter_top_" + fname+".csv")
+            self.df.to_csv("twitter/toppost/twitter_top_" + fname+".csv")
     
 
 #creating dfs and initializing
@@ -321,6 +334,7 @@ def runtask():
         "#100DaysOfCode",
         "#DEVCommunity",
     ]
+    
     
     #for recent tweets
     for i in trends:

@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-27,What is the problem in this HTML5+CSS+JavaScript Code?,/questions/66559038/what-is-the-problem-in-this-html5cssjavascript-code,48,0
-12,What's the most efficient way to compare 2 elements in javascript?,/questions/66559273/whats-the-most-efficient-way-to-compare-2-elements-in-javascript,35,0
-35,How to print the variable name it self in javascript console [duplicate],/questions/66558961/how-to-print-the-variable-name-it-self-in-javascript-console,29,0
-40,how do comparison operators work in javascript?,/questions/66558878/how-do-comparison-operators-work-in-javascript,27,-2
-23,JSON Object not being deserialized properly by Spring Boot,/questions/66559122/json-object-not-being-deserialized-properly-by-spring-boot,27,1
-17,Take an array of card objects and return the count (weighted value) of the cards,/questions/66559204/take-an-array-of-card-objects-and-return-the-count-weighted-value-of-the-cards,27,2
-32,How can I persist or save states in reactjs?,/questions/66558979/how-can-i-persist-or-save-states-in-reactjs,25,-1
-26,How did my JavaScript code get an undefined result?,/questions/66559049/how-did-my-javascript-code-get-an-undefined-result,24,0
-16,Recursive Function in Javascript showing NaN,/questions/66559205/recursive-function-in-javascript-showing-nan,24,-1
-20,How to complete remove div?,/questions/66559154/how-to-complete-remove-div,23,0
-8,Dynamically add new array to existing object array React JS,/questions/66559425/dynamically-add-new-array-to-existing-object-array-react-js,23,0
-33,How to add text on border with css for input field using React JS?,/questions/66558977/how-to-add-text-on-border-with-css-for-input-field-using-react-js,21,0
-21,How to put list of names in Select option in html from php data?,/questions/66559153/how-to-put-list-of-names-in-select-option-in-html-from-php-data,20,0
-24,"What is the best way to learn JavaScript , jquery and ajax?",/questions/66559092/what-is-the-best-way-to-learn-javascript-jquery-and-ajax,19,0
-4,Enable/Disable button with vueJs,/questions/66559478/enable-disable-button-with-vuejs,19,0
-19,Convert two lists into a dictionary of X and Y Format,/questions/66559170/convert-two-lists-into-a-dictionary-of-x-and-y-format,19,0
-28,Error Message : illegal character JavsScript,/questions/66559035/error-message-illegal-character-javsscript,18,0
-13,Why do I get an error while trying to install axios? [duplicate],/questions/66559260/why-do-i-get-an-error-while-trying-to-install-axios,18,0
-47,Nested Array Tree Node JS,/questions/66558842/nested-array-tree-node-js,18,1
-22,How to separate individual object from nested tree structure,/questions/66559139/how-to-separate-individual-object-from-nested-tree-structure,17,0
-39,Render Variable Styled Component From Context,/questions/66558882/render-variable-styled-component-from-context,16,0
-49,Curve border using clip path in css,/questions/66558803/curve-border-using-clip-path-in-css,16,1
-10,jquery validation disabled button until input is valid,/questions/66559346/jquery-validation-disabled-button-until-input-is-valid,15,0
-45,How can an array buffer be populated with binary data to test it in JavaScript?,/questions/66558860/how-can-an-array-buffer-be-populated-with-binary-data-to-test-it-in-javascript,15,-1
-29,"Javascript relaying to HTML min, max, sum of an array, functions work fine individually but after one goes the rest return undefined or 0",/questions/66559007/javascript-relaying-to-html-min-max-sum-of-an-array-functions-work-fine-indiv,13,1
-38,Keep getting Access to XMLHttpRequest at '(api url)' from origin '(localserver)' has been blocked by CORS policy,/questions/66558895/keep-getting-access-to-xmlhttprequest-at-api-url-from-origin-localserver,13,1
-31,How to find out all possible amount of chances of fill a row that none of them touch one another?,/questions/66559002/how-to-find-out-all-possible-amount-of-chances-of-fill-a-row-that-none-of-them-t,13,2
-18,Issue with password managers in angular app,/questions/66559201/issue-with-password-managers-in-angular-app,13,0
-3,chrome extension popup.html change content,/questions/66559486/chrome-extension-popup-html-change-content,12,-1
-48,Scrolling the list Issues in Reactjs,/questions/66558804/scrolling-the-list-issues-in-reactjs,12,0
-5,Folder download without zipping,/questions/66559460/folder-download-without-zipping,12,0
-2,How to return data from function in react-native,/questions/66559531/how-to-return-data-from-function-in-react-native,11,0
-7,Pick date in jquery calendar with cypress,/questions/66559436/pick-date-in-jquery-calendar-with-cypress,10,2
-44,Local Storage Not Working When Applying Dark Mode,/questions/66558862/local-storage-not-working-when-applying-dark-mode,10,0
-43,mirror <details> and checkbox state across iframe,/questions/66558870/mirror-details-and-checkbox-state-across-iframe,9,1
-14,Google App Script to clear a cell if the same with a cell in a same row,/questions/66559245/google-app-script-to-clear-a-cell-if-the-same-with-a-cell-in-a-same-row,9,0
-9,Wordpress HTML custom tag not working when I click “post”,/questions/66559347/wordpress-html-custom-tag-not-working-when-i-click-post,9,0
-42,Simulate drag and drop without knowing involving elements,/questions/66558871/simulate-drag-and-drop-without-knowing-involving-elements,8,-1
-30,AJAX data array json to php,/questions/66559006/ajax-data-array-json-to-php,8,0
-11,How can I get TypeScript-aware autocomplete working with JavaScript files and a `@types` package?,/questions/66559326/how-can-i-get-typescript-aware-autocomplete-working-with-javascript-files-and-a,8,0
-41,How to search for partial match using index in fauna db,/questions/66558875/how-to-search-for-partial-match-using-index-in-fauna-db,8,1
-46,How to use x scale for horizontally positioning the rectangle for timestamp,/questions/66558856/how-to-use-x-scale-for-horizontally-positioning-the-rectangle-for-timestamp,7,0
-25,What needs to be assigned to a lookup field when using createRecord in salesforce lwc js?,/questions/66559050/what-needs-to-be-assigned-to-a-lookup-field-when-using-createrecord-in-salesforc,7,0
-36,merge UI or m Table cells and display chart in merged cell,/questions/66558924/merge-ui-or-m-table-cells-and-display-chart-in-merged-cell,7,-3
-34,How can I create a FileList object as if it were returned by <input type=“file”> [duplicate],/questions/66558969/how-can-i-create-a-filelist-object-as-if-it-were-returned-by-input-type-file,7,0
-1,how to show the user input values in modal popup using javascript,/questions/66559572/how-to-show-the-user-input-values-in-modal-popup-using-javascript,7,0
-15,Refer to any unspecific body in matter.js,/questions/66559241/refer-to-any-unspecific-body-in-matter-js,7,0
-6,Created function for highchart is not taking values and showing properly,/questions/66559454/created-function-for-highchart-is-not-taking-values-and-showing-properly,7,0
-37,firebase__WEBPACK_IMPORTED_MODULE_2___default error firebase and react,/questions/66558921/firebase-webpack-imported-module-2-default-error-firebase-and-react,4,1
-0,Codeigniter 4 Ajax return 303 when update data,/questions/66559582/codeigniter-4-ajax-return-303-when-update-data,2,0
+23,Displaying messages from an object,/questions/66564928/displaying-messages-from-an-object,43,2
+30,hide/show div using id property with index in javascript,/questions/66564794/hide-show-div-using-id-property-with-index-in-javascript,34,0
+17,How to create this shape using css and html? [closed],/questions/66565015/how-to-create-this-shape-using-css-and-html,28,-4
+16,There is a localStorage with arbitrary duration? [duplicate],/questions/66565035/there-is-a-localstorage-with-arbitrary-duration,26,-3
+32,Remove duplicate json from Array no work without using new Set? JS,/questions/66564714/remove-duplicate-json-from-array-no-work-without-using-new-set-js,26,-1
+19,Recursively replace all occurances of large JSON keys having - to _ character,/questions/66564971/recursively-replace-all-occurances-of-large-json-keys-having-to-character,26,1
+29,ASP.NET Core MVC controller receives null for input parameter from ajax call,/questions/66564866/asp-net-core-mvc-controller-receives-null-for-input-parameter-from-ajax-call,23,2
+12,is there way to customize timestamp in AJAX,/questions/66565157/is-there-way-to-customize-timestamp-in-ajax,23,1
+39,Email verification with nodejs,/questions/66564568/email-verification-with-nodejs,21,0
+37,Why is my React countdown timer component is flashing NaN with correct rendering of time,/questions/66564615/why-is-my-react-countdown-timer-component-is-flashing-nan-with-correct-rendering,19,0
+43,Dynamically writing data into nested objects in JavaScript,/questions/66564488/dynamically-writing-data-into-nested-objects-in-javascript,19,2
+11,Refresh Datas after each second in js (async functions),/questions/66565209/refresh-datas-after-each-second-in-js-async-functions,19,0
+44,How to use my global variable outside function after button click [closed],/questions/66564474/how-to-use-my-global-variable-outside-function-after-button-click,18,-3
+3,How to group an array from given array of objects,/questions/66565426/how-to-group-an-array-from-given-array-of-objects,17,0
+33,Alreay decleard and defined present still getting error “TypeError: Cannot read property 'present' of undefined”,/questions/66564672/alreay-decleard-and-defined-present-still-getting-error-typeerror-cannot-read,16,-1
+34,Multiple inputs into blocks and validate phone numbers,/questions/66564649/multiple-inputs-into-blocks-and-validate-phone-numbers,16,0
+46,how to count an array object in a mongdb schema in nodejs?,/questions/66564404/how-to-count-an-array-object-in-a-mongdb-schema-in-nodejs,15,1
+36,Why does __proto__ not update when prototype is set to null [duplicate],/questions/66564627/why-does-proto-not-update-when-prototype-is-set-to-null,14,0
+13,How to maintain scrollPosition of a div after it's children's style changes,/questions/66565153/how-to-maintain-scrollposition-of-a-div-after-its-childrens-style-changes,14,1
+31,Create interaction between charts and tables using javascript/d3.js in a flexdashboard,/questions/66564769/create-interaction-between-charts-and-tables-using-javascript-d3-js-in-a-flexdas,14,0
+45,Chrome: Automatically run 'debugger' command when click on inspect element,/questions/66564406/chrome-automatically-run-debugger-command-when-click-on-inspect-element,14,0
+24,How to solve problem with boostrap navigation bar?,/questions/66564892/how-to-solve-problem-with-boostrap-navigation-bar,13,1
+35,In Apple Safari 14.0.3 Javascript will not set cookie expiry more than one week in future,/questions/66564639/in-apple-safari-14-0-3-javascript-will-not-set-cookie-expiry-more-than-one-week,13,-1
+28,'Read more' affecting more than one box - how to change it? (jQuery/JS/CSS),/questions/66564869/read-more-affecting-more-than-one-box-how-to-change-it-jquery-js-css,12,0
+6,Copy Column name and number in table1 to table2,/questions/66565315/copy-column-name-and-number-in-table1-to-table2,11,0
+18,Cannot use import statement outside a module error on imported file,/questions/66565001/cannot-use-import-statement-outside-a-module-error-on-imported-file,10,1
+2,How to make image responsive in navbar html + css,/questions/66565451/how-to-make-image-responsive-in-navbar-html-css,10,0
+5,How to avoid overwrite frame styles?,/questions/66565371/how-to-avoid-overwrite-frame-styles,9,0
+49,Slide Js incorrect on mobile,/questions/66564353/slide-js-incorrect-on-mobile,9,0
+27,How to solve cross origin error in iframe? [duplicate],/questions/66564875/how-to-solve-cross-origin-error-in-iframe,9,-2
+26,Auto deselect the “first selected item” after selecting two items in Material UI,/questions/66564887/auto-deselect-the-first-selected-item-after-selecting-two-items-in-material-ui,9,0
+8,how to make show and hide paragraph using checkbox,/questions/66565305/how-to-make-show-and-hide-paragraph-using-checkbox,9,0
+21,Unable to connect to printer using node js,/questions/66564935/unable-to-connect-to-printer-using-node-js,9,0
+14,How to restrict unauthorised access to html page on firebase hosted site,/questions/66565128/how-to-restrict-unauthorised-access-to-html-page-on-firebase-hosted-site,9,0
+42,"I'm displaying a Shortcode within a Woocommerce alert, the problem is it sets the href to ' Void(0 ' when clicked, how do I stop this?",/questions/66564512/im-displaying-a-shortcode-within-a-woocommerce-alert-the-problem-is-it-sets-th,8,0
+25,Is there any way to use nested HOC component in react-router-dom?,/questions/66564891/is-there-any-way-to-use-nested-hoc-component-in-react-router-dom,8,0
+10,Outlook web add in with msal 1.x loginRedirect - no longer working with latest iOS,/questions/66565236/outlook-web-add-in-with-msal-1-x-loginredirect-no-longer-working-with-latest-i,8,0
+9,Stripe : Non-inr currency payment failing for india issued cards,/questions/66565266/stripe-non-inr-currency-payment-failing-for-india-issued-cards,8,0
+41,Sending data from browser to Ethernet shield,/questions/66564533/sending-data-from-browser-to-ethernet-shield,7,0
+47,Sequelize querying both parent model and included model using [Op.or],/questions/66564391/sequelize-querying-both-parent-model-and-included-model-using-op-or,7,0
+22,Jest change mock implementation for a POJO module between tests,/questions/66564931/jest-change-mock-implementation-for-a-pojo-module-between-tests,6,0
+7,how can i flip image in react-native?,/questions/66565309/how-can-i-flip-image-in-react-native,6,0
+38,How to get data from firebase and display on my google gauge chart,/questions/66564589/how-to-get-data-from-firebase-and-display-on-my-google-gauge-chart,5,0
+15,Provide file without hash in Strapi,/questions/66565045/provide-file-without-hash-in-strapi,5,0
+48,"Chrome app storage settings itself works, but in another script returned value is undefined",/questions/66564371/chrome-app-storage-settings-itself-works-but-in-another-script-returned-value-i,5,0
+20,Heroku application file upload - file is deleted after some time?,/questions/66564970/heroku-application-file-upload-file-is-deleted-after-some-time,4,0
+4,Mongodb Merging/Joining Nested Objects,/questions/66565374/mongodb-merging-joining-nested-objects,4,0
+0,Is it possible to write data in JSON file without AJAX or backend?,/questions/66565490/is-it-possible-to-write-data-in-json-file-without-ajax-or-backend,4,1
+1,sort array of arrays in specific order using lodash,/questions/66565480/sort-array-of-arrays-in-specific-order-using-lodash,3,0
+40,How to call module after browserify (nodejs and erexpress js) on html,/questions/66564535/how-to-call-module-after-browserify-nodejs-and-erexpress-js-on-html,3,0

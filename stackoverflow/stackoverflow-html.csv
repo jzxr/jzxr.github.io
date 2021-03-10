@@ -1,51 +1,51 @@
 ,Title,URL,Views,Votes
-15,What is the problem in this HTML5+CSS+JavaScript Code?,/questions/66559038/what-is-the-problem-in-this-html5cssjavascript-code,48,0
-39,How do I move this footer to the bottom?,/questions/66558031/how-do-i-move-this-footer-to-the-bottom,46,2
-48,How can I update input value without refreshing the page,/questions/66557584/how-can-i-update-input-value-without-refreshing-the-page,42,0
-45,"How to make the dropdown options alphabetical using html, vue, js",/questions/66557725/how-to-make-the-dropdown-options-alphabetical-using-html-vue-js,37,0
-37,.btn btn-primary * { visibility: hidden; } is not working,/questions/66558127/btn-btn-primary-visibility-hidden-is-not-working,32,1
-34,Updating roulette wheel items via javascript function,/questions/66558269/updating-roulette-wheel-items-via-javascript-function,32,0
-30,not able to add data to the mysql database in html php website,/questions/66558550/not-able-to-add-data-to-the-mysql-database-in-html-php-website,29,0
-49,"Captcha doesn't work, why is this happening?",/questions/66557460/captcha-doesnt-work-why-is-this-happening,27,0
-12,JSON Object not being deserialized properly by Spring Boot,/questions/66559122/json-object-not-being-deserialized-properly-by-spring-boot,27,1
-25,CSS flexBox won't position to bottom,/questions/66558850/css-flexbox-wont-position-to-bottom,26,2
-42,How to solve this Error when trying to make details.blade.php page dynamic (laravel 8) “ ErrorException Trying to get property 'image' of non-object ”,/questions/66557908/how-to-solve-this-error-when-trying-to-make-details-blade-php-page-dynamic-lara,24,1
-9,How to complete remove div?,/questions/66559154/how-to-complete-remove-div,23,0
-35,jsPDF How to set images to fit with various page size (height & width) to a single PDF file,/questions/66558187/jspdf-how-to-set-images-to-fit-with-various-page-size-height-width-to-a-sing,22,1
-38,Isolating topbar css style from sidebar css style code,/questions/66558040/isolating-topbar-css-style-from-sidebar-css-style-code,21,3
-10,How to put list of names in Select option in html from php data?,/questions/66559153/how-to-put-list-of-names-in-select-option-in-html-from-php-data,20,0
-28,HTML table scollbar issue inside the div container,/questions/66558763/html-table-scollbar-issue-inside-the-div-container,20,0
-36,How to print a variable containing html content as string? [duplicate],/questions/66558141/how-to-print-a-variable-containing-html-content-as-string,20,0
-7,CSS file not loading into html?,/questions/66559187/css-file-not-loading-into-html,19,-1
-2,HTML Tag for the below format,/questions/66559440/html-tag-for-the-below-format,18,0
-11,This API key is not authorized to use this service or API in laravel,/questions/66559124/this-api-key-is-not-authorized-to-use-this-service-or-api-in-laravel,18,0
-16,Error Message : illegal character JavsScript,/questions/66559035/error-message-illegal-character-javsscript,18,0
-44,Handling checkbox using Python script,/questions/66557801/handling-checkbox-using-python-script,17,0
-40,Is there any way to pass string “objectA.objectB.objectC” into java so it can access the property of objectA?,/questions/66558028/is-there-any-way-to-pass-string-objecta-objectb-objectc-into-java-so-it-can-ac,17,-1
-29,Circular progress bar with a small circle at the end of the outer stroke,/questions/66558709/circular-progress-bar-with-a-small-circle-at-the-end-of-the-outer-stroke,17,0
-21,Full page is not printing using window.print in HTML/JS page?,/questions/66558949/full-page-is-not-printing-using-window-print-in-html-js-page,16,0
-43,Socket.io upload/broadcast image to chat not working,/questions/66557856/socket-io-upload-broadcast-image-to-chat-not-working,16,1
-26,Curve border using clip path in css,/questions/66558803/curve-border-using-clip-path-in-css,16,1
-5,jquery validation disabled button until input is valid,/questions/66559346/jquery-validation-disabled-button-until-input-is-valid,15,0
-20,How to add a html file into another html file using node.js,/questions/66558999/how-to-add-a-html-file-into-another-html-file-using-node-js,14,0
-33,how to create ticket ID (combine string and increment Integer) in Flask Python,/questions/66558309/how-to-create-ticket-id-combine-string-and-increment-integer-in-flask-python,14,0
-32,Twitter Bootstrap video is floating over the Main,/questions/66558352/twitter-bootstrap-video-is-floating-over-the-main,13,1
-19,"Javascript relaying to HTML min, max, sum of an array, functions work fine individually but after one goes the rest return undefined or 0",/questions/66559007/javascript-relaying-to-html-min-max-sum-of-an-array-functions-work-fine-indiv,13,1
-41,My Carousel is not working on my PHP but works on HTML,/questions/66557999/my-carousel-is-not-working-on-my-php-but-works-on-html,13,0
-14,Excel VBA trouble filling in web textbox,/questions/66559078/excel-vba-trouble-filling-in-web-textbox,12,1
-46,Specified font not being used in Firefox on macOS,/questions/66557687/specified-font-not-being-used-in-firefox-on-macos,12,0
-31,about the html select element blur event in android,/questions/66558505/about-the-html-select-element-blur-event-in-android,12,1
-1,Folder download without zipping,/questions/66559460/folder-download-without-zipping,12,0
-27,how to make cross icon show after file is upload [closed],/questions/66558800/how-to-make-cross-icon-show-after-file-is-upload,11,-3
-13,How to align ngx-bootstrap date picker to top left or bottom left,/questions/66559083/how-to-align-ngx-bootstrap-date-picker-to-top-left-or-bottom-left,11,0
-47,How do I create a navigation bar with buttons and text?,/questions/66557607/how-do-i-create-a-navigation-bar-with-buttons-and-text,10,-2
-8,Shortcode wordpress only shows content for specific user IDs,/questions/66559182/shortcode-wordpress-only-shows-content-for-specific-user-ids,10,0
-24,Local Storage Not Working When Applying Dark Mode,/questions/66558862/local-storage-not-working-when-applying-dark-mode,10,0
-22,Javascript code is taking only value of first row,/questions/66558941/javascript-code-is-taking-only-value-of-first-row,10,0
-17,Sharing web application response to the social media accounts using angular,/questions/66559034/sharing-web-application-response-to-the-social-media-accounts-using-angular,9,0
-4,Wordpress HTML custom tag not working when I click “post”,/questions/66559347/wordpress-html-custom-tag-not-working-when-i-click-post,9,0
-23,mirror <details> and checkbox state across iframe,/questions/66558870/mirror-details-and-checkbox-state-across-iframe,9,1
-18,Is web application development more difficult than video game development?,/questions/66559027/is-web-application-development-more-difficult-than-video-game-development,9,0
-0,how to show the user input values in modal popup using javascript,/questions/66559572/how-to-show-the-user-input-values-in-modal-popup-using-javascript,7,0
-3,Cannot run SASS file in VS Code,/questions/66559366/cannot-run-sass-file-in-vs-code,4,0
-6,How do we add the 'Inclusive of all taxes' label after the original price of the product on the product page in magento2?,/questions/66559277/how-do-we-add-the-inclusive-of-all-taxes-label-after-the-original-price-of-the,4,0
+16,Displaying messages from an object,/questions/66564928/displaying-messages-from-an-object,43,2
+43,how can we show and hide tab using checkbox,/questions/66563601/how-can-we-show-and-hide-tab-using-checkbox,42,0
+22,hide/show div using id property with index in javascript,/questions/66564794/hide-show-div-using-id-property-with-index-in-javascript,34,0
+49,How is it possible to change the font-size of the last 2 characters in an input field on an HTML site?,/questions/66563376/how-is-it-possible-to-change-the-font-size-of-the-last-2-characters-in-an-input,32,1
+30,Wrong validation on element <br> in <ul> <li> elements,/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements,31,-1
+47,Onclick not working on dynamic rendering html,/questions/66563439/onclick-not-working-on-dynamic-rendering-html,30,0
+34,How to make overlay that covers certain part of the page?,/questions/66564263/how-to-make-overlay-that-covers-certain-part-of-the-page,30,1
+13,How to create this shape using css and html? [closed],/questions/66565015/how-to-create-this-shape-using-css-and-html,28,-4
+15,How to position this <ul> under <h4>?,/questions/66564996/how-to-position-this-ul-under-h4,26,0
+28,Scapping data - attributes from a web page,/questions/66564598/scapping-data-attributes-from-a-web-page,23,0
+37,getting issue in text not in proper line,/questions/66563898/getting-issue-in-text-not-in-proper-line,23,0
+44,Type 'FormGroup | null' is not assignable to type 'FormGroup'. Type 'null' is not assignable to type 'FormGroup'. Angular 11,/questions/66563535/type-formgroup-null-is-not-assignable-to-type-formgroup-type-null-is-no,21,0
+11,How to fill remaining height of container using flexbox? [duplicate],/questions/66565024/how-to-fill-remaining-height-of-container-using-flexbox,20,1
+40,One input into multiple with border (phone numbers) frontend [closed],/questions/66563733/one-input-into-multiple-with-border-phone-numbers-frontend,19,-3
+38,Covert htmlspecial character to simple html or text? PHP [duplicate],/questions/66563870/covert-htmlspecial-character-to-simple-html-or-text-php,18,-3
+31,How to use my global variable outside function after button click [closed],/questions/66564474/how-to-use-my-global-variable-outside-function-after-button-click,18,-3
+39,Complete amateur at CSS and coding [closed],/questions/66563808/complete-amateur-at-css-and-coding,18,-3
+48,How to make padding-left match margin: auto of other element,/questions/66563381/how-to-make-padding-left-match-margin-auto-of-other-element,17,1
+45,Previous question button in JavaScript and saving users answers,/questions/66563524/previous-question-button-in-javascript-and-saving-users-answers,17,0
+24,How do I correct the error Field 'msg' doesn't have a default value,/questions/66564667/how-do-i-correct-the-error-field-msg-doesnt-have-a-default-value,16,-1
+26,Multiple inputs into blocks and validate phone numbers,/questions/66564649/multiple-inputs-into-blocks-and-validate-phone-numbers,16,0
+9,How to maintain scrollPosition of a div after it's children's style changes,/questions/66565153/how-to-maintain-scrollposition-of-a-div-after-its-childrens-style-changes,14,1
+19,How to solve problem with boostrap navigation bar?,/questions/66564892/how-to-solve-problem-with-boostrap-navigation-bar,13,1
+41,Bootstrap navbars form,/questions/66563692/bootstrap-navbars-form,12,1
+21,'Read more' affecting more than one box - how to change it? (jQuery/JS/CSS),/questions/66564869/read-more-affecting-more-than-one-box-how-to-change-it-jquery-js-css,12,0
+42,Flask - When a button is pressed how to save the current time,/questions/66563644/flask-when-a-button-is-pressed-how-to-save-the-current-time,12,0
+10,how can I pass my dropdown value to CodeIgniter controller?,/questions/66565048/how-can-i-pass-my-dropdown-value-to-codeigniter-controller,11,1
+27,How do iI convert md files to HTML and render them in Django,/questions/66564606/how-do-ii-convert-md-files-to-html-and-render-them-in-django,11,0
+46,Need to split phone numbers (USA) into blocks [duplicate],/questions/66563515/need-to-split-phone-numbers-usa-into-blocks,11,0
+6,"Can I edit a html file directly on Github (on my browser, not desktop)?",/questions/66565318/can-i-edit-a-html-file-directly-on-github-on-my-browser-not-desktop,11,-2
+7,Copy Column name and number in table1 to table2,/questions/66565315/copy-column-name-and-number-in-table1-to-table2,11,0
+23,Selecting open accordion element,/questions/66564771/selecting-open-accordion-element,10,-1
+1,How to make image responsive in navbar html + css,/questions/66565451/how-to-make-image-responsive-in-navbar-html-css,10,0
+14,Excel:VBA: How to make script dynamic?,/questions/66565014/excelvba-how-to-make-script-dynamic,10,0
+0,Make text inside textarea not break to next line,/questions/66565468/make-text-inside-textarea-not-break-to-next-line,9,0
+33,Slide Js incorrect on mobile,/questions/66564353/slide-js-incorrect-on-mobile,9,0
+20,How to solve cross origin error in iframe? [duplicate],/questions/66564875/how-to-solve-cross-origin-error-in-iframe,9,-2
+17,How do I get my video source in HTML to be a .m3u8 file from my hard drive? (for streaming),/questions/66564923/how-do-i-get-my-video-source-in-html-to-be-a-m3u8-file-from-my-hard-drive-for,9,0
+8,how to make show and hide paragraph using checkbox,/questions/66565305/how-to-make-show-and-hide-paragraph-using-checkbox,9,0
+4,How to avoid overwrite frame styles?,/questions/66565371/how-to-avoid-overwrite-frame-styles,9,0
+2,Custom scroll bar CSS,/questions/66565409/custom-scroll-bar-css,9,0
+36,Bootstrap tab-pane element doesn't fill bootstrap row container - Angular 9 - Bootstrap,/questions/66564057/bootstrap-tab-pane-element-doesnt-fill-bootstrap-row-container-angular-9-bo,8,0
+18,Why is this not producing the same size despite setting the grid template to equal,/questions/66564895/why-is-this-not-producing-the-same-size-despite-setting-the-grid-template-to-equ,8,0
+35,Is there a way to open a terminal window from a CGI web interface?,/questions/66564117/is-there-a-way-to-open-a-terminal-window-from-a-cgi-web-interface,6,0
+32,Google analytics to laravel page,/questions/66564467/google-analytics-to-laravel-page,6,0
+5,Jekyll: div class not in CSS,/questions/66565324/jekyll-div-class-not-in-css,6,0
+29,Beautiful Soup 4: extracting text only from a tag containing children tags,/questions/66564573/beautiful-soup-4-extracting-text-only-from-a-tag-containing-children-tags,5,0
+3,is there a way to save this PDF programmatically?,/questions/66565383/is-there-a-way-to-save-this-pdf-programmatically,5,0
+12,Ajout d'un nouvel onglet dans Odoo 11,/questions/66565021/ajout-dun-nouvel-onglet-dans-odoo-11,4,0
+25,Invalid Left Position OnDrop Media Player Progress Bar Element,/questions/66564657/invalid-left-position-ondrop-media-player-progress-bar-element,4,0
