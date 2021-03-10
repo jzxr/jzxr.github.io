@@ -289,7 +289,7 @@ class crawledtwitter(crawleddata):
 def runtask():
     df = pd.DataFrame(columns=['Title','Score','ID','URL','Comms_num','Created','Body'])
     df1 = pd.DataFrame(columns=['Title','URL','Views','Votes'])
-    df3 = pd.DataFrame(columns=['Repository Name', 'Repository Description', 'Repository Stars','Repository Programming Language', 'Repository Other Language', 'Repository URL'])
+    df3 = pd.DataFrame(columns=['Repository Name', 'Description', 'Stars','Programming Language', 'Other Language', 'URL'])
     df4 = pd.DataFrame(columns=['Tweet Content','User Name','HashTags','Retweet Count','Favourite Count','URL'])
     df5 = pd.DataFrame(columns=['Tweet Content','User Name','HashTags','Retweet Count','Favourite Count','URL','CreatedAt'])
     
