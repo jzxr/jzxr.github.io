@@ -52,24 +52,45 @@
     font-weight: normal;
     font-style: normal;
 }
-
     
 body { 
-  font: 18px/1.3em 'ColaborateThinRegular', sans-serif;
+  font: 18px/1.3em 'Open Sans', sans-serif;
 }
 
 h1 {
-  font: 32px/1em 'GibsonBold', serif;
+  font: 32px/1em 'Open Sans', serif;
   text-transform: uppercase;
   color: #827E7E;
 }
 
 h2 {
-  font: 22px/1em 'GibsonBold', serif;
+  font: 22px/1em 'Open Sans', serif;
   text-transform: uppercase;
   color: #827E7E;
 }
 
+h6 {
+  font: 16px/1em 'Open Sans', serif;
+  text-transform: uppercase;
+  color: #827E7E;
+}
+.float-container {
+  border: 3px solid #fff;
+  padding: 20px;
+}
+
+.float-left {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  border: 2px solid rgb(255, 255, 255);
+}  
+.float-right {
+  width: 50%;
+  float: right;
+  padding: 20px;
+  border: 2px solid rgb(255, 255, 255);
+}  
 #logo {
   margin-top: 20px;
 }

@@ -24,11 +24,10 @@
   <link rel="apple-touch-icon" href="apple-touch-icon.png">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-  <link rel="stylesheet" href="css/fontAwesome.css">
-  <link rel="stylesheet" href="css/light-box.css">
-  <link rel="stylesheet" href="css/owl-carousel.css">
-  <link rel="stylesheet" href="css/template-style.css">
   <link href="css/dataTables.bootstrap.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="scss/paper-dashboard/_tables.scss">
+  <link rel="stylesheet" href="scss/paper-dashboard/_images.scss">
 
 </head>
 
@@ -56,6 +55,7 @@
               <p>Table List</p>
             </a>
           </li>
+          
         </ul>
       </div>
     </div>
@@ -429,19 +429,84 @@
                 <div class="row">
                   <div class="col-lg-10">
                     <div class="table-responsive ">
-                      <h2>Data Analytics</h2>
-                      <div class="split left">
-                        <div class="centered">
+                      <div class="float-container">
+                        <h2>Data Analytics</h2>
+                        <div class="float-left">
                           <h3>Reddit</h3>
-                          <p>Some text.</p>
+                          <h5>Description</h5>
+                          <p>The pie chart shows the percentage of the amount of post for each programming
+                            <br />language on reddit for year 2020 to 2021 as a whole.
+                          </p>
+                          <h5>Insights</h5>
+                          <p>Topic with the highest amount of vote: Python, R Programming, C#</p>
+                          <p> <em>Note: Insights are subjected to changes when there's an update of the crawler.</em></p>
+                          <br />
                           <img src="reddit/reddit_prglanguage.png" alt="The trend of programming languages">
+                          <p>Updated on: 14 March 2021</p>
                         </div>
-                      </div>
-                      <div class="split right">
-                        <div class="centered">
-                          <h2>Stackoverflow</h2>
-                          <p>Some text here too.</p>
-                          <img src="stackoverflow/stackoverflow_prglanguages.png" alt="Avatar man">
+                        <div class="float-right">
+                          <h3>Stackoverflow</h3>
+                          <h5>Description</h5>
+                          <p>The pie chart shows the percentage of the amount of views for each programming
+                            <br />languages on Stackoverflow as a whole.
+                          </p>
+                          <h5>Insights</h5>
+                          <p>Topic with the highest amount of vote: HTML, C#, Javascript</p>
+                          <p> <em>Note: Insights are subjected to changes when there's an update of the crawler.</em></p>
+                          <br />
+                          <img src="stackoverflow/stackoverflow_prglanguages.png"
+                            alt="The trend of programming languages">
+                            <p>Updated on: 14 March 2021</p>
+                        </div>
+                        <br/>
+                        <div class="float-left">
+                          <h3>Twitter Topics</h3>
+                          <h5>Description</h5>
+                          <p>The comparative bar graph shows comparisons between the tweeter retweet count 
+                            <br />for each programming topics for each day over the past 8 days.
+                            <br />This allows easier comparison for the number of twitter retweet for each topic
+                            <br/> over time.
+                          </p>
+                          <img src="twitter/twitter_topics.png" alt="The trend of programming languages">
+                          <p>Updated on: 14 March 2021</p>
+                        </div>
+                        <div class="float-right">
+                          <h3>Twitter Popular Topics</h3>
+                          <h5>Description</h5>
+                          <p>The pie chart shows the percentage of the retweet count of
+                            <br />twitter posts for each programming topic over the past 8 days as a whole.</p>
+                          <h5>Insights</h5>
+                          <p>Topic with the highest amount of vote: DEVCommunity, 100DaysOfCode,<br/> NeuralNetworks.</p>
+                          <p> <em>Note: Insights are subjected to changes when there's an update of the crawler.</em></p>
+                          <img src="twitter/twitter_populartopic.png" alt="The trend of programming languages">
+                          <p>Updated on: 14 March 2021</p>
+                        </div>
+                       
+                        <div class="float-left">
+                          <br/>
+                          <br/>
+                          <br/>
+                          <br/>
+                          <h3>Twitter Retweets</h3>
+                          <h5>Description</h5>
+                          <p>This is a moving graph that shows how the amount of retweets for
+                            <br />each topic changed over the past 8 days.
+                          </p>
+                          <img src="twitter/retweetovertime.gif" alt="The trend of programming languages">
+                          <p>Updated on: 14 March 2021</p>
+                        </div>
+                        <br/>
+                        <div class="float-right">
+                          <h3>Github</h3>
+                          <h5>Description</h5>
+                          <p>The pie chart shows the percentage of the amount of votes each programming 
+                            <br/>language on github as a whole.
+                          </p>
+                          <h5>Insights</h5>
+                          <p>Topic with the highest amount of vote: Java, Javascript, Python.</p>
+                          <p> <em>Note: Insights are subjected to changes when there's an update of the crawler.</em></p>
+                          <img src="reddit/reddit_prglanguage.png" alt="The trend of programming languages">
+                          <p>Updated on: 14 March 2021</p>
                         </div>
                       </div>
                     </div>
