@@ -38,7 +38,6 @@ import os
 import unittest
 
 #Test Case
-
 class testCases(unittest.TestCase):
     #Test if crawl time is float value & if subtraction method is correct
     def testCase1 (self):
@@ -243,13 +242,16 @@ class crawledgithub(crawleddata):
             os.makedirs('github')
         self.df.to_csv("github/github-" + self.topic + ".csv")
 
-#crawl Twitter
+
 class crawledtwitter(crawleddata):
+    #authentication obtained Twitter developer 
     def authenticate(self):
+        #creating an OAuthHandler instance by passing consumer_key, consumer_secret
         auth = tweepy.OAuthHandler(
             "f9HugoUFnLlKdU4b6N2SFu8Ae",
             "zh7O2DYDdA4JN1Xe70PMaoHpslWQbNZnxsQzYRAUMx8LyuLb30",
         )
+        #stored access token key and secret 
         auth.set_access_token(
             "1358278817085681665-szJPAYiD5uzRPyXDYamFnuwh2I2qoI",
             "fEh0d8l2b9kcL8jacPnVSRkleHAK30FS82spLYKSnCtKB",
@@ -258,12 +260,13 @@ class crawledtwitter(crawleddata):
         # initialize Tweepy API
         self.data = tweepy.API(auth)
         return self.data
-
+    #crawl the top post for the past 7 days inclusive of date of crawl 
     def crawldatatop(self):
         # change createdAt from UTC to GMT+8
         timezone = pytz.timezone("Singapore")
+        #identify the today date 
         dateto = datetime.date.today()
-        # for each tweet matching our hashtags, write relevant info to the spreadsheet
+        #crawl the past 7 days of tweets from today
         for dayinput in range(-1, 7):
             for tweet in tweepy.Cursor(
                 self.data.search,
@@ -275,6 +278,7 @@ class crawledtwitter(crawleddata):
                 wait_on_rate_limit=True,
                 tweet_mode="extended",
             ).items(10):
+                #return only post with favorite count and retweet count
                 if tweet.favorite_count != 0 and tweet.retweet_count != 0:
                     url = f"https://twitter.com/{tweet.user.screen_name}/status/{tweet.id}"
                     self.df = self.df.append(
@@ -295,6 +299,7 @@ class crawledtwitter(crawleddata):
                         ascending=[False, False],
                     )
         return self.df
+    #crawl the recent post of today
     def crawldatarecent(self):
         # for each tweet matching our hashtags, write relevant info to the spreadsheet
         for tweet in tweepy.Cursor(
@@ -319,7 +324,7 @@ class crawledtwitter(crawleddata):
                 ignore_index=True,
             )
         return self.df
-
+    #save CSV in specific path
     def saveCV(self, name):
         if not os.path.exists('twitter'):
             os.makedirs('twitter')
