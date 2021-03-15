@@ -1,380 +1,359 @@
 ,Tweet Content,User Name,HashTags,Retweet Count,Favourite Count,URL
-0,"Amazing photos taken by #drone. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation https://t.co/qS3xj18G32",Innovat78455398,"['drone', 'DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation']",4,1,https://twitter.com/Innovat78455398/status/1369647875261566977
-1,"Object pooling keeps track of Objects—those are currently in use, the number of objects the pool holds, and whether this number should be increased. Objects in the pool have a lifecycle of creation, validation, and destroying.
-#100DaysOfCode #CodeNewbies #DEVCommunity #Dotnet",CodeAsItIs1,"['100DaysOfCode', 'CodeNewbies', 'DEVCommunity', 'Dotnet']",2,1,https://twitter.com/CodeAsItIs1/status/1369647838762729473
-2,"Took me a while, but I have finally learned how to implement serilog logging and store those logs into a SEQ Server. I also have the XUnit tests working aswell. TDD game on point!
+0,"Two years badge in https://t.co/2Dsh8Q89oy
+#DEVCommunity #development #programmings #Coding https://t.co/k0MIuhHrmf",DhanushkaDEV,"['DEVCommunity', 'development', 'programmings', 'Coding']",2,1,https://twitter.com/DhanushkaDEV/status/1371441899211427845
+1,"Programming aside, what other important topics do you think a Self-taught developer should study?
 
-#100DaysOfCode #DEVCommunity",ZHadjah,"['100DaysOfCode', 'DEVCommunity']",3,1,https://twitter.com/ZHadjah/status/1369647750221029377
-3,"There is web speechRecognition Apis for converting voice to text and web speech syntapi for converting voice to textin chrom check it out. -for those who seek for knowledge.
+#100DaysOfCode #DEVCommunity #coding #github #Covid_19 #computerscience",MbadiMoses,"['100DaysOfCode', 'DEVCommunity', 'coding', 'github', 'Covid_19', 'computerscience']",0,0,https://twitter.com/MbadiMoses/status/1371441068227620869
+2,"𝗖𝘂𝗿𝗹 is a command line tool which is used for file transfer using urls. It supports numerous protocols including beloved http/https which makes it a best candidate for API. You can access it from cmd using curl --man.
+#javascript #DEVCommunity #100DaysOfCode #CodeNewbie https://t.co/qcRQKjmlnY",Agr_Kushal,"['javascript', 'DEVCommunity', '100DaysOfCode', 'CodeNewbie']",1,1,https://twitter.com/Agr_Kushal/status/1371440806293172234
+3,"I had to learn about Ruby in the new job, and liked this language so much that I’d want to share with you all my journey into learning it. This is going to be the first post many many more, I hope. https://t.co/rNt8Nux4F6 
 
-https://t.co/UP3GIvhmou
+#ruby #DEVcommunity #rubyonrails #learningisfun",d4vsanchez,"['ruby', 'DEVcommunity', 'rubyonrails', 'learningisfun']",2,1,https://twitter.com/d4vsanchez/status/1371439704822927361
+4,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",4,0,https://twitter.com/TheFieryBot/status/1371439673860628483
+5,"#100DaysOfCode 
 #DEVCommunity 
-#100DaysOfCode 
-#javascript",judy_jose_007,"['DEVCommunity', '100DaysOfCode', 'javascript']",4,2,https://twitter.com/judy_jose_007/status/1369647273840283654
-4,"Object pooling is a #Software #creational #designpattern and a container of objects that holds a list of other objects—those are ready to be used. Once an object is taken from the pool, it is not available in the pool until it is put back.#100DaysOfCode #CodeNewbies #DEVCommunity",CodeAsItIs1,"['Software', 'creational', 'designpattern', '100DaysOfCode', 'CodeNewbies', 'DEVCommunity']",2,1,https://twitter.com/CodeAsItIs1/status/1369647260825395201
-5,Just Blogged : https://t.co/VUwPxXzZLc Core Project Folder &amp; Files Structure #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/JuAJo6w4rG,dotnetforall,"['programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",2,1,https://twitter.com/dotnetforall/status/1369647138687381506
-6,"Smart use of space. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation https://t.co/Osvt6skH2u",Innovat78455398,"['DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation']",4,2,https://twitter.com/Innovat78455398/status/1369646415324966915
-7,"Hi Devs
-Introduce yourself
-
-Me first:
-
-Sarthak here from India 🇮🇳
-Online Instructor, youtuber &amp; Full Stack developer
-
-Building @growexApp and working on Django course for my channel
-
-#devCommunity #codeNewBies",Sarthaksavvy,"['devCommunity', 'codeNewBies']",0,0,https://twitter.com/Sarthaksavvy/status/1369646236521799680
-8,"Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
-
-Link - https://t.co/cB7dGY9C4a
-
-#Python #100DaysOfCode #CodeNewbies #WomenWhoCode #DEVCommunity #DevOps #DataAnalytics #DataScience #AI #programming",rasangarocks,"['Python', '100DaysOfCode', 'CodeNewbies', 'WomenWhoCode', 'DEVCommunity', 'DevOps', 'DataAnalytics', 'DataScience', 'AI', 'programming']",9,1,https://twitter.com/rasangarocks/status/1369646230624641025
-9,"It's so much fun🤫😂
-
-#programminghumor  #coding #javascript #python #bitcoin #pythonlearning #webdev #pythonprogramming  #linux #memes #codinglife #MachineLearning #DEVCommunity #100DaysOfCode #30daysofcode https://t.co/CNSDvSBuyn",ktcodeit,"['programminghumor', 'coding', 'javascript', 'python', 'bitcoin', 'pythonlearning', 'webdev', 'pythonprogramming', 'linux', 'memes', 'codinglife', 'MachineLearning', 'DEVCommunity', '100DaysOfCode', '30daysofcode']",14,2,https://twitter.com/ktcodeit/status/1369646184340525064
-10,"Future delivery system. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop #CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation https://t.co/IQwic0WjyM",Innovat78455398,"['DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation']",6,1,https://twitter.com/Innovat78455398/status/1369645823106060288
-11,"Day 72 Of #100DaysOfCode  and #Python 
-Web-scraping(CSS locator and changing and responses) From [Datacamp](https://t.co/fBZgTteSh7)
-#WomenWhoCode #CodeNewbie #100DaysOfCode #beginner #DEVCommunity https://t.co/yuC9PoDCMI",mathdurga,"['100DaysOfCode', 'Python', 'WomenWhoCode', 'CodeNewbie', '100DaysOfCode', 'beginner', 'DEVCommunity']",10,6,https://twitter.com/mathdurga/status/1369645033062768645
-12,"Many new types of bridges. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation https://t.co/4cLMDt0UZD",Innovat78455398,"['DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation']",7,0,https://twitter.com/Innovat78455398/status/1369644254721503235
-13,"Real Go-Kart merge with Mario Cart in AR. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation https://t.co/tdoTf4K50I",Innovat78455398,"['DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation']",8,1,https://twitter.com/Innovat78455398/status/1369643809861111820
-14,"The most technically advanced #FIFA21  World Cup. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation https://t.co/KXWwn9gHAk",Innovat78455398,"['FIFA21', 'DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation']",5,3,https://twitter.com/Innovat78455398/status/1369643326664679426
-15,"https://t.co/8EheNtRQyA
-Now your store is just  Single Click away 2 get populated with Amazing #plugin
-#DEVCommunity #100DaysOfCode #MachineLearning #programming #Python #100DaysOfMLCode #javascript #womenwhocode #DataScience #Cyberpunk2077 #Bitcoin #OnceAlways #coding #2KChecks https://t.co/MNPcW6qng4",Iqraqasim20,"['plugin', 'DEVCommunity', '100DaysOfCode', 'MachineLearning', 'programming', 'Python', '100DaysOfMLCode', 'javascript', 'womenwhocode', 'DataScience', 'Cyberpunk2077', 'Bitcoin', 'OnceAlways', 'coding', '2KChecks']",14,3,https://twitter.com/Iqraqasim20/status/1369643278560337920
-16,"""Sharing with the Navigator Share API"" by @madsstoumann #DEVCommunity https://t.co/ZPL3xoW30i",madsstoumann,['DEVCommunity'],0,1,https://twitter.com/madsstoumann/status/1369643169697107973
-17,"The robotic thread removes blood clots in the brain. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation #medicine #Medical https://t.co/udWHX1jX79",Innovat78455398,"['DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation', 'medicine', 'Medical']",14,5,https://twitter.com/Innovat78455398/status/1369642669719179264
-18,"Looking into a #volcano. Amazing that you can reach that fur. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation #nature https://t.co/mQuhCHwjd1",Innovat78455398,"['volcano', 'DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation', 'nature']",4,2,https://twitter.com/Innovat78455398/status/1369642328797835273
-19,"That feeling when you say ""This is the last test for today""...
-
-...but then realize you aren't even close
-
-#freeCodeCamp #100DaysOfCode #DEVCommunity #developers #womenwhocode #webdevelopers #SoftwareEngineering",ChinguCollabs,"['freeCodeCamp', '100DaysOfCode', 'DEVCommunity', 'developers', 'womenwhocode', 'webdevelopers', 'SoftwareEngineering']",9,1,https://twitter.com/ChinguCollabs/status/1369641691657891843
-20,"https://t.co/8gLuUChpxq
-Now your store is just  Single Click away 2 get populated with Amazing #plugin
-#DEVCommunity #100DaysOfCode #MachineLearning #programming #Python #100DaysOfMLCode #javascript #womenwhocode #DataScience #Cyberpunk2077 #Bitcoin #OnceAlways #coding #2KChecks https://t.co/oZgyF9BSqB",nmedia82,"['plugin', 'DEVCommunity', '100DaysOfCode', 'MachineLearning', 'programming', 'Python', '100DaysOfMLCode', 'javascript', 'womenwhocode', 'DataScience', 'Cyberpunk2077', 'Bitcoin', 'OnceAlways', 'coding', '2KChecks']",16,3,https://twitter.com/nmedia82/status/1369641402653696001
-21,"Europe's first #selfdriving bus in Spanish city. #DEVCommunity #Programming #IoT #IoTPL #100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G #Engineering #innovation https://t.co/ugynKNOw2H",Innovat78455398,"['selfdriving', 'DEVCommunity', 'Programming', 'IoT', 'IoTPL', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'Engineering', 'innovation']",9,2,https://twitter.com/Innovat78455398/status/1369641382374088706
-22,"Anyone who is interested in @GatsbyJS, then check out the recording from the #MMT_TechMeetup
-
-https://t.co/4kX59mRaVh
-
-Thanks to @ondrabus, @SamLarsenDisney, @spences10 &amp; @kylemathews 
-
-#tech #devcommunity #gatsbyjs #gatsbyconf #mdx #kontent #gatsbyimage #react @KenticoKontent",ileshmistry,"['MMT_TechMeetup', 'tech', 'devcommunity', 'gatsbyjs', 'gatsbyconf', 'mdx', 'kontent', 'gatsbyimage', 'react']",3,1,https://twitter.com/ileshmistry/status/1369640779556196355
-23,"Devcontainers are awesome, we can use them to define an isolated development environment within Docker.
-
-{ author: @slace } #DEVCommunity https://t.co/iuAixw1SK2",ThePracticalDev,['DEVCommunity'],6,20,https://twitter.com/ThePracticalDev/status/1369640182891347970
-24,Best Resources to prepare for AWS Associate Certifications #AWS #CloudComputing  #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/1a0bsMYJZ0,dotnetforall,"['AWS', 'CloudComputing', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",8,4,https://twitter.com/dotnetforall/status/1369639588973715459
-25,"Good morning devs!☕
-
-I hope you are well rested. Get your day started right! Get some exercise in and nourish your body. 💪🏽 
-
-#goodmorning
-#DEVCommunity #developers #100DaysOfCode",ninan_phillip,"['goodmorning', 'DEVCommunity', 'developers', '100DaysOfCode']",10,3,https://twitter.com/ninan_phillip/status/1369639518832361472
-26,"#100DaysOfCode D84:
-
-I was shown how to create a script file in VS Code using #Node (in terminal). Then, I got introduced to globalThis.
-
-Note to self: FOCUS. Do more.
-
-#CodeNewbie #DEVCommunity #WomenWhoCode",recio_mariel,"['100DaysOfCode', 'Node', 'CodeNewbie', 'DEVCommunity', 'WomenWhoCode']",7,7,https://twitter.com/recio_mariel/status/1369638964181618694
-27,"Get assistance #chemistry #pearson on #fiverr #fiverrgigs #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/mJTczajfTF
-https://t.co/mJTczajfTF",sashax2_,"['chemistry', 'pearson', 'fiverr', 'fiverrgigs', '100DaysOfCode', 'Machinelearning', 'IoT', '100DaysOfMLCode', 'Python', 'javascript', 'Nodejs', 'Serverless', 'womenwhocode', 'cybersecurity', 'RStats', 'CodeNewbie', 'DataScience', 'DEVCommunity']",8,4,https://twitter.com/sashax2_/status/1369638563764174852
-28,"Build Realtime Chat App and dive in both #Frontend and #Backend 
-
-https://t.co/cXWGD7zQ8s
-
-New project released 🎉
-
-Btw. what did Philip want to ask Emily about...? 😂
-
-This design is on 🔥
-
-#100DaysOfCode #webdev #DEVCommunity #React #mentorship #FrontEnd",BigsonDev,"['Frontend', 'Backend', '100DaysOfCode', 'webdev', 'DEVCommunity', 'React', 'mentorship', 'FrontEnd']",8,4,https://twitter.com/BigsonDev/status/1369638558277963776
-29,"Get assistance #pearson #math on #fiverr #fiverrgigs #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/hqVACaI4VW
-https://t.co/hqVACaI4VW",sashax2_,"['pearson', 'math', 'fiverr', 'fiverrgigs', '100DaysOfCode', 'Machinelearning', 'IoT', '100DaysOfMLCode', 'Python', 'javascript', 'Nodejs', 'Serverless', 'womenwhocode', 'cybersecurity', 'RStats', 'CodeNewbie', 'DataScience', 'DEVCommunity']",4,3,https://twitter.com/sashax2_/status/1369638332368642050
-30,I feel this word could be used to describe most of my portfolio #100DaysOfCode #webdevelopment #javascript #DEVCommunity #programming https://t.co/UxLVLZ2Ptr,phl3bas,"['100DaysOfCode', 'webdevelopment', 'javascript', 'DEVCommunity', 'programming']",3,5,https://twitter.com/phl3bas/status/1369638124746342408
-31,"Get assistance #math #stats #calculus on #fiverr #fiverrgigs #100DaysOfCode #Machinelearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/bchw1FWvV5
-https://t.co/bchw1FWvV5",sashax2_,"['math', 'stats', 'calculus', 'fiverr', 'fiverrgigs', '100DaysOfCode', 'Machinelearning', 'IoT', '100DaysOfMLCode', 'Python', 'javascript', 'Nodejs', 'Serverless', 'womenwhocode', 'cybersecurity', 'RStats', 'CodeNewbie', 'DataScience', 'DEVCommunity']",12,7,https://twitter.com/sashax2_/status/1369638074024656900
-32,"Sad but true 🥲
-
-On a side note, how do you cope with such client requirements?🤔
-
-#DEVCommunity #100DaysOfCode #webdev #developerjobs https://t.co/MzzZPUU4vg",lambdatesting,"['DEVCommunity', '100DaysOfCode', 'webdev', 'developerjobs']",11,6,https://twitter.com/lambdatesting/status/1369637098643333126
-33,"Want to know the way to launch your Jamstack website?
-
-1. Goto https://t.co/7RN4VsM24i
-2. Click ""Get started""
-3. Select your favorite template
-4. Click ""Deploy""
-
-No signup, No subscription, No fee and you are in control of your website.
-
-#100DaysOfCode #DEVCommunity",Stackrole,"['100DaysOfCode', 'DEVCommunity']",3,3,https://twitter.com/Stackrole/status/1369636971534938119
-34,"""Don't Leave Comments on Pull Requests - Leave Pictures"" by @WritingVoyage #DEVCommunity https://t.co/hcSFfZpl52. - I need to make a set of these",BenENewton,['DEVCommunity'],1,0,https://twitter.com/BenENewton/status/1369636173660950529
-35,"What programming language statement do you use the most?
-
-#freeCodeCamp #100DaysOfCode #DEVCommunity #BlackDevelopers #WomenWhoCode #developers #webdevelopers #softwareengineering",ChinguCollabs,"['freeCodeCamp', '100DaysOfCode', 'DEVCommunity', 'BlackDevelopers', 'WomenWhoCode', 'developers', 'webdevelopers', 'softwareengineering']",16,1,https://twitter.com/ChinguCollabs/status/1369636143709446145
-36,"#100DaysOfCode #CodeNewbies @DevCommunityIN 
-#DEVCommunity 
-
-Any good resources/playlist to master RECURSION? Comment or dm please :)",Amrutha26_,"['100DaysOfCode', 'CodeNewbies', 'DEVCommunity']",3,6,https://twitter.com/Amrutha26_/status/1369636084632625159
-37,"#WFH #Cybersecurity answered here: https://t.co/Sfew6M73iu
-
- #nocode #lowcode #javascript #github #nodejs #devops #100DaysOfCode #datascience #ai #bot #iot #machinelearning #DEVCommunity #Python #Serverless #womenintech #CX #flutter https://t.co/xOhk2oUnHt",MoZouine,"['WFH', 'Cybersecurity', 'nocode', 'lowcode', 'javascript', 'github', 'nodejs', 'devops', '100DaysOfCode', 'datascience', 'ai', 'bot', 'iot', 'machinelearning', 'DEVCommunity', 'Python', 'Serverless', 'womenintech', 'CX', 'flutter']",20,9,https://twitter.com/MoZouine/status/1369635188536467466
-38,"This week I have been focusing on the JavaScript library React.
-
-This week's article is all about React state recommended by @joannaterm. It's a longer read but I put a lot of effort into this one. Check it out here 👇
-
-https://t.co/mFufCnWK4J
-
-#DEVCommunity #CodeNewbie",Kieran6dev,"['DEVCommunity', 'CodeNewbie']",1,2,https://twitter.com/Kieran6dev/status/1369635174531690496
-39,"Multimodal Neuron in Artificial Neural Network▶️
-#Analytics #BigData #AI #Rstats #Reactjs #MachineLearning #ML #NLP #Linux #DEVCommunity
-#Flutter #CloudComputing #Python
-#Serverless #IoT #IIoT #Coding #ArtificialIntelligence #Java
-#SmartHome #100DaysOfCode
-https://t.co/1gCoknjn3h https://t.co/bX3NVl26dI",Analytics_699,"['Analytics', 'BigData', 'AI', 'Rstats', 'Reactjs', 'MachineLearning', 'ML', 'NLP', 'Linux', 'DEVCommunity', 'Flutter', 'CloudComputing', 'Python', 'Serverless', 'IoT', 'IIoT', 'Coding', 'ArtificialIntelligence', 'Java', 'SmartHome', '100DaysOfCode']",30,12,https://twitter.com/Analytics_699/status/1369634356294160385
-40,"Don’t miss out on this special Projects edition of #IBeleiveinDoing. 
-
-REGISTER HERE → https://t.co/sdnNo3Fu9t 
-
-#criodo #devcommunity #learnbydoing #projectbasedlearning #techprojects #computerscienceprojects #pythonprojects #javaprojects #javascript #developerstuffs",crio_do,"['IBeleiveinDoing', 'criodo', 'devcommunity', 'learnbydoing', 'projectbasedlearning', 'techprojects', 'computerscienceprojects', 'pythonprojects', 'javaprojects', 'javascript', 'developerstuffs']",3,0,https://twitter.com/crio_do/status/1369633420234551297
-41,"Just 2 days to go!
-
-It’s time to turn your dev mode on and build cool stuff. 
-
-Join the #DEVCommunity on March 13 to get your hands dirty with exciting projects in Java, Python, and JavaScript. Walk away with exciting rewards and impressive projects in your resume. 
-
-#criodo https://t.co/UH7TOHfAnW",crio_do,"['DEVCommunity', 'criodo']",1,0,https://twitter.com/crio_do/status/1369633416090554371
-42,"git switch branch – Easily checkout git branches with this new command
-https://t.co/lmJOHLyZP3
-#javascript #github #nodejs #devops #100DaysOfCode #ai  #machinelearning #webdev #CSS #Git #programming #SoftwareDeveloper #DEVCommunity #React",Bluecastech,"['javascript', 'github', 'nodejs', 'devops', '100DaysOfCode', 'ai', 'machinelearning', 'webdev', 'CSS', 'Git', 'programming', 'SoftwareDeveloper', 'DEVCommunity', 'React']",11,4,https://twitter.com/Bluecastech/status/1369631190014066689
-43,"Introduction to cloud computing 
-
-Link - https://t.co/8qzGsBdkkW
-
-#100DaysOfCode #CodeNewbies #WomenWhoCode #DEVCommunity #DevOps #CloudComputing #BigData #IoT #softwareengineering #internet #programming https://t.co/H7EIeHIUul",rasangarocks,"['100DaysOfCode', 'CodeNewbies', 'WomenWhoCode', 'DEVCommunity', 'DevOps', 'CloudComputing', 'BigData', 'IoT', 'softwareengineering', 'internet', 'programming']",8,1,https://twitter.com/rasangarocks/status/1369630617206366211
-44,"The 10 most innovative companies in data science
-
-#AI #MachineLearning #100DaysOfCode #DEVCommunity
-https://t.co/8OS5avq4LX https://t.co/etMCyfaN3N",LaForge_AI,"['AI', 'MachineLearning', '100DaysOfCode', 'DEVCommunity']",9,4,https://twitter.com/LaForge_AI/status/1369630378126946308
-45,"What is your morning rituals before starting coding ??
-
-Me: Check my Youtube stats and Emails
-
-#devCommunity #codeNewBies",Sarthaksavvy,"['devCommunity', 'codeNewBies']",1,4,https://twitter.com/Sarthaksavvy/status/1369629875577913349
-46,@stroughtonsmith could you help us reach folks about our passion project? Do you have anyone that would be up for signing up as a BETA tester? #TechWithPurpose @BigLemonTweets #tech #DEVCommunity #app,_zestapp_,"['TechWithPurpose', 'tech', 'DEVCommunity', 'app']",0,2,https://twitter.com/_zestapp_/status/1369629860772143104
-47,How to: Localise your React App with #LinguiJS and Localazy #frontendev #localization #i18n #l10n #react #reactjs #reactdeveloper #developers #devcommunity #developer #devtool https://t.co/EE3NxhhfZB,honzabilek4,"['LinguiJS', 'frontendev', 'localization', 'i18n', 'l10n', 'react', 'reactjs', 'reactdeveloper', 'developers', 'devcommunity', 'developer', 'devtool']",0,0,https://twitter.com/honzabilek4/status/1369628913295626243
-48,"WeakRef will be out 2021 in June. Till then let's keep our fingers crossed 🤞. It is useful when we don't want to keep the object in memory forever.
-
-https://t.co/JG0bKhpfNR...
-#javascript #webdev #webdevelopment #codenewbies #Hashnode #devcommunity #WomenWhoCode #nodejs #es2021 https://t.co/PWatMUBpL0",techstackmedia,"['javascript', 'webdev', 'webdevelopment', 'codenewbies', 'Hashnode', 'devcommunity', 'WomenWhoCode', 'nodejs', 'es2021']",9,2,https://twitter.com/techstackmedia/status/1369627542773194754
-49,"3 #DataScience Trends We’ll See More in 2021
-Rightwards arrow 
-https://t.co/a6D2ortbo9
- @Galil @AITechmeme @nordicinst @machine_ml 
-
-#BigData #AI  #ML #TechTrends #IoT #IIoT #IoTPL #Serverless #CloudComputing #CyberSecurity  #WomenWhoCode #DEVCommunity #programming https://t.co/Kp7qyMokmo",automeme,"['DataScience', 'BigData', 'AI', 'ML', 'TechTrends', 'IoT', 'IIoT', 'IoTPL', 'Serverless', 'CloudComputing', 'CyberSecurity', 'WomenWhoCode', 'DEVCommunity', 'programming']",5,1,https://twitter.com/automeme/status/1369627368529289217
-50,"From KB : Pass Parameters to Blazor Components
-
-https://t.co/wzDt6NKeTa
-
-#AspNet  #AspNetCore  #DotNet  #DotNetCore   #CSharp #VisualStudio  #WebDevelopment  #Programming  #SoftwareDevelopment  #Coding #DevCommunity #Blazor",joshibipin,"['AspNet', 'AspNetCore', 'DotNet', 'DotNetCore', 'CSharp', 'VisualStudio', 'WebDevelopment', 'Programming', 'SoftwareDevelopment', 'Coding', 'DevCommunity', 'Blazor']",10,2,https://twitter.com/joshibipin/status/1369626256942108677
-51,"Is there a best way to do api error handling with golang
-
-#DEVCommunity #100DaysOfCode",stmolupe,"['DEVCommunity', '100DaysOfCode']",3,1,https://twitter.com/stmolupe/status/1369625984337666051
-52,Simple Trick to create a NodeJS Server on Windows/Ubuntu #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/LcbVw7vG1O,dotnetforall,"['programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",6,3,https://twitter.com/dotnetforall/status/1369624733336092676
-53,".@lambdatesting is getting together on 16th March, 10AM PST, with @Applitools to discuss the nuances of #Mobile First Approach &amp; Testing!💥
-
-🎙️@muditsingh5000 | @BagmarAnand
-
-📅16th March, 10AM PST.
-
-**Register now for free** 
-
-👉https://t.co/P3tJPkbqK4
-
-#testing #DEVCommunity https://t.co/Ixzcx7OqMu",sarahelson81,"['Mobile', 'testing', 'DEVCommunity']",1,3,https://twitter.com/sarahelson81/status/1369623394799341574
-54,"Classless CSS frameworks are ideal for demos, proofs of concept, minimalist sites, and code examples. Find the one that works for you!
-
-{ author: @McEwenInt8Array } #DEVCommunity https://t.co/hgd6vAWCdV",ThePracticalDev,['DEVCommunity'],4,16,https://twitter.com/ThePracticalDev/status/1369623070789562372
-55,"""Show off your Workspace 👩🏻‍💻💯"" by @Sarthology #DEVCommunity https://t.co/jiWnsB1nv7",Sarthology,['DEVCommunity'],1,1,https://twitter.com/Sarthology/status/1369622773539233792
-56,"Es6 Arrow function.
-No function keyword
-It's an anonymous function i.e no function name
-No parentheses for one argument
-No return keyword if you are returning one statement
-
-#javascript #100DaysOfCode #CodeNewbie #womenintech #WomenWhoCode #tech #DEVCommunity https://t.co/iwbofiu5DF",girlthatcode,"['javascript', '100DaysOfCode', 'CodeNewbie', 'womenintech', 'WomenWhoCode', 'tech', 'DEVCommunity']",7,4,https://twitter.com/girlthatcode/status/1369622638583308297
-57,"#SDGs #GlobalGoals #MachineLearning #AI #100DaysOfCode #Python #DEVCommunity #IoT #flutter #javascript #Serverless  #WomenWhoCode #CyberSecurity #RStats #DataScience #IPRs
-Check out my Gig on Fiverr: add products in shopify store https://t.co/xmWB06Gu1r",Product26025280,"['SDGs', 'GlobalGoals', 'MachineLearning', 'AI', '100DaysOfCode', 'Python', 'DEVCommunity', 'IoT', 'flutter', 'javascript', 'Serverless', 'WomenWhoCode', 'CyberSecurity', 'RStats', 'DataScience', 'IPRs']",7,4,https://twitter.com/Product26025280/status/1369621730809974786
-58,"How #MachineLearning can boost #PredictiveAnalytics #ArtificialIntelligence 
-#Analytics #BigData  #DataScience #IoT #IIoT #Linux #NLP #DEVCommunity #flutter #DataScientist #CloudComputing
-#Python  #Coding #SmartHome #fintech #100DaysOfCode
-https://t.co/U4wE1cHPkB…",BobbyRampal,"['MachineLearning', 'PredictiveAnalytics', 'ArtificialIntelligence', 'Analytics', 'BigData', 'DataScience', 'IoT', 'IIoT', 'Linux', 'NLP', 'DEVCommunity', 'flutter', 'DataScientist', 'CloudComputing', 'Python', 'Coding', 'SmartHome', 'fintech', '100DaysOfCode']",19,3,https://twitter.com/BobbyRampal/status/1369621404208009216
-59,"#DEVCommunity #Programming #IoT #IoTPL #AI
-#100DaysOfCode #MachineLearning #Airdrop
-#CloudComputing #Analytics #Serverless  
-#cybersecurity #ArtificialIntelligence  #DataScience #5G    #innovation Check out my Gig on Fiverr: add products in shopify store https://t.co/xmWB06Gu1r",Product26025280,"['DEVCommunity', 'Programming', 'IoT', 'IoTPL', 'AI', '100DaysOfCode', 'MachineLearning', 'Airdrop', 'CloudComputing', 'Analytics', 'Serverless', 'cybersecurity', 'ArtificialIntelligence', 'DataScience', '5G', 'innovation']",9,1,https://twitter.com/Product26025280/status/1369621202642202628
-60,"Algo breaks speed limit for solving Linear Equations ▶️
-#Analytics #BigData #AI #Rstats #Reactjs #IoT #IIoT #ML #NLP #MachineLearning #Python #Linux #Serverless #DEVCommunity
-#CloudComputing
-#SmartCity #javascript #flutter #QuantumComputing
-#100DaysOfCode
-https://t.co/Yj8skyxKvN https://t.co/4CVe54qSGr",Analytics_699,"['Analytics', 'BigData', 'AI', 'Rstats', 'Reactjs', 'IoT', 'IIoT', 'ML', 'NLP', 'MachineLearning', 'Python', 'Linux', 'Serverless', 'DEVCommunity', 'CloudComputing', 'SmartCity', 'javascript', 'flutter', 'QuantumComputing', '100DaysOfCode']",27,9,https://twitter.com/Analytics_699/status/1369620771434209283
-61,"""CSS Grid Cheat Sheet Illustrated in 2021🎖️"" by @JoyShaheb #DEVCommunity https://t.co/oFgx6OLaq6",mintavender,['DEVCommunity'],0,0,https://twitter.com/mintavender/status/1369619790533337094
-62,"I started a new blog on https://t.co/4jZQnYT74p, it looks like a good place to post nerdy stuff that I'm doing.
-
-""OAuth2 examples for Deno"" by @ssw4m #DEVCommunity https://t.co/lQiFx0FZz0",ssw4m,['DEVCommunity'],0,0,https://twitter.com/ssw4m/status/1369619578435690500
-63,"Bot learn grasping by NN that maps via Visual Observations ▶️
-#Analytics #MachineLearning #AI #Python #Rstats #Reactjs #IoT #IIoT #BigData #CloudComputing
-#javascript #NLP #Linux #Serverless #SelfDrivingCars
-#flutter #DEVCommunity #SmartHome #100DaysOfCode
-https://t.co/mPpy2H9OkH https://t.co/NL4UBaIuHr",Analytics_699,"['Analytics', 'MachineLearning', 'AI', 'Python', 'Rstats', 'Reactjs', 'IoT', 'IIoT', 'BigData', 'CloudComputing', 'javascript', 'NLP', 'Linux', 'Serverless', 'SelfDrivingCars', 'flutter', 'DEVCommunity', 'SmartHome', '100DaysOfCode']",29,14,https://twitter.com/Analytics_699/status/1369619319756189698
-64,"4 ways to keep control of your AI data
-
-#MachineLearning #Python #Analytics #AI #100DaysOfCode
-#DEVCommunity #DL #DevOps #IoT #IIoT #Serverless #5G #NLP
-#womenintech #cybersecurity #DataScience #WomenWhoCode
-
-https://t.co/z5vtUxAHe3 https://t.co/nbHGpApawo",Paula_Piccard,"['MachineLearning', 'Python', 'Analytics', 'AI', '100DaysOfCode', 'DEVCommunity', 'DL', 'DevOps', 'IoT', 'IIoT', 'Serverless', '5G', 'NLP', 'womenintech', 'cybersecurity', 'DataScience', 'WomenWhoCode']",10,4,https://twitter.com/Paula_Piccard/status/1369619141691326466
-65,"#css by himself doesn't give error messages.
-
-Does that confuse you?
-
-check this out 👇
-
-#html #codenewbie #DEVCommunity #100DaysOfCode #webdeb #programming https://t.co/KRkOx4wkZV",iSeeBoxes,"['css', 'html', 'codenewbie', 'DEVCommunity', '100DaysOfCode', 'webdeb', 'programming']",3,3,https://twitter.com/iSeeBoxes/status/1369619046036090881
-66,"Me to myself...""but what if I fail_""
-
-Me...""if you quit now then you already have, you only fail if you stop""
-
-Me....""well, lets keep going then"".
-
-#100daysofcode #python #JavaScript #DEVCommunity #CodeNewbie",rob_coding,"['100daysofcode', 'python', 'JavaScript', 'DEVCommunity', 'CodeNewbie']",1,6,https://twitter.com/rob_coding/status/1369619044446334980
-67,"Word of the Day:
-
-- Boltzmann machine
-
-#100DaysOfCode #DEVCommunity #dotnet #dotnetcore #Python #Python3 #javascript #programming #algorithms #git #DevCommunityIN #CodeNewbie #CodeNewbies #Linux #ArtificialIntelligence #Networking #Azure #MachineLearning",TheRamoliya,"['100DaysOfCode', 'DEVCommunity', 'dotnet', 'dotnetcore', 'Python', 'Python3', 'javascript', 'programming', 'algorithms', 'git', 'DevCommunityIN', 'CodeNewbie', 'CodeNewbies', 'Linux', 'ArtificialIntelligence', 'Networking', 'Azure', 'MachineLearning']",13,7,https://twitter.com/TheRamoliya/status/1369618008658702336
-68,WCF Bindings and Types Exlained #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/0QGAEnsu9d,dotnetforall,"['programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",2,1,https://twitter.com/dotnetforall/status/1369617798402555904
-69,what is this i see :o #RBLXDev #RobloxDevs #DEVCommunity #Poland https://t.co/hMrTNUI9Sk,Daniel79996309,"['RBLXDev', 'RobloxDevs', 'DEVCommunity', 'Poland']",0,0,https://twitter.com/Daniel79996309/status/1369617735588732929
-70,"Small #css tip: Some users of your site might prefer an experience without any animations. We can use css prefers-reduced-motion to listen for that OS setting and change our styles accordingly. #100DaysOfCode #DEVCommunity
-
-👇Check out the CodePen below https://t.co/yuZzCNJNW5",Vanaf1979,"['css', '100DaysOfCode', 'DEVCommunity']",6,5,https://twitter.com/Vanaf1979/status/1369616681362939910
-71,"Here is what it looks like my simple static personal site which I have build by using the knowledge which I have gained in the last four days i.e. HTML and CSS.
-#100DaysOfCode 
-#DEVCommunity 
-#DevOps 
-#Developers 
 #Coding 
-Here is the link of my work:
-https://t.co/hGnRens9WF😊☕ https://t.co/mpTSbkr82l",EnthusiasticCo9,"['100DaysOfCode', 'DEVCommunity', 'DevOps', 'Developers', 'Coding']",7,5,https://twitter.com/EnthusiasticCo9/status/1369615656266567690
-72,"🔥React Redux Tutorials - 7 - Logger Middleware &amp; Redux devtools🔥
 
-In this video we learnto use a simple logger middleware,  and also to integrate Redux devtools in our project.
+Day 12
+My portfolio 
+https://t.co/TgZcnzkYdK",_mohammedalessa,"['100DaysOfCode', 'DEVCommunity', 'Coding']",9,4,https://twitter.com/_mohammedalessa/status/1371439624606875651
+6,"""Installing Vim in a Docker Container"" by Reishi Mitani #DEVCommunity https://t.co/BvWM3qKjAv",_mcorrea_,['DEVCommunity'],1,0,https://twitter.com/_mcorrea_/status/1371438379825569792
+7,"Chingu Voyage 29 starts on April 5th!
 
-#DEVcommunity @freeCodeCamp  #reactjs  #javascript #CodeNewbies
+- Work in a remote team
+- Learn ""soft"" skills
+- Get out of your comfort zone
+- Beat ""tutorial purgatory""
 
-https://t.co/0PfkYVUMpY",nabendu82,"['DEVcommunity', 'reactjs', 'javascript', 'CodeNewbies']",4,4,https://twitter.com/nabendu82/status/1369614829942497281
-73,"Your Interviewer Is On Your Side. They Would Love To Hire A Great Candidate As Fast As They Can!
+Learn more to level-up @ https://t.co/w6nq9Dl8a9
+#freeCodeCamp #100DaysOfCode #DEVCommunity #WomenInTech #developers #webdevelopers https://t.co/aj3p9FTTZo",ChinguCollabs,"['freeCodeCamp', '100DaysOfCode', 'DEVCommunity', 'WomenInTech', 'developers', 'webdevelopers']",13,0,https://twitter.com/ChinguCollabs/status/1371437774717476865
+8,"@OnlyNatureplace Trafalgar: Python library to make quantitative finance &amp; portfolio analysis faster &amp; easier.
 
-#Python #DEVCommunity #100DaysOfCode #MachineLearning #programming #IoT #flutter #100DaysOfMLCode #javascript #datascientist #RStats #Serverless #CodeNewbie #DataScience",AceAILondon,"['Python', 'DEVCommunity', '100DaysOfCode', 'MachineLearning', 'programming', 'IoT', 'flutter', '100DaysOfMLCode', 'javascript', 'datascientist', 'RStats', 'Serverless', 'CodeNewbie', 'DataScience']",13,4,https://twitter.com/AceAILondon/status/1369614137953841152
-74,"I’m looking for a #rubyonrails mentor or tribe - someone / folks that can get me unstuck when I’m in a #Ruby jam. 
+https://t.co/ZfV30iZTG4…
 
-Who can help? 🙏🏾 
+#DEVCommunity #MachineLearning #Python #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #100DaysOfCode",New081082,"['DEVCommunity', 'MachineLearning', 'Python', 'IoT', 'flutter', '100DaysOfMLCode', 'AI', 'javascript', 'womenwhocode', 'RStats', 'Serverless', 'CodeNewbie', 'DataScience', '100DaysOfCode']",11,4,https://twitter.com/New081082/status/1371437700385968138
+9,Add/Edit/Delete DataGrid  Using Master-Details View #WPF #dotnet #csharp #dotnet #wpf #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/PbGijIcpfV,dotnetforall,"['WPF', 'dotnet', 'csharp', 'dotnet', 'wpf', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",4,1,https://twitter.com/dotnetforall/status/1371437265017307138
+10,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""The energy of the mind is the essence of life.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",1,2,https://twitter.com/TheFieryBot/status/1371436905921925132
+11,Why is StringBuilder is better in performance #csharp #dotnet #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/bfOQSRq5jG,dotnetforall,"['csharp', 'dotnet', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",5,0,https://twitter.com/dotnetforall/status/1371436698152923141
+12,"Word of the Day:
 
-#BlackTechTwitter 
-#DEVCommunity https://t.co/RIVgakdGyQ",OneCuteLiz,"['rubyonrails', 'Ruby', 'BlackTechTwitter', 'DEVCommunity']",5,4,https://twitter.com/OneCuteLiz/status/1369614116558680065
-75,Great time for a screenshot 😂😂. My video on how to build a Responsive online Portfolio is out today at 5pm GMT 😍 Hope you can join as I will be doing a premier so we can chat 😁 sub not to miss https://t.co/VLyASPQicf #100DaysOfCode #DEVCommunity https://t.co/TaecMbMheW,ania_kubow,"['100DaysOfCode', 'DEVCommunity']",23,123,https://twitter.com/ania_kubow/status/1369612755288854533
-76,"Never be frustrated with CORS again.
+- Assembler
 
-{ author: @TeoSelenius } #DEVCommunity https://t.co/6k9LWOKpIS",ThePracticalDev,['DEVCommunity'],13,45,https://twitter.com/ThePracticalDev/status/1369611746386862080
-77,Call AWS Lambda Directly using C# code #csharp #dotnet  #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/gEdzFyFdT5,dotnetforall,"['csharp', 'dotnet', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",16,4,https://twitter.com/dotnetforall/status/1369610249930432514
-78,Abstraction and Encapsulation - The two OOP Pillars in C# #csharp #dotnet  #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/TQbKamCZrj,dotnetforall,"['csharp', 'dotnet', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",10,3,https://twitter.com/dotnetforall/status/1369609695409889281
-79,Knowing the Data Types in Javascript #Javascript #Frontend  #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/Ajt2yqLbfE,dotnetforall,"['Javascript', 'Frontend', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",9,2,https://twitter.com/dotnetforall/status/1369609388504256516
-80,"What #MachineLearning model fits your need▶️
-#Analytics #BigData #AI #Rstats #Reactjs #Python #IoT #IIoT #ML #NLP #DEVCommunity #flutter #DataScientist #CloudComputing
-#javascript #SelfDrivingCars #DataMining #ArtificialIntelligence
-#mHealth #100DaysOfCode
-https://t.co/SS86djEY6Y https://t.co/9bZGUg3rjU",Analytics_699,"['MachineLearning', 'Analytics', 'BigData', 'AI', 'Rstats', 'Reactjs', 'Python', 'IoT', 'IIoT', 'ML', 'NLP', 'DEVCommunity', 'flutter', 'DataScientist', 'CloudComputing', 'javascript', 'SelfDrivingCars', 'DataMining', 'ArtificialIntelligence', 'mHealth', '100DaysOfCode']",25,7,https://twitter.com/Analytics_699/status/1369609077454606338
-81,"https://t.co/NuPue9SKw2
-See it and like it 
-#Coding #Analytics #Rstats #reactjs #AI #IoT  #IIoT #DEVCommunity #flutter #Coding #SmartCity #DataScience #MachineLearning #BigData  #programmingmemes  #developer #javascript #python #datascience #SoftwareDeveloper",mr_amansoni,"['Coding', 'Analytics', 'Rstats', 'reactjs', 'AI', 'IoT', 'IIoT', 'DEVCommunity', 'flutter', 'Coding', 'SmartCity', 'DataScience', 'MachineLearning', 'BigData', 'programmingmemes', 'developer', 'javascript', 'python', 'datascience', 'SoftwareDeveloper']",8,3,https://twitter.com/mr_amansoni/status/1369607866919702532
-82,"Join our webinar and get to know Sametime Premium for secure meetings! It will cost a fraction of other known brands out there!
-#HCLSametime #100DaysOfCode #datascience #bot #Devcommunity #flutter #python #iot #codenewbie #github https://t.co/BEaaExEZ9h https://t.co/J4DCwHlXJN",StephanieHeit,"['HCLSametime', '100DaysOfCode', 'datascience', 'bot', 'Devcommunity', 'flutter', 'python', 'iot', 'codenewbie', 'github']",8,4,https://twitter.com/StephanieHeit/status/1369607756454498307
-83,"2 things that u should master if u are starting with react native,
+#100DaysOfCode #DEVCommunity #dotnet #dotnetcore #Python #Python3 #javascript #programming #algorithms #git #DevCommunityIN #CodeNewbie #CodeNewbies #Linux #ArtificialIntelligence #Networking #Azure #MachineLearning",TheRamoliya,"['100DaysOfCode', 'DEVCommunity', 'dotnet', 'dotnetcore', 'Python', 'Python3', 'javascript', 'programming', 'algorithms', 'git', 'DevCommunityIN', 'CodeNewbie', 'CodeNewbies', 'Linux', 'ArtificialIntelligence', 'Networking', 'Azure', 'MachineLearning']",18,6,https://twitter.com/TheRamoliya/status/1371436641756147716
+13,"Test Driven Development is a software development approach in which test cases are developed to specify and validate what the code will do. Here's how and why you should use TDD!
 
-✔️Learn how Components works both stateless and statefull.
+#DEVCommunity https://t.co/HUYda1JrPN",ThePracticalDev,['DEVCommunity'],5,19,https://twitter.com/ThePracticalDev/status/1371436521400774657
+14,"Have you heard about #HCLVoltMX? The multiexperience dev platform. Develop beautiful apps once and deploy them anywhere!
+#HCLDigital #100DaysOfCode #ai #bot #codenewbie #iot #machinelearning #DevCommunity #flutter #python #lowcode  https://t.co/dMKkZQ6n0L https://t.co/nZVheaoyBP",StephanieHeit,"['HCLVoltMX', 'HCLDigital', '100DaysOfCode', 'ai', 'bot', 'codenewbie', 'iot', 'machinelearning', 'DevCommunity', 'flutter', 'python', 'lowcode']",8,2,https://twitter.com/StephanieHeit/status/1371434801538940928
+15,"Programming: Expectation vs. Reality
 
-✔️Learn Props &amp; hooks(UseState),
-Good luck.
-#100DaysOfCode #CodeNewbie #programming #BigData #AWS #DEVCommunity #DataScience #Python #javascript #js #ux",chadrack_code,"['100DaysOfCode', 'CodeNewbie', 'programming', 'BigData', 'AWS', 'DEVCommunity', 'DataScience', 'Python', 'javascript', 'js', 'ux']",13,8,https://twitter.com/chadrack_code/status/1369607140927737860
-84,"Just published how to do ""Firestore Pagination / Infinite Scrolling + Snapshot Listeners (in React / useEffect)"" #DEVCommunity https://t.co/H1x7bR4Kj8…  Might be handy for someone! #javascript #react #reactjs #firestore #firebase https://t.co/AfsrC9BCBC",optimistavf,"['DEVCommunity', 'javascript', 'react', 'reactjs', 'firestore', 'firebase']",9,6,https://twitter.com/optimistavf/status/1369606635518312453
-85,"Take the headache out of your state management. 
+#100DaysOfCode #DEVCommunity #dotnet #dotnetcore #Python #Python3 #javascript #programming #algorithms #git #DevCommunityIN #CodeNewbie #CodeNewbies #Linux #ArtificialIntelligence #Networking #Azure #MachineLearning #Scrum #designthinking https://t.co/lD6zW39U3u",New081082,"['100DaysOfCode', 'DEVCommunity', 'dotnet', 'dotnetcore', 'Python', 'Python3', 'javascript', 'programming', 'algorithms', 'git', 'DevCommunityIN', 'CodeNewbie', 'CodeNewbies', 'Linux', 'ArtificialIntelligence', 'Networking', 'Azure', 'MachineLearning', 'Scrum', 'designthinking']",10,4,https://twitter.com/New081082/status/1371434378811764739
+16,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""In the depth of winter, I finally learned that there was within me an invincible summer.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",7,2,https://twitter.com/TheFieryBot/status/1371434137161236487
+17,"What is Integrated #AI Strategy?
+👉 https://t.co/efro1rLpuO @Deloitte via @ingliguori #DigitalTransformation #MachineLearning #BigData #DataScience #100DaysOfCode #DEVCommunity #RPA #ITStrategy #ArtificialIntelligence #IoT #smartcities #IIoT #IoTPL @antgrasso @Ronald_vanLoon @rvp https://t.co/5KYz4PW4xt",New081082,"['AI', 'DigitalTransformation', 'MachineLearning', 'BigData', 'DataScience', '100DaysOfCode', 'DEVCommunity', 'RPA', 'ITStrategy', 'ArtificialIntelligence', 'IoT', 'smartcities', 'IIoT', 'IoTPL']",8,1,https://twitter.com/New081082/status/1371433623623065603
+18,"The Power of Predictive Analysis
 
-#DEVCommunity https://t.co/AZ0eujwaFE",ThePracticalDev,['DEVCommunity'],8,20,https://twitter.com/ThePracticalDev/status/1369606208039092224
-86,"#INSTAGRAM SHOPPING – HIT OR MISS?
+#100DaysOfCode #DEVCommunity #dotnet #dotnetcore #Python #Python3 #javascript #programming #algorithms #git #DevCommunityIN #CodeNewbie #CodeNewbies #Linux #ArtificialIntelligence #Networking #Azure #MachineLearning #Scrum #API #designthinking https://t.co/1ExOw50MBY",New081082,"['100DaysOfCode', 'DEVCommunity', 'dotnet', 'dotnetcore', 'Python', 'Python3', 'javascript', 'programming', 'algorithms', 'git', 'DevCommunityIN', 'CodeNewbie', 'CodeNewbies', 'Linux', 'ArtificialIntelligence', 'Networking', 'Azure', 'MachineLearning', 'Scrum', 'API', 'designthinking']",12,7,https://twitter.com/New081082/status/1371433480811282438
+19,Explaining magic behind popular Ruby on Rails code #RubyOnRails #100DaysOfCode #DEVCommunity #Ruby #Rails #100daysofcoding #100dayschallenge #CodeNewbies #longliveruby #coding #programmingisfun #ror https://t.co/lKMtW3TrCU,longliveruby,"['RubyOnRails', '100DaysOfCode', 'DEVCommunity', 'Ruby', 'Rails', '100daysofcoding', '100dayschallenge', 'CodeNewbies', 'longliveruby', 'coding', 'programmingisfun', 'ror']",8,5,https://twitter.com/longliveruby/status/1371433149880799233
+20,"🔥Uploaded 200 videos on YouTube🔥
 
-Link: https://t.co/n4iONBjti7
+I started YouTube on 08-Jun-2020, and uploaded 200 videos.  I wake-up at 5 am to record these videos, but got only 468 subscribers till now.
 
-#websitedesign #webdesign #devteam #webdevelopment #imvtank #webdeveloper #webdesigner #webdev #DEVCommunity #gamedev #indiedev #socialmedia #DigitalMarketing #Magento #SEO #blogger #UI #UX",imVtank,"['INSTAGRAM', 'websitedesign', 'webdesign', 'devteam', 'webdevelopment', 'imvtank', 'webdeveloper', 'webdesigner', 'webdev', 'DEVCommunity', 'gamedev', 'indiedev', 'socialmedia', 'DigitalMarketing', 'Magento', 'SEO', 'blogger', 'UI', 'UX']",3,3,https://twitter.com/imVtank/status/1369606003881246721
-87,"Handy but high-security featured contact form in 5 minutes:) 
+Please do subscribe.
 
-""Building a Contact Form with Gatsby &amp; getform in 5 minutes"" #DEVCommunity https://t.co/FkQmoOND6K",arisa_dev,['DEVCommunity'],0,0,https://twitter.com/arisa_dev/status/1369604874346799104
-88,"Most innovative Companies to watch in #IoT ▶️
-#Analytics #AI #BigData #Python #Rstats #Reactjs #ML #NLP #Linux #Serverless #flutter #javascript
-#TensorFlow #MachineLearning
-#IIoT #DataScientist #SmartCity #Coding #SmartHome 
+#DEVcommunity @freeCodeCamp #CodeNewbies #javascript30 
+
+https://t.co/TkbydA5RF0",nabendu82,"['DEVcommunity', 'CodeNewbies', 'javascript30']",0,0,https://twitter.com/nabendu82/status/1371433058738466819
+21,"""A full comparison of 6 JS libraries for generating PDFs"" by HandDot #DEVCommunity https://t.co/DIlWcJkNPe",hand_dot,['DEVCommunity'],0,0,https://twitter.com/hand_dot/status/1371432999615557635
+22,Oh I forgot to mention yesterday that I coded and deployed my first @discord js bot! It works wonderfully! It assigns roles based on certain reactions. #DEVCommunity,Chii_Fett,['DEVCommunity'],0,0,https://twitter.com/Chii_Fett/status/1371431866843209729
+23,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""Learning is finding out what you already know.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",5,6,https://twitter.com/TheFieryBot/status/1371431369008676869
+24,"Can You Answer this #Coding #Interview Question? 🤔
+
+⚡️  Topic: #adonet
+⭐️  Difficulty:  🟢 Junior
+❓  QA: ""Describe when you would use the `DataView` in https://t.co/HmH6k4eD6V?""
+
+Or Check ANSWER 👉 https://t.co/iSuYqSrNSG
+
+#100DaysOfCode #DEVCommunity #CodeNewbie #freeCodeCamp",FullStack_Cafe,"['Coding', 'Interview', 'adonet', '100DaysOfCode', 'DEVCommunity', 'CodeNewbie', 'freeCodeCamp']",7,2,https://twitter.com/FullStack_Cafe/status/1371430979844382723
+25,"“Before software can be reusable it first has to be usable.” – Ralph Johnson
+-
+#javascript #programming #100DaysOfCode #DEVCommunity",DevLorenzo1,"['javascript', 'programming', '100DaysOfCode', 'DEVCommunity']",15,7,https://twitter.com/DevLorenzo1/status/1371430625912233984
+26,"Top React Grid components and lib.s for 2021⚛️
+
+🔹Rebass
+🔸React-flexbox-grid
+🔹Auto-responsive-react
+🔸Grommet
+🔹React-grid-system
+🔸React-stonecutter
+🔹React-Bootstrap
+🔸react-stack-grid
+🔹Hedron
+
+Credits:Nelson Michael{@LogRocket}
+
+#100DaysOfCode #DEVCommunity",NovaManish,"['100DaysOfCode', 'DEVCommunity']",5,4,https://twitter.com/NovaManish/status/1371430359187910659
+27,Adding https://t.co/VUwPxXzZLc MVC view for Action method #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/pcHN6Z3N3I,dotnetforall,"['programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",10,2,https://twitter.com/dotnetforall/status/1371429748748996613
+28,"The ultimate alternative to carbon for sharing your Code snippets is Snippet Shot by @MarcoSlooten
+
+Main feature is that you can directly paste the Gist URL and it will make the pdf and you can customize with various options. 
+
 #DEVCommunity #100DaysOfCode
-https://t.co/jj4PdrA9K1 https://t.co/qXW6IJ89Ff",Analytics_699,"['IoT', 'Analytics', 'AI', 'BigData', 'Python', 'Rstats', 'Reactjs', 'ML', 'NLP', 'Linux', 'Serverless', 'flutter', 'javascript', 'TensorFlow', 'MachineLearning', 'IIoT', 'DataScientist', 'SmartCity', 'Coding', 'SmartHome', 'DEVCommunity', '100DaysOfCode']",35,20,https://twitter.com/Analytics_699/status/1369604527784042499
-89,"Life becomes more generous once you have learned to focus.
+https://t.co/f0oCN28CGD",rahxul,"['DEVCommunity', '100DaysOfCode']",6,4,https://twitter.com/rahxul/status/1371429548219269120
+29,"I try to keep solving algorithms and data structures questions in case I have to find a #job but I find it hard to stay consistent 🤦🏾‍♀️. 
+Any tips??
+#DEVCommunity",joyancefa,"['job', 'DEVCommunity']",0,0,https://twitter.com/joyancefa/status/1371429488970596353
+30,"Func, Action and Predicate in C# With Example #dotnet #csharp #csharp #dotnet  #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/q2TdgEYUbY",dotnetforall,"['dotnet', 'csharp', 'csharp', 'dotnet', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",6,0,https://twitter.com/dotnetforall/status/1371429173437341697
+31,"Even your side project can be useful for people 🥳
+Share few charts with us @heybereket 
 
-#100DaysOfCode #DEVCommunity  #CodeNewbies #MotivationalQuotes #motivation https://t.co/Wv8CkGHS7l",MohammedMalaka,"['100DaysOfCode', 'DEVCommunity', 'CodeNewbies', 'MotivationalQuotes', 'motivation']",8,8,https://twitter.com/MohammedMalaka/status/1369604152322588672
-90,"Get rid of warnings using this code snippet on the top of your #python code.
+#DEVCommunity #CodeNewbie #coding https://t.co/FYn7F57u38",csaba_kissi,"['DEVCommunity', 'CodeNewbie', 'coding']",4,3,https://twitter.com/csaba_kissi/status/1371428743122714629
+32,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",11,1,https://twitter.com/TheFieryBot/status/1371428600768036864
+33,"What is Integrated #AI Strategy?
+👉 https://t.co/GQilx7f7b3 @Deloitte via @ingliguori #DigitalTransformation #MachineLearning #BigData #DataScience #100DaysOfCode #DEVCommunity #ITStrategy #ArtificialIntelligence #IoT #smartcities #IIoT  @Ronald_vanLoon  https://t.co/xbvec1aWj8",digitalke1,"['AI', 'DigitalTransformation', 'MachineLearning', 'BigData', 'DataScience', '100DaysOfCode', 'DEVCommunity', 'ITStrategy', 'ArtificialIntelligence', 'IoT', 'smartcities', 'IIoT']",8,2,https://twitter.com/digitalke1/status/1371428184202350594
+34,"""Generate a PDF in JS Summary and comparison of libraries"" by HandDot #DEVCommunity https://t.co/tenVBXMsjF",labelmake,['DEVCommunity'],0,0,https://twitter.com/labelmake/status/1371427560500858883
+35,"This video is a detailed dive into @ChromeDevTools
 
-#programming #DEVCommunity
-#100DaysofCode https://t.co/9EA5eKXgFx",sopanenm,"['python', 'programming', 'DEVCommunity', '100DaysofCode']",10,2,https://twitter.com/sopanenm/status/1369604110471823363
-91,"Plan out the things is very good, but sometimes It's better to just do the things instead of procrastinating
+- The Inspector 
+- JavaScript Console
+- local &amp; session storage
+- using DevTools as a code editor
+- site security
+- running audits
 
-#developers #nodejs #coding #reactjs #100DaysOfCode #webdev #coder #tech #javascript #womenwhocode #CodeNewbie  #java #Python  #DEVCommunity #Python3 #DataScience 
-#AI",Br3Sc,"['developers', 'nodejs', 'coding', 'reactjs', '100DaysOfCode', 'webdev', 'coder', 'tech', 'javascript', 'womenwhocode', 'CodeNewbie', 'java', 'Python', 'DEVCommunity', 'Python3', 'DataScience', 'AI']",17,12,https://twitter.com/Br3Sc/status/1369603943085481985
-92,"About To Reach Our 1000th subscriber this year!
-Join Us At AceAI For Data Science Career Prep!
+https://t.co/givIeuSUzT
 
-#Python #DEVCommunity #100DaysOfCode #MachineLearning #programming #IoT #flutter #100DaysOfMLCode #javascript #datascientist #RStats #Serverless #CodeNewbie #DataScience",AceAILondon,"['Python', 'DEVCommunity', '100DaysOfCode', 'MachineLearning', 'programming', 'IoT', 'flutter', '100DaysOfMLCode', 'javascript', 'datascientist', 'RStats', 'Serverless', 'CodeNewbie', 'DataScience']",29,10,https://twitter.com/AceAILondon/status/1369602846618976257
-93,"the first public version of React was released about 8 years ago. It's come a long way since then, but still pretty much the same. https://t.co/aadbW3C4J6 #freeCodeCamp #webdeveloper #codenewbie #DEVCommunity #100DaysOfCode #javascript #reactjs #FrontEndDev https://t.co/t3iKA64SfK",webmechanicx,"['freeCodeCamp', 'webdeveloper', 'codenewbie', 'DEVCommunity', '100DaysOfCode', 'javascript', 'reactjs', 'FrontEndDev']",9,6,https://twitter.com/webmechanicx/status/1369602531685376006
-94,"How #MachineLearning can boost Predictive Analytics ▶️
-#Analytics #BigData #AI #Rstats #Reactjs #IoT #IIoT #Linux #ML #NLP #DEVCommunity #flutter #DataScientist #CloudComputing
-#Python #SelfDrivingCars #Coding #SmartHome #mHealth #fintech #100DaysOfCode
-https://t.co/XWQO7CLAV6 https://t.co/Vcwnxx012F",Analytics_699,"['MachineLearning', 'Analytics', 'BigData', 'AI', 'Rstats', 'Reactjs', 'IoT', 'IIoT', 'Linux', 'ML', 'NLP', 'DEVCommunity', 'flutter', 'DataScientist', 'CloudComputing', 'Python', 'SelfDrivingCars', 'Coding', 'SmartHome', 'mHealth', 'fintech', '100DaysOfCode']",32,13,https://twitter.com/Analytics_699/status/1369602210850480131
-95,Using Tuples(C#) #csharp #dotnet  #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/IRCQHh1GrK,dotnetforall,"['csharp', 'dotnet', 'programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",11,3,https://twitter.com/dotnetforall/status/1369602108627054592
-96,"Even a small free project can be profitable. 
-Sometimes you spend 4 hours on a side project and it will bring you a nice monthly recurring revenue 🙌
+#tryMinim #DEVCommunity #100daysofcode #CodeNewbie #codinglife",tryminim,"['tryMinim', 'DEVCommunity', '100daysofcode', 'CodeNewbie', 'codinglife']",7,4,https://twitter.com/tryminim/status/1371426722101534725
+36,"The Rise of #MachineLearning to Manage #DarkData 
 
-#codenewbie #coding #DEVCommunity",csaba_kissi,"['codenewbie', 'coding', 'DEVCommunity']",4,8,https://twitter.com/csaba_kissi/status/1369599574390759433
-97,"It really :is() 
+#ArtificalIntelligence #DeepLearning #Python #Programming #DEVCommunity #DevOps #100DaysOfCode #WomenWhoCode https://t.co/yBIdvU2e1G",New081082,"['MachineLearning', 'DarkData', 'ArtificalIntelligence', 'DeepLearning', 'Python', 'Programming', 'DEVCommunity', 'DevOps', '100DaysOfCode', 'WomenWhoCode']",4,2,https://twitter.com/New081082/status/1371426617474445312
+37,"Assumptions can directly lead to success or failure. Similarly in #MachineLearning, appreciating the assumed logic behind #ML techniques will guide you toward applying the best tool for the data.
 
-#DEVCommunity https://t.co/usy2Tx8nr8",ThePracticalDev,['DEVCommunity'],12,52,https://twitter.com/ThePracticalDev/status/1369599163969777664
-98,"When to use design pattern? 👇
-#100DaysOfCode #DEVCommunity #CodeNewbie",CodeAsItIs1,"['100DaysOfCode', 'DEVCommunity', 'CodeNewbie']",9,2,https://twitter.com/CodeAsItIs1/status/1369599062467485696
-99,"""Create simple login form in React"" by @dirask_service #DEVCommunity https://t.co/3dQQgB57s6",srinivas_munna,['DEVCommunity'],1,0,https://twitter.com/srinivas_munna/status/1369598679007457286
+#AI #DeepLearning #Python #DEVCommunity #WomenWhoCode 
+
+https://t.co/NdmvdZqLv7",HishamB6,"['MachineLearning', 'ML', 'AI', 'DeepLearning', 'Python', 'DEVCommunity', 'WomenWhoCode']",3,3,https://twitter.com/HishamB6/status/1371426083325808645
+38,"Using percentages everywhere doesn't mean your web is gonna be fully responsive.
+
+Stop using % for everything and learn some intrinsic web design.
+
+#css #html #100DaysOfCode #codenewbie #webdev #DEVCommunity",iSeeBoxes,"['css', 'html', '100DaysOfCode', 'codenewbie', 'webdev', 'DEVCommunity']",0,1,https://twitter.com/iSeeBoxes/status/1371425946767654914
+39,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""The world is round and the place which may seem like the end may also be the beginning.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",7,7,https://twitter.com/TheFieryBot/status/1371425832946827266
+40,"The Rise of #MachineLearning to Manage #DarkData 
+
+#ArtificalIntelligence #DeepLearning #Python #Programming #DEVCommunity #DevOps #100DaysOfCode #WomenWhoCode 
+
+https://t.co/dUyzzLzne8",HishamB6,"['MachineLearning', 'DarkData', 'ArtificalIntelligence', 'DeepLearning', 'Python', 'Programming', 'DEVCommunity', 'DevOps', '100DaysOfCode', 'WomenWhoCode']",17,7,https://twitter.com/HishamB6/status/1371425175686774790
+41,"Django vs Express JS
+
+What do you prefer? why?
+
+#DEVCommunity",maran_sowthri,['DEVCommunity'],0,0,https://twitter.com/maran_sowthri/status/1371425122419011588
+42,"How can I disable Chrome experimental option same-site-by-default-cookies in C# Selenium? - a small snippet - Vlad Setchin Blog
+https://t.co/wlPpithTpP 
+#100DaysOfCode #301DaysOfCode #CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #chrome",vladsetchin,"['100DaysOfCode', '301DaysOfCode', 'CodeNewbie', 'DEVcommunity', 'ContinuousLearning', 'DeveloperSkills', 'developer', 'chrome']",4,0,https://twitter.com/vladsetchin/status/1371424124317233159
+43,"#AI-made art is more than a gimmick. It shows us how computers think.
+
+#ArtificalIntelligence #MachineLearning #DeepLearning #Python #Programming #DEVCommunity #DevOps #100DaysOfCode #WomenWhoCode
+
+https://t.co/k0LbTE66oe",HishamB6,"['AI', 'ArtificalIntelligence', 'MachineLearning', 'DeepLearning', 'Python', 'Programming', 'DEVCommunity', 'DevOps', '100DaysOfCode', 'WomenWhoCode']",10,4,https://twitter.com/HishamB6/status/1371424088414167041
+44,"Using AutoMapper &amp; Heroic AutoMapper in .Net Core WebApi - Vlad Setchin Blog
+https://t.co/bqmMLUzNFs
+#100DaysOfCode #301DaysOfCode #CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #webdev #dotnetcore",vladsetchin,"['100DaysOfCode', '301DaysOfCode', 'CodeNewbie', 'DEVcommunity', 'ContinuousLearning', 'DeveloperSkills', 'developer', 'webdev', 'dotnetcore']",4,0,https://twitter.com/vladsetchin/status/1371424012333555713
+45,"Checkout our guide ""How to install LogChimp on Ubuntu?""
+https://t.co/tlyqL1Ryms
+
+#ubuntu #linux #DevCommunity #opensource #100DaysOfCode #selfhost",logchimp,"['ubuntu', 'linux', 'DevCommunity', 'opensource', '100DaysOfCode', 'selfhost']",6,1,https://twitter.com/logchimp/status/1371423830405652487
+46,"Are you using StackOverflow correctly?
+
+#Developer #webdev #programming #SoftwareEngineer #softwaredeveloper #javascript #javascript30 #100DaysOfCode #30Daysofcode #Coding #CodeNewbie #DEVCommunity #programmers #code #programmer #webdeveloper #SoftwareDeveloper https://t.co/6wqSJYzqXQ",theninjacoding,"['Developer', 'webdev', 'programming', 'SoftwareEngineer', 'softwaredeveloper', 'javascript', 'javascript30', '100DaysOfCode', '30Daysofcode', 'Coding', 'CodeNewbie', 'DEVCommunity', 'programmers', 'code', 'programmer', 'webdeveloper', 'SoftwareDeveloper']",15,4,https://twitter.com/theninjacoding/status/1371423431636361220
+47,"How to Create Beautiful Instagram Highlight Covers with Canva (40 Free Icons)
+https://t.co/lfNobjQAIW 
+#100DaysOfCode #301DaysOfCode #CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #webdev",vladsetchin,"['100DaysOfCode', '301DaysOfCode', 'CodeNewbie', 'DEVcommunity', 'ContinuousLearning', 'DeveloperSkills', 'developer', 'webdev']",6,2,https://twitter.com/vladsetchin/status/1371423358848409603
+48,"Complete Introduction to Microsoft Power BI. https://t.co/vbTiOMk8ys
+ #100DaysOfCode #SQL #DataScience #UX #UI #Dev #DEVCommunity #WomenWhoCode #Udemy #Education #BI #Python https://t.co/aCVSGKqBh1",jmdevlabs,"['100DaysOfCode', 'SQL', 'DataScience', 'UX', 'UI', 'Dev', 'DEVCommunity', 'WomenWhoCode', 'Udemy', 'Education', 'BI', 'Python']",7,2,https://twitter.com/jmdevlabs/status/1371423309213106177
+49,"Using NgRx Store with Angular
+https://t.co/UvcuAnjI2a
+#100DaysOfCode #301DaysOfCode #CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #webdev #Angular",vladsetchin,"['100DaysOfCode', '301DaysOfCode', 'CodeNewbie', 'DEVcommunity', 'ContinuousLearning', 'DeveloperSkills', 'developer', 'webdev', 'Angular']",11,1,https://twitter.com/vladsetchin/status/1371423144808837122
+50,"""Vue.js 101 - part 1: First step"" @vuejs @laravelphp @DailyLaravel  by @justericchapman #DEVCommunity https://t.co/nSp11QPri9",justericchapman,['DEVCommunity'],0,2,https://twitter.com/justericchapman/status/1371423137066258438
+51,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",11,3,https://twitter.com/TheFieryBot/status/1371423064559386624
+52,Dear @twitter who should I follow to learn more about JavaScript? Any recommandation will help. #JavaScript #DEVCommunity #twitter #Motivation,NorbertFuhs,"['JavaScript', 'DEVCommunity', 'twitter', 'Motivation']",3,2,https://twitter.com/NorbertFuhs/status/1371422706068033536
+53,"How Does Artificial Intelligence Learn? 
+
+#ArtificalIntelligence #MachineLearning #DeepLearning #Python #Programming #DEVCommunity #DevOps #100DaysOfCode #WomenWhoCode 
+
+https://t.co/i6RTHMTVKF",HishamB6,"['ArtificalIntelligence', 'MachineLearning', 'DeepLearning', 'Python', 'Programming', 'DEVCommunity', 'DevOps', '100DaysOfCode', 'WomenWhoCode']",18,9,https://twitter.com/HishamB6/status/1371421691268710402
+54,"Facebook's #AI algorithms gave it an insatiable habit for lies and hate speech. Now the man who built them can't fix the problem.
+
+#MachineLearning #DeepLearning #Python #Programming #DEVCommunity #DevOps #100DaysOfCode #WomenWhoCode 
+
+https://t.co/UWKqsH9kPw",HishamB6,"['AI', 'MachineLearning', 'DeepLearning', 'Python', 'Programming', 'DEVCommunity', 'DevOps', '100DaysOfCode', 'WomenWhoCode']",17,6,https://twitter.com/HishamB6/status/1371420956024053768
+55,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""If you want your life to be more rewarding, you have to change the way you think.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",8,6,https://twitter.com/TheFieryBot/status/1371420296528412673
+56,"Started working on my first-ever freelance project today. Wish me luck :)
+
+#devcommunity #studentdevelopers",kushiosdev,"['devcommunity', 'studentdevelopers']",0,0,https://twitter.com/kushiosdev/status/1371419923411394562
+57,"Branding and Logo Design Inspiration - vol. 128 💡🌀
+
+#AI #machinelearning #BigData #IoT #deeplearning #FutureTech #ArtificialIntelligence #coders #DEVcommunity #programming #developers #coders #python #100daysofcode #pythonic #TensorFlow
+
+https://t.co/t2xKvYWqwH",theymakedesign,"['AI', 'machinelearning', 'BigData', 'IoT', 'deeplearning', 'FutureTech', 'ArtificialIntelligence', 'coders', 'DEVcommunity', 'programming', 'developers', 'coders', 'python', '100daysofcode', 'pythonic', 'TensorFlow']",21,11,https://twitter.com/theymakedesign/status/1371419670348058630
+58,"The unsung heroes!
+
+#100DaysOfCode #DEVCommunity #OpenSource #webdevelopment #webdev https://t.co/oNyZpkaLDT",lambdatesting,"['100DaysOfCode', 'DEVCommunity', 'OpenSource', 'webdevelopment', 'webdev']",10,6,https://twitter.com/lambdatesting/status/1371419162380181515
+59,"""CSS Tips: Relative units with EM and REM"" by @fariasmateuss #DEVCommunity https://t.co/6RSyUtIzE4",srinivas_munna,['DEVCommunity'],0,0,https://twitter.com/srinivas_munna/status/1371418757977935875
+60,"Hackathons are probably one of the best places to network with people and simultaneously learn and enhance your skills. Here are the 10 best places to look out for in order to attend a hackathon.
+
+{ author: @Deveshb15 } #DEVCommunity https://t.co/AlaI1NiYCV",ThePracticalDev,['DEVCommunity'],5,21,https://twitter.com/ThePracticalDev/status/1371418650939379713
+61,"It's Monday, and I want to remind you to clean the air vents on your laptop and add the thermal paste to your processors. #CodeNewbies #DEVCommunity #100DaysOfCode",DannyBambin0,"['CodeNewbies', 'DEVCommunity', '100DaysOfCode']",4,3,https://twitter.com/DannyBambin0/status/1371418230464610305
+62,"Which frontend framework are you using? 🤔
+
+#DEVCommunity #100DaysOfCode #IndieHackers",aweindie,"['DEVCommunity', '100DaysOfCode', 'IndieHackers']",4,2,https://twitter.com/aweindie/status/1371418190887186432
+63,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""The only difference between your abilities and others is the ability to put yourself in their shoes and actually try.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",5,4,https://twitter.com/TheFieryBot/status/1371417527964868610
+64,"You can lazy load images/iframes without JS. There are few things you need to know...
+
+1️⃣ FF supports lazy load images but no iframes
+2️⃣ in Safari you need to explicitly turn it on in experimental settings.
+
+#DEVCommunity #codenewbie #coding https://t.co/lAWP9XieSj",csaba_kissi,"['DEVCommunity', 'codenewbie', 'coding']",10,13,https://twitter.com/csaba_kissi/status/1371417448285634560
+65,"First article I wrote ! ""How to become a true full-stack developer"" #DEVCommunity #article #webdevelopment #developer https://t.co/9EkJT9Y4Qm 
+
+Comment and react!",DylanTuna,"['DEVCommunity', 'article', 'webdevelopment', 'developer']",2,0,https://twitter.com/DylanTuna/status/1371417237987426304
+66,"The best free graphic design software.
+
+#coding #programming #javascript #reactjs #Python #pythonlearning #pythonprogramming #100DaysOfCode #CodeNewbie #DEVCommunity #freeCodeCamp #WomenWhoCode https://t.co/FBv7barYZr",dixre_developer,"['coding', 'programming', 'javascript', 'reactjs', 'Python', 'pythonlearning', 'pythonprogramming', '100DaysOfCode', 'CodeNewbie', 'DEVCommunity', 'freeCodeCamp', 'WomenWhoCode']",18,6,https://twitter.com/dixre_developer/status/1371416674361040896
+67,"From KB : Use Arbitrary Parameters and Attribute Splatting in Blazor
+
+https://t.co/r8In67izTx
+
+#AspNet  #AspNetCore  #DotNet  #DotNetCore   #CSharp #VisualStudio  #WebDevelopment  #Programming  #SoftwareDevelopment  #Coding #DevCommunity #Blazor",joshibipin,"['AspNet', 'AspNetCore', 'DotNet', 'DotNetCore', 'CSharp', 'VisualStudio', 'WebDevelopment', 'Programming', 'SoftwareDevelopment', 'Coding', 'DevCommunity', 'Blazor']",8,0,https://twitter.com/joshibipin/status/1371416492869185537
+68,"""Easy Tips for Learning A New Language"" by @tarabernardin #DEVCommunity https://t.co/ETmolXclFy 
+
+#tarabernardin",tarabernardin,"['DEVCommunity', 'tarabernardin']",0,0,https://twitter.com/tarabernardin/status/1371416467627859968
+69,"Interview resources : ML/Data Science/AI Research Engineer.
+#MachineLearning #DataScience #DEVCommunity #IoT #Engineering #Womenintech #Serverless #tech #DevOps #Womenwhocode #softwareengineers #Coding #AI https://t.co/cm0Dvxwy9W",AnnePordon,"['MachineLearning', 'DataScience', 'DEVCommunity', 'IoT', 'Engineering', 'Womenintech', 'Serverless', 'tech', 'DevOps', 'Womenwhocode', 'softwareengineers', 'Coding', 'AI']",6,1,https://twitter.com/AnnePordon/status/1371415892534329348
+70,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""Never bend your head. Always hold it high. Look the world right in the eye.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",4,2,https://twitter.com/TheFieryBot/status/1371414759988457473
+71,Just Blogged : Composite pattern with two Examples #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/rC9KKKJu9d,dotnetforall,"['programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",10,3,https://twitter.com/dotnetforall/status/1371414044092067842
+72,"If you are looking for a secure meeting platform and chat then join our webinar to find out about #HCLSametime!
+#100DaysOfCode #datascience #codenewbie 
+#Devcommunity #flutter #python #womenintech #30DaysOfCode #coding #javascript  https://t.co/xgyN9XuKfp https://t.co/clyrFj4W2R",StephanieHeit,"['HCLSametime', '100DaysOfCode', 'datascience', 'codenewbie', 'Devcommunity', 'flutter', 'python', 'womenintech', '30DaysOfCode', 'coding', 'javascript']",17,3,https://twitter.com/StephanieHeit/status/1371413293361946628
+73,"As a self-taught dev, what are your challenges in learning?
+
+{ author: @AdiatiAyu } #DEVCommunity https://t.co/KIhl83aMKk",ThePracticalDev,['DEVCommunity'],1,16,https://twitter.com/ThePracticalDev/status/1371413114919522304
+74,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""I destroy my enemies when I make them my friends.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",5,0,https://twitter.com/TheFieryBot/status/1371411991680720898
+75,I am struggling with my #engineering chartership. :( I haven't done anything the last 3 weeks because I prefer spending my free time on learning #reactjs... #DEVCommunity #webdev #ciob,T0ny_Boy,"['engineering', 'reactjs', 'DEVCommunity', 'webdev', 'ciob']",2,0,https://twitter.com/T0ny_Boy/status/1371409647270293504
+76,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""What is a weed? A plant whose virtues have not yet been discovered.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",12,1,https://twitter.com/TheFieryBot/status/1371409223054155776
+77,"In this tutorial, you will learn about Structure in C programming, how to create Structure variables, &amp; how to access Structure members.
+
+✍ By @usemynotes.
+
+#hashnode #devcommunity
+
+https://t.co/iDPcAhR5jO",hashnode,"['hashnode', 'devcommunity']",4,8,https://twitter.com/hashnode/status/1371408352157241347
+78,"Why your #business needs a website in 2021?
+
+Link: https://t.co/AVmu4JddDu
+
+#websitedesign #webdesign #devteam #webdevelopment #imvtank #webdeveloper #webdesigner #webdev #DEVCommunity #gamedev #indiedev #socialmedia #DigitalMarketing #Magento #blogger #UI #UX",imVtank,"['business', 'websitedesign', 'webdesign', 'devteam', 'webdevelopment', 'imvtank', 'webdeveloper', 'webdesigner', 'webdev', 'DEVCommunity', 'gamedev', 'indiedev', 'socialmedia', 'DigitalMarketing', 'Magento', 'blogger', 'UI', 'UX']",6,6,https://twitter.com/imVtank/status/1371408275724406794
+79,"""#5 Adding MongoDB to react-express-graphql project Part 2"" by @MehakSaini11 #DEVCommunity https://t.co/blozWpER5L 
+
+#100DaysOfCode 
+#WomenWhoCode 
+#womenintech 
+#reactJS
+#GraphQL 
+#MongoDB 
+#FullstackDevJs 
+#express",MehakSaini11,"['DEVCommunity', '100DaysOfCode', 'WomenWhoCode', 'womenintech', 'reactJS', 'GraphQL', 'MongoDB', 'FullstackDevJs', 'express']",7,2,https://twitter.com/MehakSaini11/status/1371407154511368192
+80,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""The cause is hidden. The effect is visible to all.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",5,0,https://twitter.com/TheFieryBot/status/1371406454733873154
+81,https://t.co/VUwPxXzZLc Core Prerequisites and First Web Application #programmer #programming #dotnetforall #100DaysOfCode #DEVCommunity  https://t.co/Bxb2McT2rk,dotnetforall,"['programmer', 'programming', 'dotnetforall', '100DaysOfCode', 'DEVCommunity']",7,3,https://twitter.com/dotnetforall/status/1371406227935219712
+82,"""GPT-3: The Rising Popularity and the Materializing Flaws""
+
+#100DaysOfCode #100DaysOfMLCode #DEVCommunity #womenwhocode 
+#javascript #Serverless 
+#ArtificialIntelligence #MachineLearning #AI #DeepLearning #ML
+ https://t.co/FWdvI68xcl",RealRavi__,"['100DaysOfCode', '100DaysOfMLCode', 'DEVCommunity', 'womenwhocode', 'javascript', 'Serverless', 'ArtificialIntelligence', 'MachineLearning', 'AI', 'DeepLearning', 'ML']",12,3,https://twitter.com/RealRavi__/status/1371405163076931587
+83,"No more two monitors for me! 👎
+
+I'm just going to try to work on my laptop while lying in bed. I can not focus on code with the neck and back pain I have. 
+
+Any tips on how to avoid neck and back pain?
+
+#DEVCommunity
+#100DaysOfCode",elikrizevski,"['DEVCommunity', '100DaysOfCode']",9,6,https://twitter.com/elikrizevski/status/1371405051709767682
+84,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""Until you value yourself, you won't value your time. Until you value your time, you won't do anything with it.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",2,0,https://twitter.com/TheFieryBot/status/1371403686723915776
+85,"#Infographic: #DataScience Roles &amp; How They Interact. Via @ingliguori
+ #Analytics #Rstats #AI #Reactjs #Python #datamining #MachineLearning #IIoT #ML #CloudComputing #NLP #PyTorch #TensorFlow #Coding #Linux #Tableau #100DaysOfCode #DEVCommunity  https://t.co/TrJF0RScfK
+@Verinite",digitalke1,"['Infographic', 'DataScience', 'Analytics', 'Rstats', 'AI', 'Reactjs', 'Python', 'datamining', 'MachineLearning', 'IIoT', 'ML', 'CloudComputing', 'NLP', 'PyTorch', 'TensorFlow', 'Coding', 'Linux', 'Tableau', '100DaysOfCode', 'DEVCommunity']",25,18,https://twitter.com/digitalke1/status/1371403058006126593
+86,"GitHub Insights are a great way to check how your open-source project is going... but have a 1-month data limit! 😱
+
+Let's overcome that with a serverless approach with AWS Lambda, DynamoDB, TypeScript, and Terraform! 🚀
+
+#DEVCommunity #DevOps
+
+https://t.co/0rduBPPeWI",NicoloMarchesi,"['DEVCommunity', 'DevOps']",1,1,https://twitter.com/NicoloMarchesi/status/1371402645060124673
+87,"#Infographic: #DataScience Roles &amp; How They Interact. Via @ingliguori
+ #Analytics #Rstats #AI #Reactjs #Python #datamining #MachineLearning #IIoT #ML #CloudComputing #NLP #PyTorch #TensorFlow #Coding #Linux #Tableau #100DaysOfCode #DEVCommunity https://t.co/TrJF0RScfK
+@_qu4nt",digitalke1,"['Infographic', 'DataScience', 'Analytics', 'Rstats', 'AI', 'Reactjs', 'Python', 'datamining', 'MachineLearning', 'IIoT', 'ML', 'CloudComputing', 'NLP', 'PyTorch', 'TensorFlow', 'Coding', 'Linux', 'Tableau', '100DaysOfCode', 'DEVCommunity']",20,7,https://twitter.com/digitalke1/status/1371402536687648768
+88,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""Divide each difficulty into as many parts as is feasible and necessary to resolve it.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",5,3,https://twitter.com/TheFieryBot/status/1371400918546145282
+89,"Check my latest post on @ThePracticalDev about the math game I built using @FlutterDev &amp; @Firebase 
+
+https://t.co/Yz7SkviVVo
+
+#100DaysOfCode #DEVCommunity  #CodeNewbies #30DaysOfFlutter #flutterdev",MohammedMalaka,"['100DaysOfCode', 'DEVCommunity', 'CodeNewbies', '30DaysOfFlutter', 'flutterdev']",5,3,https://twitter.com/MohammedMalaka/status/1371400903727669251
+90,"Microsoft Power BI - Business Intelligence for Beginners. https://t.co/fhOKrBA79v
+ #100DaysOfCode #SQL #DataScience #UX #UI #Dev #DEVCommunity #WomenWhoCode #Udemy #Education #BI #Python https://t.co/0NaNMkcDel",jmdevlabs,"['100DaysOfCode', 'SQL', 'DataScience', 'UX', 'UI', 'Dev', 'DEVCommunity', 'WomenWhoCode', 'Udemy', 'Education', 'BI', 'Python']",8,1,https://twitter.com/jmdevlabs/status/1371399818275385345
+91,"Day 69 of #100DaysOfCode
+
+Published a basic about me site designed with Bootstrap - https://t.co/I3nI5X1YpI
+
+#DevCommunity #WebDeveloper #Dev #TechTwitter",gj0_dev,"['100DaysOfCode', 'DevCommunity', 'WebDeveloper', 'Dev', 'TechTwitter']",8,7,https://twitter.com/gj0_dev/status/1371399762520465410
+92,"""Build a react-router clone from scratch"" by @thomasauros #DEVCommunity https://t.co/7Wduhnc7xf",Hyriel_Mecrith,['DEVCommunity'],0,1,https://twitter.com/Hyriel_Mecrith/status/1371399065448120320
+93,"Web developers are invited to this great opportunity created by @africaCMS in conjunction with Google.
+Share with your network
+
+#DEVCommunity #CMS #webdev #africanweb #GoogleEDU #Google 
+#Bootcamp #WordPressDevelopment 
+#joomla #drupal #naidev https://t.co/oB33tx0wtX",goddyIII,"['DEVCommunity', 'CMS', 'webdev', 'africanweb', 'GoogleEDU', 'Google', 'Bootcamp', 'WordPressDevelopment', 'joomla', 'drupal', 'naidev']",1,1,https://twitter.com/goddyIII/status/1371399061035757569
+94,"#DEVCommunity #webdev #CodeNewbie #javascript #100DaysOfCode 
+""No one has a finer command of language than the person who keeps his mouth shut.""",TheFieryBot,"['DEVCommunity', 'webdev', 'CodeNewbie', 'javascript', '100DaysOfCode']",2,1,https://twitter.com/TheFieryBot/status/1371398150884298753
+95,"#CSS Tip 🎨
+
+You can use the inset keyword in box-shadow to create a shadow inside the borders of an element instead of outside
+
+#100DaysOfCode #DEVCommunity 
+#DEVCommunityIN #webdev #webdevelopers #webdevelopement 
+#CodeNewbies #github #javascript 
+
+https://t.co/3Eg4vgAknk",LibtarduTeen,"['CSS', '100DaysOfCode', 'DEVCommunity', 'DEVCommunityIN', 'webdev', 'webdevelopers', 'webdevelopement', 'CodeNewbies', 'github', 'javascript']",10,6,https://twitter.com/LibtarduTeen/status/1371397980457070592
+96,"3. Can you compute it based on other state or Props in ur components? If so, it's not state.
+
+If u want to read more here is the link
+#100DaysOfCode #coding #CodeNewbie #programmer #programming #AWS #DEVCommunity #DataScience #BigData #javascript #Python 
+
+https://t.co/4bjCIfGK2D",chadrack_code,"['100DaysOfCode', 'coding', 'CodeNewbie', 'programmer', 'programming', 'AWS', 'DEVCommunity', 'DataScience', 'BigData', 'javascript', 'Python']",15,8,https://twitter.com/chadrack_code/status/1371396926298595334
+97,"State criteria that u can apply to determine if data should be statefull,
+1. is it passed in from parent via Props? If so, it probably isn't state
+2.Does it change over time? If not, it probably isn't state
+#100DaysOfCode #CodeNewbie #javascript #DEVCommunity #coding #programming https://t.co/bJHOk8AWqg",chadrack_code,"['100DaysOfCode', 'CodeNewbie', 'javascript', 'DEVCommunity', 'coding', 'programming']",8,8,https://twitter.com/chadrack_code/status/1371396923140227074
+98,"We need a humanitarian vision for AI and robotics https://t.co/Hlm1zwoEA0 
+
+#MachineLearning #AI #100DaysOfCode #DEVCommunity #IoT #flutter #DeepLearning #CyberSecurity #DataScience #business",automeme,"['MachineLearning', 'AI', '100DaysOfCode', 'DEVCommunity', 'IoT', 'flutter', 'DeepLearning', 'CyberSecurity', 'DataScience', 'business']",16,8,https://twitter.com/automeme/status/1371396371517992969
+99,"I will design high converting landing page within 24 hrs.
+check out my gig/ order me: https://t.co/PsQl3z8OlM
+★★★
+#webdesign #webdesigner #website #100DaysOfCode #adobe #DEVCommunity #javascript #portfolio #webdev #ReactJs #Webdesign #100DaysOfMLCode #CSS #html #Nodejs https://t.co/hfAM0PVdL4 https://t.co/QkUoI8ME8j",dev_mahiuddin,"['webdesign', 'webdesigner', 'website', '100DaysOfCode', 'adobe', 'DEVCommunity', 'javascript', 'portfolio', 'webdev', 'ReactJs', 'Webdesign', '100DaysOfMLCode', 'CSS', 'html', 'Nodejs']",7,5,https://twitter.com/dev_mahiuddin/status/1371395392336629761
