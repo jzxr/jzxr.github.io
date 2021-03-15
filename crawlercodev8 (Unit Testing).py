@@ -242,7 +242,7 @@ class crawledgithub(crawleddata):
             os.makedirs('github')
         self.df.to_csv("github/github-" + self.topic + ".csv")
 
-
+#twitter subclass
 class crawledtwitter(crawleddata):
     #authentication obtained Twitter developer 
     def authenticate(self):
@@ -256,7 +256,6 @@ class crawledtwitter(crawleddata):
             "1358278817085681665-szJPAYiD5uzRPyXDYamFnuwh2I2qoI",
             "fEh0d8l2b9kcL8jacPnVSRkleHAK30FS82spLYKSnCtKB",
         )
-
         # initialize Tweepy API
         self.data = tweepy.API(auth)
         return self.data
