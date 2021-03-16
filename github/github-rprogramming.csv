@@ -1,4 +1,4 @@
-,Repository Name,Repository Description,Repository Stars,Repository Programming Language,Repository Other Language,Repository URL
+,Repository Name,Description,Stars,Programming Language,Other Language,URL
 0,RProgrammingForResearch,,69,HTML,"{'HTML': 99.3, 'TeX': 0.56, 'R': 0.1, 'CSS': 0.04, 'Shell': 0.0}",https://github.com/geanders/RProgrammingForResearch
 1,RProgramming,R Programming Course,2,R,{'R': 100.0},https://github.com/xinhongli/RProgramming
 2,RProgrammingWorkshop,Materials for the R Programming Workshop that I teach at The University of Chicago,34,R,{'R': 100.0},https://github.com/nvenkataraman1/RProgrammingWorkshop
@@ -6,7 +6,7 @@
 4,RProgrammingForExcelUsers,"Public GitHub repo for the YouTube video series ""R Programming for Excel Users"" by Dave Langer.",0,R,{'R': 100.0},https://github.com/petrichorcode/RProgrammingForExcelUsers
 5,RProgramming,"Coursera ""R Programming"" course",1,R,{'R': 100.0},https://github.com/kfeoktistoff/RProgramming
 6,RProgramming,,0,R,{'R': 100.0},https://github.com/mbhushan/RProgramming
-7,totalcensus,Extract census data from summary files with R,39,R,{'R': 100.0},https://github.com/GL-Li/totalcensus
+7,totalcensus,Extract census data from summary files with R,40,R,{'R': 100.0},https://github.com/GL-Li/totalcensus
 8,R-Examples,R-Examples for Class MET-CS555,14,R,"{'R': 82.29, 'Jupyter Notebook': 9.53, 'HTML': 8.19}",https://github.com/kiat/R-Examples
 9,rprogramming,Project repository for the Coursera R Programming course.,0,R,{'R': 100.0},https://github.com/bxs6198/rprogramming
 10,Twitter-Sentiment-Analysis-using-R-shiny,Project based on text mining: ,7,R,{'R': 100.0},https://github.com/mbodke/Twitter-Sentiment-Analysis-using-R-shiny

@@ -1,4 +1,4 @@
-,title,id,url,body,timestamp,year,month,sentiment,review,nuetral
+,Title,ID,URL,Body,timestamp,Year,Month,Sentiment,Review,Nuetral
 0,"Lad wrote a Python script to download Alexa voice recordings, he didn't expect this email.",g53lxf,https://i.redd.it/2s0dj8ob12u41.png,,2020-04-21 15:11:39,2020,4,0.0,Good,Nuetral
 1,This post has:,hoolsm,https://www.reddit.com/r/Python/comments/hoolsm/this_post_has/,"9777 upvotes,
 
@@ -38,14 +38,14 @@ and 452 comments!",2020-07-11 05:06:13,2020,7,0.0,Good,Nuetral
 32,"I made an AI opponent for lesser known board game - Chain Reaction. Apparently, it plays better than me!",gjlcyp,https://v.redd.it/7dvqal3f4qy41,,2020-05-15 04:26:00,2020,5,0.0,Good,Nuetral
 33,I wrote a Python program to play Google Dinosaur Game using Gesture Recognition,er9q4h,https://v.redd.it/h0i88azauvb41,,2020-01-20 23:05:04,2020,1,0.0,Good,Nuetral
 34,End-to-End Self Driving Car - Need For Speed,iwt09a,https://v.redd.it/48358seyafo51,,2020-09-21 19:52:04,2020,9,0.0,Good,Nuetral
-35,So I made a Python and Arduino project that dynamically changes sets the ambient lighting to match the computed dominant color values from the wallpapers.,glzol8,https://v.redd.it/nkrgfihtciz41,,2020-05-19 03:26:11,2020,5,0.0,Good,Nuetral
-36,"I am excited to share my 8th published book, Python 101, geared for beginners and intermediate level readers",isbjm4,https://i.redd.it/jsla1w1pq0n51.jpg,,2020-09-14 17:48:41,2020,9,0.0,Good,Nuetral
+35,"I am excited to share my 8th published book, Python 101, geared for beginners and intermediate level readers",isbjm4,https://i.redd.it/jsla1w1pq0n51.jpg,,2020-09-14 17:48:41,2020,9,0.0,Good,Nuetral
+36,So I made a Python and Arduino project that dynamically changes sets the ambient lighting to match the computed dominant color values from the wallpapers.,glzol8,https://v.redd.it/nkrgfihtciz41,,2020-05-19 03:26:11,2020,5,0.0,Good,Nuetral
 37,My Professor wants hand written assignments. So I made MyhandWriting.. that can write in myway on a A4 sheet paper.,g5bbss,https://v.redd.it/no19vtbyq4u41,,2020-04-22 00:16:44,2020,4,0.0,Good,Nuetral
 38,This great message,j5a2ih,https://i.redd.it/iyb4l795b6r51.png,,2020-10-05 16:47:07,2020,10,0.0,Good,Nuetral
 39,Made an annoying Python script that sends a friend on Facebook Messenger the Shrek movie word by word,gaqe3d,https://i.redd.it/04iw5fezewv41.png,,2020-04-30 22:23:00,2020,4,0.0,Good,Nuetral
 40,I'm developing a game with Python and Pygame!,ggt5ld,https://i.redd.it/jogf31rlmux41.gif,,2020-05-10 18:31:23,2020,5,0.0,Good,Nuetral
-41,I finished my Python Ray Tracer capable of rendering refraction and thin film interference!,i9q4dx,https://v.redd.it/gtgkdmis3xg51,,2020-08-15 09:20:14,2020,8,0.0,Good,Nuetral
-42,I made an Instagram Bot to make DeepFakes for everyone! @deepfake.maker,izspe0,https://v.redd.it/0g28dzoh5dp51,,2020-09-26 13:42:11,2020,9,0.0,Good,Nuetral
+41,I made an Instagram Bot to make DeepFakes for everyone! @deepfake.maker,izspe0,https://v.redd.it/0g28dzoh5dp51,,2020-09-26 13:42:11,2020,9,0.0,Good,Nuetral
+42,I finished my Python Ray Tracer capable of rendering refraction and thin film interference!,i9q4dx,https://v.redd.it/gtgkdmis3xg51,,2020-08-15 09:20:14,2020,8,0.0,Good,Nuetral
 43,This post has,iiamfv,https://www.reddit.com/r/Python/comments/iiamfv/this_post_has/,"3829 upvotes,
 
 572 downvotes,
@@ -78,8 +78,8 @@ Have to say it was very hard since I know no developers at all and had no one to
 Still feels weird and definitely have a stromg case of imposter syndrome but after writing my forst lines of code it does feel much better!
 
 Sorry for the useless trivia but like I said,have no dev friends so I had to share the excitement somewhere :D",2020-07-21 23:10:10,2020,7,0.03728354978354977,Good,Not Nuetral
-49,hashtags,e2234a,https://i.redd.it/8ss44ve160141.jpg,,2019-11-27 10:26:29,2019,11,0.0,Good,Nuetral
-50,I released the Code for the Instagram DeepFake Bot!,j2ai2r,https://v.redd.it/8yof81xg56q51,,2020-09-30 15:12:54,2020,9,0.0,Good,Nuetral
+49,I released the Code for the Instagram DeepFake Bot!,j2ai2r,https://v.redd.it/8yof81xg56q51,,2020-09-30 15:12:54,2020,9,0.0,Good,Nuetral
+50,hashtags,e2234a,https://i.redd.it/8ss44ve160141.jpg,,2019-11-27 10:26:29,2019,11,0.0,Good,Nuetral
 51,Recursively flipping and rotating an image. Python source code in comments!,j3hq21,https://v.redd.it/p3l9kd1dwjq51,,2020-10-02 13:28:14,2020,10,0.0,Good,Nuetral
 52,I made a ray tracer that simulates curved spacetime by using Einstein's field equations from general relativity. Here's a black hole!,hb108j,https://i.redd.it/yrcat3ndkj551.jpg,,2020-06-18 13:51:40,2020,6,0.0,Good,Nuetral
 53,I maDe a sCriPT thAT raNdOMlY cApiTAlIZes lEtTErs iN a SEntENcE,j8kpes,https://www.reddit.com/r/Python/comments/j8kpes/i_made_a_script_that_randomly_capitalizes_letters/,"I waS tIrED OF mAnUaLlY tYPinG UpPEr And lOwERcaSes, whEn i wANteD tO mOCk A coMMeNT. sO i MAde a ScRIpt FOr It iNsTeaD. iT TaKEs anY stRIng And rANdOMly apPLieS aN UPpeR or LowERcaSe to IT. iT aLso maKes sUre tHeRe Are no MoRe ThAN twO oF ThE SAme upPEr or lOwERcAseS iN A roW, BeCauSe haVinG tHreE oF thE SaME iN A Row LooKs rEAllY WEiRD. I ALso coNSidEReD MAkiNg SuRe thAT 'i' WOuLD aLWaYS bE in LOwErcASe And 'L' WoUlD alWAyS Be in uPpErCAsE, BUt THaT MAdE it lOoK kiNDa wEIrd. ANyWAys, heRE'S THe COdE:
@@ -138,10 +138,7 @@ While this project has been an immensely rewarding learning experience, u/rtphok
 84,White Cuts Across Black Background - an effect achieved through good use of the Python Image Library,i4x5bw,https://v.redd.it/nn4a1e4jcff51,,2020-08-07 10:23:52,2020,8,0.0,Good,Nuetral
 85,"With my limited knowledge in Python, I wrote a simple script to control my motorized microscope from a keyboard. All instructions are open-source. Just wanted to share with this community for possible comments and suggestions for further improvements.",gizm2t,https://v.redd.it/b8v3w1nrfjy41,,2020-05-14 06:01:59,2020,5,0.0,Good,Nuetral
 86,Lil cheatsheet,arp3z9,https://i.redd.it/e9he5yt327h21.jpg,,2019-02-18 13:10:08,2019,2,0.0,Good,Nuetral
-87,"Spotlightify - a overlay controller for spotify, allowing you to quickly control your music without distraction. Please let me know if you are interested in this application as I am thinking of making it public on my github in the near future (once more features have been developed), thanks!",go6no5,https://v.redd.it/qy9hkp9307051,,2020-05-22 14:20:40,2020,5,0.0,Good,Nuetral
-88,I wrote a python script that I'm running on my phone to play a word game called Ruzzle.,ejnnbc,https://v.redd.it/q8yf2bhacn841,,2020-01-04 15:21:34,2020,1,0.0,Good,Nuetral
-89,"Started learning python today, Screw 'Hello World' , I'll start with 'Hello There'",hl2ho5,https://i.redd.it/wxx1gcbs2u851.png,,2020-07-05 04:24:22,2020,7,0.0,Good,Nuetral
-90,I created a series in Python that takes you through every detail step-by-step (code included) on how to create your own algorithmic trading bot that trades the financial and crypto markets for free.,ld81ic,https://www.reddit.com/r/Python/comments/ld81ic/i_created_a_series_in_python_that_takes_you/,"# How to create an algorithmic trading bot with Python
+87,I created a series in Python that takes you through every detail step-by-step (code included) on how to create your own algorithmic trading bot that trades the financial and crypto markets for free.,ld81ic,https://www.reddit.com/r/Python/comments/ld81ic/i_created_a_series_in_python_that_takes_you/,"# How to create an algorithmic trading bot with Python
 
 &#x200B;
 
@@ -164,8 +161,10 @@ While this project has been an immensely rewarding learning experience, u/rtphok
 
 
 **EDIT: I just want to say a huge thank you for the overwhelming support everyone in this community has given to me. I will be continuing this series diving into more advanced topics and eventually will share how I created a UI for the bot and also for back testing.**",2021-02-06 06:18:05,2021,2,0.09523809523809523,Good,Not Nuetral
-91,xkcd: Python Environment,8fztrr,https://imgs.xkcd.com/comics/python_environment.png,,2018-05-01 06:26:17,2018,5,0.0,Good,Nuetral
-92,"I made a course on NumPy. It got good reviews, but sales were weak so I'm releasing the entire thing for free.",l1jdcj,https://www.reddit.com/r/Python/comments/l1jdcj/i_made_a_course_on_numpy_it_got_good_reviews_but/,"My course is called Python NumPy For Your Grandma - So easy your grandma could learn it. Here's the course outline.
+88,"Spotlightify - a overlay controller for spotify, allowing you to quickly control your music without distraction. Please let me know if you are interested in this application as I am thinking of making it public on my github in the near future (once more features have been developed), thanks!",go6no5,https://v.redd.it/qy9hkp9307051,,2020-05-22 14:20:40,2020,5,0.0,Good,Nuetral
+89,I wrote a python script that I'm running on my phone to play a word game called Ruzzle.,ejnnbc,https://v.redd.it/q8yf2bhacn841,,2020-01-04 15:21:34,2020,1,0.0,Good,Nuetral
+90,"Started learning python today, Screw 'Hello World' , I'll start with 'Hello There'",hl2ho5,https://i.redd.it/wxx1gcbs2u851.png,,2020-07-05 04:24:22,2020,7,0.0,Good,Nuetral
+91,"I made a course on NumPy. It got good reviews, but sales were weak so I'm releasing the entire thing for free.",l1jdcj,https://www.reddit.com/r/Python/comments/l1jdcj/i_made_a_course_on_numpy_it_got_good_reviews_but/,"My course is called Python NumPy For Your Grandma - So easy your grandma could learn it. Here's the course outline.
 
 1. **Introduction**  
   [1.1 Introduction](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-1-1-introduction)  
@@ -228,14 +227,11 @@ Also, stay posted for my next course, Python Pandas For Your Grandpa.
 
 **UPDATE 2**  
 My [course on Pandas](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) has been released!  ([View on YouTube](https://www.youtube.com/playlist?list=PL9oKUrtC4VP7ry0um1QOUUfJBXKnkf-dA))",2021-01-21 13:45:27,2021,1,0.13864583333333336,Good,Not Nuetral
+92,xkcd: Python Environment,8fztrr,https://imgs.xkcd.com/comics/python_environment.png,,2018-05-01 06:26:17,2018,5,0.0,Good,Nuetral
 93,"Work laptop doesn't allow minesweeper? I'm gonna build my own minesweeper, with blackjack, and hookers! In fact, forget the hookers!",es8dai,https://v.redd.it/43d389uv2ac41,,2020-01-22 22:59:00,2020,1,0.0,Good,Nuetral
 94,"The project is finally done, thanks a lot for all of the support you guys gave me. (Wireless media controller v1.2) #rifi",fbyvl5,https://v.redd.it/s59wble514k41,,2020-03-02 11:11:03,2020,3,0.0,Good,Nuetral
 95,I created a python program for interactive batch cropping,dqminb,https://i.redd.it/cdutlztifaw31.gif,,2019-11-03 08:29:18,2019,11,0.0,Good,Nuetral
 96,Wrote a script that downloads r/wallpaper's hottest 100 images and cycles through them as a wallpaper!,hei6kg,https://v.redd.it/pxn50vuyvo651,,2020-06-24 08:49:50,2020,6,0.0,Good,Nuetral
 97,I made a Sudoku.com solver using Selenium,fgdbxb,https://v.redd.it/xxgz2t9ldul41,,2020-03-11 04:51:44,2020,3,0.0,Good,Nuetral
 98,"My startup failed, so I open sourced the code. I hope someone finds it useful.",l4kpou,https://github.com/AdamGold/Dryvo,,2021-01-26 01:49:52,2021,1,0.0,Good,Nuetral
-99,NSA just declassified their python training documents,f2jda1,https://www.reddit.com/r/Python/comments/f2jda1/nsa_just_declassified_their_python_training/,"[https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
-
-&#x200B;
-
-One of the best all-in-one resources I've ever found. It starts from basics and goes all the way up to an advanced level. I would check this out, even if you're not a beginner.",2020-02-12 17:53:42,2020,2,0.7,Good,Not Nuetral
+99,"I created a video about Neural Networks that is specifically aimed at Python developers! If you understand the Code, you understand how to create a Neural Network from Scratch! The video took me 200h to create and is fully animated! Hope it helps you guys :)",l8jvev,https://youtube.com/watch?v=9RN2Wr8xvro&feature=share,,2021-01-31 03:34:11,2021,1,0.0,Good,Nuetral

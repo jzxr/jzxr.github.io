@@ -1,4 +1,4 @@
-,title,id,url,body,timestamp,year,month,sentiment,review,nuetral
+,Title,ID,URL,Body,timestamp,Year,Month,Sentiment,Review,Nuetral
 0,Pass by reference !== pass by value,6hz7o6,https://media.giphy.com/media/xUPGcLrX5NQgooYcG4/giphy.gif,,2017-06-19 03:34:02,2017,6,0.0,Good,Nuetral
 1,Can you help me allow my router to accept 💩 as the SSID?,5zcb8m,https://www.reddit.com/r/javascript/comments/5zcb8m/can_you_help_me_allow_my_router_to_accept_as_the/,"I have a Xiaomi MI3 router flashed with Padavan (custom open source firmware). When I try to use an emoji or non standard characters in the SSID, a pop-up says: *SSID cannot contain the character ""💩""*
 
@@ -108,9 +108,9 @@ Any one has any idea how to fight it or just give up?
 18,"Fellow humans, it is 2021-01-01T00:00:00+00:00.",ko10z4,https://www.reddit.com/r/javascript/comments/ko10z4/fellow_humans_it_is_20210101t0000000000/,Let us celebrate!,2021-01-01 16:00:22,2021,1,0.0,Good,Nuetral
 19,How it feels to learn Javascript in 2016,55oidt,https://medium.com/@jjperezaguinaga/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.758uh588b,,2016-10-04 08:33:47,2016,10,0.0,Good,Nuetral
 20,"Just got my first job as a programmer, being self taught and never had worked in a company I’m scared shitless but excited. Just wanted to thank this community which provided excellent resources.",8j5chs,https://www.reddit.com/r/javascript/comments/8j5chs/just_got_my_first_job_as_a_programmer_being_self/,,2018-05-14 09:21:41,2018,5,0.0,Good,Nuetral
-21,Water dynamics in my evolution simulator built in TypeScript / WebGL2,9d6r41,https://v.redd.it/i1y5w1zbbfk11,,2018-09-06 05:53:56,2018,9,0.0,Good,Nuetral
-22,Microsoft has open sourced their Frontend Bootcamp training materials (including React and Redux exercises),av3rn3,https://github.com/Microsoft/frontend-bootcamp,,2019-02-27 11:56:42,2019,2,0.0,Good,Nuetral
-23,"I created Deskreen. This is a free open source desktop app that makes any device with a web browser a second screen for your computer. Built with ElectronJS, React and other web technologies.",l9ldv8,https://github.com/pavlobu/deskreen,,2021-02-01 12:37:57,2021,2,0.0,Good,Nuetral
+21,"I created Deskreen. This is a free open source desktop app that makes any device with a web browser a second screen for your computer. Built with ElectronJS, React and other web technologies.",l9ldv8,https://github.com/pavlobu/deskreen,,2021-02-01 12:37:57,2021,2,0.0,Good,Nuetral
+22,Water dynamics in my evolution simulator built in TypeScript / WebGL2,9d6r41,https://v.redd.it/i1y5w1zbbfk11,,2018-09-06 05:53:56,2018,9,0.0,Good,Nuetral
+23,Microsoft has open sourced their Frontend Bootcamp training materials (including React and Redux exercises),av3rn3,https://github.com/Microsoft/frontend-bootcamp,,2019-02-27 11:56:42,2019,2,0.0,Good,Nuetral
 24,"If cops can watch us, we should watch them. I scraped court records to find dirty cops.",gnffx5,https://lawsuit.org/keeping-cops-accountable/,,2020-05-21 09:14:52,2020,5,0.0,Good,Nuetral
 25,"GitHub's ElectronConf postponed because all the talks (selected through an unbiased, blind review process) were to be given by men.",6f8u2s,http://electronconf.com/,,2017-06-05 10:18:30,2017,6,0.0,Good,Nuetral
 26,The secret to being a top developer is building things! Here’s a list of fun apps to build! —Part II,8frt24,https://medium.com/@wesharehoodies/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472,,2018-04-30 06:54:30,2018,4,0.0,Good,Nuetral
@@ -120,30 +120,31 @@ Any one has any idea how to fight it or just give up?
 30,TIL you can graphically show tables in the console,84aeuv,https://puu.sh/zHc9I/fe3ebe860d.png,,2018-03-14 19:47:59,2018,3,0.0,Good,Nuetral
 31,"I launched Bot Land, a game where you can code bots in JavaScript to battle other players",eilq1a,https://play.bot.land/,,2020-01-02 10:32:11,2020,1,0.0,Good,Nuetral
 32,All front end Interview questions asked during my recent job hunt.,i456d7,https://dev.to/devabhijeet/all-front-end-interview-questions-asked-during-my-recent-job-hunt-1kge,,2020-08-06 05:17:52,2020,8,0.0,Good,Nuetral
-33,"I have been collecting useful Javascript code snippets for a little while. Here's a curated list of them, help me make it as complete as possible!",7j37iu,https://github.com/Chalarangelo/30-seconds-of-code,,2017-12-12 08:19:59,2017,12,0.0,Good,Nuetral
-34,Firefox adds new feature to help developers with JavaScript errors,4n116k,https://i.imgur.com/EOztwbI.gif,,2016-06-08 12:07:23,2016,6,0.0,Good,Nuetral
-35,Bootstrap 5 is dropping IE 10 & 11 browser support,fqq8rr,https://themesberg.com/blog/bootstrap/bootstrap-5-ie-11-browser-support,,2020-03-29 11:03:07,2020,3,0.0,Good,Nuetral
-36,Microsoft Is Said to Have Agreed to Acquire Coding Site GitHub,8obm3w,https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github,,2018-06-04 12:54:40,2018,6,0.0,Good,Nuetral
-37,"I created an Open Source Google Drive Clone - MyDrive (Node.js, React, Docker, Amazon S3)",h8dfu2,https://github.com/subnub/myDrive,,2020-06-14 11:01:37,2020,6,0.0,Good,Nuetral
-38,Built this website with Javascript that lets you spend Jeff Bezos' money on expensive items like sports cars and mansions. (You can end world hunger),g3tu59,https://3pic.github.io/money,,2020-04-19 11:53:59,2020,4,0.0,Good,Nuetral
-39,I'm all in.,3ey0ob,http://i.imgur.com/Z5o9aQ9.jpg,,2015-07-29 12:45:03,2015,7,0.0,Good,Nuetral
-40,Google publishes a JavaScript style guide. Here are some key lessons.,88q8gy,https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b,,2018-04-02 03:40:20,2018,4,0.0,Good,Nuetral
-41,I've created an educational page to teach students the structure of a URL,ggcvly,https://howurls.work,,2020-05-10 02:04:49,2020,5,0.0,Good,Nuetral
-42,In Defense of Douglas Crockford,50zcet,http://atom-morgan.github.io/in-defense-of-douglas-crockford,,2016-09-04 07:42:47,2016,9,0.0,Good,Nuetral
-43,Front-end Developer Handbook 2019,bcz8e3,https://frontendmasters.com/books/front-end-handbook/2019/,,2019-04-14 20:30:59,2019,4,0.0,Good,Nuetral
-44,A CSS Keylogger.,7yy92p,https://github.com/maxchehab/CSS-Keylogging,,2018-02-21 10:37:10,2018,2,0.0,Good,Nuetral
-45,Bootstrap 5 will remove jQuery as a dependency,aq3zfm,https://github.com/twbs/bootstrap/pull/23586,,2019-02-13 23:17:32,2019,2,0.0,Good,Nuetral
-46,"Re: Medium.com ""membership"" paywall",8njmic,https://www.reddit.com/r/javascript/comments/8njmic/re_mediumcom_membership_paywall/,"In the context of the continued decline of `medium.com` as a publishing platform: if your blog on Medium utilizes the 'membership' program, it will not be allowed here.
+33,"Kord - A streaming site combining Spotify, Soundcloud, and YouTube! Built almost entirely with JS",lpxvc3,https://vimeo.com/514566587,,2021-02-23 11:46:13,2021,2,0.0,Good,Nuetral
+34,"I have been collecting useful Javascript code snippets for a little while. Here's a curated list of them, help me make it as complete as possible!",7j37iu,https://github.com/Chalarangelo/30-seconds-of-code,,2017-12-12 08:19:59,2017,12,0.0,Good,Nuetral
+35,Firefox adds new feature to help developers with JavaScript errors,4n116k,https://i.imgur.com/EOztwbI.gif,,2016-06-08 12:07:23,2016,6,0.0,Good,Nuetral
+36,Bootstrap 5 is dropping IE 10 & 11 browser support,fqq8rr,https://themesberg.com/blog/bootstrap/bootstrap-5-ie-11-browser-support,,2020-03-29 11:03:07,2020,3,0.0,Good,Nuetral
+37,Microsoft Is Said to Have Agreed to Acquire Coding Site GitHub,8obm3w,https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github,,2018-06-04 12:54:40,2018,6,0.0,Good,Nuetral
+38,"I created an Open Source Google Drive Clone - MyDrive (Node.js, React, Docker, Amazon S3)",h8dfu2,https://github.com/subnub/myDrive,,2020-06-14 11:01:37,2020,6,0.0,Good,Nuetral
+39,Built this website with Javascript that lets you spend Jeff Bezos' money on expensive items like sports cars and mansions. (You can end world hunger),g3tu59,https://3pic.github.io/money,,2020-04-19 11:53:59,2020,4,0.0,Good,Nuetral
+40,I'm all in.,3ey0ob,http://i.imgur.com/Z5o9aQ9.jpg,,2015-07-29 12:45:03,2015,7,0.0,Good,Nuetral
+41,Google publishes a JavaScript style guide. Here are some key lessons.,88q8gy,https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b,,2018-04-02 03:40:20,2018,4,0.0,Good,Nuetral
+42,I've created an educational page to teach students the structure of a URL,ggcvly,https://howurls.work,,2020-05-10 02:04:49,2020,5,0.0,Good,Nuetral
+43,In Defense of Douglas Crockford,50zcet,http://atom-morgan.github.io/in-defense-of-douglas-crockford,,2016-09-04 07:42:47,2016,9,0.0,Good,Nuetral
+44,Front-end Developer Handbook 2019,bcz8e3,https://frontendmasters.com/books/front-end-handbook/2019/,,2019-04-14 20:30:59,2019,4,0.0,Good,Nuetral
+45,A CSS Keylogger.,7yy92p,https://github.com/maxchehab/CSS-Keylogging,,2018-02-21 10:37:10,2018,2,0.0,Good,Nuetral
+46,Bootstrap 5 will remove jQuery as a dependency,aq3zfm,https://github.com/twbs/bootstrap/pull/23586,,2019-02-13 23:17:32,2019,2,0.0,Good,Nuetral
+47,"Re: Medium.com ""membership"" paywall",8njmic,https://www.reddit.com/r/javascript/comments/8njmic/re_mediumcom_membership_paywall/,"In the context of the continued decline of `medium.com` as a publishing platform: if your blog on Medium utilizes the 'membership' program, it will not be allowed here.
 
 Per our guidelines:
 
 > Posts must be inclusive to all -- e.g. no beta invites, ""PM me for access"", ""free for first N users"", etc.
 
 We've already added one author to the spam list, and we ask that you report any further Medium posts that also fall into this category.",2018-06-01 08:05:45,2018,6,0.21666666666666667,Good,Not Nuetral
-47,"Don't forget, console.table() can provide nicer looking logs with sorting capabilities. Made a gif and a short explanation here",3xtmm7,https://umaar.com/dev-tips/82-console-table/,,2015-12-23 03:02:39,2015,12,0.0,Good,Nuetral
-48,React Native has been relicensed to MIT,7y4009,https://twitter.com/reactjs/status/964689022747475968,,2018-02-17 18:39:22,2018,2,0.0,Good,Nuetral
-49,VS Code (insider build) can now automatically update import paths when you move or rename a TypeScript or JavaScript file,8madam,https://twitter.com/mattbierner/status/1000069936897671168,,2018-05-27 06:07:52,2018,5,0.0,Good,Nuetral
-50,My project was considered by GitHub as one of the top open source projects of 2018!,a64shs,https://www.reddit.com/r/javascript/comments/a64shs/my_project_was_considered_by_github_as_one_of_the/,"Top Projects in 2018   
+48,"Don't forget, console.table() can provide nicer looking logs with sorting capabilities. Made a gif and a short explanation here",3xtmm7,https://umaar.com/dev-tips/82-console-table/,,2015-12-23 03:02:39,2015,12,0.0,Good,Nuetral
+49,React Native has been relicensed to MIT,7y4009,https://twitter.com/reactjs/status/964689022747475968,,2018-02-17 18:39:22,2018,2,0.0,Good,Nuetral
+50,VS Code (insider build) can now automatically update import paths when you move or rename a TypeScript or JavaScript file,8madam,https://twitter.com/mattbierner/status/1000069936897671168,,2018-05-27 06:07:52,2018,5,0.0,Good,Nuetral
+51,My project was considered by GitHub as one of the top open source projects of 2018!,a64shs,https://www.reddit.com/r/javascript/comments/a64shs/my_project_was_considered_by_github_as_one_of_the/,"Top Projects in 2018   
 [https://blog.github.com/2018-12-13-new-open-source-projects/](https://blog.github.com/2018-12-13-new-open-source-projects/)  
 
 
@@ -156,12 +157,12 @@ If you don't know the project yet, I'd really recommend it for all of those who 
 
 33 concepts every JavaScript developer should know  
 [https://github.com/leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)",2018-12-15 05:25:28,2018,12,0.38,Good,Not Nuetral
-51,"Relicensing React, Jest, Flow, and Immutable.js to MIT",71uaes,https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/,,2017-09-23 13:55:25,2017,9,0.0,Good,Nuetral
-52,Introducing Hyperapp 1.0 — 1 KB JavaScript library for building frontend applications.,7mnqud,https://medium.com/@JorgeBucaran/introducing-hyperapp-1-0-dbf4229abfef,,2017-12-29 08:54:09,2017,12,0.0,Good,Nuetral
-53,Bootstrap 5 alpha is officially released removing jQuery and going all in with vanilla JS,haopme,https://themesberg.com/blog/bootstrap/bootstrap-version-5-alpha-whats-new,,2020-06-18 02:36:04,2020,6,0.0,Good,Nuetral
-54,NPM Bans Terminal Ads - a reaction to recent 'funding' experiment,cxi68i,https://www.zdnet.com/article/npm-bans-terminal-ads/,,2019-08-31 07:05:48,2019,8,0.0,Good,Nuetral
-55,How could I implement this?,ajtbqs,https://v.redd.it/z7qxywrwqmc21,,2019-01-26 12:37:00,2019,1,0.0,Good,Nuetral
-56,"Streamed myself developing an app in 28 days to show people that you can build anything with passion, motivation, and a little bit of luck. Say hello to SimpleAlerts. My take aways from this project using a full TypeScript/Javascript Stack!",8n1hy9,https://www.reddit.com/r/javascript/comments/8n1hy9/streamed_myself_developing_an_app_in_28_days_to/,"Hi everyone!
+52,"Relicensing React, Jest, Flow, and Immutable.js to MIT",71uaes,https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/,,2017-09-23 13:55:25,2017,9,0.0,Good,Nuetral
+53,Introducing Hyperapp 1.0 — 1 KB JavaScript library for building frontend applications.,7mnqud,https://medium.com/@JorgeBucaran/introducing-hyperapp-1-0-dbf4229abfef,,2017-12-29 08:54:09,2017,12,0.0,Good,Nuetral
+54,Bootstrap 5 alpha is officially released removing jQuery and going all in with vanilla JS,haopme,https://themesberg.com/blog/bootstrap/bootstrap-version-5-alpha-whats-new,,2020-06-18 02:36:04,2020,6,0.0,Good,Nuetral
+55,NPM Bans Terminal Ads - a reaction to recent 'funding' experiment,cxi68i,https://www.zdnet.com/article/npm-bans-terminal-ads/,,2019-08-31 07:05:48,2019,8,0.0,Good,Nuetral
+56,How could I implement this?,ajtbqs,https://v.redd.it/z7qxywrwqmc21,,2019-01-26 12:37:00,2019,1,0.0,Good,Nuetral
+57,"Streamed myself developing an app in 28 days to show people that you can build anything with passion, motivation, and a little bit of luck. Say hello to SimpleAlerts. My take aways from this project using a full TypeScript/Javascript Stack!",8n1hy9,https://www.reddit.com/r/javascript/comments/8n1hy9/streamed_myself_developing_an_app_in_28_days_to/,"Hi everyone!
 
 I want to preface this post by stating that I am in no way trying to self promote something I have made. While I think it would be awesome for people here to check it out and use it, I wanted to post about my experience with creating an application in 28 days and hopefully motivate someone else to do the same.
 
@@ -189,11 +190,11 @@ I wanted to wrap up this post by saying that the programming community is a grea
 Thanks for taking the time to read this and if you have any questions/concerns please feel free to reach out :)
 
 -Alec",2018-05-30 10:37:37,2018,5,0.28459410279263214,Good,Not Nuetral
-57,WebGL Fluid Simulation,br16u9,https://paveldogreat.github.io/WebGL-Fluid-Simulation/,,2019-05-21 12:54:00,2019,5,0.0,Good,Nuetral
-58,Puppeteer Recorder - a Chrome extension that records your browser interactions and generates a Puppeteer script,ht5d7e,https://github.com/checkly/puppeteer-recorder,,2020-07-18 14:27:25,2020,7,0.0,Good,Nuetral
-59,I created a browser extension that puts masks on faces on the internet for a safer browsing experience in times of the corona virus,fev8ub,https://github.com/moklick/face-mask-browser-extension,,2020-03-08 05:39:59,2020,3,0.0,Good,Nuetral
-60,"Front-End Developer Handbook 2018 - A free, original book by the Frontend Masters team!",8b18y2,https://frontendmasters.com/books/front-end-handbook/2018/,,2018-04-10 11:31:43,2018,4,0.0,Good,Nuetral
-61,"Ten questions I’ve been asked, most more than once, over six technical JavaScript / Front-end Engineer job interviews.",3rb88w,https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/,"I've been interviewing for JS positions over the past few months and have noticed the same questions pop up in the technical parts of the interview. There have been similar posts to this but I really received a benefit from them and thought I'd echo my experience. Two of these ""interviews"" were online assessments, two were in person, and two were over Skype. The positions I've applied for are mainly at start ups and not for any specified Jr / Mid / Sr level. 
+58,WebGL Fluid Simulation,br16u9,https://paveldogreat.github.io/WebGL-Fluid-Simulation/,,2019-05-21 12:54:00,2019,5,0.0,Good,Nuetral
+59,Puppeteer Recorder - a Chrome extension that records your browser interactions and generates a Puppeteer script,ht5d7e,https://github.com/checkly/puppeteer-recorder,,2020-07-18 14:27:25,2020,7,0.0,Good,Nuetral
+60,I created a browser extension that puts masks on faces on the internet for a safer browsing experience in times of the corona virus,fev8ub,https://github.com/moklick/face-mask-browser-extension,,2020-03-08 05:39:59,2020,3,0.0,Good,Nuetral
+61,"Front-End Developer Handbook 2018 - A free, original book by the Frontend Masters team!",8b18y2,https://frontendmasters.com/books/front-end-handbook/2018/,,2018-04-10 11:31:43,2018,4,0.0,Good,Nuetral
+62,"Ten questions I’ve been asked, most more than once, over six technical JavaScript / Front-end Engineer job interviews.",3rb88w,https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/,"I've been interviewing for JS positions over the past few months and have noticed the same questions pop up in the technical parts of the interview. There have been similar posts to this but I really received a benefit from them and thought I'd echo my experience. Two of these ""interviews"" were online assessments, two were in person, and two were over Skype. The positions I've applied for are mainly at start ups and not for any specified Jr / Mid / Sr level. 
 
 I know that a lot of people disagree with this type of interview, like them or not, in my experience they've been a reality. When you're self-taught and haven't had your first job, I guess you have to prove yourself somehow. An assessment of Github / portfolio links would be a more ideal measure of progress but doesn't seem to count for everything. 
 
@@ -215,17 +216,17 @@ I know that a lot of people disagree with this type of interview, like them or n
 7. Walk us through the process of creation of an application or website you've built.
 8. Which new JavaScript / browser features are you most excited about and why?
 9. What are the differences between functional and imperative programming styles, and explain your preference, if any.",2015-11-03 20:32:39,2015,11,0.1710016835016835,Good,Not Nuetral
-62,Anime.Js 3.0.0 released,aewlec,https://animejs.com/,,2019-01-12 07:44:04,2019,1,0.0,Good,Nuetral
-63,"ESLint compromised, may have stolen your credentials",8y9r87,https://github.com/eslint/eslint-scope/issues/39,,2018-07-13 05:26:48,2018,7,0.0,Good,Nuetral
-64,JavaScript best practices got 11k stars on Github,7smg58,https://github.com/wearehive/project-guidelines,,2018-01-25 03:25:16,2018,1,0.0,Good,Nuetral
-65,Deno 1.0 released!,gj9a07,https://github.com/denoland/deno/issues/2473,,2020-05-14 14:23:31,2020,5,0.0,Good,Nuetral
-66,"JavaScript is and remains the queen of programming languages with a community of 11.7M active developers. Python has reached 8.2M active developers and has taken the number two spot, surpassing Java in terms of popularity.",bh6ill,https://www.slashdata.co/free-resources?id=developer-economics-state-of-the-developer-nation-16th-edition&section=showcases_details,,2019-04-26 01:19:49,2019,4,0.0,Good,Nuetral
-67,50+ JavaScript quiz questions with great explanations to help study up for interviews,djw0bc,https://quiz.typeofnan.dev/,,2019-10-19 15:52:06,2019,10,0.0,Good,Nuetral
-68,Microsoft releases new Microsoft Edge based on Chromium,bavmua,https://twitter.com/MSEdgeDev/status/1115283353731600384?s=19,,2019-04-09 08:08:03,2019,4,0.0,Good,Nuetral
-69,"Popular JavaScript library starts showing ads in its terminal - Standard, a JavaScript style guide, linter, and automatic code fixer, has implemented what appears to be the first advertising system for JavaScript libraries",cvo87k,https://www.zdnet.com/article/popular-javascript-library-starts-showing-ads-in-its-terminal/,,2019-08-27 05:40:02,2019,8,0.0,Good,Nuetral
-70,"Mozilla brings Microsoft, Google, the W3C, Samsung together to create cross-browser documentation on MDN – The Mozilla Blog",77ctna,https://blog.mozilla.org/blog/2017/10/18/mozilla-brings-microsoft-google-w3c-samsung-together-create-cross-browser-documentation-mdn/,,2017-10-19 23:01:09,2017,10,0.0,Good,Nuetral
-71,"Eloquent JavaScript, 3rd Edition. Full text available online.",g8rniy,https://eloquentjavascript.net/,,2020-04-27 18:13:42,2020,4,0.0,Good,Nuetral
-72,"Been interviewing with a lot of tech startups as a frontend dev, here are the technical questions I've been asked (X-Post webdev)",3f7rx5,https://www.reddit.com/r/javascript/comments/3f7rx5/been_interviewing_with_a_lot_of_tech_startups_as/,"So I've spent the last couple of weeks interviewing with a fair amount of tech startups in London, I thought some of you might find it interesting/helpful to see some of the technical questions I was asked.
+63,Anime.Js 3.0.0 released,aewlec,https://animejs.com/,,2019-01-12 07:44:04,2019,1,0.0,Good,Nuetral
+64,"ESLint compromised, may have stolen your credentials",8y9r87,https://github.com/eslint/eslint-scope/issues/39,,2018-07-13 05:26:48,2018,7,0.0,Good,Nuetral
+65,JavaScript best practices got 11k stars on Github,7smg58,https://github.com/wearehive/project-guidelines,,2018-01-25 03:25:16,2018,1,0.0,Good,Nuetral
+66,Deno 1.0 released!,gj9a07,https://github.com/denoland/deno/issues/2473,,2020-05-14 14:23:31,2020,5,0.0,Good,Nuetral
+67,"JavaScript is and remains the queen of programming languages with a community of 11.7M active developers. Python has reached 8.2M active developers and has taken the number two spot, surpassing Java in terms of popularity.",bh6ill,https://www.slashdata.co/free-resources?id=developer-economics-state-of-the-developer-nation-16th-edition&section=showcases_details,,2019-04-26 01:19:49,2019,4,0.0,Good,Nuetral
+68,50+ JavaScript quiz questions with great explanations to help study up for interviews,djw0bc,https://quiz.typeofnan.dev/,,2019-10-19 15:52:06,2019,10,0.0,Good,Nuetral
+69,Microsoft releases new Microsoft Edge based on Chromium,bavmua,https://twitter.com/MSEdgeDev/status/1115283353731600384?s=19,,2019-04-09 08:08:03,2019,4,0.0,Good,Nuetral
+70,"Popular JavaScript library starts showing ads in its terminal - Standard, a JavaScript style guide, linter, and automatic code fixer, has implemented what appears to be the first advertising system for JavaScript libraries",cvo87k,https://www.zdnet.com/article/popular-javascript-library-starts-showing-ads-in-its-terminal/,,2019-08-27 05:40:02,2019,8,0.0,Good,Nuetral
+71,"Mozilla brings Microsoft, Google, the W3C, Samsung together to create cross-browser documentation on MDN – The Mozilla Blog",77ctna,https://blog.mozilla.org/blog/2017/10/18/mozilla-brings-microsoft-google-w3c-samsung-together-create-cross-browser-documentation-mdn/,,2017-10-19 23:01:09,2017,10,0.0,Good,Nuetral
+72,"Eloquent JavaScript, 3rd Edition. Full text available online.",g8rniy,https://eloquentjavascript.net/,,2020-04-27 18:13:42,2020,4,0.0,Good,Nuetral
+73,"Been interviewing with a lot of tech startups as a frontend dev, here are the technical questions I've been asked (X-Post webdev)",3f7rx5,https://www.reddit.com/r/javascript/comments/3f7rx5/been_interviewing_with_a_lot_of_tech_startups_as/,"So I've spent the last couple of weeks interviewing with a fair amount of tech startups in London, I thought some of you might find it interesting/helpful to see some of the technical questions I was asked.
 
 Many of the positions I interviewed for where using Angular so a bunch of the questions are geared towards that.
 
@@ -448,27 +449,27 @@ Also, all these companies had me complete ""take home"" coding tests, they range
 
 Hopefully anyone looking for new positions can use these as warmups/practice, it's important to not just know the answers, but really understand how things work and in the case of the challenges, why things are working the way they are.
 ",2015-07-31 14:10:27,2015,7,0.0605815568079719,Good,Not Nuetral
-73,I have build and open sourced an automated irrigation system based on Node.js and React,hd2ks4,https://medium.com/@patrickhallek1998/automated-smart-home-irrigation-system-9061c391f8e2,,2020-06-21 23:11:44,2020,6,0.0,Good,Nuetral
-74,Coming from Python to JS,a6txtp,https://www.reddit.com/r/javascript/comments/a6txtp/coming_from_python_to_js/,"    const print = console.log
+74,I have build and open sourced an automated irrigation system based on Node.js and React,hd2ks4,https://medium.com/@patrickhallek1998/automated-smart-home-irrigation-system-9061c391f8e2,,2020-06-21 23:11:44,2020,6,0.0,Good,Nuetral
+75,Coming from Python to JS,a6txtp,https://www.reddit.com/r/javascript/comments/a6txtp/coming_from_python_to_js/,"    const print = console.log
 
 I found my safe space.",2018-12-17 15:06:09,2018,12,0.5,Good,Not Nuetral
-75,"In WarriorJS, you are a warrior climbing a tall tower. On each floor, you need to write JavaScript to instruct the warrior to battle enemies, rescue captives, and reach the stairs alive...",9l4ix3,https://warriorjs.com/,,2018-10-04 11:35:18,2018,10,0.0,Good,Nuetral
-76,"Priority Hints: hint the `importance` of a resource to prioritize downloading it sooner/later: <img importance=low> <img importance=high> <img importance=auto> (default) Works on <img>, <link> and fetch()",amif7o,https://i.redd.it/3s7ega4808e21.jpg,,2019-02-03 13:08:57,2019,2,0.0,Good,Nuetral
-77,VueJS 3.0 has been released,iv9kf5,https://github.com/vuejs/vue-next/releases/tag/v3.0.0,,2020-09-19 08:39:39,2020,9,0.0,Good,Nuetral
-78,Dan Abramov teaches me React Hooks,b8etnx,https://www.twitch.tv/videos/404530952,,2019-04-02 21:15:36,2019,4,0.0,Good,Nuetral
-79,3d scene rendered using three js.,agbvl1,https://v.redd.it/x7jtqqi9uma21,,2019-01-16 10:58:41,2019,1,0.0,Good,Nuetral
-80,"After they gave 100k scholarships to students, Codecademy is now giving away their pro membership to anyone whose work is affected due to the pandemic! Also, I had started learning JS from Codecademy about a month ago when they were giving student scholarship, and it's going pretty good!",gazu2f,https://aabhusanaryal.com.np/codecademy-pro/,,2020-05-01 09:13:39,2020,5,0.0,Good,Nuetral
-81,Interview with a pornhub developer,dflccb,https://davidwalsh.name/pornhub-interview,,2019-10-10 10:39:13,2019,10,0.0,Good,Nuetral
-82,Awesome cheatsheets,77ysds,https://devhints.io/,,2017-10-22 22:45:27,2017,10,0.0,Good,Nuetral
-83,Crockford,513gq5,https://paulstraw.svbtle.com/crockford,,2016-09-05 02:27:49,2016,9,0.0,Good,Nuetral
-84,Vuesax New framework Components for vuejs 😁👍,8oxtwc,https://v.redd.it/pej65zm40b211,,2018-06-06 20:46:24,2018,6,0.0,Good,Nuetral
-85,Modern Frontend Developer in 2018,8788ly,https://medium.com/tajawal-engineering/modern-frontend-developer-in-2018-4c2072fa2b9c,,2018-03-27 03:00:49,2018,3,0.0,Good,Nuetral
-86,My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.,64dd0h,https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27,,2017-04-10 06:38:58,2017,4,0.0,Good,Nuetral
-87,jQuery was removed from GitHub.com front end,91vyzp,https://twitter.com/mislav/status/1022058279000842240,,2018-07-26 13:19:43,2018,7,0.0,Good,Nuetral
-88,Google wants websites to adopt AMP as the default approach to building webpages. Tell them no.,9dk82s,https://www.polemicdigital.com/google-amp-go-to-hell/,,2018-09-07 08:22:17,2018,9,0.0,Good,Nuetral
-89,I trained a recurrent neural network in JavaScript trained to draw dick doodles,g6opsc,/r/MachineLearning/comments/g6og9l/p_i_trained_a_recurrent_neural_network_trained_to/,,2020-04-24 07:29:48,2020,4,0.0,Good,Nuetral
-90,Super Expressive - a Zero-dependency JavaScript Library For Building Regular Expressions in (Almost) Natural Language,hrlv0w,https://github.com/francisrstokes/super-expressive,,2020-07-16 03:27:32,2020,7,0.0,Good,Nuetral
-91,"Learn C and its lower level interactively, in your browser.",aoskao,https://www.reddit.com/r/javascript/comments/aoskao/learn_c_and_its_lower_level_interactively_in_your/,"I made a simple virtual machine that runs C in the browser.This project is made as an experiment to see if C can be learned easier if the lower level is covered in paralel.
+76,"In WarriorJS, you are a warrior climbing a tall tower. On each floor, you need to write JavaScript to instruct the warrior to battle enemies, rescue captives, and reach the stairs alive...",9l4ix3,https://warriorjs.com/,,2018-10-04 11:35:18,2018,10,0.0,Good,Nuetral
+77,"Priority Hints: hint the `importance` of a resource to prioritize downloading it sooner/later: <img importance=low> <img importance=high> <img importance=auto> (default) Works on <img>, <link> and fetch()",amif7o,https://i.redd.it/3s7ega4808e21.jpg,,2019-02-03 13:08:57,2019,2,0.0,Good,Nuetral
+78,VueJS 3.0 has been released,iv9kf5,https://github.com/vuejs/vue-next/releases/tag/v3.0.0,,2020-09-19 08:39:39,2020,9,0.0,Good,Nuetral
+79,Dan Abramov teaches me React Hooks,b8etnx,https://www.twitch.tv/videos/404530952,,2019-04-02 21:15:36,2019,4,0.0,Good,Nuetral
+80,3d scene rendered using three js.,agbvl1,https://v.redd.it/x7jtqqi9uma21,,2019-01-16 10:58:41,2019,1,0.0,Good,Nuetral
+81,"After they gave 100k scholarships to students, Codecademy is now giving away their pro membership to anyone whose work is affected due to the pandemic! Also, I had started learning JS from Codecademy about a month ago when they were giving student scholarship, and it's going pretty good!",gazu2f,https://aabhusanaryal.com.np/codecademy-pro/,,2020-05-01 09:13:39,2020,5,0.0,Good,Nuetral
+82,Interview with a pornhub developer,dflccb,https://davidwalsh.name/pornhub-interview,,2019-10-10 10:39:13,2019,10,0.0,Good,Nuetral
+83,Awesome cheatsheets,77ysds,https://devhints.io/,,2017-10-22 22:45:27,2017,10,0.0,Good,Nuetral
+84,Crockford,513gq5,https://paulstraw.svbtle.com/crockford,,2016-09-05 02:27:49,2016,9,0.0,Good,Nuetral
+85,Vuesax New framework Components for vuejs 😁👍,8oxtwc,https://v.redd.it/pej65zm40b211,,2018-06-06 20:46:24,2018,6,0.0,Good,Nuetral
+86,Modern Frontend Developer in 2018,8788ly,https://medium.com/tajawal-engineering/modern-frontend-developer-in-2018-4c2072fa2b9c,,2018-03-27 03:00:49,2018,3,0.0,Good,Nuetral
+87,My giant JavaScript Basics course is now live on YouTube. And it’s 100% free.,64dd0h,https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27,,2017-04-10 06:38:58,2017,4,0.0,Good,Nuetral
+88,jQuery was removed from GitHub.com front end,91vyzp,https://twitter.com/mislav/status/1022058279000842240,,2018-07-26 13:19:43,2018,7,0.0,Good,Nuetral
+89,Google wants websites to adopt AMP as the default approach to building webpages. Tell them no.,9dk82s,https://www.polemicdigital.com/google-amp-go-to-hell/,,2018-09-07 08:22:17,2018,9,0.0,Good,Nuetral
+90,I trained a recurrent neural network in JavaScript trained to draw dick doodles,g6opsc,/r/MachineLearning/comments/g6og9l/p_i_trained_a_recurrent_neural_network_trained_to/,,2020-04-24 07:29:48,2020,4,0.0,Good,Nuetral
+91,Super Expressive - a Zero-dependency JavaScript Library For Building Regular Expressions in (Almost) Natural Language,hrlv0w,https://github.com/francisrstokes/super-expressive,,2020-07-16 03:27:32,2020,7,0.0,Good,Nuetral
+92,"Learn C and its lower level interactively, in your browser.",aoskao,https://www.reddit.com/r/javascript/comments/aoskao/learn_c_and_its_lower_level_interactively_in_your/,"I made a simple virtual machine that runs C in the browser.This project is made as an experiment to see if C can be learned easier if the lower level is covered in paralel.
 
 Sandbox:  [https://vasyop.github.io/miniC-hosting](https://vasyop.github.io/miniC-hosting)
 
@@ -515,11 +516,11 @@ I very much enjoyed working on this project up until now, and it will get done f
 I want to devote as much time as I can to this project, so I quickly sketched up a patreon account.
 
 I haven't figured details so there's a lot of missing stuff over there.",2019-02-10 06:02:06,2019,2,0.08098230987119877,Good,Not Nuetral
-92,"Volkswagen — detects when your tests are being run in a CI server, and makes them pass.",3nvzbj,https://github.com/auchenberg/volkswagen,,2015-10-08 12:56:32,2015,10,0.0,Good,Nuetral
-93,NPM isn't all that great,bjvrex,https://www.npmjs.com/package/thatgreat,,2019-05-03 06:44:21,2019,5,0.0,Good,Nuetral
-94,Dan Abramov started his own blog where he explains react things for those who like dig deeper!,a2o0oy,https://overreacted.io,,2018-12-04 04:00:13,2018,12,0.0,Good,Nuetral
-95,"Somebody Tried to Hide a Backdoor in a Popular JavaScript npm Package - was found in ""getcookies,"" a relatively newly created package. According to the npm team, the backdoor ""allowed for an attacker to input arbitrary code into a running server and execute it.""",8gt7ay,https://www.bleepingcomputer.com/news/security/somebody-tried-to-hide-a-backdoor-in-a-popular-javascript-npm-package/,,2018-05-04 11:49:12,2018,5,0.0,Good,Nuetral
-96,I am A JavaScript instructor at Microsoft. AMA.,7z6lg6,https://www.reddit.com/r/javascript/comments/7z6lg6/i_am_a_javascript_instructor_at_microsoft_ama/,"Hi r/javascript! 
+93,"Volkswagen — detects when your tests are being run in a CI server, and makes them pass.",3nvzbj,https://github.com/auchenberg/volkswagen,,2015-10-08 12:56:32,2015,10,0.0,Good,Nuetral
+94,NPM isn't all that great,bjvrex,https://www.npmjs.com/package/thatgreat,,2019-05-03 06:44:21,2019,5,0.0,Good,Nuetral
+95,Dan Abramov started his own blog where he explains react things for those who like dig deeper!,a2o0oy,https://overreacted.io,,2018-12-04 04:00:13,2018,12,0.0,Good,Nuetral
+96,"Somebody Tried to Hide a Backdoor in a Popular JavaScript npm Package - was found in ""getcookies,"" a relatively newly created package. According to the npm team, the backdoor ""allowed for an attacker to input arbitrary code into a running server and execute it.""",8gt7ay,https://www.bleepingcomputer.com/news/security/somebody-tried-to-hide-a-backdoor-in-a-popular-javascript-npm-package/,,2018-05-04 11:49:12,2018,5,0.0,Good,Nuetral
+97,I am A JavaScript instructor at Microsoft. AMA.,7z6lg6,https://www.reddit.com/r/javascript/comments/7z6lg6/i_am_a_javascript_instructor_at_microsoft_ama/,"Hi r/javascript! 
 
 My name is Benjamin Lin. I am a content developer at Microsoft and teach courses on JavaScript and JavaScript frameworks at Microsoft. You can see my Top 10 JavaScript Questions course [here](https://mva.microsoft.com/en-us/training-courses/top-10-javascript-questions-17356?l=BCvhsGIgD_4505494542). 
 
@@ -534,6 +535,5 @@ Edit: about 15 minutes left!
 More edit: Thanks everyone for visiting me at this AMA! I really enjoyed getting the chance to interact with the JavaScript community and hear your honest thoughts. It was worth waking up early today to do this =)
 
 if you have any more questions, feel free to hit me up on twitter [@benjlin](https://twitter.com/benjlin) or follow me on instagram [@bens_jams](https://www.instagram.com/bens_jams/)",2018-02-22 08:02:02,2018,2,0.38863636363636367,Good,Not Nuetral
-97,JavaScript Clean Code - Best Practices - based on Robert C. Martin's book Clean Code,brm8dg,https://devinduct.com/blogpost/22/javascript-clean-code-best-practices,,2019-05-23 00:42:40,2019,5,0.0,Good,Nuetral
-98,"Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks",4yxz2p,https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks,,2016-08-22 16:27:20,2016,8,0.0,Good,Nuetral
-99,Douglas Crockford removed as a keynote speaker at Nodevember due to making other speakers feel uncomfortable,50u77r,https://twitter.com/nodevember/status/771520648191483904,,2016-09-03 08:51:13,2016,9,0.0,Good,Nuetral
+98,JavaScript Clean Code - Best Practices - based on Robert C. Martin's book Clean Code,brm8dg,https://devinduct.com/blogpost/22/javascript-clean-code-best-practices,,2019-05-23 00:42:40,2019,5,0.0,Good,Nuetral
+99,"Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks",4yxz2p,https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks,,2016-08-22 16:27:20,2016,8,0.0,Good,Nuetral

@@ -1,0 +1,51 @@
+,Title,URL,Views,Votes
+40,Await Task Ignoring timeout,/questions/66636948/await-task-ignoring-timeout,43,0
+6,Making a custom stack in C#,/questions/66638038/making-a-custom-stack-in-c-sharp,34,0
+32,Parsing string to float / decimal C#,/questions/66637116/parsing-string-to-float-decimal-c-sharp,31,-2
+14,How do I get the checked status of a checkbox in c#? [closed],/questions/66637665/how-do-i-get-the-checked-status-of-a-checkbox-in-c,28,-2
+47,How get current object in operation parallel Thread,/questions/66636528/how-get-current-object-in-operation-parallel-thread,27,1
+8,How do i change the color of a text [closed],/questions/66637991/how-do-i-change-the-color-of-a-text,25,-1
+34,EF Core async client side evaluation,/questions/66637071/ef-core-async-client-side-evaluation,23,1
+27,Output Expression Value constant-like,/questions/66637240/output-expression-value-constant-like,23,1
+49,I want to print filtered datagrid for windows CE device [closed],/questions/66636417/i-want-to-print-filtered-datagrid-for-windows-ce-device,22,-2
+31,.net core with httpclient request delete and body,/questions/66637188/net-core-with-httpclient-request-delete-and-body,22,0
+19,How do I check if a command prompt command executes valid? [duplicate],/questions/66637541/how-do-i-check-if-a-command-prompt-command-executes-valid,22,0
+38,"How to render a text conditionally, based on a value form a list?",/questions/66636973/how-to-render-a-text-conditionally-based-on-a-value-form-a-list,20,0
+16,contains cannot not be translate EF .net core 3.1,/questions/66637648/contains-cannot-not-be-translate-ef-net-core-3-1,20,0
+37,Why one property of an entity is not updating?,/questions/66636996/why-one-property-of-an-entity-is-not-updating,19,-1
+36,Upload data into sql table,/questions/66637001/upload-data-into-sql-table,16,0
+30,unknown column 'extent3.id' in 'where clause',/questions/66637207/unknown-column-extent3-id-in-where-clause,16,0
+10,Trying to call WPF program from Console,/questions/66637944/trying-to-call-wpf-program-from-console,15,0
+41,An unhandled exception occurred while processing the request.(not show view),/questions/66636907/an-unhandled-exception-occurred-while-processing-the-request-not-show-view,14,1
+9,.net core bad request for http GET and sending body,/questions/66637977/net-core-bad-request-for-http-get-and-sending-body,14,0
+20,How to send hyperlink in email using C# but without IsBodyHtml=true,/questions/66637527/how-to-send-hyperlink-in-email-using-c-sharp-but-without-isbodyhtml-true,14,-2
+46,Check if an ITypeSymbol is a delegate type,/questions/66636594/check-if-an-itypesymbol-is-a-delegate-type,14,1
+48,How to Scroll Page with script on Unity?,/questions/66636475/how-to-scroll-page-with-script-on-unity,13,-3
+39,OCR with ASP.NET Framework v4.8 [closed],/questions/66636961/ocr-with-asp-net-framework-v4-8,13,-2
+21,Client served multiplayer in Unity (2D),/questions/66637482/client-served-multiplayer-in-unity-2d,12,0
+45,Mdac 2010 not working after installing access 2016,/questions/66636718/mdac-2010-not-working-after-installing-access-2016,12,-1
+42,How to run a C# Function in Google Cloud locally?,/questions/66636803/how-to-run-a-c-sharp-function-in-google-cloud-locally,11,-1
+25,Display Toast while awaiting Navigation.PushAsync,/questions/66637281/display-toast-while-awaiting-navigation-pushasync,11,0
+7,Exception thrown from Expression.Lambda in AOT,/questions/66637992/exception-thrown-from-expression-lambda-in-aot,11,0
+35,How to put a hyperlink text in Email Message Body with URL in WPF - C#,/questions/66637041/how-to-put-a-hyperlink-text-in-email-message-body-with-url-in-wpf-c-sharp,10,-1
+2,How can I change the label text in form “a” when a button is pressed in form “b” .net C#,/questions/66638142/how-can-i-change-the-label-text-in-form-a-when-a-button-is-pressed-in-form-b,9,0
+33,Two way binding on dynamically generated component / blazor,/questions/66637098/two-way-binding-on-dynamically-generated-component-blazor,9,0
+3,Generate DataTable object to pass as a value (TVP) to a stored procured input fails for computed columns / identity,/questions/66638116/generate-datatable-object-to-pass-as-a-value-tvp-to-a-stored-procured-input-fa,9,0
+43,nunit3-console Invalid: .csproj File type is not supported,/questions/66636785/nunit3-console-invalid-csproj-file-type-is-not-supported,8,0
+24,Why is there an error in ChartJs.Blazor (change in ASPNETCORE_ENVIRONMENT),/questions/66637307/why-is-there-an-error-in-chartjs-blazor-change-in-aspnetcore-environment,8,0
+15,How to set camel case using IAsyncCollector with System.Text.Json in Azure Functions?,/questions/66637657/how-to-set-camel-case-using-iasynccollector-with-system-text-json-in-azure-funct,7,0
+29,Dynamically Register The On selected index change event for DynamicInput,/questions/66637211/dynamically-register-the-on-selected-index-change-event-for-dynamicinput,7,0
+23,WPF Disable arrow navigation between controls,/questions/66637430/wpf-disable-arrow-navigation-between-controls,7,0
+18,Pause one scene completely while keeping other scene active,/questions/66637551/pause-one-scene-completely-while-keeping-other-scene-active,7,0
+17,Unity 3D movement,/questions/66637557/unity-3d-movement,7,0
+28,Configuration Store cache problem with multiple redirect uris,/questions/66637221/configuration-store-cache-problem-with-multiple-redirect-uris,7,0
+13,SignalR Hub OnDisconnectedAsync Method Does Not Get Hit in Blazor Server,/questions/66637802/signalr-hub-ondisconnectedasync-method-does-not-get-hit-in-blazor-server,7,0
+12,Android - Connecting to MS Sharepoint via CSOM - clientContext.ExecuteQuery() causes local file system UnauthorizedAccessException,/questions/66637856/android-connecting-to-ms-sharepoint-via-csom-clientcontext-executequery-ca,7,0
+4,EF code-first duplicate entries in relationship,/questions/66638112/ef-code-first-duplicate-entries-in-relationship,7,-1
+26,Can't add Microsoft.Windows.SDK.Contracts package to project using “Cake”,/questions/66637272/cant-add-microsoft-windows-sdk-contracts-package-to-project-using-cake,6,0
+1,How To Read Serial Port Receive Data chunk by chunk,/questions/66638243/how-to-read-serial-port-receive-data-chunk-by-chunk,6,0
+5,NotSupportedException: System.ServiceModel.Channels.BufferManager - Hololens 2 & OPC UA SDK for .NET,/questions/66638051/notsupportedexception-system-servicemodel-channels-buffermanager-hololens-2,5,0
+11,How to have both major and minor axis in Linechart in Fastreport?,/questions/66637937/how-to-have-both-major-and-minor-axis-in-linechart-in-fastreport,4,0
+22,TLSharp Not allways imports Telegram contacts,/questions/66637472/tlsharp-not-allways-imports-telegram-contacts,4,0
+44,Playing Sounds with Media Element,/questions/66636750/playing-sounds-with-media-element,3,0
+0,Screen blur using Windows.UI.Composition API in WPF,/questions/66638261/screen-blur-using-windows-ui-composition-api-in-wpf,2,0

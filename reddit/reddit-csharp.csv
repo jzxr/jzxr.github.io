@@ -1,12 +1,14 @@
-,title,id,url,body,timestamp,year,month,sentiment,review,nuetral
-0,"I am so happy I made this little program where you insert a number in seconds and it converts it to Minutes:Seconds, it took me 2 days to do but I am very proud, I know it is not much but I really enjoyed making it :)",b5w1uu,https://i.redd.it/c8gyu6naejo21.png,,2019-03-27 14:08:57,2019,3,0.0,Good,Nuetral
-1,I made an open source animated desktop wallpaper software using wpf,ir2ts6,https://v.redd.it/v8qxgjit2mm51,,2020-09-12 16:38:33,2020,9,0.0,Good,Nuetral
+,Title,ID,URL,Body,timestamp,Year,Month,Sentiment,Review,Nuetral
+0,I made an open source animated desktop wallpaper software using wpf,ir2ts6,https://v.redd.it/v8qxgjit2mm51,,2020-09-12 16:38:33,2020,9,0.0,Good,Nuetral
+1,"I am so happy I made this little program where you insert a number in seconds and it converts it to Minutes:Seconds, it took me 2 days to do but I am very proud, I know it is not much but I really enjoyed making it :)",b5w1uu,https://i.redd.it/c8gyu6naejo21.png,,2019-03-27 14:08:57,2019,3,0.0,Good,Nuetral
 2,Wrote a simple C# program to draw images on Paint (Source in the comments),heemm9,https://v.redd.it/m0ynawl1wn651,,2020-06-24 05:29:30,2020,6,0.0,Good,Nuetral
 3,I made a meme with C# feature,jumdij,https://i.redd.it/5wed32vwuez51.jpg,,2020-11-16 06:07:05,2020,11,0.0,Good,Nuetral
-4,"In a nutshell? 😂 Bought this book without looking at the page count, assuming it would be a short read, based on the title lol",h8k8oe,https://i.redd.it/ccflv57j1s451.jpg,,2020-06-14 17:17:07,2020,6,0.0,Good,Nuetral
-5,"My first little program! It runs you through a simple number trick and tells you if you screw up. New to this whole programming thing, it’s nice to have some working results",fryjqt,https://i.redd.it/a1dtwqaedvp41.jpg,,2020-03-31 12:26:55,2020,3,0.0,Good,Nuetral
-6,"After being asked by my daughter ""How easy is it to win the lottery? "", I made a lotto simulator. This example, I played 2 million games. Didn't win the jackpot, but at one point I did win £1, 000, 000, I continued to play. Fun saturday evening project.",jqlurm,https://i.redd.it/rphh3795m3y51.jpg,,2020-11-09 15:12:07,2020,11,0.0,Good,Nuetral
-7,So I had the strangest code interview,d6fepl,https://www.reddit.com/r/csharp/comments/d6fepl/so_i_had_the_strangest_code_interview/,"So I just got back from code interview about 20 minutes ago and I am still not sure what happened.
+4,I miss my VB days honestly.,m51yr8,https://i.redd.it/u5ujvlkon1n61.jpg,,2021-03-15 11:20:29,2021,3,0.0,Good,Nuetral
+5,"In a nutshell? 😂 Bought this book without looking at the page count, assuming it would be a short read, based on the title lol",h8k8oe,https://i.redd.it/ccflv57j1s451.jpg,,2020-06-14 17:17:07,2020,6,0.0,Good,Nuetral
+6,"My first little program! It runs you through a simple number trick and tells you if you screw up. New to this whole programming thing, it’s nice to have some working results",fryjqt,https://i.redd.it/a1dtwqaedvp41.jpg,,2020-03-31 12:26:55,2020,3,0.0,Good,Nuetral
+7,"After being asked by my daughter ""How easy is it to win the lottery? "", I made a lotto simulator. This example, I played 2 million games. Didn't win the jackpot, but at one point I did win £1, 000, 000, I continued to play. Fun saturday evening project.",jqlurm,https://i.redd.it/rphh3795m3y51.jpg,,2020-11-09 15:12:07,2020,11,0.0,Good,Nuetral
+8,I honestly prefer C# more,laa2bb,https://i.redd.it/mzoj505xrwe61.gif,,2021-02-02 10:22:52,2021,2,0.0,Good,Nuetral
+9,So I had the strangest code interview,d6fepl,https://www.reddit.com/r/csharp/comments/d6fepl/so_i_had_the_strangest_code_interview/,"So I just got back from code interview about 20 minutes ago and I am still not sure what happened.
 
 I got there and I shook some hands, literally the first 15 seconds gave me a weird vibe, they looked at me as if they've never seen a person before.
 
@@ -41,17 +43,18 @@ HELLO? Contract? Pay? Hours? Nothing? You just skipped a lot of steps mister.
 &#x200B;
 
 Anyways, figured I'd share this with you guys, I am still confused and I am not quite sure what happened, but I think I just landed a programming job developing Linux based SQL databases /s",2019-09-20 07:10:57,2019,9,0.16607289107289108,Good,Not Nuetral
-8,I honestly prefer C# more,laa2bb,https://i.redd.it/mzoj505xrwe61.gif,,2021-02-02 10:22:52,2021,2,0.0,Good,Nuetral
-9,Using C# before generics...,dpaa23,https://i.redd.it/rcwj80wuwpv31.jpg,,2019-10-31 10:01:49,2019,10,0.0,Good,Nuetral
-10,C# XD,b9f83u,https://i.redd.it/fymk1e9n1aq21.png,,2019-04-05 08:50:45,2019,4,0.0,Good,Nuetral
-11,I made Tetris in C#!,ioj3ge,https://gfycat.com/flimsycompleteharlequinbug,,2020-09-08 15:59:38,2020,9,0.0,Good,Nuetral
-12,We are proud to show your our new C# algorithm which allows to create procedural buildings and it will be use for our new augmented reality game. (See comments for a video about it),b1bc2i,https://v.redd.it/auzahleb68m21,,2019-03-15 22:17:31,2019,3,0.0,Good,Nuetral
-13,C# Pronunciation,a9ge8x,https://i.redd.it/szy10g5ohg621.jpg,,2018-12-26 09:07:57,2018,12,0.0,Good,Nuetral
-14,I love .NET and C# - just a funny picture about my feelings sometimes,gzsdk2,https://i.redd.it/r526rxnacx351.png,,2020-06-10 10:02:12,2020,6,0.0,Good,Nuetral
-15,It do be'eth like this.,hf4i2f,https://i.redd.it/tc5d93zp0w651.jpg,,2020-06-25 08:47:55,2020,6,0.0,Good,Nuetral
-16,Wrote my first game in c# and am extremely proud of it,ilfhjv,https://v.redd.it/7kgfggx3tsk51,,2020-09-03 12:59:00,2020,9,0.0,Good,Nuetral
-17,this.Subscribers.Count >= 100000,b7infg,https://i.redd.it/edpzuy7d1dp21.jpg,,2019-03-31 17:50:46,2019,3,0.0,Good,Nuetral
-18,Teaching my son to fall in love with code,axxtpq,https://www.reddit.com/r/csharp/comments/axxtpq/teaching_my_son_to_fall_in_love_with_code/,"I was helping my son with his math homework last night. Nothing too complex. It was cash register style calculations like calculating sale prices, calculating sales tax on a product.
+10,Using C# before generics...,dpaa23,https://i.redd.it/rcwj80wuwpv31.jpg,,2019-10-31 10:01:49,2019,10,0.0,Good,Nuetral
+11,C# XD,b9f83u,https://i.redd.it/fymk1e9n1aq21.png,,2019-04-05 08:50:45,2019,4,0.0,Good,Nuetral
+12,I made Tetris in C#!,ioj3ge,https://gfycat.com/flimsycompleteharlequinbug,,2020-09-08 15:59:38,2020,9,0.0,Good,Nuetral
+13,We are proud to show your our new C# algorithm which allows to create procedural buildings and it will be use for our new augmented reality game. (See comments for a video about it),b1bc2i,https://v.redd.it/auzahleb68m21,,2019-03-15 22:17:31,2019,3,0.0,Good,Nuetral
+14,I bet many of you can relate to this,lqimi1,https://i.imgur.com/7eVJHrL.png,,2021-02-24 05:39:10,2021,2,0.0,Good,Nuetral
+15,A daily argument with my team members,lryuwi,https://i.redd.it/2rhp43og4kj61.jpg,,2021-02-25 21:10:49,2021,2,0.0,Good,Nuetral
+16,C# Pronunciation,a9ge8x,https://i.redd.it/szy10g5ohg621.jpg,,2018-12-26 09:07:57,2018,12,0.0,Good,Nuetral
+17,I love .NET and C# - just a funny picture about my feelings sometimes,gzsdk2,https://i.redd.it/r526rxnacx351.png,,2020-06-10 10:02:12,2020,6,0.0,Good,Nuetral
+18,It do be'eth like this.,hf4i2f,https://i.redd.it/tc5d93zp0w651.jpg,,2020-06-25 08:47:55,2020,6,0.0,Good,Nuetral
+19,Wrote my first game in c# and am extremely proud of it,ilfhjv,https://v.redd.it/7kgfggx3tsk51,,2020-09-03 12:59:00,2020,9,0.0,Good,Nuetral
+20,this.Subscribers.Count >= 100000,b7infg,https://i.redd.it/edpzuy7d1dp21.jpg,,2019-03-31 17:50:46,2019,3,0.0,Good,Nuetral
+21,Teaching my son to fall in love with code,axxtpq,https://www.reddit.com/r/csharp/comments/axxtpq/teaching_my_son_to_fall_in_love_with_code/,"I was helping my son with his math homework last night. Nothing too complex. It was cash register style calculations like calculating sale prices, calculating sales tax on a product.
 
 After finishing four of these types of problems my son speaks up:
 ""Dad? These math problems I'm showing are only for THIS question but the steps are always the same. How would I show this answer for all of these at the same time?""
@@ -67,15 +70,15 @@ We'd spent about 15 minutes going over the code together explaining how it all w
 
 When I tucked him in at bedtime he asked me if I could show him more again soon.
 ",2019-03-07 03:30:11,2019,3,0.06624999999999999,Good,Not Nuetral
-19,TIL I no longer need to memorize the DateTime formats!,isyvby,https://i.redd.it/nryovmhgs7n51.png,,2020-09-15 17:30:17,2020,9,0.0,Good,Nuetral
-20,"I wrote my game in c#, about 5,000 lines of coded later and here it is!",kn7owf,https://v.redd.it/c8xqhvemad861,,2020-12-31 10:27:34,2020,12,0.0,Good,Nuetral
-21,Structs are Wild :D,l8h0xc,https://i.redd.it/8r7xlv6cffe61.png,,2021-01-31 00:02:06,2021,1,0.0,Good,Nuetral
-22,"My first ""program""",fut8c3,https://i.redd.it/bg8fk4i8tsq41.jpg,,2020-04-05 04:54:31,2020,4,0.0,Good,Nuetral
-23,What's the difference between Value Types & Reference Types,98ydqr,http://www.mathwarehouse.com/programming/images/pass-by-reference-vs-pass-by-value-animation.gif,,2018-08-21 14:58:18,2018,8,0.0,Good,Nuetral
-24,What to say when someone asks what your favorite language with OOP is:,gaanb7,https://i.redd.it/rs5hhg2gqrv41.png,,2020-04-30 06:38:08,2020,4,0.0,Good,Nuetral
-25,Just a generic work cup,5ggnto,http://imgur.com/JziXPKj,,2016-12-05 10:00:36,2016,12,0.0,Good,Nuetral
-26,My first code in c# :-),elrhqh,https://i.redd.it/dy4go6l4ij941.jpg,,2020-01-09 03:25:54,2020,1,0.0,Good,Nuetral
-27,Would any of you be interested in periodic talks about C#? (MSFT dev with ~30 years experience and almost 20 years in C#),hnkz0w,https://www.reddit.com/r/csharp/comments/hnkz0w/would_any_of_you_be_interested_in_periodic_talks/,"Every so often, I am asked to give internal talks about technical stuff at Microsoft. Some of these talks are about C#. I generally do not talk about specific frameworks or libraries, but rather about the language itself and how to get the most of it. I recently gave a talk about the features I was looking forward to coming in C# 8 and 9 and am going to give a talk about proper Linq use.
+22,TIL I no longer need to memorize the DateTime formats!,isyvby,https://i.redd.it/nryovmhgs7n51.png,,2020-09-15 17:30:17,2020,9,0.0,Good,Nuetral
+23,"I wrote my game in c#, about 5,000 lines of coded later and here it is!",kn7owf,https://v.redd.it/c8xqhvemad861,,2020-12-31 10:27:34,2020,12,0.0,Good,Nuetral
+24,Structs are Wild :D,l8h0xc,https://i.redd.it/8r7xlv6cffe61.png,,2021-01-31 00:02:06,2021,1,0.0,Good,Nuetral
+25,"My first ""program""",fut8c3,https://i.redd.it/bg8fk4i8tsq41.jpg,,2020-04-05 04:54:31,2020,4,0.0,Good,Nuetral
+26,What's the difference between Value Types & Reference Types,98ydqr,http://www.mathwarehouse.com/programming/images/pass-by-reference-vs-pass-by-value-animation.gif,,2018-08-21 14:58:18,2018,8,0.0,Good,Nuetral
+27,What to say when someone asks what your favorite language with OOP is:,gaanb7,https://i.redd.it/rs5hhg2gqrv41.png,,2020-04-30 06:38:08,2020,4,0.0,Good,Nuetral
+28,Just a generic work cup,5ggnto,http://imgur.com/JziXPKj,,2016-12-05 10:00:36,2016,12,0.0,Good,Nuetral
+29,My first code in c# :-),elrhqh,https://i.redd.it/dy4go6l4ij941.jpg,,2020-01-09 03:25:54,2020,1,0.0,Good,Nuetral
+30,Would any of you be interested in periodic talks about C#? (MSFT dev with ~30 years experience and almost 20 years in C#),hnkz0w,https://www.reddit.com/r/csharp/comments/hnkz0w/would_any_of_you_be_interested_in_periodic_talks/,"Every so often, I am asked to give internal talks about technical stuff at Microsoft. Some of these talks are about C#. I generally do not talk about specific frameworks or libraries, but rather about the language itself and how to get the most of it. I recently gave a talk about the features I was looking forward to coming in C# 8 and 9 and am going to give a talk about proper Linq use.
 
 &#x200B;
 
@@ -88,19 +91,20 @@ About myself: I have been working at Microsoft in various locations (inc. Redmon
 &#x200B;
 
 I fucking love C#, and if anyone is interested, can share that love.",2020-07-09 09:09:54,2020,7,0.1234375,Good,Not Nuetral
-28,Love how C# is evolving,jl9d9e,https://i.redd.it/u9588flrybw51.png,,2020-10-31 17:08:53,2020,10,0.0,Good,Nuetral
-29,The perfect author name does not exis..,ghoq4f,https://i.redd.it/cg2yuk5cd5y41.jpg,,2020-05-12 06:37:26,2020,5,0.0,Good,Nuetral
-30,Finally upgrading from a decade old book!,f4mdvk,https://i.redd.it/wc2b3f1158h41.jpg,,2020-02-16 21:46:01,2020,2,0.0,Good,Nuetral
-31,Pluralsight Author and C# Teacher Scott Allen has passed away,env3hr,https://www.heraldmailmedia.com/obituaries/k-allen/article_665bb053-7264-58eb-a5ec-521501443cd4.amp.html,,2020-01-13 15:00:54,2020,1,0.0,Good,Nuetral
-32,We all gotta start somewhere!,h8u0r7,https://i.redd.it/fm2diuk1qv451.jpg,,2020-06-15 05:39:47,2020,6,0.0,Good,Nuetral
-33,Introducing .NET 5,ble53t,https://devblogs.microsoft.com/dotnet/introducing-net-5/,,2019-05-07 08:15:36,2019,5,0.0,Good,Nuetral
-34,3 months into my c# lessons I finally made a program on my own.,k097m0,https://i.redd.it/ph16j64d18161.jpg,,2020-11-25 09:16:57,2020,11,0.0,Good,Nuetral
-35,I see your program that closes Edge and raise my program that paints on MS Paint!,j3lj8t,https://v.redd.it/6hhkcsrd3lq51,,2020-10-02 17:26:28,2020,10,0.0,Good,Nuetral
-36,VS 2019 DarkYellow Theme,dq6htp,https://i.redd.it/3ina6puqo3w31.png,,2019-11-02 08:21:11,2019,11,0.0,Good,Nuetral
-37,Using a Stream Deck as visual studio shortcuts,ayd92w,https://i.imgur.com/z5Tzis6.jpg,,2019-03-08 06:36:19,2019,3,0.0,Good,Nuetral
-38,Completed my collection!,ef6d95,https://i.redd.it/4u1sdez81n641.jpg,,2019-12-25 12:06:41,2019,12,0.0,Good,Nuetral
-39,GitHub Free now has unlimited private repos!!!!,adlzhy,https://blog.github.com/2019-01-07-new-year-new-github/,,2019-01-08 12:42:56,2019,1,0.0,Good,Nuetral
-40,"Introducing Reddit.NET: An OAuth-based, full-featured Reddit API library for .NET Core (C#). Free & open source (MIT). This is my rough draft so I'd be very grateful for any feedback you can offer!",a952u3,https://www.reddit.com/r/csharp/comments/a952u3/introducing_redditnet_an_oauthbased_fullfeatured/,"There's a lot to cover so please forgive the long post.  I'll start with a brief overview of the project, then go into more detail from there.  Once I implement any feedback from you guys, we'll be ready for beta testing (and I'll be asking for your help with that, as well).  Should be able to put out a stable release shortly after that.
+31,Love how C# is evolving,jl9d9e,https://i.redd.it/u9588flrybw51.png,,2020-10-31 17:08:53,2020,10,0.0,Good,Nuetral
+32,The perfect author name does not exis..,ghoq4f,https://i.redd.it/cg2yuk5cd5y41.jpg,,2020-05-12 06:37:26,2020,5,0.0,Good,Nuetral
+33,Just started learning. I am very proud of this. Feedback/Suggestions welcome.,lxl99e,https://i.redd.it/8t4z853eq0l61.jpg,,2021-03-05 06:05:55,2021,3,0.0,Good,Nuetral
+34,Finally upgrading from a decade old book!,f4mdvk,https://i.redd.it/wc2b3f1158h41.jpg,,2020-02-16 21:46:01,2020,2,0.0,Good,Nuetral
+35,Pluralsight Author and C# Teacher Scott Allen has passed away,env3hr,https://www.heraldmailmedia.com/obituaries/k-allen/article_665bb053-7264-58eb-a5ec-521501443cd4.amp.html,,2020-01-13 15:00:54,2020,1,0.0,Good,Nuetral
+36,We all gotta start somewhere!,h8u0r7,https://i.redd.it/fm2diuk1qv451.jpg,,2020-06-15 05:39:47,2020,6,0.0,Good,Nuetral
+37,Introducing .NET 5,ble53t,https://devblogs.microsoft.com/dotnet/introducing-net-5/,,2019-05-07 08:15:36,2019,5,0.0,Good,Nuetral
+38,I see your program that closes Edge and raise my program that paints on MS Paint!,j3lj8t,https://v.redd.it/6hhkcsrd3lq51,,2020-10-02 17:26:28,2020,10,0.0,Good,Nuetral
+39,3 months into my c# lessons I finally made a program on my own.,k097m0,https://i.redd.it/ph16j64d18161.jpg,,2020-11-25 09:16:57,2020,11,0.0,Good,Nuetral
+40,VS 2019 DarkYellow Theme,dq6htp,https://i.redd.it/3ina6puqo3w31.png,,2019-11-02 08:21:11,2019,11,0.0,Good,Nuetral
+41,Using a Stream Deck as visual studio shortcuts,ayd92w,https://i.imgur.com/z5Tzis6.jpg,,2019-03-08 06:36:19,2019,3,0.0,Good,Nuetral
+42,Completed my collection!,ef6d95,https://i.redd.it/4u1sdez81n641.jpg,,2019-12-25 12:06:41,2019,12,0.0,Good,Nuetral
+43,GitHub Free now has unlimited private repos!!!!,adlzhy,https://blog.github.com/2019-01-07-new-year-new-github/,,2019-01-08 12:42:56,2019,1,0.0,Good,Nuetral
+44,"Introducing Reddit.NET: An OAuth-based, full-featured Reddit API library for .NET Core (C#). Free & open source (MIT). This is my rough draft so I'd be very grateful for any feedback you can offer!",a952u3,https://www.reddit.com/r/csharp/comments/a952u3/introducing_redditnet_an_oauthbased_fullfeatured/,"There's a lot to cover so please forgive the long post.  I'll start with a brief overview of the project, then go into more detail from there.  Once I implement any feedback from you guys, we'll be ready for beta testing (and I'll be asking for your help with that, as well).  Should be able to put out a stable release shortly after that.
 
 Incidentally, this post was created using the Reddit.NET library.
 
@@ -407,16 +411,14 @@ I'm sure there's probably more that I'm forgetting to mention, but I think I've 
 **EDIT:** Oh and Merry Kristmas!  =)
 
 **EDIT 2:** Please don't worry if I take some time before responding to your feedback.  I promise I'll get to them all.",2018-12-25 05:43:58,2018,12,0.13587221533148505,Good,Not Nuetral
-41,I built a program that allows you to play Rock Paper Scissors with a computer. The computers choice is completely random.,gddnf4,https://v.redd.it/qwnztdmrnrw41,,2020-05-05 07:29:18,2020,5,0.0,Good,Nuetral
-42,I Think We Can All Agree This Should Be Official,bf5sf5,https://i.redd.it/qrpto5pl1bt21.jpg,,2019-04-20 15:24:58,2019,4,0.0,Good,Nuetral
-43,First hour of using C# in VS and this is what I get.,je2lms,https://i.redd.it/94hn0ht2a2u51.png,,2020-10-20 06:26:41,2020,10,0.0,Good,Nuetral
-44,"For the love of god, can we please sticky resources for beginners wanting to learn C# and redirect those trying to learn Unity to r/Unity3D?",hvzxcl,https://www.reddit.com/r/csharp/comments/hvzxcl/for_the_love_of_god_can_we_please_sticky/,"The same questions are being asked almost twice a day now, as if they just come here and post whatever is on their mind without doing their research. There are a plethora of posts on here that have been answered but they don’t even bother putting in the time to research, why should we put our time into helping someone that refuses to put time into helping themselves and what they are wanting to do? It’s as if these beginners keep looking for some magical answer which doesn’t exist.
+45,I built a program that allows you to play Rock Paper Scissors with a computer. The computers choice is completely random.,gddnf4,https://v.redd.it/qwnztdmrnrw41,,2020-05-05 07:29:18,2020,5,0.0,Good,Nuetral
+46,I Think We Can All Agree This Should Be Official,bf5sf5,https://i.redd.it/qrpto5pl1bt21.jpg,,2019-04-20 15:24:58,2019,4,0.0,Good,Nuetral
+47,First hour of using C# in VS and this is what I get.,je2lms,https://i.redd.it/94hn0ht2a2u51.png,,2020-10-20 06:26:41,2020,10,0.0,Good,Nuetral
+48,"For the love of god, can we please sticky resources for beginners wanting to learn C# and redirect those trying to learn Unity to r/Unity3D?",hvzxcl,https://www.reddit.com/r/csharp/comments/hvzxcl/for_the_love_of_god_can_we_please_sticky/,"The same questions are being asked almost twice a day now, as if they just come here and post whatever is on their mind without doing their research. There are a plethora of posts on here that have been answered but they don’t even bother putting in the time to research, why should we put our time into helping someone that refuses to put time into helping themselves and what they are wanting to do? It’s as if these beginners keep looking for some magical answer which doesn’t exist.
 
 And for those that are learning Unity, go to r/Unity3D unless you have a question related to C#. If you have a question on how to design your game or mechanics then go to r/gamedev or r/Unity3D for that. Most of us here are programmers, not game designers. I’m tired of seeing the same questions asked every day because not only do I link a previous answer and get downvoted for it, but it’s pushing the good questions down. For those that have questions related to .NET technologies, go to r/dotnet.",2020-07-23 11:08:52,2020,7,0.05982905982905983,Good,Not Nuetral
-45,[Video] Jon Skeet reads the C# 6 specification by the fire,a3ptz0,https://www.youtube.com/watch?v=4_N8TZ4YKZs,,2018-12-07 09:03:47,2018,12,0.0,Good,Nuetral
-46,"This is all done with C# the script that controls the force, gradient, and stars is all done with Unity3d in C# (See comments for tutorials)",baatoz,https://v.redd.it/1h91i3rzkqq21,,2019-04-07 16:28:12,2019,4,0.0,Good,Nuetral
-47,"I think Notepad has an ancient UI, so I decided to start a WPF project to update it to a Ribbon UI. I call it Scratchpad.",jj2k8k,https://i.redd.it/89jbwuqxhnv51.png,,2020-10-28 06:51:58,2020,10,0.0,Good,Nuetral
-48,"LPT: There is a library called Bogus, you should know it exists much earlier than I did in my career.",ley4iu,https://www.reddit.com/r/csharp/comments/ley4iu/lpt_there_is_a_library_called_bogus_you_should/,"Just to preface, I didnt write this package, nor do I have any connection to it.
+49,[Video] Jon Skeet reads the C# 6 specification by the fire,a3ptz0,https://www.youtube.com/watch?v=4_N8TZ4YKZs,,2018-12-07 09:03:47,2018,12,0.0,Good,Nuetral
+50,"LPT: There is a library called Bogus, you should know it exists much earlier than I did in my career.",ley4iu,https://www.reddit.com/r/csharp/comments/ley4iu/lpt_there_is_a_library_called_bogus_you_should/,"Just to preface, I didnt write this package, nor do I have any connection to it.
 
 Be  me, minding my business digging through the source for the Serilog http  sink package when you see instantiation of a class called ""Faker"".  Realize its magically generating fake data for a given object. Try to  find where the Faker class is defined in the project and realize its not  there.. look to the usings section for a package reference that seems  out of the ordinary. ""using Bogus;"" immediately jumps out as an odd one.  Open the google machine to find docs for the package. Find the public  repo for the project. Realize its a package with the power to generate  bogus test data for anything you wanna map it to. One object? No  problem. A collection of objects? No sweat. You want to generate an  angry comment on the fly? It can do that too. It can do lots of stuff.  Stuff I would never need it to do, but I might just make it do it  because its cool as hell.
 
@@ -425,22 +427,24 @@ My  entire career.. Ive been a chump manually declaring test objects and  dummy 
 &#x200B;
 
 EDIT: link -> [https://github.com/bchavez/Bogus](https://github.com/bchavez/Bogus)",2021-02-08 15:06:18,2021,2,-0.04848484848484849,Bad,Not Nuetral
-49,I built a terminal to overlay your background in WPF and .Net Core.,fjqnap,https://v.redd.it/12vfnnsccym41,,2020-03-17 11:20:27,2020,3,0.0,Good,Nuetral
-50,I made a program that instantly closes Microsoft Edge and then opens Google Chrome,j3e14f,https://v.redd.it/t5od9wmlyiq51,,2020-10-02 10:15:44,2020,10,0.0,Good,Nuetral
-51,Been teaching an 11 year old how to code since lockdown began. We’re weeks in now and here’s his progress in making a game. Obviously I largely put it together but most code snippets are written by him.,gkfxud,https://v.redd.it/uubcos5jezy41,,2020-05-16 11:38:37,2020,5,0.0,Good,Nuetral
-52,Xamarin is now free,4cqmko,https://twitter.com/VisualStudio/status/715567839923580929,,2016-04-01 07:55:57,2016,4,0.0,Good,Nuetral
-53,"This post is not C# related. I just want to say ""Merry Christmas"" to all of you.",kjtqp3,https://www.reddit.com/r/csharp/comments/kjtqp3/this_post_is_not_c_related_i_just_want_to_say/,"Dear friends who are far away, hope you have a safe and wonderful Xmas. Seasons Greetings!  Merry Christmas to you and your family.",2020-12-25 21:23:54,2020,12,0.5333333333333333,Good,Not Nuetral
-54,How to make your users love you 101,99kh95,https://i.imgur.com/aUIJYKk.png,,2018-08-23 20:53:42,2018,8,0.0,Good,Nuetral
-55,Somewhat by Popular Demand,bg32bn,https://i.redd.it/y78zojh0ytt21.jpg,,2019-04-23 06:57:53,2019,4,0.0,Good,Nuetral
-56,SmartImage: A reverse image search program that automatically finds the best source and opens it right in your browser!,ipqq1o,https://v.redd.it/6d8bdg1d67m51,,2020-09-10 14:28:28,2020,9,0.0,Good,Nuetral
-57,made this nice dark theme pack thingy for WPF,evb2t6,https://i.redd.it/4sboxv86xkd41.png,,2020-01-29 12:29:08,2020,1,0.0,Good,Nuetral
-58,I turned election stress into stuff,jub0qn,https://i.redd.it/n29933qrbaz51.jpg,,2020-11-15 14:50:35,2020,11,0.0,Good,Nuetral
-59,my first ever player movement script without help!!,gjustg,https://i.redd.it/d7mfvsmtmsy41.jpg,,2020-05-15 12:51:45,2020,5,0.0,Good,Nuetral
-60,"Friendly reminder to all, Visual Studio (as far back as 2013 I’ve seen) has a paste as JSON object to make classes from JSON strings",ldpw7b,https://www.reddit.com/r/csharp/comments/ldpw7b/friendly_reminder_to_all_visual_studio_as_far/,"I’ve been doing C# development for about 2 years now, and I spent the past 2 days building a consumer/wrapper for the spotify web api for a project I’m working on. I’ve spent HOURS building objects to deserialize into when all of the sudden, I found the greatest thing to ever happen to me. For whatever reason, I decided to go the “edit -> paste” route while copying a field name this time and noticed paste special which held “Paste as JSON object” (along with XML object). It simply parses out the values from a JSON response and builds a class object (along with any nested/sub objects) right there in place of the string of text. Absolutely wild. 
+51,"This is all done with C# the script that controls the force, gradient, and stars is all done with Unity3d in C# (See comments for tutorials)",baatoz,https://v.redd.it/1h91i3rzkqq21,,2019-04-07 16:28:12,2019,4,0.0,Good,Nuetral
+52,"I think Notepad has an ancient UI, so I decided to start a WPF project to update it to a Ribbon UI. I call it Scratchpad.",jj2k8k,https://i.redd.it/89jbwuqxhnv51.png,,2020-10-28 06:51:58,2020,10,0.0,Good,Nuetral
+53,I made a program that instantly closes Microsoft Edge and then opens Google Chrome,j3e14f,https://v.redd.it/t5od9wmlyiq51,,2020-10-02 10:15:44,2020,10,0.0,Good,Nuetral
+54,I built a terminal to overlay your background in WPF and .Net Core.,fjqnap,https://v.redd.it/12vfnnsccym41,,2020-03-17 11:20:27,2020,3,0.0,Good,Nuetral
+55,Been teaching an 11 year old how to code since lockdown began. We’re weeks in now and here’s his progress in making a game. Obviously I largely put it together but most code snippets are written by him.,gkfxud,https://v.redd.it/uubcos5jezy41,,2020-05-16 11:38:37,2020,5,0.0,Good,Nuetral
+56,Xamarin is now free,4cqmko,https://twitter.com/VisualStudio/status/715567839923580929,,2016-04-01 07:55:57,2016,4,0.0,Good,Nuetral
+57,"This post is not C# related. I just want to say ""Merry Christmas"" to all of you.",kjtqp3,https://www.reddit.com/r/csharp/comments/kjtqp3/this_post_is_not_c_related_i_just_want_to_say/,"Dear friends who are far away, hope you have a safe and wonderful Xmas. Seasons Greetings!  Merry Christmas to you and your family.",2020-12-25 21:23:54,2020,12,0.5333333333333333,Good,Not Nuetral
+58,How to make your users love you 101,99kh95,https://i.imgur.com/aUIJYKk.png,,2018-08-23 20:53:42,2018,8,0.0,Good,Nuetral
+59,Somewhat by Popular Demand,bg32bn,https://i.redd.it/y78zojh0ytt21.jpg,,2019-04-23 06:57:53,2019,4,0.0,Good,Nuetral
+60,SmartImage: A reverse image search program that automatically finds the best source and opens it right in your browser!,ipqq1o,https://v.redd.it/6d8bdg1d67m51,,2020-09-10 14:28:28,2020,9,0.0,Good,Nuetral
+61,made this nice dark theme pack thingy for WPF,evb2t6,https://i.redd.it/4sboxv86xkd41.png,,2020-01-29 12:29:08,2020,1,0.0,Good,Nuetral
+62,I turned election stress into stuff,jub0qn,https://i.redd.it/n29933qrbaz51.jpg,,2020-11-15 14:50:35,2020,11,0.0,Good,Nuetral
+63,"Friendly reminder to all, Visual Studio (as far back as 2013 I’ve seen) has a paste as JSON object to make classes from JSON strings",ldpw7b,https://www.reddit.com/r/csharp/comments/ldpw7b/friendly_reminder_to_all_visual_studio_as_far/,"I’ve been doing C# development for about 2 years now, and I spent the past 2 days building a consumer/wrapper for the spotify web api for a project I’m working on. I’ve spent HOURS building objects to deserialize into when all of the sudden, I found the greatest thing to ever happen to me. For whatever reason, I decided to go the “edit -> paste” route while copying a field name this time and noticed paste special which held “Paste as JSON object” (along with XML object). It simply parses out the values from a JSON response and builds a class object (along with any nested/sub objects) right there in place of the string of text. Absolutely wild. 
 
 Tl:dr: to magically make json objects from sample data/real responses, copy the whole block of text (all braces and such) and then do Edit->Paste Special->Paste as JSON object. Don’t be like me and waste hours making objects lol.",2021-02-06 20:31:08,2021,2,0.1852040816326531,Good,Not Nuetral
-61,CliWrap -- Forget about ever writing System.Diagnostics.Process code again,g3mqzl,https://i.redd.it/y9inmeqnlkt41.jpg,,2020-04-19 04:30:26,2020,4,0.0,Good,Nuetral
-62,It Amazes Me How Many Non-C# Developers Think C#/.NET Is Stuck in 2010,gwlmjo,https://www.reddit.com/r/csharp/comments/gwlmjo/it_amazes_me_how_many_nonc_developers_think_cnet/,"The title pretty much sums it up. I just argued with some developers who called C# 'the language of Microsoft sweat shops' & said that it is primarily for Windows because nobody uses it to develop cross-platform apps. 
+64,my first ever player movement script without help!!,gjustg,https://i.redd.it/d7mfvsmtmsy41.jpg,,2020-05-15 12:51:45,2020,5,0.0,Good,Nuetral
+65,CliWrap -- Forget about ever writing System.Diagnostics.Process code again,g3mqzl,https://i.redd.it/y9inmeqnlkt41.jpg,,2020-04-19 04:30:26,2020,4,0.0,Good,Nuetral
+66,It Amazes Me How Many Non-C# Developers Think C#/.NET Is Stuck in 2010,gwlmjo,https://www.reddit.com/r/csharp/comments/gwlmjo/it_amazes_me_how_many_nonc_developers_think_cnet/,"The title pretty much sums it up. I just argued with some developers who called C# 'the language of Microsoft sweat shops' & said that it is primarily for Windows because nobody uses it to develop cross-platform apps. 
 
 &#x200B;
 
@@ -449,11 +453,11 @@ The cherry on top was the developer who said 'Structs are stupid. Imagine a deve
 ...
 
 2020, please end.",2020-06-05 09:12:53,2020,6,0.11000000000000003,Good,Not Nuetral
-63,"I started learning this week. Behold my very first program: a rock, paper, scissors-game!",dofghy,https://i.redd.it/7q9w81oqkcv31.png,,2019-10-29 13:10:59,2019,10,0.0,Good,Nuetral
-64,C# 9 Records make working with JSON more enjoyable.,jpbmue,https://i.redd.it/64dl83mi8ox51.png,,2020-11-07 11:29:00,2020,11,0.0,Good,Nuetral
-65,I made a retro Pong game in console!,l29vc1,https://v.redd.it/ikggwk6flrc61,,2021-01-22 14:49:12,2021,1,0.0,Good,Nuetral
-66,First time trying to code tell me how to improve (I'm thirteen and have done block code for 3 years),hap6m7,https://i.redd.it/nw3oeq7neg551.png,,2020-06-18 03:15:20,2020,6,0.0,Good,Nuetral
-67,C# 9 CheatSheet,k1e347,https://www.reddit.com/r/csharp/comments/k1e347/c_9_cheatsheet/,"&#x200B;
+67,C# 9 Records make working with JSON more enjoyable.,jpbmue,https://i.redd.it/64dl83mi8ox51.png,,2020-11-07 11:29:00,2020,11,0.0,Good,Nuetral
+68,"I started learning this week. Behold my very first program: a rock, paper, scissors-game!",dofghy,https://i.redd.it/7q9w81oqkcv31.png,,2019-10-29 13:10:59,2019,10,0.0,Good,Nuetral
+69,I made a retro Pong game in console!,l29vc1,https://v.redd.it/ikggwk6flrc61,,2021-01-22 14:49:12,2021,1,0.0,Good,Nuetral
+70,First time trying to code tell me how to improve (I'm thirteen and have done block code for 3 years),hap6m7,https://i.redd.it/nw3oeq7neg551.png,,2020-06-18 03:15:20,2020,6,0.0,Good,Nuetral
+71,C# 9 CheatSheet,k1e347,https://www.reddit.com/r/csharp/comments/k1e347/c_9_cheatsheet/,"&#x200B;
 
 &#x200B;
 
@@ -481,8 +485,8 @@ The cherry on top was the developer who said 'Structs are stupid. Imagine a deve
 Download it **Powerpoint** or **PDF**:
 
  [https://github.com/alugili/CSharp-9-CheatSheet](https://github.com/alugili/CSharp-9-CheatSheet)",2020-11-27 04:02:37,2020,11,0.11212121212121212,Good,Not Nuetral
-68,Introducing .NET Multi-platform App UI | .NET Blog,gmqsc1,https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/?WT.mc_id=csharp-reddit-bramin,,2020-05-20 07:32:16,2020,5,0.0,Good,Nuetral
-69,C# is beautiful,iz3k0m,https://www.reddit.com/r/csharp/comments/iz3k0m/c_is_beautiful/,"The more i learn, the more i want to learn and the more i admire it. Just wanted to let you know
+72,Introducing .NET Multi-platform App UI | .NET Blog,gmqsc1,https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/?WT.mc_id=csharp-reddit-bramin,,2020-05-20 07:32:16,2020,5,0.0,Good,Nuetral
+73,C# is beautiful,iz3k0m,https://www.reddit.com/r/csharp/comments/iz3k0m/c_is_beautiful/,"The more i learn, the more i want to learn and the more i admire it. Just wanted to let you know
 
 Edit:
 Thank you everyone for the awards and your passion to C#. This is also what makes it so awesome, the community <3 and the Microsoft team who i look up to for bringing us this awesome language and platform etc...
@@ -492,10 +496,10 @@ So for anyone interested in learning C# with others (no matter your previous exp
 https://discord.gg/MkdCExn
 
 Wish you all the best and Gl!",2020-09-25 11:06:10,2020,9,0.5605902777777777,Good,Not Nuetral
-70,Made a very basic notepad program (like windows notepad) but with tabs and stuff. (opensource too),f9kiq3,https://i.redd.it/iv7jmnmgz5j41.png,,2020-02-26 16:41:03,2020,2,0.0,Good,Nuetral
-71,"7 months ago, I started working on CLUBASID. A hyper-visual disease simulation tool that would help researchers and students simulate the spread of infectious disease in a population. Simulations include different modes of transmission as well as preventive measures. Everything is written in C#",jbl009,https://v.redd.it/9mr2znzjj8t51,,2020-10-16 02:26:40,2020,10,0.0,Good,Nuetral
-72,Dependency Hell | pt II,af8lgf,https://i.redd.it/x7dm44eaf0a21.png,,2019-01-13 07:57:13,2019,1,0.0,Good,Nuetral
-73,Do not upvote: trying to recall the right name,ahcrjm,https://www.reddit.com/r/csharp/comments/ahcrjm/do_not_upvote_trying_to_recall_the_right_name/,"Having a 48-hr brain fart right now, and stuck in a circular dependency. Trying to figure out the name of a C# feature, and because I don’t know the name I have nothing to Google to discover what I want.
+74,Made a very basic notepad program (like windows notepad) but with tabs and stuff. (opensource too),f9kiq3,https://i.redd.it/iv7jmnmgz5j41.png,,2020-02-26 16:41:03,2020,2,0.0,Good,Nuetral
+75,"7 months ago, I started working on CLUBASID. A hyper-visual disease simulation tool that would help researchers and students simulate the spread of infectious disease in a population. Simulations include different modes of transmission as well as preventive measures. Everything is written in C#",jbl009,https://v.redd.it/9mr2znzjj8t51,,2020-10-16 02:26:40,2020,10,0.0,Good,Nuetral
+76,Dependency Hell | pt II,af8lgf,https://i.redd.it/x7dm44eaf0a21.png,,2019-01-13 07:57:13,2019,1,0.0,Good,Nuetral
+77,Do not upvote: trying to recall the right name,ahcrjm,https://www.reddit.com/r/csharp/comments/ahcrjm/do_not_upvote_trying_to_recall_the_right_name/,"Having a 48-hr brain fart right now, and stuck in a circular dependency. Trying to figure out the name of a C# feature, and because I don’t know the name I have nothing to Google to discover what I want.
 
 Essentially, there is a way of holding a value without actually holding that value by using a flag of sorts:
 
@@ -506,14 +510,14 @@ Essentially, there is a way of holding a value without actually holding that val
 And these can stand for most anything, from simple Boolean values to complex logic decisions.
 
 My brain loves fucking me over with trying to remember names and numbers; sometimes I feel fortunate that I still manage to remember my own name.",2019-01-19 09:25:27,2019,1,0.09841269841269841,Good,Not Nuetral
-74,Not to hate on Java too much,60qx18,http://i.imgur.com/mNRAynl.png,,2017-03-22 14:46:26,2017,3,0.0,Good,Nuetral
-75,I made Yahtzee with C#,lb5oyx,https://v.redd.it/x26p45loh4f61,,2021-02-03 12:34:45,2021,2,0.0,Good,Nuetral
-76,Microsoft announces Visual Studio 2019,8p39se,https://venturebeat.com/2018/06/06/microsoft-announces-visual-studio-2019/,,2018-06-07 10:52:00,2018,6,0.0,Good,Nuetral
-77,Amazon developed a tool to migrate projects from .NET Framework to .NET Core,hjfnl0,https://aws.amazon.com/blogs/aws/announcing-the-porting-assistant-for-net/,,2020-07-02 10:12:24,2020,7,0.0,Good,Nuetral
-78,[Video] Jon Skeet reads the C# 6 specification by the fire,dhn0ia,https://www.youtube.com/watch?v=4_N8TZ4YKZs,,2019-10-14 23:09:04,2019,10,0.0,Good,Nuetral
-79,"Eye tracking software for sufferers of ALS/MND can cost tens of thousands of dollars, so I've spent 3.5 years of my spare time writing a free & open-source alternative - meet OptiKey (C#, Rx, WPF) (x-post from r/Software)",3kdvoa,https://www.reddit.com/r/software/comments/3kdghp/eye_tracking_software_for_sufferers_of_alsmnd_can/?ref=share&ref_source=link,,2015-09-11 03:31:46,2015,9,0.0,Good,Nuetral
-80,"Ask me any C#/programming question. Then, after I’ve answered, edit your post to make me look like an idiot.",76dau1,https://www.reddit.com/r/csharp/comments/76dau1/ask_me_any_cprogramming_question_then_after_ive/,"Also, let me know what custom flair you want.",2017-10-15 09:00:58,2017,10,0.0,Good,Nuetral
-81,I did it! I freaking did it!,k5xz5s,https://www.reddit.com/r/csharp/comments/k5xz5s/i_did_it_i_freaking_did_it/,"**EDIT: Thank you to everyone for your kind words, and updoots for everyone!!!!!!!**
+78,I made Yahtzee with C#,lb5oyx,https://v.redd.it/x26p45loh4f61,,2021-02-03 12:34:45,2021,2,0.0,Good,Nuetral
+79,Not to hate on Java too much,60qx18,http://i.imgur.com/mNRAynl.png,,2017-03-22 14:46:26,2017,3,0.0,Good,Nuetral
+80,Microsoft announces Visual Studio 2019,8p39se,https://venturebeat.com/2018/06/06/microsoft-announces-visual-studio-2019/,,2018-06-07 10:52:00,2018,6,0.0,Good,Nuetral
+81,Amazon developed a tool to migrate projects from .NET Framework to .NET Core,hjfnl0,https://aws.amazon.com/blogs/aws/announcing-the-porting-assistant-for-net/,,2020-07-02 10:12:24,2020,7,0.0,Good,Nuetral
+82,[Video] Jon Skeet reads the C# 6 specification by the fire,dhn0ia,https://www.youtube.com/watch?v=4_N8TZ4YKZs,,2019-10-14 23:09:04,2019,10,0.0,Good,Nuetral
+83,"Eye tracking software for sufferers of ALS/MND can cost tens of thousands of dollars, so I've spent 3.5 years of my spare time writing a free & open-source alternative - meet OptiKey (C#, Rx, WPF) (x-post from r/Software)",3kdvoa,https://www.reddit.com/r/software/comments/3kdghp/eye_tracking_software_for_sufferers_of_alsmnd_can/?ref=share&ref_source=link,,2015-09-11 03:31:46,2015,9,0.0,Good,Nuetral
+84,"Ask me any C#/programming question. Then, after I’ve answered, edit your post to make me look like an idiot.",76dau1,https://www.reddit.com/r/csharp/comments/76dau1/ask_me_any_cprogramming_question_then_after_ive/,"Also, let me know what custom flair you want.",2017-10-15 09:00:58,2017,10,0.0,Good,Nuetral
+85,I did it! I freaking did it!,k5xz5s,https://www.reddit.com/r/csharp/comments/k5xz5s/i_did_it_i_freaking_did_it/,"**EDIT: Thank you to everyone for your kind words, and updoots for everyone!!!!!!!**
 
 &#x200B;
 
@@ -542,21 +546,17 @@ I would post the code here, but the class is still open. I can however post a li
 &#x200B;
 
 [https://youtu.be/d7rW4Sifk04](https://youtu.be/d7rW4Sifk04)",2020-12-04 06:16:48,2020,12,0.2989397321428572,Good,Not Nuetral
-82,Here's what you can do with the improved pattern matching in C# 9,joaclv,https://i.redd.it/y0aqv8qzzbx51.png,,2020-11-05 18:20:02,2020,11,0.0,Good,Nuetral
-83,Constant Folding in C# and C++,jc9a3x,https://i.redd.it/u0dbtwhzegt51.png,,2020-10-17 04:55:14,2020,10,0.0,Good,Nuetral
-84,I made a tool that can be used to create a menu for C# console projects,k9z3f4,https://v.redd.it/mo5lwzett7461,,2020-12-10 11:48:03,2020,12,0.0,Good,Nuetral
-85,My WFA mini game. Aim is to put 8 queens on board so no queen attack other queens,fww1xb,https://v.redd.it/zv2mxfd3mhr41,,2020-04-08 16:19:58,2020,4,0.0,Good,Nuetral
-86,I made a program to visualize different sorting algorithms using C# and SFML.NET,i719x3,https://v.redd.it/ye11yfll25g51,,2020-08-11 00:52:36,2020,8,0.0,Good,Nuetral
-87,Thank you Microsoft. Very cool!,dk0kvs,https://i.redd.it/144n86njbgt31.png,,2019-10-19 23:38:31,2019,10,0.0,Good,Nuetral
-88,Announcing .NET Core 3.0 | .NET Blog,d88jxs,https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/?WT.mc_id=social-twitter-marouill,,2019-09-24 08:04:37,2019,9,0.0,Good,Nuetral
-89,Welcome to C# 9,gnfne9,https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/,,2020-05-21 09:25:42,2020,5,0.0,Good,Nuetral
-90,.NET 5 is now available to download,jrndjm,https://dotnet.microsoft.com/download,,2020-11-11 07:53:31,2020,11,0.0,Good,Nuetral
-91,Visual Studio 2017 will be released on March 7,5t1frc,https://blogs.msdn.microsoft.com/visualstudio/2017/02/09/visual-studio-2017-launch-event-and-20th-anniversary/,,2017-02-10 09:33:12,2017,2,0.0,Good,Nuetral
-92,I made Tetris in the console with C#,joh1td,https://www.youtube.com/watch?v=rHsjXwmUbYw&feature=youtu.be,,2020-11-06 03:14:20,2020,11,0.0,Good,Nuetral
-93,Microsoft to acquire Xamarin & empower more developers to build apps on any device,47e8jn,http://blogs.microsoft.com/blog/2016/02/24/do-not-delete-224/,,2016-02-25 11:04:44,2016,2,0.0,Good,Nuetral
-94,So I created a youtube clone using c# and unity engine,iqmwlf,https://v.redd.it/lmv8ovnsfhm51,,2020-09-12 00:53:22,2020,9,0.0,Good,Nuetral
-95,3D Cube Rendering WPF,jllsif,https://v.redd.it/27atol3kngw51,,2020-11-01 08:55:24,2020,11,0.0,Good,Nuetral
-96,"IAmTimCorey on youtube is good stuff. Courses, Weekly challenges, How To's with c# and sql, lots of ancillary topics. Also core principles of c#. Straightforward explanations in plain English.",coysdx,https://www.youtube.com/user/IAmTimCorey,,2019-08-12 08:25:52,2019,8,0.0,Good,Nuetral
-97,What happens when you use atomic (Interlocked) methods in C#,j6nr4m,https://i.redd.it/p59x61lh4nr51.png,,2020-10-08 01:21:59,2020,10,0.0,Good,Nuetral
-98,"Well, Jon Skeet has passed 1 million reputation points on Stack Overflow",7qnvwj,https://stackoverflow.com/users/22656/jon-skeet,,2018-01-16 15:14:36,2018,1,0.0,Good,Nuetral
-99,My experience with Visual Studio 2017 so far,5zxtbu,https://i.redd.it/1odukfc58zly.png,,2017-03-18 06:16:42,2017,3,0.0,Good,Nuetral
+86,Here's what you can do with the improved pattern matching in C# 9,joaclv,https://i.redd.it/y0aqv8qzzbx51.png,,2020-11-05 18:20:02,2020,11,0.0,Good,Nuetral
+87,Constant Folding in C# and C++,jc9a3x,https://i.redd.it/u0dbtwhzegt51.png,,2020-10-17 04:55:14,2020,10,0.0,Good,Nuetral
+88,I made a tool that can be used to create a menu for C# console projects,k9z3f4,https://v.redd.it/mo5lwzett7461,,2020-12-10 11:48:03,2020,12,0.0,Good,Nuetral
+89,My WFA mini game. Aim is to put 8 queens on board so no queen attack other queens,fww1xb,https://v.redd.it/zv2mxfd3mhr41,,2020-04-08 16:19:58,2020,4,0.0,Good,Nuetral
+90,I made a program to visualize different sorting algorithms using C# and SFML.NET,i719x3,https://v.redd.it/ye11yfll25g51,,2020-08-11 00:52:36,2020,8,0.0,Good,Nuetral
+91,Thank you Microsoft. Very cool!,dk0kvs,https://i.redd.it/144n86njbgt31.png,,2019-10-19 23:38:31,2019,10,0.0,Good,Nuetral
+92,Announcing .NET Core 3.0 | .NET Blog,d88jxs,https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/?WT.mc_id=social-twitter-marouill,,2019-09-24 08:04:37,2019,9,0.0,Good,Nuetral
+93,Welcome to C# 9,gnfne9,https://devblogs.microsoft.com/dotnet/welcome-to-c-9-0/,,2020-05-21 09:25:42,2020,5,0.0,Good,Nuetral
+94,.NET 5 is now available to download,jrndjm,https://dotnet.microsoft.com/download,,2020-11-11 07:53:31,2020,11,0.0,Good,Nuetral
+95,Visual Studio 2017 will be released on March 7,5t1frc,https://blogs.msdn.microsoft.com/visualstudio/2017/02/09/visual-studio-2017-launch-event-and-20th-anniversary/,,2017-02-10 09:33:12,2017,2,0.0,Good,Nuetral
+96,I made Tetris in the console with C#,joh1td,https://www.youtube.com/watch?v=rHsjXwmUbYw&feature=youtu.be,,2020-11-06 03:14:20,2020,11,0.0,Good,Nuetral
+97,Microsoft to acquire Xamarin & empower more developers to build apps on any device,47e8jn,http://blogs.microsoft.com/blog/2016/02/24/do-not-delete-224/,,2016-02-25 11:04:44,2016,2,0.0,Good,Nuetral
+98,So I created a youtube clone using c# and unity engine,iqmwlf,https://v.redd.it/lmv8ovnsfhm51,,2020-09-12 00:53:22,2020,9,0.0,Good,Nuetral
+99,3D Cube Rendering WPF,jllsif,https://v.redd.it/27atol3kngw51,,2020-11-01 08:55:24,2020,11,0.0,Good,Nuetral
