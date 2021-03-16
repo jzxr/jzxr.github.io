@@ -16,13 +16,15 @@ CsvToHtmlTable = {
             customTemplates[colIdx] = func;
         });
 
-        var $table = $("<table class='table table-striped table-condensed display nowrap width='100%'' id='" + el + "-table'></table>");
+        var $table = $("<table class='table table-striped table-condensed display nowrap style = width:'100%'' id='" + el + "-table'></table>");
         var $containerElement = $("#" + el);
         $containerElement.empty().append($table);
 
         $.when($.get(csv_path)).then(
             function (data) {
+                
                 var csvData = $.csv.toArrays(data, csv_options);
+                
                 var $tableHead = $("<thead></thead>");
                 var csvHeaderRow = csvData[0];
                 var $tableHeadRow = $("<tr></tr>");
@@ -33,7 +35,6 @@ CsvToHtmlTable = {
 
                 $table.append($tableHead);
                 var $tableBody = $("<tbody></tbody>");
-
                 for (var rowIdx = 1; rowIdx < csvData.length; rowIdx++) {
                     var $tableBodyRow = $("<tr></tr>");
                     for (var colIdx = 0; colIdx < csvData[rowIdx].length; colIdx++) {
@@ -43,7 +44,7 @@ CsvToHtmlTable = {
                         if (cellTemplateFunc) {
                             $tableBodyRowTd.html(cellTemplateFunc(rowData));
                         } else {
-                            if (rowData.length > 25) {
+                            if (rowData.length > 15) {
                                 rowData = rowData.substring(0, 25) + '...';
                             }
                             $tableBodyRowTd.text(rowData);
