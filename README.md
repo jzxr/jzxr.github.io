@@ -321,7 +321,21 @@ self
 
 Returns:
 self.data: returns the authenticated log in and saves into the self.data attribute
+```Python
+def authenticate(self):
+        auth = tweepy.OAuthHandler(
+            "f9HugoUFnLlKdU4b6N2SFu8Ae",
+            "zh7O2DYDdA4JN1Xe70PMaoHpslWQbNZnxsQzYRAUMx8LyuLb30",
+        )
+        auth.set_access_token(
+            "1358278817085681665-szJPAYiD5uzRPyXDYamFnuwh2I2qoI",
+            "fEh0d8l2b9kcL8jacPnVSRkleHAK30FS82spLYKSnCtKB",
+        )
 
+        # initialize Tweepy API
+        self.data = tweepy.API(auth)
+        return self.data
+```
 ### 5.1.5.2 crawldatatop
 
 Description:
