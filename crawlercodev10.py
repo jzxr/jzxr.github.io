@@ -792,6 +792,7 @@ class task():
 if __name__ == "__main__":
     print("Welcome to our Programming Language/Trend Crawler\n")
     print("Before we get started, here is a documentation to the functions for better understanding!\n")
+    
     print("------ Abstract Parent Class ------\n")
     help(crawleddata)
     print("------ Reddit Crawler ------\n")
@@ -806,6 +807,8 @@ if __name__ == "__main__":
     help(task)
     print("------ Test Cases------\n")
     help(testCases)
+    
+    
     
     
     

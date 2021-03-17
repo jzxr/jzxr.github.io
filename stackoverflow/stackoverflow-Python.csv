@@ -1,0 +1,51 @@
+,Title,URL,Views,Votes
+10,Find nearby locations Algorithmic idea? [closed],https://stackoverflow.com/questions/66673115/find-nearby-locations-algorithmic-idea,26,-9
+3,Is it possible to write this statement without using while and use for and if only? [closed],https://stackoverflow.com/questions/66673278/is-it-possible-to-write-this-statement-without-using-while-and-use-for-and-if-on,23,-4
+27,“None” appears before matrix,https://stackoverflow.com/questions/66672896/none-appears-before-matrix,20,0
+33,Python exe - how can I restrict viewing source and byte code?,https://stackoverflow.com/questions/66672822/python-exe-how-can-i-restrict-viewing-source-and-byte-code,17,0
+11,Python permutations to create combinations using all and partial elements of a list [duplicate],https://stackoverflow.com/questions/66673111/python-permutations-to-create-combinations-using-all-and-partial-elements-of-a-l,17,0
+35,How to display legends in scatter plot in order to differentiate between the classes,https://stackoverflow.com/questions/66672813/how-to-display-legends-in-scatter-plot-in-order-to-differentiate-between-the-cla,17,0
+23,Pandas: how to use apply with a series of lists,https://stackoverflow.com/questions/66672980/pandas-how-to-use-apply-with-a-series-of-lists,16,0
+41,Is using .join on list comprehension faster than a simple for loop in python?,https://stackoverflow.com/questions/66672714/is-using-join-on-list-comprehension-faster-than-a-simple-for-loop-in-python,16,-1
+17,Epitran rules and regex handling,https://stackoverflow.com/questions/66673076/epitran-rules-and-regex-handling,16,0
+24,Inculde python.exe and other files into C# .exe,https://stackoverflow.com/questions/66672943/inculde-python-exe-and-other-files-into-c-sharp-exe,15,-2
+21,Collect selected values within dictionary that may exist or not,https://stackoverflow.com/questions/66673017/collect-selected-values-within-dictionary-that-may-exist-or-not,15,0
+36,How to match the user information to the image?,https://stackoverflow.com/questions/66672812/how-to-match-the-user-information-to-the-image,14,0
+32,How does python version affects the usage of modules?,https://stackoverflow.com/questions/66672833/how-does-python-version-affects-the-usage-of-modules,14,0
+13,Why doesn't finally block return the latest exception when an exception occurs within an except block?,https://stackoverflow.com/questions/66673091/why-doesnt-finally-block-return-the-latest-exception-when-an-exception-occurs-w,14,1
+38,Combining Dataframe plots into single figure,https://stackoverflow.com/questions/66672783/combining-dataframe-plots-into-single-figure,14,0
+45,How to run the “manage.py runserver” command in PyCharm by pressing the up arrow on every time?,https://stackoverflow.com/questions/66672675/how-to-run-the-manage-py-runserver-command-in-pycharm-by-pressing-the-up-arrow,14,0
+46,Problem with appending values into a empty dataframe,https://stackoverflow.com/questions/66672668/problem-with-appending-values-into-a-empty-dataframe,14,0
+44,Anamoly detection with Scipy,https://stackoverflow.com/questions/66672685/anamoly-detection-with-scipy,13,0
+31,AttributeError: 'str' object has no attribute 'text' in code,https://stackoverflow.com/questions/66672840/attributeerror-str-object-has-no-attribute-text-in-code,13,0
+5,python set difference on hashable objects,https://stackoverflow.com/questions/66673237/python-set-difference-on-hashable-objects,13,1
+37,Update values in sqlite database when there are multiple with the same name,https://stackoverflow.com/questions/66672789/update-values-in-sqlite-database-when-there-are-multiple-with-the-same-name,11,0
+26,Is there a way to conduct the Anderson Darling test in Python using a custom distribution?,https://stackoverflow.com/questions/66672906/is-there-a-way-to-conduct-the-anderson-darling-test-in-python-using-a-custom-dis,10,1
+40,I am trying to use pathlib.Path(__file__).parent.absolute() to move the file ```filef``` to folder. Why I am get an error?,https://stackoverflow.com/questions/66672716/i-am-trying-to-use-pathlib-path-file-parent-absolute-to-move-the-file,10,-2
+29,Get h3 tag text with identified element with selenium python,https://stackoverflow.com/questions/66672861/get-h3-tag-text-with-identified-element-with-selenium-python,10,0
+28,Django how to do validate method for the same user to not exist again?,https://stackoverflow.com/questions/66672873/django-how-to-do-validate-method-for-the-same-user-to-not-exist-again,10,0
+25,Is there anyway to run tensorflow1 and tensorflow2 in one project?,https://stackoverflow.com/questions/66672932/is-there-anyway-to-run-tensorflow1-and-tensorflow2-in-one-project,10,0
+49,Cannot find .ipynb in directory that says it was last modified recently but has no recently modified files,https://stackoverflow.com/questions/66672653/cannot-find-ipynb-in-directory-that-says-it-was-last-modified-recently-but-has,10,0
+7,Python Mail Encoding Issue,https://stackoverflow.com/questions/66673147/python-mail-encoding-issue,10,0
+30,predict numpy array datatype after array calculations,https://stackoverflow.com/questions/66672853/predict-numpy-array-datatype-after-array-calculations,9,1
+16,python - logging how to remove lines by date? [closed],https://stackoverflow.com/questions/66673079/python-logging-how-to-remove-lines-by-date,9,-2
+8,why single pytorch process is displayed on each GPU,https://stackoverflow.com/questions/66673132/why-single-pytorch-process-is-displayed-on-each-gpu,8,0
+43,Fitting 2D Gaussian to a 2D matrix of values,https://stackoverflow.com/questions/66672705/fitting-2d-gaussian-to-a-2d-matrix-of-values,8,0
+42,Bigquery for ID in a list,https://stackoverflow.com/questions/66672706/bigquery-for-id-in-a-list,8,0
+14,PyCharm doesn't detect unimported modules,https://stackoverflow.com/questions/66673088/pycharm-doesnt-detect-unimported-modules,8,0
+39,Python subprocess.getstatusoutput stuck on window machine despite subprocess returning from sys.exit(),https://stackoverflow.com/questions/66672729/python-subprocess-getstatusoutput-stuck-on-window-machine-despite-subprocess-ret,8,0
+48,I cannot create a pivot table.I get this error. ValueError: Grouper for 'SPV' not 1-dimensional Error,https://stackoverflow.com/questions/66672655/i-cannot-create-a-pivot-table-i-get-this-error-valueerror-grouper-for-spv-no,7,0
+4,I can not solve this problem “ IndexError: list index out of range ”,https://stackoverflow.com/questions/66673273/i-can-not-solve-this-problem-indexerror-list-index-out-of-range,7,0
+15,Replace values of a pandas serie conditionally,https://stackoverflow.com/questions/66673082/replace-values-of-a-pandas-serie-conditionally,7,0
+12,How to add respective images in a tkinter database management application,https://stackoverflow.com/questions/66673098/how-to-add-respective-images-in-a-tkinter-database-management-application,6,-1
+9,Combine csv files for training machine learning model Python,https://stackoverflow.com/questions/66673127/combine-csv-files-for-training-machine-learning-model-python,5,-1
+0,Getting the minimum value from the list,https://stackoverflow.com/questions/66673314/getting-the-minimum-value-from-the-list,5,0
+34,How to apply styles on ms word using python,https://stackoverflow.com/questions/66672815/how-to-apply-styles-on-ms-word-using-python,5,0
+19,Balancing users to same node in kubernetes,https://stackoverflow.com/questions/66673049/balancing-users-to-same-node-in-kubernetes,4,0
+2,To create apps.json file in webtech module python,https://stackoverflow.com/questions/66673280/to-create-apps-json-file-in-webtech-module-python,4,0
+20,problem in upgrading scikit-image version,https://stackoverflow.com/questions/66673041/problem-in-upgrading-scikit-image-version,4,0
+1,ImportError: DLL load failed while importing cv2: The specified module could not be found in pycharm with python 3.9,https://stackoverflow.com/questions/66673284/importerror-dll-load-failed-while-importing-cv2-the-specified-module-could-not,4,0
+22,How to create a training datastore from .mat files in python with folders' names as class labels?,https://stackoverflow.com/questions/66672994/how-to-create-a-training-datastore-from-mat-files-in-python-with-folders-names,3,0
+18,Is it possible to configure AWS CodeArtifact PyPi repository to be used in AWS MWAA?,https://stackoverflow.com/questions/66673059/is-it-possible-to-configure-aws-codeartifact-pypi-repository-to-be-used-in-aws-m,3,0
+6,Merging netCDF files when time is specified as an offset from a 'base_time',https://stackoverflow.com/questions/66673222/merging-netcdf-files-when-time-is-specified-as-an-offset-from-a-base-time,3,0
+47,Dagster start pipeline from another pipeline using its outputs,https://stackoverflow.com/questions/66672656/dagster-start-pipeline-from-another-pipeline-using-its-outputs,3,0

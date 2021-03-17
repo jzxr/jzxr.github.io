@@ -1,161 +1,59 @@
 ,Tweet Content,User Name,HashTags,Retweet Count,Favourite Count,URL,Created Date
-0,"Success Analytics: The Science of Success
-
-https://t.co/5uYJg4e1qq
-
-#VaathiMANIAEverywhere | #Master
-#ArtificialIntelligence #DeepLearning #DataScience #javascript #serverless #WomenInTech #100DaysOfCode #python #Linux #Flutter #TensorFlow #IoT #AR #Ag
-https://t.co/JGzd2zgXTD",SuccessAnalytiX,"['VaathiMANIAEverywhere', 'Master', 'ArtificialIntelligence', 'DeepLearning', 'DataScience', 'javascript', 'serverless', 'WomenInTech', '100DaysOfCode', 'python', 'Linux', 'Flutter', 'TensorFlow', 'IoT', 'AR', 'Ag']",37,12,https://twitter.com/SuccessAnalytiX/status/1369075415390826500,2021-03-08
-1,"Learn how capital markets can prepare for the future with AI.
+0,"Learn how capital markets can prepare for the future with AI.
 
 Link → https://t.co/JaPJpQ0jdV via @Forbes 
 
-#DeepLearning #DataScience #Coding #DL #MachineLearning #ML #AI #ArtificialIntelligence #100DaysOfCode #womenwhocode #100DaysOfMLCode https://t.co/SYFmnAwmy8",appengine_ai,"['DeepLearning', 'DataScience', 'Coding', 'DL', 'MachineLearning', 'ML', 'AI', 'ArtificialIntelligence', '100DaysOfCode', 'womenwhocode', '100DaysOfMLCode']",36,17,https://twitter.com/appengine_ai/status/1369792779015122944,2021-03-10
-2,"PyTorch: Deep Learning and Artificial Intelligence
+#DeepLearning #DataScience #Coding #DL #MachineLearning #ML #AI #ArtificialIntelligence #100DaysOfCode #womenwhocode #100DaysOfMLCode https://t.co/SYFmnAwmy8",appengine_ai,"['DeepLearning', 'DataScience', 'Coding', 'DL', 'MachineLearning', 'ML', 'AI', 'ArtificialIntelligence', '100DaysOfCode', 'womenwhocode', '100DaysOfMLCode']",35,17,https://twitter.com/appengine_ai/status/1369792779015122944,2021-03-10
+1,"Artificial intelligence leads NATO's new strategy for emerging and disruptive tech - C4ISRNet
 
-⏩ https://t.co/Qa4qLVlI3d
+Read more here: https://t.co/YdurmZH5TX
 
-🔥@udemy #PyTorch #DeepLearning #ArtificialIntelligence #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Coding #100DaysofCode #100DaysOfMLCode https://t.co/DCOSrGsIbB",BlackfreeNiken,"['PyTorch', 'DeepLearning', 'ArtificialIntelligence', 'Analytics', 'DataScience', 'MachineLearning', 'IoT', 'IIoT', 'Python', 'RStats', 'CloudComputing', 'Serverless', 'Coding', '100DaysofCode', '100DaysOfMLCode']",27,9,https://twitter.com/BlackfreeNiken/status/1369073128131895296,2021-03-08
+#ArtificialIntelligence #AI #DataScience #100DaysOfCode #Python #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",IainLJBrown,"['ArtificialIntelligence', 'AI', 'DataScience', '100DaysOfCode', 'Python', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",35,16,https://twitter.com/IainLJBrown/status/1371248121951444994,2021-03-14
+2,"Artificial intelligence leads NATO's new strategy for emerging and disruptive tech - C4ISRNet
+
+Read more here: https://t.co/P0Nzu7rXFz
+
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",BenjaminP3ters,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",34,12,https://twitter.com/BenjaminP3ters/status/1371244271387480067,2021-03-14
 3,"Python for Machine Learning with Numpy, Pandas and Matplotlib ($29.99 to FREE) #DataScience #Python #IoT #BigData #100DaysOfCode #blockchain #ArtificialIntelligence #CloudComputing #programming #DeepLearning #Serverless #MachineLearning #Linux #ML #…
 https://t.co/yDILGtd9bQ",jucktion,"['DataScience', 'Python', 'IoT', 'BigData', '100DaysOfCode', 'blockchain', 'ArtificialIntelligence', 'CloudComputing', 'programming', 'DeepLearning', 'Serverless', 'MachineLearning', 'Linux', 'ML']",25,10,https://twitter.com/jucktion/status/1370521471555153920,2021-03-12
 4,Fundamentals of Machine Learning ($19.99 to Free) #ArtificialIntelligence #100DaysOfCode #programming #blockchain #CloudComputing #MachineLearning #IoT #DeepLearning #Python #BigData #Serverless #ML #Linux #AI #JavaScript #DataScience https://t.co/8jm4NqegG5  #Javascript,javascriptflx,"['ArtificialIntelligence', '100DaysOfCode', 'programming', 'blockchain', 'CloudComputing', 'MachineLearning', 'IoT', 'DeepLearning', 'Python', 'BigData', 'Serverless', 'ML', 'Linux', 'AI', 'JavaScript', 'DataScience', 'Javascript']",25,6,https://twitter.com/javascriptflx/status/1370524843758718981,2021-03-12
 5,Google BigQuery/PostgreSQL for Data Analysis ($29.99 to FREE) #JavaScript #Python #Linux #programming #100DaysOfCode #ArtificialIntelligence #BigData #IoT #Serverless #ML #DeepLearning #DataScience #MachineLearning #CloudComputing #AI #blockchain https://t.co/KYD6uRxR8Q,jucktion,"['JavaScript', 'Python', 'Linux', 'programming', '100DaysOfCode', 'ArtificialIntelligence', 'BigData', 'IoT', 'Serverless', 'ML', 'DeepLearning', 'DataScience', 'MachineLearning', 'CloudComputing', 'AI', 'blockchain']",23,10,https://twitter.com/jucktion/status/1370521860673314816,2021-03-12
-6,"Adding Deep Learning to Ultra-Low Dose CT Drastically Reduces Exposure for Emphysema Patients - Diagnostic Imaging
-
-Read more here: https://t.co/gATMzX0gPo
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",J3nTyrell,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",22,16,https://twitter.com/J3nTyrell/status/1370156971844898817,2021-03-11
-7,"Adding Deep Learning to Ultra-Low Dose CT Drastically Reduces Exposure for Emphysema Patients - Diagnostic Imaging
-
-Read more here: https://t.co/qhUbFIfxY0
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",MarcoPark21,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",19,14,https://twitter.com/MarcoPark21/status/1370153435954343940,2021-03-11
-8,"Adding Deep Learning to Ultra-Low Dose CT Drastically Reduces Exposure for Emphysema Patients - Diagnostic Imaging
-
-Read more here: https://t.co/gyyXzGguGr
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",TaylorLevi6,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",14,7,https://twitter.com/TaylorLevi6/status/1370158371823833091,2021-03-11
-9,"Deep Claim: Payer Response Prediction from Claims Data with #DeepLearning 
+6,"Deep Claim: Payer Response Prediction from Claims Data with #DeepLearning 
 
 https://t.co/85F8EAj9mS by @Synced_Global
 #AI
 Cc @andi_staub @psb_dc @guzmand @mvollmer1 @NexWebSites @HaroldSinnott @jblefevre60 @Nicochan33 @pierrepinna https://t.co/JDdpw3P0rE",ipfconline1,"['DeepLearning', 'AI']",13,10,https://twitter.com/ipfconline1/status/1369796486091964417,2021-03-10
-10,"Artificial intelligence leads NATO's new strategy for emerging and disruptive tech - C4ISRNet
-
-Read more here: https://t.co/YdurmZH5TX
-
-#ArtificialIntelligence #AI #DataScience #100DaysOfCode #Python #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",IainLJBrown,"['ArtificialIntelligence', 'AI', 'DataScience', '100DaysOfCode', 'Python', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",11,6,https://twitter.com/IainLJBrown/status/1371248121951444994,2021-03-14
-11,"Artificial intelligence leads NATO's new strategy for emerging and disruptive tech - C4ISRNet
-
-Read more here: https://t.co/P0Nzu7rXFz
-
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #100DaysOfCode #Python #DeepLearning #NLP #Robots #IoT",BenjaminP3ters,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', '100DaysOfCode', 'Python', 'DeepLearning', 'NLP', 'Robots', 'IoT']",11,4,https://twitter.com/BenjaminP3ters/status/1371244271387480067,2021-03-14
-12,"Regularization in Linear Models by Ravali Munagala https://t.co/ozOsZwC4CD 
-#machinelearning #deeplearning #artificialintelligence #datascience #sztucznainteligencja #data #MLsoGood #code #python #pythonlearning #complexity #algorithm
-#programmer #DataScientist #DataAnalytics #AI",Mlearning_ai,"['machinelearning', 'deeplearning', 'artificialintelligence', 'datascience', 'sztucznainteligencja', 'data', 'MLsoGood', 'code', 'python', 'pythonlearning', 'complexity', 'algorithm', 'programmer', 'DataScientist', 'DataAnalytics', 'AI']",8,4,https://twitter.com/Mlearning_ai/status/1369435064921169922,2021-03-09
-13,"I've just published Artificiality Bites 💊 Issue #31
-
-https://t.co/QwYCXOiGq4
-
-#data #ML #DS #AI #ArtificialIntelligence #BigData #MachineLearning #python #DeepLearning #newsletter #nlp #weekly #seer #vissl #horovod #ray #clip #sharf #shapash #git #wit #gartner",pyjaime,"['data', 'ML', 'DS', 'AI', 'ArtificialIntelligence', 'BigData', 'MachineLearning', 'python', 'DeepLearning', 'newsletter', 'nlp', 'weekly', 'seer', 'vissl', 'horovod', 'ray', 'clip', 'sharf', 'shapash', 'git', 'wit', 'gartner']",7,5,https://twitter.com/pyjaime/status/1369073056451358720,2021-03-08
-14,"""Genius Makers""
-
-New York Times' Cade Metz in conversation with Canada CIFAR AI Chair Graham Taylor
-
-MARK YOUR CALENDARS: Monday, March 15; 12noon-1pmET
-
-Explore the past, present &amp; future of AI : https://t.co/WfstOiGDYD
-
-#ArtificialIntelligence #DeepLearning #GeniusMakers https://t.co/FifSrnG9B7",Montreal_AI,"['ArtificialIntelligence', 'DeepLearning', 'GeniusMakers']",4,5,https://twitter.com/Montreal_AI/status/1369436508332167175,2021-03-09
-15,"Generating functional protein variants with variational autoencoders | PLOS Computational Biology
-https://t.co/gheGfKuCjH
-
-#DeepLearning https://t.co/MHDRGdNp9A",BioDecoded,['DeepLearning'],4,3,https://twitter.com/BioDecoded/status/1370887354529968130,2021-03-13
-16,"Learn Deep Sequence Modeling in 10 mins!
-I have tried using real-world analogies and make the concept less mathematical - hope that helps!
-
-Thanks @MIT , @apsoleimany for delivering great lectures!
-
-https://t.co/FGZMGdbxkz
-
-#DeepLearning #MachineLearning #ArtificialIntelligence",AmeyaShanbhag,"['DeepLearning', 'MachineLearning', 'ArtificialIntelligence']",3,9,https://twitter.com/AmeyaShanbhag/status/1369435056071139346,2021-03-09
-17,"Ant art: The exhibition of paintings created entirely by artificial intelligence
-
-#AI #DeepLearning 
-
-@sebbourguignon @alvinfoo @KirkDBorne @FrRonconi @TerenceLeungSF @ronald_vanloon @jblefevre60 @evankirstel @mvollmer1 @HeinzvHoenen @haroldsinnott https://t.co/n4cNxkf6jQ",richardkimphd,"['AI', 'DeepLearning']",3,7,https://twitter.com/richardkimphd/status/1371242168224948227,2021-03-14
-18,"Base-resolution models of transcription-factor binding reveal soft motif syntax | Nature Genetics
-https://t.co/i5X7UxR7F0
-
-#DeepLearning https://t.co/8gxgVwaDA7",BioDecoded,['DeepLearning'],3,2,https://twitter.com/BioDecoded/status/1370886894062505984,2021-03-13
-19,"In a machine learning project, model evaluation and selection are very important aspects of a data science project. https://t.co/lSZIg0ahjw
-#machinelearning
-#deeplearning
-#naturallanguageprocessing
-#python
-#digilitiks
-#analytics",digilitiks,"['machinelearning', 'deeplearning', 'naturallanguageprocessing', 'python', 'digilitiks', 'analytics']",3,2,https://twitter.com/digilitiks/status/1369791269782777856,2021-03-10
-41,Sentiment Analysis on live tweets with ad hoc batch processing using AWS https://t.co/ch98FebPlE #GetMoreInsights #CoolerData #Data #Cloud #Marketing #Tech #DeepLearning #BusinessIntelligence https://t.co/HIzrn1TJzm,CoolerData,"['GetMoreInsights', 'CoolerData', 'Data', 'Cloud', 'Marketing', 'Tech', 'DeepLearning', 'BusinessIntelligence']",3,2,https://twitter.com/CoolerData/status/1369071568320557057,2021-03-08
-20,"Artificial intelligence leads NATO's new strategy for emerging and disruptive tech - C4ISRNet
+7,"Artificial intelligence leads NATO's new strategy for emerging and disruptive tech - C4ISRNet
 
 Read more here: https://t.co/bg4MMkAVUT
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",SuzanneC0leman,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",3,1,https://twitter.com/SuzanneC0leman/status/1371245645353353221,2021-03-14
-21,"Would you like some AIs with that? 
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",SuzanneC0leman,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",12,5,https://twitter.com/SuzanneC0leman/status/1371245645353353221,2021-03-14
+8,At face value: Using facial analysis algorithm to track changes due to Parkinson's disease | #AI #HealthCare #Neurology #ComputerVision #Parkinson #MachineLearning #DeepLearning https://t.co/PZd1rmPR8O,_M_Dey,"['AI', 'HealthCare', 'Neurology', 'ComputerVision', 'Parkinson', 'MachineLearning', 'DeepLearning']",7,5,https://twitter.com/_M_Dey/status/1372164354074800129,2021-03-17
+9,"An Overview of Current Trends, Techniques, Prospects, and Pitfalls of Artificial -  https://t.co/cNoMmDLdZZ #deeplearning #intoAInews",into_AI,"['deeplearning', 'intoAInews']",5,3,https://twitter.com/into_AI/status/1369800056107335684,2021-03-10
+10,"Best Laptops for Deep Learning, Machine Learning, and Data Science https://t.co/xHFeDz7kGN  #MachineLearning #DataScience #DeepLearning",Datascience__,"['MachineLearning', 'DataScience', 'DeepLearning']",5,1,https://twitter.com/Datascience__/status/1371246341444239360,2021-03-14
+11,"Ant art: The exhibition of paintings created entirely by artificial intelligence
 
-#ArtificialIntelligence #MachineLearning #DeepLearning #aiaustralia #BigData  #McDonalds https://t.co/JmXh8sc2Fl",AustraliaAi,"['ArtificialIntelligence', 'MachineLearning', 'DeepLearning', 'aiaustralia', 'BigData', 'McDonalds']",3,1,https://twitter.com/AustraliaAi/status/1369071775116632064,2021-03-08
-22,DEEP LEARNING · Deep Learning https://t.co/QAJhWMu9X2  #DeepLearning,machinelearnflx,['DeepLearning'],2,7,https://twitter.com/machinelearnflx/status/1369437196843950083,2021-03-09
-23,"Principal Component Analysis helps us simplify our data by reducing dimensionality without sacrificing the quality of information. 
-https://t.co/XzijwZFcGl
-#machinelearning
-#deeplearning
-#naturallanguageprocessing
-#python
-#digilitiks
-#analytics",digilitiks,"['machinelearning', 'deeplearning', 'naturallanguageprocessing', 'python', 'digilitiks', 'analytics']",2,3,https://twitter.com/digilitiks/status/1370886060050325505,2021-03-13
-24,Google AI Blog: Accelerating Neural Networks on Mobile and Web with Sparse Inference #ArtificialIntelligence #Classification #DeepLearning #MachineLearning #NeuralNetworks #Tensorflow https://t.co/dWbs4VYlPd,ai_summary,"['ArtificialIntelligence', 'Classification', 'DeepLearning', 'MachineLearning', 'NeuralNetworks', 'Tensorflow']",2,2,https://twitter.com/ai_summary/status/1369796654795264000,2021-03-10
-25,"A system able to develop an artistic sense would represent a big step into more complex AI and provide a better understanding of the human brain.
+#AI #DeepLearning 
 
-#AI #Artificialintelligence #DataScience #DataAnalytics #DigitalTransformation #tech #DeepLearning #MachineLearning #ML https://t.co/k2xonMXzXk",SadiqAlesia,"['AI', 'Artificialintelligence', 'DataScience', 'DataAnalytics', 'DigitalTransformation', 'tech', 'DeepLearning', 'MachineLearning', 'ML']",2,2,https://twitter.com/SadiqAlesia/status/1369435986371969033,2021-03-09
-26,"Lawyers warned of AI pitfalls, cybersecurity attacks and deepfake t... (ABA Journal)
+@sebbourguignon @alvinfoo @KirkDBorne @FrRonconi @TerenceLeungSF @ronald_vanloon @jblefevre60 @evankirstel @mvollmer1 @HeinzvHoenen @haroldsinnott https://t.co/n4cNxkf6jQ",richardkimphd,"['AI', 'DeepLearning']",4,9,https://twitter.com/richardkimphd/status/1371242168224948227,2021-03-14
+12,"Thank you to our friends at #SuperbAI @superb_hq for sponsoring @towards_AI's newsletter! → https://t.co/pMrwiIYvBc 
 
-If lawyers and their clients make use of artificial intelligence, they should consider the ethica...
-
-Add your highlights:
-https://t.co/L6deBh2XCl
- #AI #deeplearning",ArtIntel_b,"['AI', 'deeplearning']",2,2,https://twitter.com/ArtIntel_b/status/1369073203193077761,2021-03-08
-27,Ten Artificial Intelligence innovations in healthcare https://t.co/7xjxaw06Sl #GetMoreInsights #CoolerData #Data #Business #DeepLearning #Web #Statistics #Cloud https://t.co/9AawbYIWfO,CoolerData,"['GetMoreInsights', 'CoolerData', 'Data', 'Business', 'DeepLearning', 'Web', 'Statistics', 'Cloud']",2,1,https://twitter.com/CoolerData/status/1371440302406336522,2021-03-15
-28,"Can artificial intelligence predict whether someone will die from #COVID? 
+#mw #deeplearning #datascience #datalabeling #machinelearning #ml #datamanagement #TowardsAI #nlp #descriptivestatistics #research #AI #artificialintelligence",robiriondo,"['SuperbAI', 'mw', 'deeplearning', 'datascience', 'datalabeling', 'machinelearning', 'ml', 'datamanagement', 'TowardsAI', 'nlp', 'descriptivestatistics', 'research', 'AI', 'artificialintelligence']",4,4,https://twitter.com/robiriondo/status/1371970844050735105,2021-03-16
+13,"Can artificial intelligence predict whether someone will die from #COVID? 
 
 #AI #DeepLearning
 
 @PhilippBohn @ralph_ohr @pierrepinna @jblefevre60 @AdamLGRing @dinisguarda @BetaMoroney @DTLabUCC @DrJDrooghaag @efipm @CyrilCoste  @LindaGrass0 
 
-https://t.co/Uo8PcwMkun",richardkimphd,"['COVID', 'AI', 'DeepLearning']",2,1,https://twitter.com/richardkimphd/status/1371243160282697731,2021-03-14
-29,"Submit ur Research Papers, Survey, Report for publication &amp; recognition: paper.uasg2021@iitr.ac.in  #drones #UAV #DeepLearning #ElonMusk #Researchpaper #dronephotography #survey #dronephotography #cityscape #DJI #3Dmodeling #3Dscanning #mapping #photogrammetry #realitycapture",UASG9,"['drones', 'UAV', 'DeepLearning', 'ElonMusk', 'Researchpaper', 'dronephotography', 'survey', 'dronephotography', 'cityscape', 'DJI', '3Dmodeling', '3Dscanning', 'mapping', 'photogrammetry', 'realitycapture']",2,1,https://twitter.com/UASG9/status/1370884749909127170,2021-03-13
-30,"Another aspect is to create an organisational culture that adopts change and technology to minimise employee resentment and retaliation to change.
-#AI #Artificialintelligence #DataScience #DataAnalytics #DigitalTransformation #tech #DeepLearning #MachineLearning #ML #technology https://t.co/dvNsCh3Ppv",SadiqAlesia,"['AI', 'Artificialintelligence', 'DataScience', 'DataAnalytics', 'DigitalTransformation', 'tech', 'DeepLearning', 'MachineLearning', 'ML', 'technology']",2,1,https://twitter.com/SadiqAlesia/status/1370154701795250183,2021-03-11
-31,"An Overview of Current Trends, Techniques, Prospects, and Pitfalls of Artificial -  https://t.co/cNoMmDLdZZ #deeplearning #intoAInews",into_AI,"['deeplearning', 'intoAInews']",2,1,https://twitter.com/into_AI/status/1369800056107335684,2021-03-10
-32,"Would you like some AIs with that? 
+https://t.co/Uo8PcwMkun",richardkimphd,"['COVID', 'AI', 'DeepLearning']",4,3,https://twitter.com/richardkimphd/status/1371243160282697731,2021-03-14
+14,"Generating functional protein variants with variational autoencoders | PLOS Computational Biology
+https://t.co/gheGfKuCjH
 
-#ArtificialIntelligence #MachineLearning #DeepLearning #aiaustralia #BigData  #McDonalds https://t.co/ZMax2LBcWF",AustraliaAi,"['ArtificialIntelligence', 'MachineLearning', 'DeepLearning', 'aiaustralia', 'BigData', 'McDonalds']",1,2,https://twitter.com/AustraliaAi/status/1371246130525306881,2021-03-14
-33,"We are looking for a 12-month Research Fellow on generative deep learning for compressed sensing at @IspammL, @SapienzaRoma. 
-Deadline: April 1, 2021.
-
-For further details:
-https://t.co/zPGgLYccFC
-
-#OpenPosition #GAN #VAE #DeepLearning #NeuralNetworks #Audio #FastMRI",IspammL,"['OpenPosition', 'GAN', 'VAE', 'DeepLearning', 'NeuralNetworks', 'Audio', 'FastMRI']",1,2,https://twitter.com/IspammL/status/1371243203983257600,2021-03-14
-34,"Would you like some AIs with that? 
-
-#ArtificialIntelligence #MachineLearning #DeepLearning #aiaustralia #BigData  #McDonalds https://t.co/aMJ4bNlNFy",AustraliaAi,"['ArtificialIntelligence', 'MachineLearning', 'DeepLearning', 'aiaustralia', 'BigData', 'McDonalds']",1,2,https://twitter.com/AustraliaAi/status/1370521331494699014,2021-03-12
-35,"What is a Deepfake?
-https://t.co/7dwcuDcaTC
-#deepfake #technology #future #ai #machinelearning #deeplearning #business",Blogging__Guide,"['deepfake', 'technology', 'future', 'ai', 'machinelearning', 'deeplearning', 'business']",1,2,https://twitter.com/Blogging__Guide/status/1370521323789815821,2021-03-12
-36,"A New Operand to Reduce Over-parametrization in Neural Networks.
-#neuralnetworks #deeplearning #operand #mathematics
-https://t.co/4nuhMt9CyP",DeCurto2,"['neuralnetworks', 'deeplearning', 'operand', 'mathematics']",1,2,https://twitter.com/DeCurto2/status/1369797127942139907,2021-03-10
-37,"Free video #mathematical lectures on 👇🏾
+#DeepLearning https://t.co/MHDRGdNp9A",BioDecoded,['DeepLearning'],4,3,https://twitter.com/BioDecoded/status/1370887354529968130,2021-03-13
+15,Beginners Guide: Predict the Stock Market by Billy Bonaros via #TowardsAI → https://t.co/hO9seoTfYb #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,stanford__ai,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",4,1,https://twitter.com/stanford__ai/status/1371972048831008768,2021-03-16
+16,How to Create a Powerful TF-IDF Keyword Research Tool in Python by Billy Bonaros via #TowardsAI → https://t.co/2tDMHqiSKU #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,towards_AI,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",4,1,https://twitter.com/towards_AI/status/1371971595615543298,2021-03-16
+17,#DrugDesign #DeepLearning: scientists have created a physics-based neural network that can predict protein conformational dynamics from experimentally determined atomic structures and molecular simulations - https://t.co/Sus6jU0Yuj #Bioinformatics #ProteinEngineering https://t.co/sidukprK86,RoyalVoxPost,"['DrugDesign', 'DeepLearning', 'Bioinformatics', 'ProteinEngineering']",3,6,https://twitter.com/RoyalVoxPost/status/1371611688739471369,2021-03-15
+18,"Free video #mathematical lectures on 👇🏾
 
 #Tensor
 #TensorAnalysis
@@ -174,13 +72,84 @@ Great for deep understanding of
 
 🙏🏾@ipam_ucla 
 #AI
-#HilbertSpace https://t.co/PKvf3Too5d",MDJDPathology,"['mathematical', 'Tensor', 'TensorAnalysis', 'TensorGeometry', 'TensorNetworks', 'TensorDecomposition', 'LinearAlgebra', 'MultiLinearAlgebra', 'HighDimensionalData', 'MachineLearning', 'ML', 'DeepLearning', 'DL', 'AI', 'HilbertSpace']",1,1,https://twitter.com/MDJDPathology/status/1371249138755629059,2021-03-14
-38,General News Article page #BigData #deeplearning #learning via https://t.co/NEo7LankbK https://t.co/pZVL4yqjDG,Techfuturenew,"['BigData', 'deeplearning', 'learning']",1,1,https://twitter.com/Techfuturenew/status/1370885282434809858,2021-03-13
-39,"Deep Learning Mathematics demands your understanding of Moore-Penrose Pseudoinverse as it helps you solve the system of a linear equation. https://t.co/xyNPfb6lhc
+#HilbertSpace https://t.co/PKvf3Too5d",MDJDPathology,"['mathematical', 'Tensor', 'TensorAnalysis', 'TensorGeometry', 'TensorNetworks', 'TensorDecomposition', 'LinearAlgebra', 'MultiLinearAlgebra', 'HighDimensionalData', 'MachineLearning', 'ML', 'DeepLearning', 'DL', 'AI', 'HilbertSpace']",3,3,https://twitter.com/MDJDPathology/status/1371249138755629059,2021-03-14
+19,"Base-resolution models of transcription-factor binding reveal soft motif syntax | Nature Genetics
+https://t.co/i5X7UxR7F0
+
+#DeepLearning https://t.co/8gxgVwaDA7",BioDecoded,['DeepLearning'],3,2,https://twitter.com/BioDecoded/status/1370886894062505984,2021-03-13
+40,"In a machine learning project, model evaluation and selection are very important aspects of a data science project. https://t.co/lSZIg0ahjw
+#machinelearning
+#deeplearning
+#naturallanguageprocessing
+#python
+#digilitiks
+#analytics",digilitiks,"['machinelearning', 'deeplearning', 'naturallanguageprocessing', 'python', 'digilitiks', 'analytics']",3,2,https://twitter.com/digilitiks/status/1369791269782777856,2021-03-10
+20,Beginners Guide: Predict the Stock Market by Billy Bonaros via #TowardsAI → https://t.co/BUaOYWjv2N #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,towards_AI,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",3,1,https://twitter.com/towards_AI/status/1371971551617282054,2021-03-16
+21,"Would you like some AIs with that? 
+
+#ArtificialIntelligence #MachineLearning #DeepLearning #aiaustralia #BigData  #McDonalds https://t.co/3uDhbeeRkD",AustraliaAi,"['ArtificialIntelligence', 'MachineLearning', 'DeepLearning', 'aiaustralia', 'BigData', 'McDonalds']",3,1,https://twitter.com/AustraliaAi/status/1371970906831126529,2021-03-16
+22,"WayRay presents an #AR experience empowering the future of autonomous technology 
+
+Read/Add #SelfDrivingCars news
+https://t.co/bpSD60w38Y
+
+#computervision #machinelearning #deeplearning #ml #dl #ai 
+#driverlesscars #autonomouscars #autonomousvehicles https://t.co/MNPxVwzKfA",selfdriving360,"['AR', 'SelfDrivingCars', 'computervision', 'machinelearning', 'deeplearning', 'ml', 'dl', 'ai', 'driverlesscars', 'autonomouscars', 'autonomousvehicles']",3,1,https://twitter.com/selfdriving360/status/1371604372442992645,2021-03-15
+23,"Would you like some AIs with that? 
+
+#ArtificialIntelligence #MachineLearning #DeepLearning #aiaustralia #BigData  #McDonalds https://t.co/ZMax2LBcWF",AustraliaAi,"['ArtificialIntelligence', 'MachineLearning', 'DeepLearning', 'aiaustralia', 'BigData', 'McDonalds']",2,3,https://twitter.com/AustraliaAi/status/1371246130525306881,2021-03-14
+24,"Principal Component Analysis helps us simplify our data by reducing dimensionality without sacrificing the quality of information. 
+https://t.co/XzijwZFcGl
+#machinelearning
+#deeplearning
+#naturallanguageprocessing
+#python
+#digilitiks
+#analytics",digilitiks,"['machinelearning', 'deeplearning', 'naturallanguageprocessing', 'python', 'digilitiks', 'analytics']",2,3,https://twitter.com/digilitiks/status/1370886060050325505,2021-03-13
+25,"Hi guys! I just released Episode 218 of Data Every Day, a series where I train ML models on a new Kaggle dataset each day. Check it out!
+https://t.co/pT6VJvDBSV
+
+#MachineLearning #ArtificialIntelligence #DeepLearning #DataScience #ML #AI #DL #Data #Kaggle",gcdatkin,"['MachineLearning', 'ArtificialIntelligence', 'DeepLearning', 'DataScience', 'ML', 'AI', 'DL', 'Data', 'Kaggle']",2,2,https://twitter.com/gcdatkin/status/1371968920266096640,2021-03-16
+26,"This will require institutions to spend more on training and educate society not to enter into employment fields that are susceptible to AI impact.
+#AI #Artificialintelligence #DataScience #DataAnalytics #DigitalTransformation #tech #DeepLearning #MachineLearning #ML #technology https://t.co/womB0uRuu1",SadiqAlesia,"['AI', 'Artificialintelligence', 'DataScience', 'DataAnalytics', 'DigitalTransformation', 'tech', 'DeepLearning', 'MachineLearning', 'ML', 'technology']",2,2,https://twitter.com/SadiqAlesia/status/1371610218740744194,2021-03-15
+27,"We are looking for a 12-month Research Fellow on generative deep learning for compressed sensing at @IspammL, @SapienzaRoma. 
+Deadline: April 1, 2021.
+
+For further details:
+https://t.co/zPGgLYccFC
+
+#OpenPosition #GAN #VAE #DeepLearning #NeuralNetworks #Audio #FastMRI",IspammL,"['OpenPosition', 'GAN', 'VAE', 'DeepLearning', 'NeuralNetworks', 'Audio', 'FastMRI']",2,2,https://twitter.com/IspammL/status/1371243203983257600,2021-03-14
+28,Google AI Blog: Accelerating Neural Networks on Mobile and Web with Sparse Inference #ArtificialIntelligence #Classification #DeepLearning #MachineLearning #NeuralNetworks #Tensorflow https://t.co/dWbs4VYlPd,ai_summary,"['ArtificialIntelligence', 'Classification', 'DeepLearning', 'MachineLearning', 'NeuralNetworks', 'Tensorflow']",2,2,https://twitter.com/ai_summary/status/1369796654795264000,2021-03-10
+29,"Submit ur Research Papers, Survey, Report for publication &amp; recognition: paper.uasg2021@iitr.ac.in  #drones #UAV #DeepLearning #ElonMusk #Researchpaper #dronephotography #survey #dronephotography #cityscape #DJI #3Dmodeling #3Dscanning #mapping #photogrammetry #realitycapture",UASG9,"['drones', 'UAV', 'DeepLearning', 'ElonMusk', 'Researchpaper', 'dronephotography', 'survey', 'dronephotography', 'cityscape', 'DJI', '3Dmodeling', '3Dscanning', 'mapping', 'photogrammetry', 'realitycapture']",2,1,https://twitter.com/UASG9/status/1370884749909127170,2021-03-13
+30,"Another aspect is to create an organisational culture that adopts change and technology to minimise employee resentment and retaliation to change.
+#AI #Artificialintelligence #DataScience #DataAnalytics #DigitalTransformation #tech #DeepLearning #MachineLearning #ML #technology https://t.co/dvNsCh3Ppv",SadiqAlesia,"['AI', 'Artificialintelligence', 'DataScience', 'DataAnalytics', 'DigitalTransformation', 'tech', 'DeepLearning', 'MachineLearning', 'ML', 'technology']",2,1,https://twitter.com/SadiqAlesia/status/1370154701795250183,2021-03-11
+31,"Today's market summary and tomorrow's forecast (https://t.co/8ZEdmPyVQ5)
+69%, 73% and 55% of #NASDAQ,  #NYSE and #TSX #stocks fell; $IXIC +0.09%, $NYA -0.67% and $GSPTSE -0.43%
+🔥Hot: $TSLA $AAPL $AMZN $MSFT $FB 
+$BA $BABA $NIO $JPM $DIS $SQ $XOM
+
+#AI #DeepLearning #Predictions https://t.co/9AsXg8Kzm2",Ai2Stock,"['NASDAQ', 'NYSE', 'TSX', 'stocks', 'AI', 'DeepLearning', 'Predictions']",1,2,https://twitter.com/Ai2Stock/status/1371974100864884738,2021-03-16
+32,"🐳 Kubeflow  is an open source platform developed by google to contain the machine learning model development life cycle.
+
+https://t.co/MiW1bgqQ0o
+
+#kubeflow #kubernetes #machinelearning #lifecycle #deeplearning #deployment #mlops #kfserving",Fernando_LpzV,"['kubeflow', 'kubernetes', 'machinelearning', 'lifecycle', 'deeplearning', 'deployment', 'mlops', 'kfserving']",1,2,https://twitter.com/Fernando_LpzV/status/1371611021039738882,2021-03-15
+33,"Would you like some AIs with that? 
+
+#ArtificialIntelligence #MachineLearning #DeepLearning #aiaustralia #BigData  #McDonalds https://t.co/aMJ4bNlNFy",AustraliaAi,"['ArtificialIntelligence', 'MachineLearning', 'DeepLearning', 'aiaustralia', 'BigData', 'McDonalds']",1,2,https://twitter.com/AustraliaAi/status/1370521331494699014,2021-03-12
+34,"What is a Deepfake?
+https://t.co/7dwcuDcaTC
+#deepfake #technology #future #ai #machinelearning #deeplearning #business",Blogging__Guide,"['deepfake', 'technology', 'future', 'ai', 'machinelearning', 'deeplearning', 'business']",1,2,https://twitter.com/Blogging__Guide/status/1370521323789815821,2021-03-12
+35,"A New Operand to Reduce Over-parametrization in Neural Networks.
+#neuralnetworks #deeplearning #operand #mathematics
+https://t.co/4nuhMt9CyP",DeCurto2,"['neuralnetworks', 'deeplearning', 'operand', 'mathematics']",1,2,https://twitter.com/DeCurto2/status/1369797127942139907,2021-03-10
+36,How to Create a Powerful TF-IDF Keyword Research Tool in Python by Billy Bonaros via #TowardsAI → https://t.co/t5DUGmGp7P #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,stanford__ai,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",1,1,https://twitter.com/stanford__ai/status/1371972050445856771,2021-03-16
+37,General News Article page #BigData #deeplearning #learning via https://t.co/NEo7LankbK https://t.co/pZVL4yqjDG,Techfuturenew,"['BigData', 'deeplearning', 'learning']",1,1,https://twitter.com/Techfuturenew/status/1370885282434809858,2021-03-13
+38,"Deep Learning Mathematics demands your understanding of Moore-Penrose Pseudoinverse as it helps you solve the system of a linear equation. https://t.co/xyNPfb6lhc
 #machinelearning
 #deeplearning
 #naturallanguageprocessing
 #python
 #digilitiks
 #analytics",digilitiks,"['machinelearning', 'deeplearning', 'naturallanguageprocessing', 'python', 'digilitiks', 'analytics']",1,1,https://twitter.com/digilitiks/status/1370522217834971136,2021-03-12
-40,[2009.10277] Constructing interval variables via faceted Rasch measurement and multitask #DeepLearning : a hate speech application  https://t.co/QYIbCmXvnV H/T: @WiDSBerkeley,saqibali_ca,['DeepLearning'],1,1,https://twitter.com/saqibali_ca/status/1370161066727014400,2021-03-11
+39,[2009.10277] Constructing interval variables via faceted Rasch measurement and multitask #DeepLearning : a hate speech application  https://t.co/QYIbCmXvnV H/T: @WiDSBerkeley,saqibali_ca,['DeepLearning'],1,1,https://twitter.com/saqibali_ca/status/1370161066727014400,2021-03-11
