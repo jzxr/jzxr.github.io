@@ -23,7 +23,7 @@ from datetime import timedelta
 import schedule
 import os
 import unittest
-import tensorflow as tf
+#import tensorflow as tf
 
 #Test Case
 
@@ -791,28 +791,7 @@ class task():
 #main program
 if __name__ == "__main__":
     print("Welcome to our Programming Language/Trend Crawler\n")
-    print("Before we get started, here is a documentation to the functions for better understanding!\n")
-    
-    print("------ Abstract Parent Class ------\n")
-    help(crawleddata)
-    print("------ Reddit Crawler ------\n")
-    help(crawledreddit)
-    print("------ Stack Overflow Crawler ------\n")
-    help(stack)
-    print("------ GitHub Crawler ------\n")
-    help(crawledgithub)
-    print("------ Twitter Crawler ------\n")
-    help(crawledtwitter)
-    print("------ Run Task ------\n")
-    help(task)
-    print("------ Test Cases------\n")
-    help(testCases)
-    
-    
-    
-    
-    
-    
+
     startTime = time.perf_counter()
     task.runtask()
     endTime = time.perf_counter()
