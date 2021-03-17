@@ -1,17 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
 
 #libraries
 import praw
@@ -36,19 +23,44 @@ from datetime import timedelta
 import schedule
 import os
 import unittest
+import tensorflow as tf
 
 #Test Case
+
 class testCases(unittest.TestCase):
-    #Test if crawl time is float value & if subtraction method is correct
+
+    """Summary of testCases(unittest.TestCase) Function
+
+    Description:
+    This class has all the functions that performs unit testing.
+    Unit testing is done to ensure program runs smoothly with no loopholes.
+
+    """
+    
     def testCase1 (self):
+        
+        """Summary of testCase1 (self) Function
+
+        Description:
+        Test if crawl time is float value & if subtraction method is correct
+
+        """
         test = endTime - startTime
         
         if test == float and test == result:
             #assertTrue() to check true of test value
             self.assertTrue(test)
     
-    #Test if crawl time is lesser than 5 minutes
-    def testCase2(self): 
+    
+    def testCase2(self):
+
+        """Summary of testCase2 (self) Function
+
+        Description:
+        Test if crawl time is lesser than 5 minutes
+
+        """
+        
         value1 = result
         value2 = 300
         
@@ -58,8 +70,16 @@ class testCases(unittest.TestCase):
         #assert function() to check if values1 is less than value2 
         self.assertLess(value1, value2, msg) 
      
-    #Test if CSV file is created and stored in os.path
+    
     def testCase3(self):
+
+        """Summary of testCase3 (self) Function
+
+        Description:
+        Test if CSV file is created and stored in os.path
+
+        """
+        
         program = ['c_programming',"Python", "csharp", "javascript","html", "java","rprogramming"]
         
         for i in program:
@@ -74,8 +94,17 @@ class testCases(unittest.TestCase):
             store = "_".join(re.findall(r"#(\w+)", t))
             #self.assertTrue(os.path.exists('twitter/recentpost/twitter_recent_' + store + '.csv'), "File does not exist!")
             self.assertTrue(os.path.exists('twitter/toppost/twitter_top_' + store + '.csv'), "File does not exist!")
-    #Test if folder contain correct number of files crawled 
+
+            
     def testCase4(self):
+
+        """Summary of testCase4 (self) Function
+
+        Description:
+        Test if folder contain correct number of files crawled 
+
+        """
+        
         expectedfiles=7
         # dir is your directory path
         list2=os.listdir("reddit")
@@ -101,24 +130,110 @@ class testCases(unittest.TestCase):
         
 
 #abstract class
-class crawleddata(ABC): 
+class crawleddata(ABC):
+    
+    """Summary of crawleddata Function
+
+    Description:
+    This function is an abstract crawler class. It has the shared attributes defined within all the crawlers and abstract functions that will be defined
+    properly in the individual subclasses.
+
+    """
+
     def __init__(self,topic,df):
+
+        """Summary of __init__(self,topic,df) Function
+
+            Description:
+            This is where the attributes of the parent class is defined. It takes in the parameters required to initiate the crawler which is the topic and dataframe.
+            Self.data is empty as this is dependent on the aunthenticate functions in each subclass
+            
+            Parameters:
+            self
+            topic(str): the topic/hashtag to be crawled
+            df(dataframe): empty dataframe for the crawler with only headers defined.
+
+            Returns:
+            None
+
+        """
         self.topic = topic
         self.df = df
         self.data = None 
     
     def crawldatatop(self):
+        """Summary of crawldatatop(self) Function
+
+        Description:
+        This is an abstract function that crawls the top data which is used by all the subclasses. This is left as abstract as each crawler sub class has different attributes that
+        they crawl
+
+        """
         pass
     
     def saveCV(self):
+        """Summary of saveCV(self) Function
+
+        Description:
+        This is an abstract function that saves the dataframes into CSV. Naming convention is defined under each subclasses 
+        """
         pass
     
     def authenticate(self):
+        """Summary of saveCV(self) Function
+
+        Description:
+        This is an abstract function to authenticate into each social media. However, not all crawlers require authentication hence this can be used for pulling html and saving
+        to self.data
+        """
         pass
 
 #reddit subclass
 class crawledreddit(crawleddata):
+    """Summary of crawledreddit Function
+
+    Parameters:
+    crawleddata(class): passes the parent class
+
+    """
+
+    def authenticate(self):
+        
+        """Summary of authenticate(self) Function
+
+            Description:
+            This functions authenticates into a valid reddit user with the specified id,secret,user_agent,username,password.
+            The valid authentication is saved into the self.data attribute so that the whole session is authenticated by referring to this self.data
+            
+            Parameters:
+            self
+
+            Returns:
+            self.data: returns the authenticated log in and saves into the self.data attribute
+
+        """
+        
+        self.data = praw.Reddit(client_id='1Wbphu7sZiWpfg', client_secret='8SiX9MqF6468B9-8zTNBbAr3AZiAMg',
+                                user_agent='dengueapp', username='assignmentproj', password='Password123')
+        return self.data
+
     def crawldatatop(self):
+
+        """Summary of crawldatatop(self) Function
+
+            Description:
+            This functions crawls the top reddit based on the self.topic that is specified during the creation of reddit instance.
+            The crawled data is added to the originally empty dataframe based on the specified header.
+            
+
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled reddit entries
+
+        """
+        
         subreddit = self.data.subreddit(self.topic)
         top_subreddit = subreddit.top()
         for submission in top_subreddit:
@@ -131,12 +246,25 @@ class crawledreddit(crawleddata):
                            "Body":submission.selftext}, ignore_index=True)
         return self.df
     
-    def authenticate(self):
-        self.data = praw.Reddit(client_id='1Wbphu7sZiWpfg', client_secret='8SiX9MqF6468B9-8zTNBbAr3AZiAMg',
-                                user_agent='dengueapp', username='assignmentproj', password='Password123')
-        return self.data
+
     
     def crawldatasubtopic(self,subtopic):
+
+        """Summary of crawldatasubtopic(self,subtopic) Function
+
+            Description:
+            This functions crawls the reddit subtopic within the specified self.topic that is specified during the creation of reddit instance.
+            The crawled data is added to the originally empty dataframe based on the specified header.
+            
+            Parameters:
+            self
+            subtopic(str): takes in the value of the subtopic within a topic
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled reddit entries
+
+        """
+        
         subreddit = self.reddit.subreddit(self.topic)
         top_subreddit = subreddit.search(subtopic)
         for submission in top_subreddit:
@@ -150,12 +278,44 @@ class crawledreddit(crawleddata):
         return self.df
     
     def getsentiment(self):
+
+        """Summary of getsentiment(self) Function
+
+            Description:
+            This functions adds a new column to the dataframe named 'Sentiment'. The Sentiment will check on the polarity of the body.
+            A positive sentiment value = Positive Comment
+            Zero sentiment value = Nuetral Comment
+            A negative sentiment value = Negative Comment
+            
+            
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled reddit entries
+
+        """
+
         self.df['Sentiment'] = self.df['Body'].apply(lambda x: TextBlob(x).sentiment.polarity)
         self.df['Review'] = np.where(self.df['Sentiment']>=0, "Good","Bad")
         self.df['Nuetral'] = np.where(self.df['Sentiment']==0, "Nuetral","Not Nuetral")
         return self.df
     
     def cleandata(self):
+        
+        """Summary of cleandata(self) Function
+
+            Description:
+            This functions cleans up the dataframe by dropping irrelevant columns for easier analysis. It also creates 'Year' and 'Month' columns in case any time series
+            would be used in the analysis.
+            
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled reddit entries
+
+        """
         def get_date(created):
             return dt.datetime.fromtimestamp(created)
         _timestamp = self.df["Created"].apply(get_date)
@@ -166,18 +326,74 @@ class crawledreddit(crawleddata):
         return self.df
     
     def saveCV(self):
+
+        """Summary of saveCV(self) Function
+
+            Description:
+            This functions saves the dataframes into csv for use for analysis and for the front end.
+            Local file storage is used as the program's database.
+            It saves it in respective folders, if folder is not found, it will create a folder.
+            
+            Parameters:
+            self
+
+            Returns:
+            None
+
+        """
+        
         if not os.path.exists('reddit'):
             os.makedirs('reddit')
         self.df.to_csv("reddit/reddit-" + self.topic + ".csv")
 
 #stack overflow subclass
 class stack(crawleddata):
+
+
+    """Summary stack Function
+
+    Parameters:
+    crawleddata(class): passes the parent class
+
+    """
+
     def authenticate(self):
+
+        """Summary of authenticate(self) Function
+
+            Description:
+            Stack does not need proper authentication.
+            This functions uses beautifulsoup4 to get the whole html page and save the data into self.data.
+            
+            Parameters:
+            self
+
+            Returns:
+            self.data: returns the authenticated log in and saves into the self.data attribute
+
+        """
+
         site = requests.get('https://stackoverflow.com/questions/tagged/'+self.topic); #recent question, other tags can be done as well
         soup = BeautifulSoup(site.text,"html.parser")
         self.data = soup.select(".question-summary")
 
     def crawldatatop(self):
+
+        """Summary of crawldatatop(self) Function
+
+            Description:
+            This function seperates each entry within the whole html in self.data and splits it into the different rows and columns of the dataframe.
+            The crawled data is added to the originally empty dataframe based on the specified header.
+            
+
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled stack entries
+
+        """
+
         for question in self.data:
             self.df = self.df.append({'Title': question.select_one( '.question-hyperlink').get_text(),
                             'URL':question.select_one( '.question-hyperlink').get('href'),
@@ -186,23 +402,94 @@ class stack(crawleddata):
         return self.df
                     
     def voterank(self):
+
+        """Summary of voterank(self) Function
+
+            Description:
+            This function ranks the stack overflow entries based on the popularity of the views
+
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled stack entries
+
+        """
+        
         self.df["Views"]= self.df['Views'].apply(lambda x: x[:2])
         self.df["Views"] = pd.to_numeric(self.df["Views"])
         self.df = self.df.sort_values(by='Views', ascending=False)
         return self.df
                             
     def saveCV(self):
+
+        """Summary of saveCV(self) Function
+
+            Description:
+            This functions saves the dataframes into csv for use for analysis and for the front end.
+            Local file storage is used as the program's database.
+            It saves it in respective folders, if folder is not found, it will create a folder.
+            
+            Parameters:
+            self
+
+            Returns:
+            None
+
+        """
+        
         if not os.path.exists('stackoverflow'):
             os.makedirs('stackoverflow')
         self.df.to_csv("stackoverflow/stackoverflow-" + self.topic + ".csv")
 
 #github subclass
 class crawledgithub(crawleddata):
+
+    """Summary of crawledgithub Function
+
+    Parameters:
+    crawleddata(class): passes the parent class
+
+    """
+    
     def authenticate(self):
+
+        """Summary of authenticate(self) Function
+
+            Description:
+            This functions authenticates into a valid stack overflow user with the specified access token.
+            The valid authentication is saved into the self.data attribute so that the whole session is authenticated by referring to this self.data
+            
+            Parameters:
+            self
+
+            Returns:
+            self.data: returns the authenticated log in and saves into the self.data attribute
+
+        """
+        
         self.data = "access_token=" + "cf0ff99540fe22c93255d736e3bed3bbfa10e17d"
         return self.data
         
     def crawldatatop(self):
+
+        """Summary of crawldatatop(self) Function
+
+            Description:
+            This functions crawls the git hub entries based on the self.topic that is specified during the creation of github instance.
+            The crawled data is added to the originally empty dataframe based on the specified header.
+            Another column is created as well: Other Programming Languages URL to access all the languages present in the repository
+            Calculation for the percentage of all the languages present in the repository is also done.
+            
+
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled reddit entries
+
+        """
+        
         #Range is set to 2 to shorten the search result
         for page in range(1, 2):
             #Building the Search API URL
@@ -238,34 +525,84 @@ class crawledgithub(crawleddata):
 
     #Save CSV file
     def saveCV(self):
+        """Summary of saveCV(self) Function
+
+            Description:
+            This functions saves the dataframes into csv for use for analysis and for the front end.
+            Local file storage is used as the program's database.
+            It saves it in respective folders, if folder is not found, it will create a folder.
+            
+            Parameters:
+            self
+
+            Returns:
+            None
+
+        """
         if not os.path.exists('github'):
             os.makedirs('github')
         self.df.to_csv("github/github-" + self.topic + ".csv")
 
-#twitter subclass
+#crawl Twitter
 class crawledtwitter(crawleddata):
-    #authentication obtained Twitter developer 
+
+    """Summary Twitter Function
+
+    Parameters:
+    crawleddata(class): passes the parent class
+
+    """
+    
     def authenticate(self):
-        #creating an OAuthHandler instance by passing consumer_key, consumer_secret
+
+        """Summary of authenticate(self) Function
+
+            Description:
+            This functions authenticates into a valid twitter user with the specified Handler and access token.
+            The valid authentication is saved into the self.data attribute so that the whole session is authenticated by referring to this self.data
+            
+            Parameters:
+            self
+
+            Returns:
+            self.data: returns the authenticated log in and saves into the self.data attribute
+
+        """
+        
         auth = tweepy.OAuthHandler(
             "f9HugoUFnLlKdU4b6N2SFu8Ae",
             "zh7O2DYDdA4JN1Xe70PMaoHpslWQbNZnxsQzYRAUMx8LyuLb30",
         )
-        #stored access token key and secret 
         auth.set_access_token(
             "1358278817085681665-szJPAYiD5uzRPyXDYamFnuwh2I2qoI",
             "fEh0d8l2b9kcL8jacPnVSRkleHAK30FS82spLYKSnCtKB",
         )
+
         # initialize Tweepy API
         self.data = tweepy.API(auth)
         return self.data
-    #crawl the top post for the past 7 days inclusive of date of crawl 
+
     def crawldatatop(self):
+
+        """Summary of crawldatatop(self) Function
+
+            Description:
+            This function crawls the top tweets that matches the hashtag (self.topic).
+            The crawled data is added to the originally empty dataframe based on the specified header.
+            
+
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled stack entries
+
+        """
+        
         # change createdAt from UTC to GMT+8
         timezone = pytz.timezone("Singapore")
-        #identify the today date 
         dateto = datetime.date.today()
-        #crawl the past 7 days of tweets from today
+        # for each tweet matching our hashtags, write relevant info to the spreadsheet
         for dayinput in range(-1, 7):
             for tweet in tweepy.Cursor(
                 self.data.search,
@@ -277,7 +614,6 @@ class crawledtwitter(crawleddata):
                 wait_on_rate_limit=True,
                 tweet_mode="extended",
             ).items(10):
-                #return only post with favorite count and retweet count
                 if tweet.favorite_count != 0 and tweet.retweet_count != 0:
                     url = f"https://twitter.com/{tweet.user.screen_name}/status/{tweet.id}"
                     self.df = self.df.append(
@@ -298,8 +634,25 @@ class crawledtwitter(crawleddata):
                         ascending=[False, False],
                     )
         return self.df
-    #crawl the recent post of today
+
+    
     def crawldatarecent(self):
+
+        """Summary of crawldatatop(self) Function
+
+            Description:
+            This function crawls the recent tweets that matches the hashtag (self.topic).
+            The crawled data is added to the originally empty dataframe based on the specified header.
+            
+
+            Parameters:
+            self
+
+            Returns:
+            self.df: returns the updated dataframe with new crawled stack entries
+
+        """
+        
         # for each tweet matching our hashtags, write relevant info to the spreadsheet
         for tweet in tweepy.Cursor(
             self.data.search,
@@ -323,8 +676,25 @@ class crawledtwitter(crawleddata):
                 ignore_index=True,
             )
         return self.df
-    #save CSV in specific path
+
     def saveCV(self, name):
+
+        """Summary of saveCV(self) Function
+
+            Description:
+            This functions saves the dataframes into csv for use for analysis and for the front end.
+            Local file storage is used as the program's database.
+            It saves it in respective folders, if folder is not found, it will create a folder.
+            
+            Parameters:
+            self
+
+            Returns:
+            None
+
+        """
+
+        
         if not os.path.exists('twitter'):
             os.makedirs('twitter')
         if name == "r":
@@ -342,19 +712,29 @@ class crawledtwitter(crawleddata):
 #creating dfs and initializing
 class task():
     def runtask():
+        """Summary Twitter Function
+
+        Description:
+        This function is made to allow main function to be clean. Hence, all the task that needs to be run is within this class and function.
+        Dataframe for each crawler is predefined here.
+        Array of topics to be crawled is also defined here.
+        Instances of each crawler objects are defined here as well.
+
+        """
+        
         df = pd.DataFrame(columns=['Title','Score','ID','URL','Comms_num','Created','Body'])
         df1 = pd.DataFrame(columns=['Title','URL','Views','Votes'])
         df3 = pd.DataFrame(columns=['Repository Name', 'Description', 'Stars','Programming Language', 'Other Language', 'URL'])
         df4 = pd.DataFrame(columns=['Tweet Content','User Name','HashTags','Retweet Count','Favourite Count','URL'])
         df5 = pd.DataFrame(columns=['Tweet Content','User Name','HashTags','Retweet Count','Favourite Count','URL','Created Date'])
-        
-        
-       
-        
+                
         #enquiring languages
         languages = ['c_programming',"Python", "csharp", "javascript","html", "java","rprogramming"]
-        
+
+
+        print(crawledreddit.authenticate.__doc__)
         for i in languages:
+            
             redditdata = crawledreddit(i,df)
             redditdata.authenticate()
             redditdata.crawldatatop()
@@ -406,7 +786,26 @@ class task():
         
 #main program
 if __name__ == "__main__":
-    print("Running task now!")
+    print("Welcome to our Programming Language/Trend Crawler\n")
+    print("Before we get started, here is a documentation to the functions for better understanding!\n")
+    print("------ Abstract Parent Class ------\n")
+    help(crawleddata)
+    print("------ Reddit Crawler ------\n")
+    help(crawledreddit)
+    print("------ Stack Overflow Crawler ------\n")
+    help(stack)
+    print("------ GitHub Crawler ------\n")
+    help(crawledgithub)
+    print("------ Twitter Crawler ------\n")
+    help(crawledtwitter)
+    print("------ Run Task ------\n")
+    help(task)
+    print("------ Test Cases------\n")
+    help(testCases)
+    
+    
+    
+    
     startTime = time.perf_counter()
     task.runtask()
     endTime = time.perf_counter()
