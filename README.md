@@ -270,7 +270,11 @@ self
 
 Returns:
 self.data: returns the authenticated log in and saves into the self.data attribute
-
+```Python
+    def authenticate(self):
+        self.data = "access_token=" + "cf0ff99540fe22c93255d736e3bed3bbfa10e17d"
+        return self.data
+```
 
 ### 5.1.4.2 crawldatatop
 
@@ -286,7 +290,41 @@ self
 
 Returns:
 self.df: returns the updated dataframe with new crawled reddit entries
+```Python
+def crawldatatop(self):
+        #Range is set to 2 to shorten the search result
+        for page in range(1, 2):
+            #Building the Search API URL
+            searchUrl = 'https://api.github.com/' + 'search/repositories?q=' + self.topic + '&page=' + str(page) + '&' + self.data
 
+            #Get the requested searchURL
+            response = requests.get(searchUrl).json()
+
+            #Parse through the response of the searchQuery
+            for item in response['items']:
+                repository_name = item['name']
+                repository_description = item['description']
+                repository_stars = item['stargazers_count']
+                repository_programming_language = item['language']
+                repository_url = item['html_url']
+
+                #Other Programming Languages URL to access all the languages present in the repository
+                programming_language_url = item['url'] + '/languages?' + self.data
+                programming_language_response = requests.get(programming_language_url).json()
+
+                repository_other_languages = {}
+
+                self.df = self.df.append({'Repository Name': repository_name, 'Description': repository_description,
+                                 'Stars': repository_stars, 'Programming Language': repository_programming_language,
+                                  'Other Language': repository_other_languages, 'URL': repository_url}, ignore_index=True)
+
+                #Calculation for the percentage of all the languages present in the repository
+                count_value = sum([value for value in programming_language_response.values()])
+                for key, value in programming_language_response.items():
+                    key_value = round((value / count_value) * 100, 2)
+                    repository_other_languages[key] = key_value
+        return self.df
+```
 ### 5.1.4.3 saveCV
 
 Description:
@@ -299,7 +337,12 @@ self
 
 Returns:
 None
-
+```Python
+def saveCV(self):
+        if not os.path.exists('github'):
+            os.makedirs('github')
+        self.df.to_csv("github/github-" + self.topic + ".csv")
+```
 ---
 
 ### 5.1.5 SubClass: Twitter Crawler
@@ -346,7 +389,44 @@ self
 
 Returns:
 self.df: returns the updated dataframe with new crawled twitter entries
-
+```Python
+def crawldatatop(self):
+        # change createdAt from UTC to GMT+8
+        timezone = pytz.timezone("Singapore")
+        dateto = datetime.date.today()
+        # for each tweet matching our hashtags, write relevant info to the spreadsheet
+        for dayinput in range(-1, 7):
+            for tweet in tweepy.Cursor(
+                self.data.search,
+                count=10,
+                q=self.topic + "-filter:retweets",
+                lang="en",
+                until=dateto - timedelta(dayinput),
+                include_entities=True,
+                wait_on_rate_limit=True,
+                tweet_mode="extended",
+            ).items(10):
+                if tweet.favorite_count != 0 and tweet.retweet_count != 0:
+                    url = f"https://twitter.com/{tweet.user.screen_name}/status/{tweet.id}"
+                    self.df = self.df.append(
+                        {
+                            "Tweet Content": tweet.full_text,
+                            "User Name": tweet.user.screen_name,
+                            "HashTags": [
+                                e["text"] for e in tweet._json["entities"]["hashtags"]
+                            ],
+                            "Retweet Count": tweet.retweet_count,
+                            "Favourite Count": tweet.favorite_count,
+                            "URL": url,
+                            "Created Date": tweet.created_at.date(),
+                        },
+                        ignore_index=True,
+                    ).sort_values(
+                        by=["Retweet Count", "Favourite Count"],
+                        ascending=[False, False],
+                    )
+        return self.df
+```        
 ### 5.1.5.3 crawldatarecent
 
 Description:
@@ -358,7 +438,32 @@ self
 
 Returns:
 self.df: returns the updated dataframe with new crawled twitter entries
-
+```Python
+def crawldatarecent(self):
+        # for each tweet matching our hashtags, write relevant info to the spreadsheet
+        for tweet in tweepy.Cursor(
+            self.data.search,
+            q=self.topic + " -filter:retweets",
+            lang="en",
+            wait_on_rate_limit=True,
+            tweet_mode="extended",
+        ).items(100):
+            url = f"https://twitter.com/{tweet.user.screen_name}/status/{tweet.id}"
+            self.df = self.df.append(
+                {
+                    "Tweet Content": tweet.full_text,
+                    "User Name": tweet.user.screen_name,
+                    "HashTags": [
+                        e["text"] for e in tweet._json["entities"]["hashtags"]
+                    ],
+                    "Retweet Count": tweet.retweet_count,
+                    "Favourite Count": tweet.favorite_count,
+                    "URL": url,
+                },
+                ignore_index=True,
+            )
+        return self.df
+``` 
 ### 1.1.5.4 saveCV
 
 Description:
@@ -373,7 +478,21 @@ Returns:
 None
 
 ---
-
+```Python
+def saveCV(self, name):
+        if not os.path.exists('twitter'):
+            os.makedirs('twitter')
+        if name == "r":
+            if not os.path.exists('twitter/recentpost'):
+                os.makedirs('twitter/recentpost')
+            fname = "_".join(re.findall(r"#(\w+)",self.topic))
+            self.df.to_csv("twitter/recentpost/twitter_recent_" + fname+".csv")
+        else:
+            if not os.path.exists('twitter/toppost'):
+                os.makedirs('twitter/toppost')
+            fname = "_".join(re.findall(r"#(\w+)",self.topic))
+            self.df.to_csv("twitter/toppost/twitter_top_" + fname+".csv")
+```
 ### 5.1.6 Test Cases
 
 ---
@@ -385,25 +504,86 @@ This class has all the functions that performs unit testing. Unit testing is don
 Description:
 
 Test if crawl time is float value & if subtraction method is correct
+```Python
+def testCase1 (self):
+        test = endTime - startTime
+        
+        if test == float and test == result:
+            #assertTrue() to check true of test value
+            self.assertTrue(test)
+    
+```
 
 ### 5.1.6.2 Test Case 2
 
 Description:
 
 Test if crawl time is lesser than 5 minutes
+```Python
+ def testCase2(self):
+        value1 = result
+        value2 = 300
+        
+        #Error message in case if test case got failed 
+        msg = "Crawl time is more than 5 minutes"
+        
+        #assert function() to check if values1 is less than value2 
+        self.assertLess(value1, value2, msg) 
+```
 
 ### 5.1.6.3 Test Case 3
 
 Description:
 
 Test if CSV file is created and stored in os.path
+```Python
+ def testCase3(self):
+        program = ['c_programming',"Python", "csharp", "javascript","html", "java","rprogramming"]
+        
+        for i in program:
+            self.assertTrue(os.path.exists('reddit/reddit-' + i + '.csv'), "File does not exist!")
+            self.assertTrue(os.path.exists('stackoverflow/stackoverflow-' + i + '.csv'), "File does not exist!")
+            self.assertTrue(os.path.exists('github/github-' + i + '.csv'), "File does not exist!")
+        
+        twit = ["#ArtificialIntelligence", "#MachineLearning", "#DeepLearning", "#NeuralNetwork", "#DataScience",
+                "#100DaysOfCode", "#DEVCommunity"]
+        
+        for t in twit:
+            store = "_".join(re.findall(r"#(\w+)", t))
+            #self.assertTrue(os.path.exists('twitter/recentpost/twitter_recent_' + store + '.csv'), "File does not exist!")
+            self.assertTrue(os.path.exists('twitter/toppost/twitter_top_' + store + '.csv'), "File does not exist!")
+
+```
         
 ### 5.1.6.3 Test Case 4
 
 Description:
 
 Test if folder contain correct number of files crawled 
-
+```Python
+def testCase4(self):
+        expectedfiles=7
+        # dir is your directory path
+        list2=os.listdir("reddit")
+        number_files2 = len(list2)
+        self.assertEqual(number_files2,expectedfiles,'Number of files inserted not equal to 7 for reddit')
+        
+        list3=os.listdir("stackoverflow")
+        number_files3 = len(list3)
+        self.assertEqual(number_files3,expectedfiles,'Number of files inserted not equal to 7 for stackoverflow')
+        
+        list4=os.listdir("github")
+        number_files4 = len(list4)
+        self.assertEqual(number_files4,expectedfiles,'Number of files inserted not equal to 7 for github')
+        
+        onlyfiles1 = next(os.walk("twitter/recentpost"))[2] #dir is your directory path as string
+        number_files1=len(onlyfiles1)
+        self.assertEqual(number_files1,expectedfiles,'Number of files inserted not equal to 7 for twitter recent')
+        
+        onlyfiles = next(os.walk("twitter/toppost"))[2] #dir is your directory path as string
+        number_files5=len(onlyfiles)
+        self.assertEqual(number_files5,expectedfiles,'Number of files inserted not equal to 7 for twitter top')
+```
 ---
 
 ### 5.1.6 Task
