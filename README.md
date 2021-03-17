@@ -5,7 +5,7 @@
 
 ---
 The crawlercode.py is inclusive of a parent abstract crawler class, several social media subclasses and testing unit class.
-Similar to this markdown document, there are documemntations in place for each class. It can be seen when you include help(classname) in the code.
+Similar to this markdown document, there are documentations in place for each class. It can be seen when you include help(classname) in the code.
 ---
 
 ### 5.1.1 Crawler Abstract class
@@ -382,7 +382,8 @@ def authenticate(self):
 ### 5.1.5.2 crawldatatop
 
 Description:
-This function crawls the top tweets that matches the hashtag (self.topic). The crawled data is added to the originally empty dataframe based on the specified header.
+This function crawls the top tweets that matches the hashtag (self.topic) by retrieve tweets up to 7 days ago and placing it in df in ascending order based on retweet count and favourite count. 
+The crawled data is added to the originally empty dataframe based on the specified header.
 
 Parameters:
 self
@@ -469,7 +470,7 @@ def crawldatarecent(self):
 Description:
 This functions saves the dataframes into csv for use for analysis and for the front end.
 Local file storage is used as the program's database.
-It saves it in respective folders, if folder is not found, it will create a folder.
+It saves it in respective folders path, if folder is not found, it will create a folder.
 
 Parameters:
 self
