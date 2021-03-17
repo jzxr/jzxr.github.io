@@ -1,0 +1,51 @@
+,Title,URL,Views,Votes
+38,C# Set date property as maximum data of another property,https://stackoverflow.com/questions/66671507/c-sharp-set-date-property-as-maximum-data-of-another-property,46,0
+17,C#: how to programmatically create a class library DLL using reflection?,https://stackoverflow.com/questions/66672329/c-how-to-programmatically-create-a-class-library-dll-using-reflection,39,0
+14,"C# int for hours and minutes, custom AddMinute Method",https://stackoverflow.com/questions/66672490/c-sharp-int-for-hours-and-minutes-custom-addminute-method,37,1
+12,Where static methods and fields of value types reside in memory? How do value types call static methods?,https://stackoverflow.com/questions/66672515/where-static-methods-and-fields-of-value-types-reside-in-memory-how-do-value-ty,36,0
+34,"How do i check whether a tabel exist ,if yes i need to return all columns",https://stackoverflow.com/questions/66671675/how-do-i-check-whether-a-tabel-exist-if-yes-i-need-to-return-all-columns,33,0
+24,How do I make a substring so that it ends when the next time the same word occursi(n C#)?,https://stackoverflow.com/questions/66672181/how-do-i-make-a-substring-so-that-it-ends-when-the-next-time-the-same-word-occur,30,-1
+20,Positive lookbehind with optional,https://stackoverflow.com/questions/66672269/positive-lookbehind-with-optional,27,0
+3,Find nearby locations Algorithmic idea? [closed],https://stackoverflow.com/questions/66673115/find-nearby-locations-algorithmic-idea,26,-9
+2,running a function in c# [closed],https://stackoverflow.com/questions/66673130/running-a-function-in-c-sharp,24,0
+15,Self-Restarting deadlock,https://stackoverflow.com/questions/66672474/self-restarting-deadlock,24,0
+13,Struggling to save Users Id when logging into the system,https://stackoverflow.com/questions/66672504/struggling-to-save-users-id-when-logging-into-the-system,21,0
+27,Extract `using` directives into a separate file in .NET Interactive notebooks,https://stackoverflow.com/questions/66671964/extract-using-directives-into-a-separate-file-in-net-interactive-notebooks,21,0
+48,How to get an image resource from within an assembly?,https://stackoverflow.com/questions/66671171/how-to-get-an-image-resource-from-within-an-assembly,21,0
+43,Entity Framework 6 cannot select all columns but just a subset,https://stackoverflow.com/questions/66671271/entity-framework-6-cannot-select-all-columns-but-just-a-subset,20,0
+21,Writing Arabic Text to PDF using ITextSharp,https://stackoverflow.com/questions/66672203/writing-arabic-text-to-pdf-using-itextsharp,20,1
+4,Object reference not set to an instance of an object LINQ join error [duplicate],https://stackoverflow.com/questions/66673006/object-reference-not-set-to-an-instance-of-an-object-linq-join-error,19,0
+29,GetProcessDpiAwareness always returns PROCESS_SYSTEM_DPI_AWARE,https://stackoverflow.com/questions/66671885/getprocessdpiawareness-always-returns-process-system-dpi-aware,18,0
+39,"Want to make search field C#, JavaScript , jQuery [closed]",https://stackoverflow.com/questions/66671478/want-to-make-search-field-c-javascript-jquery,17,-1
+22,How to locate unmanaged memory leak in c#,https://stackoverflow.com/questions/66672198/how-to-locate-unmanaged-memory-leak-in-c-sharp,17,0
+26,Create multiple rectangle annotations for each Series in chart,https://stackoverflow.com/questions/66671987/create-multiple-rectangle-annotations-for-each-series-in-chart,16,0
+11,EF Core - Scaffolding to NodaTime types?,https://stackoverflow.com/questions/66672642/ef-core-scaffolding-to-nodatime-types,15,1
+9,Xml Parameter needed from LIst in C#,https://stackoverflow.com/questions/66672767/xml-parameter-needed-from-list-in-c-sharp,15,0
+36,Function just stops running after killing process,https://stackoverflow.com/questions/66671656/function-just-stops-running-after-killing-process,15,0
+6,Inculde python.exe and other files into C# .exe,https://stackoverflow.com/questions/66672943/inculde-python-exe-and-other-files-into-c-sharp-exe,15,-2
+5,listview with images - WPF [closed],https://stackoverflow.com/questions/66672986/listview-with-images-wpf,15,0
+1,is it possible to pass Linq.Queryable.Max as a parameter?,https://stackoverflow.com/questions/66673244/is-it-possible-to-pass-linq-queryable-max-as-a-parameter,15,0
+25,I want to send SMS otp from C# mvc project to firebase but there is no documentation!!!! Help me please [closed],https://stackoverflow.com/questions/66672072/i-want-to-send-sms-otp-from-c-sharp-mvc-project-to-firebase-but-there-is-no-docu,15,-3
+41,Windows authentication on ASP.NET Core 5 MVC for AD groups,https://stackoverflow.com/questions/66671364/windows-authentication-on-asp-net-core-5-mvc-for-ad-groups,14,0
+49,asp.net web api: action filter attribute is thread-safe by default?,https://stackoverflow.com/questions/66671170/asp-net-web-api-action-filter-attribute-is-thread-safe-by-default,14,0
+28,Track and upload Location from Android O device every X seconds,https://stackoverflow.com/questions/66671896/track-and-upload-location-from-android-o-device-every-x-seconds,14,-1
+8,How can I access the video stream of an IP camera from UWP app? [closed],https://stackoverflow.com/questions/66672818/how-can-i-access-the-video-stream-of-an-ip-camera-from-uwp-app,14,-1
+33,How to get token in shopee using rest API (C#),https://stackoverflow.com/questions/66671724/how-to-get-token-in-shopee-using-rest-api-c,13,0
+45,Pubnub null reference exception in unity,https://stackoverflow.com/questions/66671244/pubnub-null-reference-exception-in-unity,13,0
+46,Can an aspx project create a file and email it?,https://stackoverflow.com/questions/66671231/can-an-aspx-project-create-a-file-and-email-it,11,0
+37,Frozen Mock returns null but works fine inside Test method,https://stackoverflow.com/questions/66671575/frozen-mock-returns-null-but-works-fine-inside-test-method,11,0
+7,Certificate Authentication 403 Access Denied,https://stackoverflow.com/questions/66672899/certificate-authentication-403-access-denied,10,0
+47,How to add large (>3MB) inline attachment with ContentLocation information using Microsoft Graph API?,https://stackoverflow.com/questions/66671220/how-to-add-large-3mb-inline-attachment-with-contentlocation-information-using,10,0
+44,Xamarin.forms - RequestPermission error - Java.Lang.NoSuchMethodError [duplicate],https://stackoverflow.com/questions/66671254/xamarin-forms-requestpermission-error-java-lang-nosuchmethoderror,10,-1
+31,Swagger UI not getting bearer params correctly,https://stackoverflow.com/questions/66671835/swagger-ui-not-getting-bearer-params-correctly,9,0
+18,How to add user in IIS Manager for FTP Site using PowerShell commands in C#?,https://stackoverflow.com/questions/66672323/how-to-add-user-in-iis-manager-for-ftp-site-using-powershell-commands-in-c,9,0
+40,How do I create an apple block from C# interop code?,https://stackoverflow.com/questions/66671394/how-do-i-create-an-apple-block-from-c-sharp-interop-code,9,0
+10,C# Sharepoint get menu list,https://stackoverflow.com/questions/66672748/c-sharp-sharepoint-get-menu-list,9,0
+35,Azure Face Identification example,https://stackoverflow.com/questions/66671670/azure-face-identification-example,8,0
+16,ControlCommand wildcard in find- or selectstring in autoit (windows form c#),https://stackoverflow.com/questions/66672443/controlcommand-wildcard-in-find-or-selectstring-in-autoit-windows-form-c,7,0
+42,Azure Resource Manager - backupLongTermRetentionPolicies - Error “WeekOfYear is required to be set between 1 and 52 in order to set yearly retention.”,https://stackoverflow.com/questions/66671336/azure-resource-manager-backuplongtermretentionpolicies-error-weekofyear-is,7,0
+0,"How to retain data from a HTTPPost action on a PartialView form, to use in a HTTPGet action on another PartialView [ASP.NET]",https://stackoverflow.com/questions/66673253/how-to-retain-data-from-a-httppost-action-on-a-partialview-form-to-use-in-a-htt,7,0
+30,Showing Outlook VSTO Formregion on system administrator undeliverable message item,https://stackoverflow.com/questions/66671882/showing-outlook-vsto-formregion-on-system-administrator-undeliverable-message-it,6,0
+32,snapshot value is null on Firebase Realtime Database,https://stackoverflow.com/questions/66671825/snapshot-value-is-null-on-firebase-realtime-database,6,0
+19,On Prem AD Impersonation with Azure SSO,https://stackoverflow.com/questions/66672313/on-prem-ad-impersonation-with-azure-sso,5,0
+23,rotate player (rocket) based on camera view (unity3D),https://stackoverflow.com/questions/66672193/rotate-player-rocket-based-on-camera-view-unity3d,4,0

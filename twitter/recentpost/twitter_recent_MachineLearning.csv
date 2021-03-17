@@ -1,279 +1,296 @@
 ,Tweet Content,User Name,HashTags,Retweet Count,Favourite Count,URL
-0,"Machine Learning for Virtually Unlimited Solar Cell Experiments - SciTechDaily
+0,The Bayesian vs frequentist approaches: Implications for machine learning – Part One #DeepLearning #MachineLearning https://t.co/2KpLHnaFsn,ai_summary,"['DeepLearning', 'MachineLearning']",1,1,https://twitter.com/ai_summary/status/1372167265681076225
+1,"Best R Machine Learning Packages
 
-Read more here: https://t.co/ZSpMcaEcxp
+#ML #AI #DataScience #MachineLearning #RMachineLearning
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",Samu3lR0y,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/Samu3lR0y/status/1371441932036141056
-1,"West Midlands Police adopts cloud and machine learning as part of ‘data-driven policing’ ambitions - Diginomica
+https://t.co/GKpu7zSmhP",reconshell,"['ML', 'AI', 'DataScience', 'MachineLearning', 'RMachineLearning']",2,0,https://twitter.com/reconshell/status/1372167236836728834
+2,"This course by @yining_shiat at @ITP_NYU makes machine learning tech accessible for creative coding contexts. I've been working with these technologies for the past few years and wish there were resources like this available when I started:
 
-Read more here: https://t.co/b6ytBXonlU
+#MachineLearning  #creativecoding https://t.co/BjIpFkiDpI",StephenRoddy,"['MachineLearning', 'creativecoding']",3,0,https://twitter.com/StephenRoddy/status/1372166745209892865
+3,Different Data Splitting Cross-Validation Strategies with Python by Amit Chauhan via #TowardsAI → https://t.co/IIejmbFjTE #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,mlmemoirs,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",1,0,https://twitter.com/mlmemoirs/status/1372166585822117888
+4,"Catch up on #technews on #teckedin
+https://t.co/sz5wFeAjJ4 …
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",Samu3lR0y,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,0,https://twitter.com/Samu3lR0y/status/1371441923798491136
-2,"The Army Is Teaching #FacialRecognition to See in the Dark
+#AI #cloud #data #infosec #blockchain #software #cybersecurity #tech #automation #privacy #Analytics #DevOps #security #edtech #MachineLearning #NLProc 
 
-#MachineLearning #IIoT #Python #AI #100DaysOfCode #DL #DevOps
-#NLP #womenintech #cybersecurity #IoT #DataScience #WomenWhoCode
+@NetApp
+@McAfee
+@PatSnap
+@awscloud
+@Dropbox
+@Armor
 
-https://t.co/93ii1c5ynS https://t.co/XkQ5j5qMxb
-@Paula_Piccard",digitalke1,"['FacialRecognition', 'MachineLearning', 'IIoT', 'Python', 'AI', '100DaysOfCode', 'DL', 'DevOps', 'NLP', 'womenintech', 'cybersecurity', 'IoT', 'DataScience', 'WomenWhoCode']",2,0,https://twitter.com/digitalke1/status/1371441887341641731
-3,Speech Emotion Recognition (SER)Using CNN And LSTMs by Sameen via #TowardsAI → https://t.co/xG8SakhLDc #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,mlmemoirs,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",0,0,https://twitter.com/mlmemoirs/status/1371441848938594307
-4,Machine Learning from Scratch #MachineLearning #learning via https://t.co/lWfQGVjKXK https://t.co/H9h9vJ3AF0,naikrd,"['MachineLearning', 'learning']",0,0,https://twitter.com/naikrd/status/1371441648295632897
-5,Getting to trustworthy AI #ArtificialIntelligence #learning #machinelearning via https://t.co/GRL3sTowfz https://t.co/9cr5AHFoCH,ga7actic,"['ArtificialIntelligence', 'learning', 'machinelearning']",0,0,https://twitter.com/ga7actic/status/1371441628288851970
-6,Gaussian Process Regression From First Principles by Ryan Sander - Gaussian Process Regression is a remarkably powerful class of machine learning algorithms in @TDataScience #MachineLearning #AI #DeepLearning #DataScience    https://t.co/emQ3TJ3sc9,SKlausDev,"['MachineLearning', 'AI', 'DeepLearning', 'DataScience']",0,0,https://twitter.com/SKlausDev/status/1371441549788073989
-7,Teaching AI to See Like Human https://t.co/9RHT7ZCdoi  #machinelearning #deeplearning #thesequence #datascience #artificialintelligence #DeepMind,jrdothoughts,"['machinelearning', 'deeplearning', 'thesequence', 'datascience', 'artificialintelligence', 'DeepMind']",0,0,https://twitter.com/jrdothoughts/status/1371441539168284677
-8,"Key partnership for Semeon Analytics Inc. and Adexflow opens new international markets.
-#BigData #NaturalLanguageProcessing #AI #DeepLearning #MachineLearning #CustomerFeedback #USA #USMilitary $ATW $ATW.V @leighmhughes  @SemeonAnalytics
-https://t.co/Z0UGWQ9lx5",anilmshanbhag,"['BigData', 'NaturalLanguageProcessing', 'AI', 'DeepLearning', 'MachineLearning', 'CustomerFeedback', 'USA', 'USMilitary']",0,1,https://twitter.com/anilmshanbhag/status/1371441524249128960
-9,"Brain Data &amp; Business models
+@SteveCase https://t.co/PubTRVYlJU",TryTeckedin,"['technews', 'teckedin', 'AI', 'cloud', 'data', 'infosec', 'blockchain', 'software', 'cybersecurity', 'tech', 'automation', 'privacy', 'Analytics', 'DevOps', 'security', 'edtech', 'MachineLearning', 'NLProc']",3,0,https://twitter.com/TryTeckedin/status/1372166420629360641
+5,"By 2025, the #cybersecurity mesh will support over half of digital access control requests
+https://t.co/sE3TDn2yKV @ingliguori #DigitalTransformation #Cloud #MachineLearning #BigData #ArtificialIntelligence #Blockchain #DX #Analytics #AI #IIoT #DataScience #IoT #IoTPL @antgrasso https://t.co/8AoweYxGK4",ingliguori,"['cybersecurity', 'DigitalTransformation', 'Cloud', 'MachineLearning', 'BigData', 'ArtificialIntelligence', 'Blockchain', 'DX', 'Analytics', 'AI', 'IIoT', 'DataScience', 'IoT', 'IoTPL']",0,1,https://twitter.com/ingliguori/status/1372166279302381571
+6,"[3/3]...and still more of my favorite books &amp; things: https://t.co/fmHsJvad9P
 
-#AI #datascience #startups #fintech #martech #machinelearning #deeplearning @ipfconline1 @Fabriziobustama @jblefevre60 @MiriamAsensi @mvollmer1 @YuHelenYu @terence_mills @globaliqx
+…covers #BigData #DataScience #AI #Bots #MachineLearning #DeepLearning #DesignThinking #Python #IoT #IIoT #IoTPL #Healthtech #AIstrategy #DataMining #Mathematics #Statistics #LinearAlgebra +MORE https://t.co/DfvGE50XCP",KirkDBorne,"['BigData', 'DataScience', 'AI', 'Bots', 'MachineLearning', 'DeepLearning', 'DesignThinking', 'Python', 'IoT', 'IIoT', 'IoTPL', 'Healthtech', 'AIstrategy', 'DataMining', 'Mathematics', 'Statistics', 'LinearAlgebra']",2,3,https://twitter.com/KirkDBorne/status/1372166181680001027
+7,"Creo unveils AI-based BioBulb for indoor plant walls https://t.co/KTyi6PpEMO #AI #MachineLearning #DataScience #ArtificialIntelligence
 
-https://t.co/bOYdvfh0n6 https://t.co/nC4EpDxC4c.
-@andi_staub",digitalke1,"['AI', 'datascience', 'startups', 'fintech', 'martech', 'machinelearning', 'deeplearning']",0,0,https://twitter.com/digitalke1/status/1371441478447239174
-10,ForSight Robotics Raises $10 Million From Eclipse Ventures and Mithril Capital in Seed Round https://t.co/zxXTN4effA #ForSight #machinelearning #EclipseVentures #MithrilCapital,AiThority,"['ForSight', 'machinelearning', 'EclipseVentures', 'MithrilCapital']",1,0,https://twitter.com/AiThority/status/1371441377087787008
-11,"The 10 most innovative companies in artificial intelligence https://t.co/BQWFv6dehI #analytics #datascience, #artificialintelligence, #businessanalytics #ba, #datascience, #machinelearning",RichardEudes,"['analytics', 'datascience', 'artificialintelligence', 'businessanalytics', 'ba', 'datascience', 'machinelearning']",0,1,https://twitter.com/RichardEudes/status/1371441303851044867
-12,"Top Graph #NeuralNetworks #Applications 2021
+Trending AI/ML Article Identified &amp; Digested via Granola; a Machine-Driven RSS Bot by Ramsey Elbasheer https://t.co/JG9kH58BJp",genericgranola,"['AI', 'MachineLearning', 'DataScience', 'ArtificialIntelligence']",0,0,https://twitter.com/genericgranola/status/1372166131247681536
+8,"T20 Between AFG and ZIM
+Target by AFG : 198
+Runs Scored by ZIM : 89 for 2  in 11.4 overs
+Win Prediction : AFG : 55.11 %  | ZIM :  44.89%
+Bot by @hj576
+@thePSLt20
+#T20 #PSL20201, #AFGvsZIM #Prediction #MachineLearning",hj576,"['T20', 'PSL20201', 'AFGvsZIM', 'Prediction', 'MachineLearning']",0,0,https://twitter.com/hj576/status/1372166079653556225
+9,#MachineLearning: Building a Speech Emotion Recognizer using #Python https://t.co/XLCqUvyWjc,ENM1989,"['MachineLearning', 'Python']",0,0,https://twitter.com/ENM1989/status/1372165893380313091
+10,"[2/3] ... more of my favorite books &amp; things: https://t.co/fmHsJvad9P
 
-Recommender Systems, Combinatorial Optimization, Computer Vision, Physics/Chemistry, Drug Discovery
+…covers #BigData #DataScience #AI #Bots #MachineLearning #DeepLearning #DesignThinking #Python #IoT #IIoT #IoTPL #Healthtech #AIstrategy #DataMining #Mathematics #Statistics #LinearAlgebra +MORE
 
-https://t.co/KcdgEMfbsD
+…Includes… https://t.co/8OVipYQ5El",KirkDBorne,"['BigData', 'DataScience', 'AI', 'Bots', 'MachineLearning', 'DeepLearning', 'DesignThinking', 'Python', 'IoT', 'IIoT', 'IoTPL', 'Healthtech', 'AIstrategy', 'DataMining', 'Mathematics', 'Statistics', 'LinearAlgebra']",2,5,https://twitter.com/KirkDBorne/status/1372165850933952513
+11,"Registration now open for India's most credible AI &amp; Analytics Assessment and Certification, ""𝟯𝗔𝗜 𝗖𝗮𝘁𝗮𝗽𝘂𝗹𝘁 - 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 &amp; 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗔𝘀𝘀𝗲𝘀𝘀𝗺𝗲𝗻𝘁""
 
-For more graph-based #DataScience #MachineLearning #OpenSource - #CDLGraphAIMeetup
+#3aiassociation #3AICatapult #help #analytics #ai #students #career #machinelearning https://t.co/h5OeWi1jKi",3aiAssociation,"['3aiassociation', '3AICatapult', 'help', 'analytics', 'ai', 'students', 'career', 'machinelearning']",0,0,https://twitter.com/3aiAssociation/status/1372165807657033735
+12,"🇮🇱 startup raises $18.5 million to train #AI with #FakeData ⬇️ #MachineLearning 
+#ArtificialIntelligence #DeepLearning #DataScience #javascript #serverless #WomenInTech #100DaysOfCode #python #Linux #Flutter #TensorFlow #PyTorch #DigitalTransformation #IoT https://t.co/ogser2ysu4",JourneyHeroTech,"['AI', 'FakeData', 'MachineLearning', 'ArtificialIntelligence', 'DeepLearning', 'DataScience', 'javascript', 'serverless', 'WomenInTech', '100DaysOfCode', 'python', 'Linux', 'Flutter', 'TensorFlow', 'PyTorch', 'DigitalTransformation', 'IoT']",15,4,https://twitter.com/JourneyHeroTech/status/1372165711322345475
+13,#MachineLearning Reveals What Makes People Happy In A Relationship. (Forbes) #ML https://t.co/G0pv6MgVKn  https://t.co/FgrsSP6dju,jamesvgingerich,"['MachineLearning', 'ML']",2,0,https://twitter.com/jamesvgingerich/status/1372165570427240450
+14,Early prediction of bumblebee flight task using #MachineLearning - ScienceDirect  https://t.co/hIHerlgy0Y H/T: @BangorApis,saqibali_ca,['MachineLearning'],0,0,https://twitter.com/saqibali_ca/status/1372165543445196803
+15,"[1/3] See some of my favorite books &amp; things: https://t.co/fmHsJvad9P
+...covering #BigData #DataScience #AI #Bots #MachineLearning #DeepLearning #DesignThinking #Python #IoT #IIoT #IoTPL #Healthtech #AIstrategy #DataMining #Mathematics #Statistics #LinearAlgebra +MORE
+Includes... https://t.co/HmFdZcLnWr",KirkDBorne,"['BigData', 'DataScience', 'AI', 'Bots', 'MachineLearning', 'DeepLearning', 'DesignThinking', 'Python', 'IoT', 'IIoT', 'IoTPL', 'Healthtech', 'AIstrategy', 'DataMining', 'Mathematics', 'Statistics', 'LinearAlgebra']",1,6,https://twitter.com/KirkDBorne/status/1372165351841095688
+16,"Congratulations, nice to see an upward trend of #radiomics quality score in time, even if median totals are still unsatisfactory. Systematic auditing is extremely valuable to keep a realistic perspective on #radiomics and #MachineLearning. https://t.co/cIX8oy6qka",renatocuocolo,"['radiomics', 'radiomics', 'MachineLearning']",0,0,https://twitter.com/renatocuocolo/status/1372165283910197257
+17,Have you heard about computer vision? It's a useful #AI and #MachineLearning tool that #federal agencies are using to visualize and address challenges. Send me a DM if you are interested in learning more about the technology. @FedTechMagazine #cdwsocial https://t.co/CYRuG2AETn https://t.co/nUqFBdv7jP,RandySEvans,"['AI', 'MachineLearning', 'federal', 'cdwsocial']",0,0,https://twitter.com/RandySEvans/status/1372165153186148352
+18,"Today is the DAY! I'm teaching #MachineLearning with new #Tidymodels tools. We'll learn a new R package called Stacks for creating ensemble forecasts from XGBoost, Random Forest, and Elastic Net. Ensembling improves our AUC. Register here: https://t.co/EXcV8hB3ws
 
-https://t.co/W1eMcWfjXO https://t.co/0caDSj7FtW",Connected_Data,"['NeuralNetworks', 'Applications', 'DataScience', 'MachineLearning', 'OpenSource', 'CDLGraphAIMeetup']",2,0,https://twitter.com/Connected_Data/status/1371441052729610240
-13,"9 Tips How Machine Learning Can Transform Supply Chain System
-Read More :- https://t.co/ULnxl6ed8R
-#machinelearning #MLimpactonSCM #supplychainmanagement #TheTechTrend",techtrendworld,"['machinelearning', 'MLimpactonSCM', 'supplychainmanagement', 'TheTechTrend']",0,0,https://twitter.com/techtrendworld/status/1371441046656258054
-14,"Tech Reel ✔
+#rstats https://t.co/1sq62jXmkp",mdancho84,"['MachineLearning', 'Tidymodels', 'rstats']",2,4,https://twitter.com/mdancho84/status/1372165079328784392
+19,"📢 Leading #machinelearning @Hackveda @TheDeveloperBot @FBI @BenjaminP3ters @TheInsaneApp @nordicinst @RobynPope83 
 
-Follow @AeoLogicTech 
-And Be Part Of Our #TwitterFamily ❤
+THL ranks hashtagged links, their shares and RTs even via URL shorteners -via https://t.co/6FTN9g7Y6x",andresvarela,['machinelearning'],0,2,https://twitter.com/andresvarela/status/1372165070168395776
+20,#machinelearning real life solutions from #universities? ACCESS machine learning and AI solutions which doesn't cost a furtune anymore! Welcome to the FUTURE! https://t.co/1EXVcqnRs8,AnettaLVajda,"['machinelearning', 'universities']",1,0,https://twitter.com/AnettaLVajda/status/1372165057342234628
+21,Creo unveils AI-based BioBulb for indoor plant walls https://t.co/KAHRzpZlGf #GetMoreInsights #CoolerData #Data #DataScience #MachineLearning #AI #Innovation #Cloud https://t.co/irD0MohVYP,CoolerData,"['GetMoreInsights', 'CoolerData', 'Data', 'DataScience', 'MachineLearning', 'AI', 'Innovation', 'Cloud']",3,0,https://twitter.com/CoolerData/status/1372164956028694534
+22,Deep Learning with Python and Keras https://t.co/uA9RFaDTDj  #machinelearning #ad,machinelearnflx,"['machinelearning', 'ad']",2,2,https://twitter.com/machinelearnflx/status/1372164914706579458
+23,"#Tesla Autopilot safety under investigation after 'violent crash,' NHTSA says
 
-#cloud #tech #cybersecurity #AI #innovation #IoT #machinelearning #artificialintelligence #aws #security #reelvideo #cloudsecurity #cloudapplications #AugmentedReality  #InternetOfThings #AeoTweet https://t.co/CYi5Glxk42",AeoLogicTech,"['TwitterFamily', 'cloud', 'tech', 'cybersecurity', 'AI', 'innovation', 'IoT', 'machinelearning', 'artificialintelligence', 'aws', 'security', 'reelvideo', 'cloudsecurity', 'cloudapplications', 'AugmentedReality', 'InternetOfThings', 'AeoTweet']",0,0,https://twitter.com/AeoLogicTech/status/1371440923419111424
-15,https://t.co/o5LGe9HF5u raises $22.6M Series A for its AI-centric process automation platform https://t.co/3Z6D4majJd Follow @technofactr for the latest updates in #AI #ArtificialIntelligence #MachineLearning #ML #TechTrends #Technology #Innovation,technofactr,"['AI', 'ArtificialIntelligence', 'MachineLearning', 'ML', 'TechTrends', 'Technology', 'Innovation']",1,0,https://twitter.com/technofactr/status/1371440684197146626
-16,"Increase team productivity and efficiency with Inferyx multi-tenant analytics platform.
+https://t.co/bYeTgBA2Df
+#SelfDrivingCars #AI #IoT #5G #AutonomousVehicles #selfdriving #autonomous #Robotics #driverless #driverlesscars #startups #startup #Robot #MachineLearning #BigData #SmartCity",guidaautonoma,"['Tesla', 'SelfDrivingCars', 'AI', 'IoT', '5G', 'AutonomousVehicles', 'selfdriving', 'autonomous', 'Robotics', 'driverless', 'driverlesscars', 'startups', 'startup', 'Robot', 'MachineLearning', 'BigData', 'SmartCity']",0,0,https://twitter.com/guidaautonoma/status/1372164831957123075
+24,"🤓Best practices, code samples, and documentation for Computer Vision
+.
+..
+Check out the link:
+https://t.co/5F4NdytMI2
+.
+..
+#AI #ArtificialIntelligence #MachineLearning 
+#informalai #informalaitech #informalaitechlife",informalai,"['AI', 'ArtificialIntelligence', 'MachineLearning', 'informalai', 'informalaitech', 'informalaitechlife']",0,1,https://twitter.com/informalai/status/1372164823480475656
+25,"[FREE 28-page PDF] #Probability and #Statistics Cookbook: https://t.co/RwEIVaeZte #abdsc
++
+400+ Statistical Concepts Explained Simply—in 18 Parts: https://t.co/YA8aIJVho4
++
+Get the book: https://t.co/YfmTssmgLg
+————
+#DataScience #MachineLearning #BigData #DataMining #Mathematics https://t.co/8eMI1AhAwo",KirkDBorne,"['Probability', 'Statistics', 'abdsc', 'DataScience', 'MachineLearning', 'BigData', 'DataMining', 'Mathematics']",1,6,https://twitter.com/KirkDBorne/status/1372164691267555329
+26,- The Washington Post #Innovation #learning #machinelearning via https://t.co/NEo7LankbK https://t.co/9t8HzFHeBI,Techfuturenew,"['Innovation', 'learning', 'machinelearning']",0,0,https://twitter.com/Techfuturenew/status/1372164669377548290
+27,"Download @Medidata's new whitepaper to learn how #artificalintelligence and #machinelearning enables rapid and efficient assessment of images in clinical trials: https://t.co/Pe5iYB0xCf
 
-Schedule a demo: https://t.co/KINA0DtwTK
+#clinicaltrials #pharma https://t.co/IAyiSMz618",bphull,"['artificalintelligence', 'machinelearning', 'clinicaltrials', 'pharma']",0,0,https://twitter.com/bphull/status/1372164592344907778
+28,Should AI Robots be Citizens?: https://t.co/dlVSljBBud #Society #ArtificialIntelligence #Robotics #DataScience #MachineLearning,AI_PlainEnglish,"['Society', 'ArtificialIntelligence', 'Robotics', 'DataScience', 'MachineLearning']",0,0,https://twitter.com/AI_PlainEnglish/status/1372164584853934080
+29,At the heart of Uber is Big Data and Data Science that powers everything that Uber does https://t.co/L0yGaGrXfI #data #dataculture #machinelearning https://t.co/DBjhe8mjZQ,welcomeai,"['data', 'dataculture', 'machinelearning']",0,2,https://twitter.com/welcomeai/status/1372164571801260034
+30,At face value: Using facial analysis algorithm to track changes due to Parkinson's disease | #AI #HealthCare #Neurology #ComputerVision #Parkinson #MachineLearning #DeepLearning https://t.co/PZd1rmPR8O,_M_Dey,"['AI', 'HealthCare', 'Neurology', 'ComputerVision', 'Parkinson', 'MachineLearning', 'DeepLearning']",7,5,https://twitter.com/_M_Dey/status/1372164354074800129
+31,"MIT researchers designed the language of evolution to predict mutations. Reading viruses may just become easy with AI!
 
-#ArtificialIntelligence #MachineLearning #AnalyticsPlatform #Inferyx #InferyxAI https://t.co/kvUvPG4uOO",inferyx,"['ArtificialIntelligence', 'MachineLearning', 'AnalyticsPlatform', 'Inferyx', 'InferyxAI']",0,0,https://twitter.com/inferyx/status/1371440582556549123
-17,"Check out these #DataMining techniques from preprocessing to prediction.
+https://t.co/slvaswJvIC  
 
-https://t.co/TqTIWod2Mh
+#machinelearning #artificialintelligence #deeplearning #ai #research #nlp #naturallanguageprocessing #aiinhealthcare https://t.co/BnzJ3pdY4K",ARTIBA_Insights,"['machinelearning', 'artificialintelligence', 'deeplearning', 'ai', 'research', 'nlp', 'naturallanguageprocessing', 'aiinhealthcare']",0,0,https://twitter.com/ARTIBA_Insights/status/1372164317651423232
+32,"Language Processing with Recurrent Models - Bidirectional RNNs, Encoding, Word Embedding and Tips by @tbatsorry #MachineLearning #AI #DeepLearning   https://t.co/ZMxLcpE5fk",SKlausDev,"['MachineLearning', 'AI', 'DeepLearning']",0,0,https://twitter.com/SKlausDev/status/1372164060695891973
+33,"Haskell code reviews + Avoiding confirmation bias + Choosing an optimal database for Human-Level AI software
 
-#datamining #datascience #bigdata #dataanalytics #machinelearning #data #python #datavisualization #artificialintelligence #datascientist https://t.co/IFLW2rusTT",Grihasoft,"['DataMining', 'datamining', 'datascience', 'bigdata', 'dataanalytics', 'machinelearning', 'data', 'python', 'datavisualization', 'artificialintelligence', 'datascientist']",0,0,https://twitter.com/Grihasoft/status/1371440568405012482
-18,"With the help of #machinelearning models like kNN, decision tree, and SVM classification, AI act as a ‘silver bullet’ in response to the pandemic. 
+https://t.co/eBYZe1eeJv
 
-https://t.co/WcSPEpbTUl
-#artificialintelligence #machinelearning #deeplearning #digitaltransformation #technology #aiinhealthcare https://t.co/MV766kkPty",ARTIBA_Insights,"['machinelearning', 'artificialintelligence', 'machinelearning', 'deeplearning', 'digitaltransformation', 'technology', 'aiinhealthcare']",0,0,https://twitter.com/ARTIBA_Insights/status/1371440359130152960
-19,Tree-Boosting for Spatial Data https://t.co/dbWxdyD0tm #GetMoreInsights #CoolerData #Data #Tech #AI #Technology #ArtificialIntelligence #MachineLearning https://t.co/jpFRwdmaxK,CoolerData,"['GetMoreInsights', 'CoolerData', 'Data', 'Tech', 'AI', 'Technology', 'ArtificialIntelligence', 'MachineLearning']",2,0,https://twitter.com/CoolerData/status/1371440309989646345
-20,"I'm beyond excited to officially introduce Modeltime H2O, our H2O AutoML (automatic #machinelearning) forecasting backend to Modeltime. Learn about our growing #timeseries forecasting ecosystem's new addition: Modeltime H2O.  https://t.co/gwUXwmtBdp
+#agi #hlai #ai #machinelearning #tech #education #science #programming #teaching #ama #productivity #haskell https://t.co/Htn6nibQds",freeman42x,"['agi', 'hlai', 'ai', 'machinelearning', 'tech', 'education', 'science', 'programming', 'teaching', 'ama', 'productivity', 'haskell']",1,0,https://twitter.com/freeman42x/status/1372164045042806792
+34,The latest The Customer experience Daily! https://t.co/FgRB18xdWg #ai #machinelearning,CCO_Club,"['ai', 'machinelearning']",0,0,https://twitter.com/CCO_Club/status/1372163690955468801
+35,"The “Voice of Customer” (VoC) #Analytics: https://t.co/cSDUCAkaQ2
+——————
+#abdsc #BigData #DataScience #AI #MachineLearning #NLProc #NLU #SentimentAnalysis #CX #martech #CMO #Retail 
+———
+Graphic from: https://t.co/fZbZh431S5 https://t.co/R1EFtRcRWt",KirkDBorne,"['Analytics', 'abdsc', 'BigData', 'DataScience', 'AI', 'MachineLearning', 'NLProc', 'NLU', 'SentimentAnalysis', 'CX', 'martech', 'CMO', 'Retail']",1,3,https://twitter.com/KirkDBorne/status/1372163683963580416
+36,"T20 Between AFG and ZIM
+Target by AFG : 198
+Runs Scored by ZIM : 67 for 1  in 9.0 overs
+Win Prediction : AFG : 49.52 %  | ZIM :  50.48%
+Bot by @hj576
+@thePSLt20
+#T20 #PSL20201, #AFGvsZIM #Prediction #MachineLearning",hj576,"['T20', 'PSL20201', 'AFGvsZIM', 'Prediction', 'MachineLearning']",1,1,https://twitter.com/hj576/status/1372163556943216648
+37,"This post is about some of the most common sampling techniques one can use while working with data.
 
-#rstats #python #datascience https://t.co/AnIVWbYByF",mdancho84,"['machinelearning', 'timeseries', 'rstats', 'python', 'datascience']",3,7,https://twitter.com/mdancho84/status/1371440301055877122
-21,"Nice ""quantamental"" paper... ""We...show that a #machinelearning forecast combining analyst expectations with data dominates both pure data-based and pure analyst forecasts."" https://t.co/vEJPuOFMmz",jonathanrlarkin,['machinelearning'],0,0,https://twitter.com/jonathanrlarkin/status/1371440157493231617
-22,AI Must Play a Role in Data Cloud Management - This emphasis on data is where https://t.co/XC8OabhpeM #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",1,0,https://twitter.com/into_AI/status/1371440046029570053
-23,insitro Raises $400 Million in Series C Financing - SOUTH SAN FRANCISCO--(BUSINESS https://t.co/l0aRyow1ef #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371440018045161478
-24,"MACHINE LEARNING AND APPLICATIONS: AN INTERNATIONAL JOURNAL (MLAIJ)
-ISSN : 2394 - 0840
-https://t.co/EkJxd2DR1J
-Full Text Link 
-https://t.co/QAMJe2asfz
-UNKNOWN WORDS ANALYSIS IN POS TAGGING OF SINHALA LANGUAGE
-#MACHiNELEARNiNG https://t.co/ND2rLyqXmR",mlaijjournal,['MACHiNELEARNiNG'],1,0,https://twitter.com/mlaijjournal/status/1371439987774824450
-25,"Agnis Stibe discusses Human #ArtificialIntelligence and how people and #AI can work together productively, but we need to understand ourselves as people first. 
-Read more here: https://t.co/XoqpN4wqrN  #MachineLearning https://t.co/qOPq8aGNUU",TheBusinessTN,"['ArtificialIntelligence', 'AI', 'MachineLearning']",2,0,https://twitter.com/TheBusinessTN/status/1371439987590361088
-26,Machine learning can support dispatchers to better and faster recognize out- -  https://t.co/C1tnJpam4W #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439978836803588
-27,insitro Raises $400 Million in Series C Financing - SOUTH SAN FRANCISCO--(BUSINESS https://t.co/SXKMfuWsRZ #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439938877669380
-28,Digital Transformation Has Fundamentally Changed The Role Of Software - The need for https://t.co/tJ9ONw8GXQ #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439909320458245
-29,The Third Age Of Training: What You Need To Know - The ubiquity of electricity ma https://t.co/Il8m4c7va3 #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439888462192641
-30,"How AI enables reporters, photo-journalists and broadcasters to humanise content -  https://t.co/CiqSTNUqLT #machinelearning #intoAInews",into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439845948731399
-31,PyTorch tutorial: a quick guide for new learners: https://t.co/euGHxRtNeP #Pytorch #Python #DataScience #ArtificialIntelligence #MachineLearning,AI_PlainEnglish,"['Pytorch', 'Python', 'DataScience', 'ArtificialIntelligence', 'MachineLearning']",0,0,https://twitter.com/AI_PlainEnglish/status/1371439816064258048
-32,Airlines turn to traveler intent data to forecast demand - The startup uses machine https://t.co/BhnNLTHDjb #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439814965334018
-33,"Retinal Scan Technology Uses AI, Machine–Learning to Detect Early Autism Among C -  https://t.co/ck8fdLX8qO #machinelearning #intoAInews",into_AI,"['machinelearning', 'intoAInews']",1,0,https://twitter.com/into_AI/status/1371439781679349761
-34,Artificial Intelligence in Military Market worth $11.6 billion by 2025 – Exclusive R -  https://t.co/kXJYtXCz5C #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439754894581760
-35,BlackBerry Introduces BlackBerry® Alert Next-Gen Critical Event Management for the  -  https://t.co/HjoJ2n7byW #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,0,https://twitter.com/into_AI/status/1371439668668030979
-36,DeepSig Opens New 5G Wireless AI Lab to Enable Advanced Research and Development -  https://t.co/iOAPbphJj0 #machinelearning #intoAInews,into_AI,"['machinelearning', 'intoAInews']",0,1,https://twitter.com/into_AI/status/1371439636023803908
-37,How Doctors Are Using Artificial Intelligence to Battle #COVID19  https://t.co/0CBnm1cGmu #MachineLearning #TechJunkieNews #ArtificialIntelligence #coronavirus #CoronaVtj https://t.co/x2y5VlgWDH,techjunkiejh,"['COVID19', 'MachineLearning', 'TechJunkieNews', 'ArtificialIntelligence', 'coronavirus', 'CoronaVtj']",0,0,https://twitter.com/techjunkiejh/status/1371439547716886532
-38,Using the GLMSELECT procedure to calculate individual reference values in outlier detection #ArtificialIntelligence #AI #DataScience #100DaysOfCode #Python #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT https://t.co/5Mqoqc7Tzu,IainLJBrown,"['ArtificialIntelligence', 'AI', 'DataScience', '100DaysOfCode', 'Python', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",0,2,https://twitter.com/IainLJBrown/status/1371439542872416256
-39,"Simulation of #selfdriving fleets brings their deployment in cities closer
+#Datascience #Machinelearning #Statistics #Python https://t.co/wOHzDgBsPk",MLWhiz,"['Datascience', 'Machinelearning', 'Statistics', 'Python']",1,1,https://twitter.com/MLWhiz/status/1372163545442480130
+38,"🗞️@Lexalytics, which specializes in #machinelearning (#ML) &amp; #artificialintelligence (#AI), has joined forces with #TrueNorthSolutions and #GlasshouseHealth to help #medicalaffairs teams better apply AI and #naturallanguageprocessing (#NLP) approaches. 
+➡️https://t.co/3sjy9oydK1 https://t.co/mYjMpWrtOp",PharmaCommerce,"['machinelearning', 'ML', 'artificialintelligence', 'AI', 'TrueNorthSolutions', 'GlasshouseHealth', 'medicalaffairs', 'naturallanguageprocessing', 'NLP']",0,0,https://twitter.com/PharmaCommerce/status/1372163495798640642
+39,"#AI companies are generating synthetic data to train #machinelearning systems. Why it matters and how it works.
 
-https://t.co/AVE50zOWgc
-#SelfDrivingCars #AI #IoT #5G #AutonomousVehicles #smartcities #autonomous #Robotics #driverless #driverlesscars #startups #startup #Robot #MachineLearning #BigData #SmartCity https://t.co/haSCYNAyDM",guidaautonoma,"['selfdriving', 'SelfDrivingCars', 'AI', 'IoT', '5G', 'AutonomousVehicles', 'smartcities', 'autonomous', 'Robotics', 'driverless', 'driverlesscars', 'startups', 'startup', 'Robot', 'MachineLearning', 'BigData', 'SmartCity']",0,1,https://twitter.com/guidaautonoma/status/1371439481987928064
-40,Vahan Sahakyan: The three focus areas for AI at Digitain. #industry40 #dataresponsible #MachineLearning https://t.co/VGw5KHbqsC,nordicinst,"['industry40', 'dataresponsible', 'MachineLearning']",1,0,https://twitter.com/nordicinst/status/1371439342300848131
-41,"#AI has substantially increased its impact on the world despite the chaos brought about by the COVID pandemic. What's happening? 
+via @YahooNews cc @CurieuxExplorer @MasterofIoT @baski_LA #artificialintelligence #ML #Data 
 
-Here are important details from HAI’s new AI Index https://t.co/7hweOpSvm9 
+https://t.co/iE3CxgOQXh",SwissCognitive,"['AI', 'machinelearning', 'artificialintelligence', 'ML', 'Data']",3,2,https://twitter.com/SwissCognitive/status/1372163491264655368
+40,"CloudxLab is hosting a Live Webinar on 'Introduction to Data Science, Machine Learning and AI'  on March 21st at 8 PM IST
 
-#ArtificialIntelligence #MachineLearning",logimetrix,"['AI', 'ArtificialIntelligence', 'MachineLearning']",0,0,https://twitter.com/logimetrix/status/1371438940830404609
-42,"Limited Seats Only!!
-
-CloudxLab is hosting a Free Live Webinar on 'Introduction to Data Science, Machine Learning and AI'  on March 21st at 8 PM IST
-
-It's completely FREE!
+This is the right opportunity for you to upskill
 
 Save a seat - https://t.co/iOs0z5HAdE
 
-#Machinelearning #handson #edtech #ai #cloudxlab #learn #datascience https://t.co/mbVzj1w5YC",CloudxLab,"['Machinelearning', 'handson', 'edtech', 'ai', 'cloudxlab', 'learn', 'datascience']",0,0,https://twitter.com/CloudxLab/status/1371438592808079361
-43,[On-Demand Video] Do you want to explore how @Databricks can be used to deploy machine learning models? This video helps you understand the core concepts behind #machinelearning and provides you with the tools for applying it within your business. Watch: https://t.co/WD4LYa7Iuh https://t.co/dPmPPW41ph,ThorogoodBI,['machinelearning'],0,0,https://twitter.com/ThorogoodBI/status/1371438544573583363
-44,"TODAY at 11AM: @MITEECS @MIT_CSAIL PhD student @akyurekekin talks sequence learning and compositional generalization at our #ArtificialIntelligence Research (AIR) Initiative Weekly Seminar. Details and Zoom meeting information below.
- @BU_ece @BUcompsci #machinelearning #AI #ML https://t.co/Nn7tIWaDW6",BU_Computing,"['ArtificialIntelligence', 'machinelearning', 'AI', 'ML']",2,0,https://twitter.com/BU_Computing/status/1371438497308024832
-45,"IOT solutions for all major industries. 
+#Machinelearning #handson #edtech #ai #cloudxlab #learn #datascience https://t.co/Dsp7anPyUL",CloudxLab,"['Machinelearning', 'handson', 'edtech', 'ai', 'cloudxlab', 'learn', 'datascience']",1,0,https://twitter.com/CloudxLab/status/1372163420053774337
+41,"Do you agree with this list of what's hot and what's not in banking technology for 2021?
+https://t.co/gTAWnQSa1x
+#ai #artificialintelligence #machinelearning #technology #rri #responsibleinnovation",ORBITRRI,"['ai', 'artificialintelligence', 'machinelearning', 'technology', 'rri', 'responsibleinnovation']",1,0,https://twitter.com/ORBITRRI/status/1372163394187444230
+42,"Nearby Share is rolling out to Android 6.0+ phones today, making it easier to instantly share files, links, pictures and more with people around you, all while protecting your privacy. 
 
-https://t.co/AUKuZTe2e3
+Read more : https://t.co/MRqYGRZebw
 
-#IOT #AL #ML #machinelearning #softwaredevelopment #webdevelopment #MNC #business #IOTbusiness https://t.co/OAZupJjLEY",Techelita1,"['IOT', 'AL', 'ML', 'machinelearning', 'softwaredevelopment', 'webdevelopment', 'MNC', 'business', 'IOTbusiness']",4,1,https://twitter.com/Techelita1/status/1371438434594660354
-46,"Implement Stochastic Gradient Descent with Warm Restarts in PyTorch
-https://t.co/Wkn7Zst7MH
-#ComputerVision #ConvolutionalNeuralNetworks #DeepLearning #ImageClassification #MachineLearning #NeuralNetworks #PyTorch #ResearchPaperImplementation https://t.co/o7CuJgFrLE",SovitRath5,"['ComputerVision', 'ConvolutionalNeuralNetworks', 'DeepLearning', 'ImageClassification', 'MachineLearning', 'NeuralNetworks', 'PyTorch', 'ResearchPaperImplementation']",0,0,https://twitter.com/SovitRath5/status/1371438363090292736
-47,"Why #AI / #ML Is Top of Mind With Corporate Executives by @robinmaustinceo @cio_asean - https://t.co/J1wLK4OkXk
+#google #api #android #machinelearning #mobile https://t.co/3Nb54LgD7t",recode_minds,"['google', 'api', 'android', 'machinelearning', 'mobile']",2,0,https://twitter.com/recode_minds/status/1372163339376336901
+43,"New episode of Coffey &amp; Code is live! Topics include Apple #AR #VR rumors, Instagram’s #ai &amp; #machinelearning tech that protects teens, FB’s new tool to help vaccinations &amp; #NFT craze raising up hard copyright questions. Listen https://t.co/NVP9JLs61K #techpodcast #womenintech https://t.co/sXvmVWFv44",ashleycoffey_,"['AR', 'VR', 'ai', 'machinelearning', 'NFT', 'techpodcast', 'womenintech']",8,3,https://twitter.com/ashleycoffey_/status/1372163260363988999
+44,"The Bayesian vs frequentist approaches: Implications for #MachineLearning.
+Part 1: https://t.co/jvBJZSsKvy
+Part 2: https://t.co/2ARIJgS3B2
+Part 3: https://t.co/HLHKW6oJhZ
+#abdsc #DataScience #Statistics #StatisticalLiteracy #DataLiteracy
+——— 
+Graphic from: https://t.co/WNHvaz80uE https://t.co/ld7d7Yz3Uc",KirkDBorne,"['MachineLearning', 'abdsc', 'DataScience', 'Statistics', 'StatisticalLiteracy', 'DataLiteracy']",4,7,https://twitter.com/KirkDBorne/status/1372163109905965060
+45,"AI has shown its value, now governments must unleash its potential  https://t.co/aAwKH9dxoW #AI #MLOps #FutureOfWork #ArtificialIntelligence #MachineLearning",TechNative,"['AI', 'MLOps', 'FutureOfWork', 'ArtificialIntelligence', 'MachineLearning']",2,0,https://twitter.com/TechNative/status/1372163056827052032
+46,"Quick Insight report around a great AI tool developed to help utilities easily filter asset tags and create fleetwide tag standardization. #AI
+#energytransition #innovation
+#MachineLearning #GenerationFleet #NLP
 
-#IoT #BigData #MachineLearning #ArtificialIntelligence #MI #InternetofThings #Blockchain #Digital",Veracitiz,"['AI', 'ML', 'IoT', 'BigData', 'MachineLearning', 'ArtificialIntelligence', 'MI', 'InternetofThings', 'Blockchain', 'Digital']",0,0,https://twitter.com/Veracitiz/status/1371438283113254914
-48,"AI has shown its value, now governments must unleash its potential  https://t.co/aAwKH9v8gu #AI #MLOps #FutureOfWork #ArtificialIntelligence #MachineLearning",TechNative,"['AI', 'MLOps', 'FutureOfWork', 'ArtificialIntelligence', 'MachineLearning']",2,2,https://twitter.com/TechNative/status/1371438282379169797
-49,"When you find the Randobrot, your #4minutehate
-is over.
-#machinelearning https://t.co/SqFbJy0yir",GrimGriz,"['4minutehate', 'machinelearning']",1,0,https://twitter.com/GrimGriz/status/1371438019404824577
-50,Digital Leadership Architecture via @ingliguori #DigitalTransformation #Cloud #MachineLearning #BigData #ArtificialIntelligence #cybersecurity #Blockchain #DX #Analytics #AI #IIoT #DataScience #IoT #IoTPL #leadership @antgrasso @pierrepinna @PawlowskiMario @Ronald_vanLoon @AkwyZ https://t.co/L7LkmDhdI6,ingliguori,"['DigitalTransformation', 'Cloud', 'MachineLearning', 'BigData', 'ArtificialIntelligence', 'cybersecurity', 'Blockchain', 'DX', 'Analytics', 'AI', 'IIoT', 'DataScience', 'IoT', 'IoTPL', 'leadership']",6,3,https://twitter.com/ingliguori/status/1371437968393699330
-51,"8th World #MachineLearning and #DeepLearning  Conference | May 24-25, 2021 | Webinar
-If you are interested to be a part of this event 
-Submit your #Abstract!
-Visit: https://t.co/i8J59bMAJY
-#RoboticProcessAutomation
-#VirtualReality
-#Cybersecurity
-#MachineLearning2021 https://t.co/ltnbY4pomj",2021Machine,"['MachineLearning', 'DeepLearning', 'Abstract', 'RoboticProcessAutomation', 'VirtualReality', 'Cybersecurity', 'MachineLearning2021']",2,0,https://twitter.com/2021Machine/status/1371437901616095257
-52,"Data Analytics in Insurance Market to Eyewitness Massive Growth by 2026 | Guidewire, RSM, SAS, Pegasystems - openPR https://t.co/HKb4Lstbxh
+https://t.co/GKWNyPap1j",81Mikeski,"['AI', 'energytransition', 'innovation', 'MachineLearning', 'GenerationFleet', 'NLP']",1,0,https://twitter.com/81Mikeski/status/1372162922022064129
+47,"Coalition Raises $175M to Build the Future of Commercial Insurance - PRNewswire https://t.co/hVf3SQo2Qn
 
-#DataScience #MachineLearning #DeepLearning #Insurance #NLP #Robots #AI #IoT #BigData",DS_Analytics,"['DataScience', 'MachineLearning', 'DeepLearning', 'Insurance', 'NLP', 'Robots', 'AI', 'IoT', 'BigData']",0,0,https://twitter.com/DS_Analytics/status/1371437878581006337
-53,"AM Best Assigns Credit Ratings to Motors Insurance Company Limited - Business Wire https://t.co/qj90SjzAIx
+#DataScience #MachineLearning #DeepLearning #Insurance #NLP #Robots #AI #IoT #BigData",DS_Analytics,"['DataScience', 'MachineLearning', 'DeepLearning', 'Insurance', 'NLP', 'Robots', 'AI', 'IoT', 'BigData']",0,0,https://twitter.com/DS_Analytics/status/1372162584498089997
+48,#Cyberattacks against #machinelearning systems are more common than you think - Microsoft Security https://t.co/4BoaAP5xN3 #CyberSecurity #TechJunkieNews https://t.co/eSV3uyhSkc,techjunkiejh,"['Cyberattacks', 'machinelearning', 'CyberSecurity', 'TechJunkieNews']",0,0,https://twitter.com/techjunkiejh/status/1372162561441955847
+49,Top Things to Look for in a Modern-Day Operational Intelligence System - Coruzant Technologies https://t.co/Sak8zB8V0s #EmergingTech #OpsIntel #OperationalIntelligence #AI #MachineLearning #BusinessTransformation #DigitalTransformation #Coruzant #CXO,CSuitePro,"['EmergingTech', 'OpsIntel', 'OperationalIntelligence', 'AI', 'MachineLearning', 'BusinessTransformation', 'DigitalTransformation', 'Coruzant', 'CXO']",0,0,https://twitter.com/CSuitePro/status/1372162553787396097
+50,Top 3 Applications Of #MachineLearning To Transform Your Business. (Forbes) #ML #Technology https://t.co/YddwW7GVMq https://t.co/WpulvwLDN2,jamesvgingerich,"['MachineLearning', 'ML', 'Technology']",0,0,https://twitter.com/jamesvgingerich/status/1372162298886946816
+51,"What's new in radiology AI?  Join the #RadAIchat Tweet Chat, 1st Wednesdays, 8 pm ET https://t.co/ssCXk82Kh1 #ML #MachineLearning #Radiomics https://t.co/auETuoXjKe",Radiology_AI,"['RadAIchat', 'ML', 'MachineLearning', 'Radiomics']",1,3,https://twitter.com/Radiology_AI/status/1372162055252242434
+52,Introduction to Data Science and SQL Server Machine Learning #MachineLearning #learning  https://t.co/EBcCOtFsgc,cybersecboardrm,"['MachineLearning', 'learning']",1,1,https://twitter.com/cybersecboardrm/status/1372161864709386246
+53,How to check if my data is one-hot encoded https://t.co/cQQL4eJCpv #pandas #machinelearning #deeplearning #numpy #scikitlearn https://t.co/XHVP2Ng390,overflow_meme,"['pandas', 'machinelearning', 'deeplearning', 'numpy', 'scikitlearn']",0,1,https://twitter.com/overflow_meme/status/1372161702154878979
+54,"@GalleryBlock Will you jump into the water and collect Water Jump? #videoart #NFT made in collaboration with #AI #MachineLearning generator: https://t.co/Bm24R6gkym
+#cryptoart #Collectibles #nftart #nftcollector #machinelearning #glitchart https://t.co/wiNlsOUnYh",guli_silb,"['videoart', 'NFT', 'AI', 'MachineLearning', 'cryptoart', 'Collectibles', 'nftart', 'nftcollector', 'machinelearning', 'glitchart']",0,1,https://twitter.com/guli_silb/status/1372161643862450180
+55,NSE’s buying spree continues with investment in machine learning start-up - Economic Times https://t.co/bMVJCIfvi7 #machinelearning #ai #technology https://t.co/WwUlGOfwfd,milocamj,"['machinelearning', 'ai', 'technology']",1,1,https://twitter.com/milocamj/status/1372161560588644357
+56,"A sneak peek!
 
-#DataScience #MachineLearning #DeepLearning #Insurance #NLP #Robots #AI #IoT #BigData",DS_Analytics,"['DataScience', 'MachineLearning', 'DeepLearning', 'Insurance', 'NLP', 'Robots', 'AI', 'IoT', 'BigData']",0,0,https://twitter.com/DS_Analytics/status/1371437871169683458
-54,"Dashlane Password Changer 2.0 and machine learning engine now available
-https://t.co/3SCYwF15jD
+#qpiai #quantum #quantumcomputing #artificialintelligence #machinelearning #learning #learnai #learnquantum #certification #emergingtechnology #industry40 #visualization #imagination #graphics #gui https://t.co/esxf6ICifk",qpiai,"['qpiai', 'quantum', 'quantumcomputing', 'artificialintelligence', 'machinelearning', 'learning', 'learnai', 'learnquantum', 'certification', 'emergingtechnology', 'industry40', 'visualization', 'imagination', 'graphics', 'gui']",0,2,https://twitter.com/qpiai/status/1372161475448467459
+57,"Why #DataCleaning is a Must for #PredictiveModeling? https://t.co/y72LXvxHBe
++and+
+Best practices in Data Cleaning: https://t.co/lYfs09duLw
+——————
+#abdsc #BigData #DataScience #AI #MachineLearning #PredictiveAnalytics https://t.co/zR7T1k9rse",KirkDBorne,"['DataCleaning', 'PredictiveModeling', 'abdsc', 'BigData', 'DataScience', 'AI', 'MachineLearning', 'PredictiveAnalytics']",4,9,https://twitter.com/KirkDBorne/status/1372161363456450565
+58,"#AI Predicts Which Ovarian Cancer Treatment Is Best For Each Patient
+by @LisaAHarvey1 @MATLAB
 
-#Infosec #Security #Ceptbiro #Cybersecurity #Dashlane #PasswordChanger2.0 #MachineLearning",CeptBiro,"['Infosec', 'Security', 'Ceptbiro', 'Cybersecurity', 'Dashlane', 'PasswordChanger2', 'MachineLearning']",1,0,https://twitter.com/CeptBiro/status/1371437814227857409
-55,"@OnlyNatureplace Trafalgar: Python library to make quantitative finance &amp; portfolio analysis faster &amp; easier.
+Read more https://t.co/9By13MvSSR
 
-https://t.co/ZfV30iZTG4…
+#BigData #MachineLearning #ArtificialIntelligence #ML #MI #DataScience #Robotics #DeepLearning #DL
 
-#DEVCommunity #MachineLearning #Python #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #100DaysOfCode",New081082,"['DEVCommunity', 'MachineLearning', 'Python', 'IoT', 'flutter', '100DaysOfMLCode', 'AI', 'javascript', 'womenwhocode', 'RStats', 'Serverless', 'CodeNewbie', 'DataScience', '100DaysOfCode']",11,4,https://twitter.com/New081082/status/1371437700385968138
-56,Hear the experts discuss current research and other important topics in #AI on the journal's #podcast series! https://t.co/rDhafFJNS3 #ML #MachineLearning #DeepLearning https://t.co/KOF0uYN8ys,Radiology_AI,"['AI', 'podcast', 'ML', 'MachineLearning', 'DeepLearning']",3,3,https://twitter.com/Radiology_AI/status/1371437280791957504
-57,How AI Will Impact The Future Of Work And Life https://t.co/vq4OZzRzUs #learning #MachineLearning via @cybersecboardrm,hacking_future,"['learning', 'MachineLearning']",0,0,https://twitter.com/hacking_future/status/1371437275192688640
-58,"📈
-Strengthening of the #BigData sector in Catalonia, according to the new report prepared by @accio_cat:
+Cc: @ylecun @jeremyphoward @hardmaru https://t.co/Qszt6AZWvq",Ronald_vanLoon,"['AI', 'BigData', 'MachineLearning', 'ArtificialIntelligence', 'ML', 'MI', 'DataScience', 'Robotics', 'DeepLearning', 'DL']",2,7,https://twitter.com/Ronald_vanLoon/status/1372161074615758857
+59,"T20 Between AFG and ZIM
+Target by AFG : 198
+Runs Scored by ZIM : 50 for 1  in 6.5 overs
+Win Prediction : AFG : 50.45 %  | ZIM :  49.55%
+Bot by @hj576
+@thePSLt20
+#T20 #PSL20201, #AFGvsZIM #Prediction #MachineLearning",hj576,"['T20', 'PSL20201', 'AFGvsZIM', 'Prediction', 'MachineLearning']",1,0,https://twitter.com/hj576/status/1372161033838661638
+60,"Why Augmented Data #Analytics is the Future of Business Intelligence: https://t.co/WLyEpKTjsZ
+—————
+#abdsc #BI #DataScience #BigData #AI #MachineLearning #DataLiteracy #AnalyticThinking #DigitalTransformation https://t.co/KNOoqTFLyY",KirkDBorne,"['Analytics', 'abdsc', 'BI', 'DataScience', 'BigData', 'AI', 'MachineLearning', 'DataLiteracy', 'AnalyticThinking', 'DigitalTransformation']",11,8,https://twitter.com/KirkDBorne/status/1372160595877826564
+61,The latest Digital Transformation (DX) Today! https://t.co/DhPPqsopEh Thanks to @lullabebe2 @InsightHP @MariaFariello1 #ai #machinelearning,digitivy,"['ai', 'machinelearning']",3,0,https://twitter.com/digitivy/status/1372160423752052736
+62,"$WIN $WINKF #AI #MachineLearning 
 
-✔ 220 #companies
-✔ 2,500 #jobs
-✔ €250 million (annual turnover)
+@payview @makingmoneynow1 @GrabGains @Hammy_1022 @BaystreetBrian @insidexplr @Mikeymike426 @001DanDan @MIMITheTrader @PeterNBell https://t.co/L4lTETtXzL",PierreG01599501,"['AI', 'MachineLearning']",2,3,https://twitter.com/PierreG01599501/status/1372160337584271360
+63,Interesting use cases of #ocr technology in 2021. https://t.co/B8Hwbf2TKH #artificialintelligence #labelrecongition #machinelearning #technology https://t.co/mLgSfTrutc,machinetutors,"['ocr', 'artificialintelligence', 'labelrecongition', 'machinelearning', 'technology']",2,0,https://twitter.com/machinetutors/status/1372160316973416453
+64,"Cymbio, which connects brands with markets, raises $7M https://t.co/S6bD8k5fhg #artificialintelligence #ai #machinelearning",asifrazzaq1988,"['artificialintelligence', 'ai', 'machinelearning']",3,0,https://twitter.com/asifrazzaq1988/status/1372160295708151810
+65,"A Realtime Pothole Detection System Using #MachineLearning &amp; #ComputerVision
+#AI #DataScience #CloudComputing #futureofwork #DataScientist #BigData #selfdrivingcars #smartcity #fashiontech #Serverless #Linux #JavaScript #Python #innovation #programming #100daysofcode #supplychain https://t.co/cMT1UAsmk3",Fisheyebox,"['MachineLearning', 'ComputerVision', 'AI', 'DataScience', 'CloudComputing', 'futureofwork', 'DataScientist', 'BigData', 'selfdrivingcars', 'smartcity', 'fashiontech', 'Serverless', 'Linux', 'JavaScript', 'Python', 'innovation', 'programming', '100daysofcode', 'supplychain']",29,13,https://twitter.com/Fisheyebox/status/1372160244961345538
+66,"Master Your #MachineLearning / #AI Success with Enterprise Data Management: https://t.co/2cyCKIDCeX
+———————
+#abdsc #BigData #DataScience #MDM #DataManagement #DataStrategy https://t.co/G3TJMdWH61",KirkDBorne,"['MachineLearning', 'AI', 'abdsc', 'BigData', 'DataScience', 'MDM', 'DataManagement', 'DataStrategy']",6,7,https://twitter.com/KirkDBorne/status/1372160164707569671
+67,Location data analytics provider SafeGraph raises $45M #MachineLearning #learning via https://t.co/mEs8GUBxIB https://t.co/etZ1Pka3Du,_AlexLuciani_,"['MachineLearning', 'learning']",1,1,https://twitter.com/_AlexLuciani_/status/1372160127919398915
+68,"Who Is Making Sure the A.I. Machines Aren’t Racist? - The New York Times
 
-🡺https://t.co/FmC1UDdurC 
-#AI #IoT #internet #enterprise #SMEs #Business #MachineLearning #DeepLearning https://t.co/hLZGwFe7Mk",BSP_en,"['BigData', 'companies', 'jobs', 'AI', 'IoT', 'internet', 'enterprise', 'SMEs', 'Business', 'MachineLearning', 'DeepLearning']",1,1,https://twitter.com/BSP_en/status/1371437202912260099
-59,Day 47: Understanding Neural Topic Model in @awscloud SageMaker and trying #AWS Machine Learning Specialty Exams questions.....well it's not going to be easy 🙃 #Learning #66daysofdata #DeepLearning #MachineLearning,bhatnagarkush,"['AWS', 'Learning', '66daysofdata', 'DeepLearning', 'MachineLearning']",0,0,https://twitter.com/bhatnagarkush/status/1371437057277521921
-60,Lygos and the Agile BioFoundry Generate Largest Multi-Omics Dataset to Accelerate Machine Learning Capabilities for Engineering Strains for Producing Organic Acids - Business Wire https://t.co/EEQ1NyDN3d #machinelearning #ai #technology https://t.co/Hnds1hdhub,milocamj,"['machinelearning', 'ai', 'technology']",1,1,https://twitter.com/milocamj/status/1371437034452086795
-61,"Good things are happening in #Louisville! Building a stronger economy in the West End, #robotics and knee replacements @Norton_Health, @yumbrands &amp; #machinelearning, Midwest opportunities, and discovering our local #innovation ecosystem. https://t.co/Y5wnHSI9nc https://t.co/Oc0XiBKj7S",LouFuture,"['Louisville', 'robotics', 'machinelearning', 'innovation']",0,2,https://twitter.com/LouFuture/status/1371436883616669697
-62,"Ecosmob's machine learning services can be integrated with industry leaders like AWS and Microsoft Azure for services such as building powerful visualization tools, create and implementing predictive and analytics solutions.
+Read more here: https://t.co/htMeee21HW
 
-https://t.co/VYpyfpcn2v
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",2,0,https://twitter.com/RobynPope83/status/1372160054720401408
+69,How hummingbirds hum #ArtificialIntelligence #AI #DataScience #100DaysOfCode #Python #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT #RPA #futureofwork #javascript #Serverless #flutter #Linux https://t.co/YNPrjcMZrB,BristowColin,"['ArtificialIntelligence', 'AI', 'DataScience', '100DaysOfCode', 'Python', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT', 'RPA', 'futureofwork', 'javascript', 'Serverless', 'flutter', 'Linux']",7,3,https://twitter.com/BristowColin/status/1372160041072037888
+70,Top Things to Look for in a Modern-Day Operational Intelligence System - Coruzant Technologies https://t.co/DswBrJrPN6 #EmergingTech #OpsIntel #OperationalIntelligence #AI #MachineLearning #BusinessTransformation #DigitalTransformation #Coruzant,Coruzant,"['EmergingTech', 'OpsIntel', 'OperationalIntelligence', 'AI', 'MachineLearning', 'BusinessTransformation', 'DigitalTransformation', 'Coruzant']",1,0,https://twitter.com/Coruzant/status/1372160037532151812
+71,"Which is the world's most popular cloud computing platform with the highest market share?
 
-#Ecosmob #MachineLearning https://t.co/WruT6kxnjd",ecosmob,"['Ecosmob', 'MachineLearning']",2,1,https://twitter.com/ecosmob/status/1371436824539901953
-63,"'thursday' - 2021-03-15 12:22:16
+#aws #cloud #cloudcomputing #azure #devops #technology #python #amazonwebservices #amazon #programming #linux #cybersecurity #coding #developer #googlecloud #machinelearning #microsoft",ISFederation,"['aws', 'cloud', 'cloudcomputing', 'azure', 'devops', 'technology', 'python', 'amazonwebservices', 'amazon', 'programming', 'linux', 'cybersecurity', 'coding', 'developer', 'googlecloud', 'machinelearning', 'microsoft']",4,0,https://twitter.com/ISFederation/status/1372159814340468738
+72,"How does artificial intelligence learn? https://t.co/r4SkSuVIHb via @TED_ED ht @LetsTalkScience 
 
-Tweeting #birds directly from our #garden.
-#computervision #keras #machinelearning #opencv #aws. 
-Built for @smile_att by @sodnpoo. https://t.co/UOIDYlDK3S",sodnpoo_cams,"['birds', 'garden', 'computervision', 'keras', 'machinelearning', 'opencv', 'aws']",0,0,https://twitter.com/sodnpoo_cams/status/1371436807070609408
-64,"Word of the Day:
+💻🧠🤖
 
-- Assembler
+#ArtificialIntelligence #AI #machinelearning #deeplearning #tech #technology #explainer #computer #Science #STEM #STEMed #STEMeducation #SmartVideo",vubblePOP,"['ArtificialIntelligence', 'AI', 'machinelearning', 'deeplearning', 'tech', 'technology', 'explainer', 'computer', 'Science', 'STEM', 'STEMed', 'STEMeducation', 'SmartVideo']",1,0,https://twitter.com/vubblePOP/status/1372159782287597570
+73,"Free for a limited time! Watch WintellectNOW's Fundamentals of Deep Learning on-demand course written by Jeff Prosise @jprosise https://t.co/VzdB8t6OzX
+#MachineLearning #WintellectNOW #DeepLearning #Wintellect https://t.co/9J9Oeh2VjU",MattSzafirPro,"['MachineLearning', 'WintellectNOW', 'DeepLearning', 'Wintellect']",1,0,https://twitter.com/MattSzafirPro/status/1372159640008597507
+74,Location data analytics provider SafeGraph raises $45M #Learning #machinelearning via https://t.co/ypYmUnY8pA https://t.co/zKSY21XuYc,NellisterC,"['Learning', 'machinelearning']",1,1,https://twitter.com/NellisterC/status/1372159615010541569
+75,"MLI: #AwesomeMLProjects: Project 2 - PULSE, Short for Photo Upsampling via Latent Space Exploration.
 
-#100DaysOfCode #DEVCommunity #dotnet #dotnetcore #Python #Python3 #javascript #programming #algorithms #git #DevCommunityIN #CodeNewbie #CodeNewbies #Linux #ArtificialIntelligence #Networking #Azure #MachineLearning",TheRamoliya,"['100DaysOfCode', 'DEVCommunity', 'dotnet', 'dotnetcore', 'Python', 'Python3', 'javascript', 'programming', 'algorithms', 'git', 'DevCommunityIN', 'CodeNewbie', 'CodeNewbies', 'Linux', 'ArtificialIntelligence', 'Networking', 'Azure', 'MachineLearning']",18,6,https://twitter.com/TheRamoliya/status/1371436641756147716
-65,Get Actionable Data with AI-based Tools for Natural Questions - Coruzant Technologies https://t.co/qiWVX6nfpm #AI #NLP #NLQA #MachineLearning #PredictiveModeling #BigData #NaturalLanguage #Search #Index #Coruzant #MindBreeze,Coruzant,"['AI', 'NLP', 'NLQA', 'MachineLearning', 'PredictiveModeling', 'BigData', 'NaturalLanguage', 'Search', 'Index', 'Coruzant', 'MindBreeze']",1,1,https://twitter.com/Coruzant/status/1371436519974699011
-66,New blog post! [2/3] in a series on how to build a full-stack spam catching app. This post covers the #backend - the #machinelearning classifier and #flask server. Check it out at @TDataScience. #datascience #python https://t.co/lMTpvB4dMh,mgsosna,"['backend', 'machinelearning', 'flask', 'datascience', 'python']",2,1,https://twitter.com/mgsosna/status/1371436454887440387
-67,"what’s next for #MSDyn365 &amp; #PowerPlatform. Join me at the free #MSBizAppsLaunchEvent on April 6. Register now:  https://t.co/vz1rovn75v 
-Please join for the new #PowerBi event. PowerBi is the game changer in #BI with amazing #ETL and #MachineLearning functionality",Shivipmp,"['MSDyn365', 'PowerPlatform', 'MSBizAppsLaunchEvent', 'PowerBi', 'BI', 'ETL', 'MachineLearning']",1,0,https://twitter.com/Shivipmp/status/1371436285764661251
-68,"Getting to trustworthy #AI
+📄 Paper: https://t.co/DaeLxeEfFj
+💻 Code: https://t.co/pZzMKfkfUB
 
-#ArtificialIntelligence #Algorithm #ML #MachineLearning #DeepLearning #DL #Data #Tech #Technology
+#datascience #machinelearning #python #artificialintelligence #deeplearning https://t.co/1gSBzLKAY6",ml_india_,"['AwesomeMLProjects', 'datascience', 'machinelearning', 'python', 'artificialintelligence', 'deeplearning']",1,4,https://twitter.com/ml_india_/status/1372159568667504641
+76,"Postdoc wanted! 
+We have an exciting postdoc position in applying #ML and #CompSci techniques in Structural Biology. 
 
-@TajyMany @cybersecboardrm @mclynd @gdb @Thom_Wolf @pmddomingos @philmennie @RobMcCargow @demishassabis @AliPusati @PLinzy
+Join us and @janbaumbach.
+ #MachineLearning #AI 
 
-https://t.co/geJtUHVaqM https://t.co/ku4nipf1VS",New081082,"['AI', 'ArtificialIntelligence', 'Algorithm', 'ML', 'MachineLearning', 'DeepLearning', 'DL', 'Data', 'Tech', 'Technology']",1,0,https://twitter.com/New081082/status/1371436276600115203
-69,"The Sad Implosion of Google’s Ethical A.I. https://t.co/t9O7AXGltL #artificialintelligence, #businessanalytics #ba, #datascience, #machinelearning",RichardEudes,"['artificialintelligence', 'businessanalytics', 'ba', 'datascience', 'machinelearning']",0,0,https://twitter.com/RichardEudes/status/1371436267104309251
-70,"Getting to trustworthy #AI
+https://t.co/r4HZghzDlz https://t.co/rUnIoFt4gp",cdcs_hamburg,"['ML', 'CompSci', 'MachineLearning', 'AI']",2,0,https://twitter.com/cdcs_hamburg/status/1372159542616809480
+77,"How Will #AI Foster Your Business Growth in 2021? https://t.co/FvWkerdXJS
+——————
+#abdsc #BigData #DataScience #MachineLearning #DeepLearning #DigitalTransformation #futureofwork https://t.co/YxBLwWlcHA",KirkDBorne,"['AI', 'abdsc', 'BigData', 'DataScience', 'MachineLearning', 'DeepLearning', 'DigitalTransformation', 'futureofwork']",5,5,https://twitter.com/KirkDBorne/status/1372159185010450435
+78,"This past week's top content &amp; resources for #DataScientists at @DataScienceCtrl 👉 https://t.co/IiKUZcKjKc
+——————
+#BigData #DataScience #Statistics #IoT #IIoT #IoTPL #AI #MachineLearning #Algorithms #NeuralNetworks #DeepLearning #NLProc #abdsc https://t.co/cv0L3vPYF3",KirkDBorne,"['DataScientists', 'BigData', 'DataScience', 'Statistics', 'IoT', 'IIoT', 'IoTPL', 'AI', 'MachineLearning', 'Algorithms', 'NeuralNetworks', 'DeepLearning', 'NLProc', 'abdsc']",6,6,https://twitter.com/KirkDBorne/status/1372158860341956609
+79,Three Top AI Trends To Watch This Year #MachineLearning #learning via https://t.co/zeb5hNqb8q https://t.co/BmtVP6dQCF,corizance,"['MachineLearning', 'learning']",1,0,https://twitter.com/corizance/status/1372158818679992327
+80,"To make a more intelligent algorithm, the researchers propose adding a new cost function to the network that provides the exact location of the features directly ordered by their relative importance. Read more:
+https://t.co/E3tXLlyr8Q #ai #superintelligence #machinelearning #iot",dataworkout,"['ai', 'superintelligence', 'machinelearning', 'iot']",1,1,https://twitter.com/dataworkout/status/1372158636991123456
+81,"This talk from #OSCW20 walks us through the process of analysing #satellite behaviour with #Machinelearning. Check out this presentation on #PolarisML; an #opensource, #python-based, machine-learning solution for satellite telemetry. 
+#SpaceOps
+#SpaceTech
+https://t.co/4uwOIC6v5S",LibreSpace_Fnd,"['OSCW20', 'satellite', 'Machinelearning', 'PolarisML', 'opensource', 'python', 'SpaceOps', 'SpaceTech']",6,2,https://twitter.com/LibreSpace_Fnd/status/1372158585413713920
+82,"T20 Between AFG and ZIM
+Target by AFG : 198
+Runs Scored by ZIM : 40 for 1  in 5.1 overs
+Win Prediction : AFG : 62.32 %  | ZIM :  37.68%
+Bot by @hj576
+@thePSLt20
+#T20 #PSL20201, #AFGvsZIM #Prediction #MachineLearning",hj576,"['T20', 'PSL20201', 'AFGvsZIM', 'Prediction', 'MachineLearning']",1,0,https://twitter.com/hj576/status/1372158511338115076
+83,"One day I'll be a #TikTok #Tech influencer but not today..
 
-#ArtificialIntelligence #Algorithm #ML #MachineLearning #DeepLearning #DL #Data #Tech #Technology
+#hclswlobp #nocode #lowcode #javascript #github #nodejs #cybersecurity #devops #100DaysOfCode #datascience #ai #bot #codenewbie #iot #machinelearning #DEVCommunity #Python #Serverless #womenintech https://t.co/BgFUM1reew",Tanguy_lrx,"['TikTok', 'Tech', 'hclswlobp', 'nocode', 'lowcode', 'javascript', 'github', 'nodejs', 'cybersecurity', 'devops', '100DaysOfCode', 'datascience', 'ai', 'bot', 'codenewbie', 'iot', 'machinelearning', 'DEVCommunity', 'Python', 'Serverless', 'womenintech']",12,6,https://twitter.com/Tanguy_lrx/status/1372158308157693952
+84,"#machinelearning in the Kitchens.. Computer Vision is getting into restaurants to optimise, secure and improve customer experience https://t.co/YEdYqj2ux4",lucamarchesotti,['machinelearning'],1,0,https://twitter.com/lucamarchesotti/status/1372158288331218945
+85,"@jjkamara will be speaking in a few minutes on the ""Responsible AI and Start-Ups"" Register here: https://t.co/6gYv1UOC5N and join the webinar #startups #fusionlab #ai #machinelearning #youthempowerment #capabilitybuilding https://t.co/PtCgQklTg0",AdaLabsAfrica,"['startups', 'fusionlab', 'ai', 'machinelearning', 'youthempowerment', 'capabilitybuilding']",1,0,https://twitter.com/AdaLabsAfrica/status/1372158264197193730
+86,"Free for a limited time! Watch WintellectNOW's Fundamentals of Deep Learning on-demand course written by Jeff Prosise @jprosise https://t.co/rRuOQtOMtZ
+#MachineLearning #WintellectNOW #DeepLearning #Wintellect https://t.co/ySOuFMyWsL",DFIzen,"['MachineLearning', 'WintellectNOW', 'DeepLearning', 'Wintellect']",2,1,https://twitter.com/DFIzen/status/1372158152368656390
+87,- The Washington Post #Innovation #learning #machinelearning via https://t.co/s7n0wYZc3s https://t.co/p6YphlNaYl,SalomonOli,"['Innovation', 'learning', 'machinelearning']",2,2,https://twitter.com/SalomonOli/status/1372158073276600323
+88,The not-so-secret value of sharing commercial geospatial and open-source information https://t.co/opSLhYkAQq #BIGDATA #DATASCIENCE #MACHINELEARNING #AI,GoforthSci,"['BIGDATA', 'DATASCIENCE', 'MACHINELEARNING', 'AI']",4,3,https://twitter.com/GoforthSci/status/1372158020772331520
+89,"Cymbio, which connects brands with markets, raises $7M https://t.co/sXfgK1n3bF #AI #MachineLearning #DataScience #ArtificialIntelligence
 
-@TajyMany @cybersecboardrm @mclynd @gdb @Thom_Wolf @pmddomingos @philmennie @RobMcCargow @demishassabis @AliPusati @PLinzy
+Trending AI/ML Article Identified &amp; Digested via Granola; a Machine-Driven RSS Bot by Ramsey Elbasheer https://t.co/ix8pZNjKKp",genericgranola,"['AI', 'MachineLearning', 'DataScience', 'ArtificialIntelligence']",1,1,https://twitter.com/genericgranola/status/1372157561881964545
+90,"I'm going to post this everyday until I get a response
+ @dafrankel @epaley @Amanda_Herson @joannalichter @micahjay1 @rdedatta @NBoujarwah courage=ask for help! Ok, we need funding for our #artificialintelligence #machinelearning #datingsite #LetsTalk #trending #foundercollective",DarrenDating,"['artificialintelligence', 'machinelearning', 'datingsite', 'LetsTalk', 'trending', 'foundercollective']",1,1,https://twitter.com/DarrenDating/status/1372157544337182725
+91,The latest The Fintech News Daily! https://t.co/ZcG0ZaJOAU Thanks to @CandyTech1 @microsoftsql @momicho07 #fintech #machinelearning,FinTechDaily,"['fintech', 'machinelearning']",1,1,https://twitter.com/FinTechDaily/status/1372157481074503681
+92,"Watch this video to understand NumPy and SciPy programming in detail.
+Watch here https://t.co/pZOUAnXD11
 
-https://t.co/ldEZF8socm https://t.co/gia9WfZBjX",andresvilarino,"['AI', 'ArtificialIntelligence', 'Algorithm', 'ML', 'MachineLearning', 'DeepLearning', 'DL', 'Data', 'Tech', 'Technology']",4,0,https://twitter.com/andresvilarino/status/1371436043916996611
-71,Seven questions to determine if a project is right for AI https://t.co/NNrssPj6Kt #AI #ArtificialIntelligence #STEAM #STEM #Science #DeepLearning #MachineLearning #Engineering #Technology via @SiliconANGLE,realsteamsport,"['AI', 'ArtificialIntelligence', 'STEAM', 'STEM', 'Science', 'DeepLearning', 'MachineLearning', 'Engineering', 'Technology']",2,0,https://twitter.com/realsteamsport/status/1371436042021179392
-72,FDA authorizes new test to detect past #COVID19  infections https://t.co/3dE9Pofnir #MachineLearning #TechJunkieNews #ArtificialIntelligence #coronavirus #CoronaVtj https://t.co/0Re8KLjdSA,techjunkiejh,"['COVID19', 'MachineLearning', 'TechJunkieNews', 'ArtificialIntelligence', 'coronavirus', 'CoronaVtj']",1,0,https://twitter.com/techjunkiejh/status/1371436023654326285
-73,Translate video captions and subtitles using Amazon Translate https://t.co/5aylMWOQFE #AWS #MachineLearning https://t.co/XM39RrWsde,danilop,"['AWS', 'MachineLearning']",3,2,https://twitter.com/danilop/status/1371436023499137025
-74,HIRING: Senior Data Scientist / Remote (US/Canada) - https://t.co/vCfiXDvB58 #AI #MachineLearning #DataJobs #Jobsearch #MLjobs #bigdata #DataScience #AIjobs #Recruiting #techjobs #TechTalent #hiringnow #DataScientist #AI #NLP #Python #SQL #Security #Spark,ai_jobsNET,"['AI', 'MachineLearning', 'DataJobs', 'Jobsearch', 'MLjobs', 'bigdata', 'DataScience', 'AIjobs', 'Recruiting', 'techjobs', 'TechTalent', 'hiringnow', 'DataScientist', 'AI', 'NLP', 'Python', 'SQL', 'Security', 'Spark']",6,2,https://twitter.com/ai_jobsNET/status/1371435820293439489
-75,Speech Emotion Recognition (SER)Using CNN And LSTMs by Sameen via #TowardsAI → https://t.co/8E3kuNoZzt #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,towards_AI,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",6,2,https://twitter.com/towards_AI/status/1371435585076879361
-76,Enterprise workflow automation startup https://t.co/3Ey0NpA7TX raises $22.6M https://t.co/riFY1GuPvd #artificialintelligence #ai #machinelearning,asifrazzaq1988,"['artificialintelligence', 'ai', 'machinelearning']",5,1,https://twitter.com/asifrazzaq1988/status/1371435527493197825
-77,"Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets™ - PRNewswire
+#eduonix #numpy #python #datascience #machinelearning #artificialintelligence #deeplearning #scipy #matplotlib #dataanalytics #seaborn #tensorflow #algorithms #urlib #keras",Tutor_Eduonix,"['eduonix', 'numpy', 'python', 'datascience', 'machinelearning', 'artificialintelligence', 'deeplearning', 'scipy', 'matplotlib', 'dataanalytics', 'seaborn', 'tensorflow', 'algorithms', 'urlib', 'keras']",5,3,https://twitter.com/Tutor_Eduonix/status/1372157479338016768
+93,"I'm going to post this everyday until I get a response
+@TheSharkDaymond @mcuban @BarbaraCorcoran @kevinolearytv @LoriGreiner @robertherjavec #SharkTank courage=ask for help! Ok, we need funding for our #artificialintelligence #machinelearning #datingsite #LetsTalk #trending",DarrenDating,"['SharkTank', 'artificialintelligence', 'machinelearning', 'datingsite', 'LetsTalk', 'trending']",1,2,https://twitter.com/DarrenDating/status/1372157372999868416
+94,"Proud to Offer Disruptive #DomainNames
+@enricomolinari 
+#DataScience #DataScientists #Science #AI #IoT #BigData #NeuralNetworks #Engineering #MachineLearning #Deeplearning #Tech #Robot #RPA #Algorithms #ArtificialIntelligence #Robotics #Blockchain #Fintech #EmergingTechnologies https://t.co/ksiODtPGo3",Exchange5g,"['DomainNames', 'DataScience', 'DataScientists', 'Science', 'AI', 'IoT', 'BigData', 'NeuralNetworks', 'Engineering', 'MachineLearning', 'Deeplearning', 'Tech', 'Robot', 'RPA', 'Algorithms', 'ArtificialIntelligence', 'Robotics', 'Blockchain', 'Fintech', 'EmergingTechnologies']",4,5,https://twitter.com/Exchange5g/status/1372157330482208770
+95,"Advanced Machine Learning Algorithm Accurately Predicts Risk of COVID-19 Progressing to Severe Disease or Death - HospiMedica
 
-Read more here: https://t.co/tGYcLlvl7L
+Read more here: https://t.co/cRaDfG1maP
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",2,1,https://twitter.com/RobynPope83/status/1371435410073718784
-78,"Artificial intelligence in federal IT - Federal News Network
+#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",FabienBrodie,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",3,1,https://twitter.com/FabienBrodie/status/1372157294507593728
+96,Different Data Splitting Cross-Validation Strategies with Python by Amit Chauhan via #TowardsAI → https://t.co/eT7BqAEbbx #MachineLearning #ML #ArtificialIntelligence #AI #DataScience #DeepLearning #Technology #Programming #news #research #Science,towards_AI,"['TowardsAI', 'MachineLearning', 'ML', 'ArtificialIntelligence', 'AI', 'DataScience', 'DeepLearning', 'Technology', 'Programming', 'news', 'research', 'Science']",2,4,https://twitter.com/towards_AI/status/1372157151645405187
+97,"#AI and #MachineLearning based companies received the highest proportion of #CreaTech investment from VCs  in 2020, with £478mn raised.
 
-Read more here: https://t.co/W0daDUXxYd
+VC investment in CreaTech firms is at record levels, growing 22% last year despite the pandemic.
 
-#ArtificialIntelligence #AI #DataScience #MachineLearning #BigData #DeepLearning #NLP #Robots #IoT",RobynPope83,"['ArtificialIntelligence', 'AI', 'DataScience', 'MachineLearning', 'BigData', 'DeepLearning', 'NLP', 'Robots', 'IoT']",2,0,https://twitter.com/RobynPope83/status/1371435407116795907
-79,Top Things to Look for in a Modern-Day Operational Intelligence System - Coruzant Technologies https://t.co/Sak8zB8V0s #EmergingTech #OpsIntel #OperationalIntelligence #AI #MachineLearning #BusinessTransformation #DigitalTransformation #Coruzant #CXO,CSuitePro,"['EmergingTech', 'OpsIntel', 'OperationalIntelligence', 'AI', 'MachineLearning', 'BusinessTransformation', 'DigitalTransformation', 'Coruzant', 'CXO']",2,0,https://twitter.com/CSuitePro/status/1371435263457701890
-80,"Neanderthal 0.40.0 has just been released! High speed vectors and matrices on CPU and GPU. Two books available that teach both theory and practice. Lots of code inside! https://t.co/Eak4g0RRN5
-#Clojure #AI #MachineLearning #math #opensource #BigData",draganrocks,"['Clojure', 'AI', 'MachineLearning', 'math', 'opensource', 'BigData']",7,5,https://twitter.com/draganrocks/status/1371435166577651720
-81,Future of Artificial Intelligence and Machine Learning https://t.co/Z6brRro9k7 #ml #ai #artificialintelligence #machinelearning #tech #technology #tnt2021,TheNextTech2018,"['ml', 'ai', 'artificialintelligence', 'machinelearning', 'tech', 'technology', 'tnt2021']",1,1,https://twitter.com/TheNextTech2018/status/1371435161557028867
-82,"Faster drug discovery through machine learning
-🆕technique speeds up calculations of drug molecules’ binding affinity to proteins
-🔗https://t.co/dHv61JqsdX @MIT 
-@aivancityschool #MachineLearning #ML #Drug #ArtificialIntelligence #AI #innovation #tech https://t.co/JmWx26WkTK",tawhidChtioui,"['MachineLearning', 'ML', 'Drug', 'ArtificialIntelligence', 'AI', 'innovation', 'tech']",1,0,https://twitter.com/tawhidChtioui/status/1371435006573342720
-83,"Have you heard about #HCLVoltMX? The multiexperience dev platform. Develop beautiful apps once and deploy them anywhere!
-#HCLDigital #100DaysOfCode #ai #bot #codenewbie #iot #machinelearning #DevCommunity #flutter #python #lowcode  https://t.co/dMKkZQ6n0L https://t.co/nZVheaoyBP",StephanieHeit,"['HCLVoltMX', 'HCLDigital', '100DaysOfCode', 'ai', 'bot', 'codenewbie', 'iot', 'machinelearning', 'DevCommunity', 'flutter', 'python', 'lowcode']",8,2,https://twitter.com/StephanieHeit/status/1371434801538940928
-84,"5 Statistical Concepts to Win You a Data Science Job https://t.co/vCZo7fS7Ep
+Read our new report: https://t.co/BBph30ESUS https://t.co/LZPQoVuJYa",CreativeIndsUK,"['AI', 'MachineLearning', 'CreaTech']",1,1,https://twitter.com/CreativeIndsUK/status/1372157095395651585
+98,Get Actionable Data with AI-based Tools for Natural Questions - Coruzant Technologies https://t.co/KmH9zqHH3X #AI #NLP #NLQA #MachineLearning #PredictiveModeling #BigData #NaturalLanguage #Search #Index #Coruzant #MindBreeze #CTO @Mindbreeze,DivergentCIO,"['AI', 'NLP', 'NLQA', 'MachineLearning', 'PredictiveModeling', 'BigData', 'NaturalLanguage', 'Search', 'Index', 'Coruzant', 'MindBreeze', 'CTO']",1,2,https://twitter.com/DivergentCIO/status/1372157017251536898
+99,"How Consumerism Drives the Digital Transformation of Healthcare Call Centers https://t.co/bGuV2gsfZa #AI #MachineLearning #DataScience #ArtificialIntelligence
 
-#CodeNewbies #100DaysOfCode #developer #github #DevOps #powerbi #SQL #Algebra #Algorithms #kaggle #PyTorch #bigdata #DataScience #DataScientist #TensorFlow #deeplearning #MachineLearning #ITjobs",Shradha55989917,"['CodeNewbies', '100DaysOfCode', 'developer', 'github', 'DevOps', 'powerbi', 'SQL', 'Algebra', 'Algorithms', 'kaggle', 'PyTorch', 'bigdata', 'DataScience', 'DataScientist', 'TensorFlow', 'deeplearning', 'MachineLearning', 'ITjobs']",13,1,https://twitter.com/Shradha55989917/status/1371434622396067845
-85,2021 Cheat Sheets: Data Science and Machine Learning Cheat Sheet https://t.co/se5a05NvOQ  #MachineLearning #DataScience,Datascience__,"['MachineLearning', 'DataScience']",2,2,https://twitter.com/Datascience__/status/1371434618210164738
-86,Research finds 1.4 million UK jobs could be automated this year https://t.co/CGbyZ76EZ6 #ML #AI #MachineLearning #ArtificialIntelligence #DataScience #Python,NomadML,"['ML', 'AI', 'MachineLearning', 'ArtificialIntelligence', 'DataScience', 'Python']",2,0,https://twitter.com/NomadML/status/1371434615198601221
-87,"In continuation to our #ComputerVision webinar, we want to shed some light on a very important tool used in experimentation and production of #ComputerVision &amp; #MachineLearning Applications: Google Colaboratory (Colab)
-Stay tuned for the upcoming tweet series
-
-#IEEE_KSU #IEEE_KSA https://t.co/Ml1j6za0vq",ieeeksu1,"['ComputerVision', 'ComputerVision', 'MachineLearning', 'IEEE_KSU', 'IEEE_KSA']",2,2,https://twitter.com/ieeeksu1/status/1371434499268050948
-88,"If you're a #MachineLearning person that *owns* hardware, and runs on #GPU's, can we get a picture of your setup?
-
-@tunguz @abhi1thakur @v_vashishta @vopani @dfalbel 
-
-👇🏾📸 https://t.co/TmxxWvQ63M",_J_sinclair,"['MachineLearning', 'GPU']",1,1,https://twitter.com/_J_sinclair/status/1371434498882166786
-89,"Dashlane Password Changer 2.0 and machine learning engine now available
-https://t.co/9zATIAMzsy
-
-#Infosec #Security #Ceptbiro #Cybersecurity #Dashlane #PasswordChanger2.0 #MachineLearning",ReneRobichaud,"['Infosec', 'Security', 'Ceptbiro', 'Cybersecurity', 'Dashlane', 'PasswordChanger2', 'MachineLearning']",1,0,https://twitter.com/ReneRobichaud/status/1371434473179521027
-90,"Programming: Expectation vs. Reality
-
-#100DaysOfCode #DEVCommunity #dotnet #dotnetcore #Python #Python3 #javascript #programming #algorithms #git #DevCommunityIN #CodeNewbie #CodeNewbies #Linux #ArtificialIntelligence #Networking #Azure #MachineLearning #Scrum #designthinking https://t.co/lD6zW39U3u",New081082,"['100DaysOfCode', 'DEVCommunity', 'dotnet', 'dotnetcore', 'Python', 'Python3', 'javascript', 'programming', 'algorithms', 'git', 'DevCommunityIN', 'CodeNewbie', 'CodeNewbies', 'Linux', 'ArtificialIntelligence', 'Networking', 'Azure', 'MachineLearning', 'Scrum', 'designthinking']",10,4,https://twitter.com/New081082/status/1371434378811764739
-91,https://t.co/02EwWvOmn3 raises $22.6M Series A for its AI-centric process automation platform https://t.co/8OZMmwqYlh #GetMoreInsights #CoolerData #Data #Statistics #Analysis #BigData #BusinessIntelligence #MachineLearning https://t.co/yeQgTIORLO,CoolerData,"['GetMoreInsights', 'CoolerData', 'Data', 'Statistics', 'Analysis', 'BigData', 'BusinessIntelligence', 'MachineLearning']",3,2,https://twitter.com/CoolerData/status/1371434268577136641
-92,"Accelerate Science Research Fellow @Sarah_Morgan_UK focuses on applying #DataScience approaches (including #MachineLearning, network science &amp; #NLP methods) to better understand mental health conditions. It's great to see her highlighted here by @CavendishIW &amp; @DeptofPhysics. https://t.co/imzhlMSsAr",Cambridge_CL,"['DataScience', 'MachineLearning', 'NLP']",1,1,https://twitter.com/Cambridge_CL/status/1371434090382131206
-93,"It covers the data for the stock markets, indices, bonds, and foreign exchange markets of the entire world.
-
-https://t.co/Xnjg1PF6pR
-#MachineLearning #AI #DataScience #BigData #MachineLearningDatasets #MachineLearningProjects #DataSources #DataScientists #Time",tianhuil,"['MachineLearning', 'AI', 'DataScience', 'BigData', 'MachineLearningDatasets', 'MachineLearningProjects', 'DataSources', 'DataScientists', 'Time']",1,2,https://twitter.com/tianhuil/status/1371434048174841856
-94,"We ensure to serve the best quality #products in one place.
-.
-.
-#success #technology #robotics #career #artificialintelligence #MachineLearning #IT #ITServices #startups #HawksCode https://t.co/UCBZOZIWvm",HawksCode,"['products', 'success', 'technology', 'robotics', 'career', 'artificialintelligence', 'MachineLearning', 'IT', 'ITServices', 'startups', 'HawksCode']",1,1,https://twitter.com/HawksCode/status/1371433956084568066
-95,"Why Should Python Be Used in Machine Learning?
-https://t.co/iohhymmzbQ
-#Python #MachineLearning #ML #ProgrammingLanguages https://t.co/BSJ7geOFPO",analyticsinme,"['Python', 'MachineLearning', 'ML', 'ProgrammingLanguages']",2,0,https://twitter.com/analyticsinme/status/1371433748089159680
-96,"FDA Approvals For #AritficialIntelligence-Based #Algorithms In Medicine
-by @ The Medical Futurist @Berci
-
-#AI #IoT #BigData #MachineLearning #ArtificialIntelligence #ML #MI #Digital
-
-Cc: @jose_garde @modernimprint @leeodden https://t.co/68DNo9W0uf",Ronald_vanLoon,"['AritficialIntelligence', 'Algorithms', 'AI', 'IoT', 'BigData', 'MachineLearning', 'ArtificialIntelligence', 'ML', 'MI', 'Digital']",6,6,https://twitter.com/Ronald_vanLoon/status/1371433704413872128
-97,"What is Integrated #AI Strategy?
-👉 https://t.co/efro1rLpuO @Deloitte via @ingliguori #DigitalTransformation #MachineLearning #BigData #DataScience #100DaysOfCode #DEVCommunity #RPA #ITStrategy #ArtificialIntelligence #IoT #smartcities #IIoT #IoTPL @antgrasso @Ronald_vanLoon @rvp https://t.co/5KYz4PW4xt",New081082,"['AI', 'DigitalTransformation', 'MachineLearning', 'BigData', 'DataScience', '100DaysOfCode', 'DEVCommunity', 'RPA', 'ITStrategy', 'ArtificialIntelligence', 'IoT', 'smartcities', 'IIoT', 'IoTPL']",8,1,https://twitter.com/New081082/status/1371433623623065603
-98,"How likely are consumers to adopt artificial intelligence for banking advice? 
-
-https://t.co/nFxitQtT9Z
-
- #AI #DataScience #MachineLearning #blockchain",beyond_machine,"['AI', 'DataScience', 'MachineLearning', 'blockchain']",1,0,https://twitter.com/beyond_machine/status/1371433507852054531
-99,How AI Will Impact The Future Of Work And Life https://t.co/itBHzk2vjS #learning #MachineLearning via @cybersecboardrm,future_of_AI,"['learning', 'MachineLearning']",2,0,https://twitter.com/future_of_AI/status/1371433502252621825
+Trending AI/ML Article Identified &amp; Digested via Granola; a Machine-Driven RSS Bot by Ramsey Elbasheer https://t.co/rahzs35egt",genericgranola,"['AI', 'MachineLearning', 'DataScience', 'ArtificialIntelligence']",1,2,https://twitter.com/genericgranola/status/1372156880248836096
