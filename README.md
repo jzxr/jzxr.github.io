@@ -1,7 +1,5 @@
 # techsights.github.io
 
----
-
 ## 1.1 Crawler File Documentation
 
 ---
