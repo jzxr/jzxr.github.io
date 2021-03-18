@@ -692,6 +692,28 @@ The main program starts the timer and call the task class to run the various cra
 
 ---
 
+### 2.0 jupyter notebook file
+
+---
+
+To run data analytic jupyter notebook file:
+
+
+1) Download anaconda
+
+1) Open jupyter notebook by typing "jupyter notebook"
+
+2) Install pip Matplotlib in anaconda prompt(terminal)
+
+3) Install numpby, pandas,schedule using pip the same as step 2
+
+4) Run the file by:
+	cell -> run all
+
+Make sure that the .ipynb is in the same folder as their respective csvs.
+
+---
+
 ## 2.1 Github - Piechart
 
 ---
