@@ -752,17 +752,119 @@ This function is to import libraries required and specify file path
 ---
 
 ```Python
+#Import libraries
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 import schedule
 import time
+import unittest
+import os
+import glob
 
 path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\github' # location whr data is saved
 
+
+```
+### 2.1.2 Github - Test cases
+
+---
+This function is for test cases
+
+---
+
+```Python
+class testCases(unittest.TestCase):
+    #Test if crawl time is float value & if subtraction method is correct
+    def testCase1 (self):
+        test = endTime - startTime
+        
+        if test == float and test == result:
+            #assertTrue() to check true of test value
+            self.assertTrue(test)
+            
+    #Test if crawl time is lesser than 1 minutes
+    def testCase2(self): 
+        value1 = result
+        value2 = 60
+        
+        #Error message in case if test case got failed 
+        msg = "Crawl time is more than 1 minutes"
+        
+        #assert function() to check if values1 is less than value2 
+        self.assertLess(value1, value2, msg) 
+        
+     #Test if csv file is empty
+    def testcase3(self):
+        df1 = pd.read_csv('github-c_programming.csv') #Read csv
+        df1.empty  #check if empty
+        if df1.empty == True:
+            print("The c programming csv file is empty")
+        else:
+            print("The c programming csv file has data")
+            
+        df2 = pd.read_csv('github-csharp.csv')  #Read csv
+        df2.empty  #check if empty
+        if df2.empty == True:
+            print("The csharp csv file is empty")  
+        else:
+            print("The csharp csv file has data")
+            
+        df3 = pd.read_csv('github-html.csv')  #Read csv
+        df3.empty  #check if empty
+        if df3.empty == True:
+            print("The html csv file is empty")
+        else:
+            print("The html csv file has data")
+            
+        df4 = pd.read_csv('github-java.csv')   #Read csv
+        df4.empty  #check if empty
+        if df4.empty == True:
+            print("The java csv file is empty")
+        else:
+            print("The java csv file has data")
+            
+        df5 = pd.read_csv('github-javascript.csv')  #Read csv
+        df5.empty  #check if empty
+        if df5.empty == True:
+            print("The javascript csv file is empty")
+        else:
+            print("The javascript csv file has data")
+            
+        df6 = pd.read_csv('github-Python.csv')  #Read csv
+        df6.empty  #check if empty
+        if df6.empty == True:
+            print("The Python csv file is empty")
+        else:
+            print("The Python csv file has data")
+              
+        df7 = pd.read_csv('github-rprogramming.csv')  #Read csv
+        df7.empty  #check if empty
+        if df7.empty == True:
+            print("The rprogramming csv file is empty")
+        else:
+            print("The rprogramming csv file has data")
+            
+    #Test if graph is created and exported as png
+    def testcase4(self):
+        picture = os.path.isfile('github_topicpopularity.png')
+        if picture == True:
+            print("The graph is created")
+        else:
+            print("The graph is not created")
+            
+    #Test the number of csv found in folder 
+    def testCase5(self):
+        expectedfiles=7
+        # dir is your directory path 
+        list2=os.listdir(path)
+        
+        number_files2 = len(glob.glob('./*.csv'))
+        self.assertEqual(number_files2,expectedfiles,'Number of csv found is not equal to 7 for stackoverflow')
+
 ```
 
-### 2.1.2 Github - get data required
+### 2.1.3 Github - get data required
 
 ---
 This function is to read data in csvs and get sum of vote
@@ -770,8 +872,8 @@ This function is to read data in csvs and get sum of vote
 ---
 
 ```Python
-#sum of vote in github-c_programming.csv
 def data():
+    #sum of vote in github-c_programming.csv
     data1 = pd.read_csv('github-c_programming.csv')
     ctotal = data1['Stars'].sum()
 
@@ -802,9 +904,10 @@ def data():
     data7 = pd.read_csv('github-rprogramming.csv')
     rtotal = data7['Stars'].sum()
     graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal)
+
 ```
 
-### 2.1.3 Github - plot graph
+### 2.1.4 Github - plot graph
 
 ---
 This function is to plot pie chart
@@ -827,7 +930,7 @@ def graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal):
     fig1.savefig('github_topicpopularity.png')
 ```
 
-### 2.1.4 Github - Scheduler
+### 2.1.5 Github - Scheduler
 
 ---
 This function is to schedule pie chart to update
@@ -835,10 +938,16 @@ This function is to schedule pie chart to update
 ---
 
 ```Python
+#Scheduler
 if __name__ == "__main__":
+    startTime = time.perf_counter()
     data()       
+    endTime = time.perf_counter()
+    result = endTime - startTime
+    print (f"Total time taken to plot graph is {result:0.4f} seconds!")
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)
     schedule.every(1).minutes.do(data)
-    
+
     while True:
         schedule.run_pending()
         time.sleep(1)
@@ -858,16 +967,119 @@ This function is to import libraries required and specify file path
 ---
 
 ```Python
+#Import libraries
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 import schedule
 import time
+import unittest
+import os
+import glob
 
-path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Reddit'
+#File location
+path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Reddit' 
 ```
 
-### 3.1.2 Reddit - get data required
+### 3.1.2 Reddit - Test case
+
+---
+This function is for test cases
+
+---
+
+```Python
+class testCases(unittest.TestCase):
+    #Test if crawl time is float value & if subtraction method is correct
+    def testCase1 (self):
+        test = endTime - startTime
+        
+        if test == float and test == result:
+            #assertTrue() to check true of test value
+            self.assertTrue(test)
+            
+    #Test if crawl time is lesser than 1 minutes
+    def testCase2(self): 
+        value1 = result
+        value2 = 60
+        
+        #Error message in case if test case got failed 
+        msg = "Crawl time is more than 1 minutes"
+        
+        #assert function() to check if values1 is less than value2 
+        self.assertLess(value1, value2, msg) 
+        
+     #Test if csv file is empty
+    def testcase3(self):
+        df1 = pd.read_csv('reddit-c_programming.csv') #Read csv
+        df1.empty  #check if empty
+        if df1.empty == True:
+            print("The c programming csv file is empty")
+        else:
+            print("The c programming csv file has data")
+            
+        df2 = pd.read_csv('reddit-csharp.csv')  #Read csv
+        df2.empty  #check if empty
+        if df2.empty == True:
+            print("The csharp csv file is empty")  
+        else:
+            print("The csharp csv file has data")  
+            
+        df3 = pd.read_csv('reddit-html.csv')  #Read csv
+        df3.empty  #check if empty
+        if df3.empty == True:
+            print("The html csv file is empty")
+        else:
+            print("The html csv file has data")
+            
+        df4 = pd.read_csv('reddit-java.csv')  #Read csv
+        df4.empty  #check if empty
+        if df4.empty == True:
+            print("The java csv file is empty")
+        else:
+            print("The java csv file has data")
+            
+        df5 = pd.read_csv('reddit-javascript.csv')  #Read csv
+        df5.empty  #check if empty
+        if df5.empty == True:
+            print("The javascript csv file is empty")
+        else:
+            print("The javascript csv file has data")
+            
+        df6 = pd.read_csv('reddit-Python.csv')  #Read csv
+        df6.empty  #check if empty
+        if df6.empty == True:
+            print("The Python csv file is empty")
+        else:
+            print("The Python csv file has data")
+            
+        df7 = pd.read_csv('reddit-rprogramming.csv')  #Read csv
+        df7.empty  #check if empty
+        if df7.empty == True:
+            print("The rprogramming csv file is empty")
+        else:
+            print("The rprogramming csv file has data")
+            
+    #Test if graph is created and exported as png
+    def testcase4(self):
+        picture = os.path.isfile('reddit_prglanguage.png')
+        if picture == True:
+            print("The graph is created")
+        else:
+            print("The graph is not created")
+            
+    #Test the number of csv found in folder 
+    def testCase5(self):
+        expectedfiles=7
+        # dir is your directory path 
+        list2=os.listdir(path)
+        
+        number_files2 = len(glob.glob('./*.csv'))
+        self.assertEqual(number_files2,expectedfiles,'Number of csv found is not equal to 7 for stackoverflow')
+
+```
+
+### 3.1.3 Reddit - get data required
 
 ---
 This function is to read data in csvs and get no. of row
@@ -920,9 +1132,10 @@ def data():
 
     graph(num1,num2,num3,num4,num5,num6,num7)
     
+    
 ```
 
-### 3.1.3 Reddit - plot graph
+### 3.1.4 Reddit - plot graph
 
 ---
 This function is to plot pie chart
@@ -946,7 +1159,7 @@ def graph(num1,num2,num3,num4,num5,num6,num7):
     fig1.savefig('reddit_prglanguage.png')
 ```
 
-### 3.1.4 Reddit - Scheduler
+### 3.1.5 Reddit - Scheduler
 
 ---
 This function is to schedule pie chart to update
@@ -954,10 +1167,16 @@ This function is to schedule pie chart to update
 ---
 
 ```Python
+#Scheduler
 if __name__ == "__main__":
+    startTime = time.perf_counter()
     data()       
+    endTime = time.perf_counter()
+    result = endTime - startTime
+    print (f"Total time taken to plot graph is {result:0.4f} seconds!")
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)
     schedule.every(1).minutes.do(data)
-    
+
     while True:
         schedule.run_pending()
         time.sleep(1)
@@ -978,17 +1197,121 @@ This function is to import libraries required and specify file path
 ---
 
 ```Python
+#Import libraries
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 import schedule
 import time
+import unittest
+import os
+import glob
 
+#file path
 path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\stackoverflow' # location whr data is saved
+
 
 ```
 
-### 4.1.2 Stackoverflow - get data required
+### 4.1.2 Stackoverflow - Test cases
+
+---
+This function is for test cases
+
+---
+
+```Python
+class testCases(unittest.TestCase):
+    #Test if crawl time is float value & if subtraction method is correct
+    def testCase1 (self):
+        test = endTime - startTime
+        
+        if test == float and test == result:
+            #assertTrue() to check true of test value
+            self.assertTrue(test)
+            
+    #Test if crawl time is lesser than 1 minutes
+    def testCase2(self): 
+        value1 = result
+        value2 = 60
+        
+        #Error message in case if test case got failed 
+        msg = "Crawl time is more than 1 minutes"
+        
+        #assert function() to check if values1 is less than value2 
+        self.assertLess(value1, value2, msg) 
+        
+     #Test if csv file is empty
+    def testcase3(self):
+        df1 = pd.read_csv('stackoverflow-c_programming.csv') #read csv
+        df1.empty #check if empty
+        if df1.empty == True:
+            print("The c programming csv file is empty")
+        else:
+            print("The c programming csv file has data")
+            
+        df2 = pd.read_csv('stackoverflow-csharp.csv')   #read csv
+        df2.empty  #check if empty
+        if df2.empty == True:
+            print("The c sharp csv file is empty")  
+        else:
+            print("The c sharp csv file has data")
+            
+        df3 = pd.read_csv('stackoverflow-html.csv')#read csv
+        df3.empty  #check if empty
+        if df3.empty == True:
+            print("The html csv file is empty")
+        else:
+            print("The html csv file has data")
+            
+        df4 = pd.read_csv('stackoverflow-java.csv')  #read csv
+        df4.empty  #check if empty
+        if df4.empty == True:
+            print("The java csv file is empty")
+        else:
+            print("The java csv file has data")
+            
+        df5 = pd.read_csv('stackoverflow-javascript.csv')  #read csv
+        df5.empty  #check if empty
+        if df5.empty == True:
+            print("The javascript csv file is empty")
+        else:
+            print("The javascript csv file has data")
+            
+        df6 = pd.read_csv('stackoverflow-Python.csv')  #read csv
+        df6.empty  #check if empty
+        if df6.empty == True:
+            print("The python csv file is empty")
+        else:
+            print("The python csv file has data")
+            
+        df7 = pd.read_csv('stackoverflow-rprogramming.csv')  #read csv
+        df7.empty  #check if empty
+        if df7.empty == True:
+            print("The r programming csv file is empty")
+        else:
+            print("The r programming csv file has data")
+            
+    #Test if graph is created and exported as png
+    def testcase4(self):
+        picture = os.path.isfile('stackoverflow_prglanguages.png')
+        if picture == True:
+            print("The graph is created")
+        else:
+            print("The graph is not created")
+            
+    #Test the number of csv found in folder 
+    def testCase5(self):
+        expectedfiles=7
+        # dir is your directory path
+        list2=os.listdir(path)
+        
+        number_files2 = len(glob.glob('./*.csv'))
+        self.assertEqual(number_files2,expectedfiles,'Number of csv found is not equal to 7 for stackoverflow')
+
+```
+
+### 4.1.3 Stackoverflow - get data required
 
 ---
 This function is to read data in csvs and get sum of view
@@ -996,7 +1319,7 @@ This function is to read data in csvs and get sum of view
 ---
 
 ```Python
-def data():
+ def data():
     
     #sum of view in stackoverflow1-c csv
     data1 = pd.read_csv('stackoverflow-c_programming.csv')
@@ -1035,7 +1358,7 @@ def data():
     
 ```
 
-### 4.1.3 Stackoverflow - plot graph
+### 4.1.4 Stackoverflow - plot graph
 
 ---
 This function is to plot pie chart
@@ -1060,7 +1383,7 @@ def graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal):
     fig1.savefig('stackoverflow_prglanguages.png')
 ```
 
-### 6.1.4 Stackoverflow - Scheduler
+### 6.1.5 Stackoverflow - Scheduler
 
 ---
 This function is to schedule pie chart to update
@@ -1068,10 +1391,16 @@ This function is to schedule pie chart to update
 ---
 
 ```Python
+#Scheduler
 if __name__ == "__main__":
+    startTime = time.perf_counter()
     data()       
+    endTime = time.perf_counter()
+    result = endTime - startTime
+    print (f"Total time taken to plot graph is {result:0.4f} seconds!")
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)
     schedule.every(1).minutes.do(data)
-    
+
     while True:
         schedule.run_pending()
         time.sleep(1)
@@ -1092,17 +1421,121 @@ This function is to import libraries required and specify file path
 ---
 
 ```Python
+#Import libraries
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 import schedule
 import time
+import unittest
+import os
+import glob
 
+#File path
 path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
+
 
 ```
 
-### 7.1.2 Twitter - get data required
+### 7.1.2 Twitter - Test cases
+
+---
+This function is for test cases
+
+---
+
+```Python
+class testCases(unittest.TestCase):
+    #Test if crawl time is float value & if subtraction method is correct
+    def testCase1 (self):
+        test = endTime - startTime
+        
+        if test == float and test == result:
+            #assertTrue() to check true of test value
+            self.assertTrue(test)
+            
+    #Test if crawl time is lesser than 1 minutes
+    def testCase2(self): 
+        value1 = result
+        value2 = 60
+        
+        #Error message in case if test case got failed 
+        msg = "Crawl time is more than 1 minutes"
+        
+        #assert function() to check if values1 is less than value2 
+        self.assertLess(value1, value2, msg) 
+        
+     #Test if csv file is empty
+    def testcase3(self):
+        df1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')  #Read csv
+        df1.empty  #Check if empty
+        if df1.empty == True:
+            print("The ArtificialIntelligence csv file is empty")
+        else:
+            print("The ArtificialIntelligence csv file has data")
+            
+        df2 = pd.read_csv('twitter_top_DeepLearning.csv')  #Read csv
+        df2.empty  #Check if empty
+        if df2.empty == True:
+            print("The DeepLearning csv file is empty")  
+        else:
+            print("The DeepLearning csv file has data")
+            
+        df3 = pd.read_csv('twitter_top_100DaysOfCode.csv')  #Read csv
+        df3.empty  #Check if empty
+        if df3.empty == True:
+            print("The 100DaysOfCode csv file is empty")
+        else:
+            print("The 100DaysOfCode csv file has data")
+            
+        df4 = pd.read_csv('twitter_top_DataScience.csv')  #Read csv
+        df4.empty  #Check if empty
+        if df4.empty == True:
+            print("The DataScience csv file is empty")
+        else:
+            print("The DataScience csv file has data")
+            
+        df5 = pd.read_csv('twitter_top_DEVCommunity.csv')  #Read csv
+        df5.empty  #Check if empty
+        if df5.empty == True:
+            print("The DEVCommunity csv file is empty")
+        else:
+            print("The DEVCommunity csv file has data")
+            
+        df6 = pd.read_csv('twitter_top_MachineLearning.csv')  #Read csv
+        df6.empty  #Check if empty
+        if df6.empty == True:
+            print("The MachineLearning csv file is empty")
+        else:
+            print("The MachineLearning csv file has data")
+            
+        df7 = pd.read_csv('twitter_top_NeuralNetwork.csv')  #Read csv
+        df7.empty  #Check if empty
+        if df7.empty == True:
+            print("The NeuralNetwork csv file is empty")
+        else:
+            print("The NeuralNetwork csv file has data")
+            
+    #Test if graph is created and exported as png
+    def testcase4(self):
+        picture = os.path.isfile('twitter_populartopic.png')
+        if picture == True:
+            print("The graph is created")
+        else:
+            print("The graph is not created")
+            
+    #Test the number of csv found in folder 
+    def testCase5(self):
+        expectedfiles=7
+        # dir is your directory path
+        list2=os.listdir(path)
+        
+        number_files2 = len(glob.glob('./*.csv'))
+        self.assertEqual(number_files2,expectedfiles,'Number of csv found is not equal to 7 for stackoverflow')
+
+```
+
+### 7.1.3 Twitter - get data required
 
 ---
 This function is to read data in csvs and get sum retweet count
@@ -1149,7 +1582,7 @@ def data():
     
 ```
 
-### 7.1.3 Twitter - plot graph
+### 7.1.4 Twitter - plot graph
 
 ---
 This function is to plot pie chart
@@ -1162,7 +1595,7 @@ def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
     my_data=[AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal]
     my_labels='artificial intelligence','Deep learning','100DaysOfCode','DataScience','DEVCommunity','MachineLearning','NeuralNetworks'
 
-    explode = (0, 0, 0, 0, 0.1, 0, 0)  # only "explode" DevCommunity
+    explode = (0, 0, 0, 0, 0.1, 0, 0)  # only "explode" DEVCommunity
     
     fig1, ax1 = plt.subplots()
     ax1.set_title('Popular topics on Twitter for past 7 days and today')
@@ -1173,7 +1606,7 @@ def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
     fig1.savefig('twitter_populartopic.png')
 ```
 
-### 7.1.4 Twitter - Scheduler
+### 7.1.5 Twitter - Scheduler
 
 ---
 This function is to schedule pie chart to update
@@ -1181,10 +1614,16 @@ This function is to schedule pie chart to update
 ---
 
 ```Python
+#Scheduler
 if __name__ == "__main__":
+    startTime = time.perf_counter()
     data()       
+    endTime = time.perf_counter()
+    result = endTime - startTime
+    print (f"Total time taken to plot graph is {result:0.4f} seconds!")
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)
     schedule.every(1).minutes.do(data)
-    
+
     while True:
         schedule.run_pending()
         time.sleep(1)
@@ -1205,17 +1644,120 @@ This function is to import libraries required and specify file path
 ---
 
 ```Python
+#Import libraries
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 import schedule
 import time
+import unittest
+import os
+import glob
 
 path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
 
+
 ```
 
-### 7.2.2 Twitter - get data required
+### 7.2.2 Twitter - Test cases
+
+---
+This function is for test cases
+
+---
+
+```Python
+class testCases(unittest.TestCase):
+    #Test if crawl time is float value & if subtraction method is correct
+    def testCase1 (self):
+        test = endTime - startTime
+        
+        if test == float and test == result:
+            #assertTrue() to check true of test value
+            self.assertTrue(test)
+            
+    #Test if crawl time is lesser than 1 minutes
+    def testCase2(self): 
+        value1 = result
+        value2 = 60
+        
+        #Error message in case if test case got failed 
+        msg = "Crawl time is more than 1 minutes"
+        
+        #assert function() to check if values1 is less than value2 
+        self.assertLess(value1, value2, msg) 
+        
+     #Test if csv file is empty
+    def testcase3(self):
+        df1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')   #Read csv
+        df1.empty  #Check if empty
+        if df1.empty == True:
+            print("The ArtificialIntelligence csv file is empty")
+        else:
+            print("The ArtificialIntelligence csv file has data")
+            
+        df2 = pd.read_csv('twitter_top_DeepLearning.csv')  #Read csv
+        df2.empty  #Check if empty
+        if df2.empty == True:
+            print("The DeepLearning csv file is empty")  
+        else:
+            print("The DeepLearning csv file has data")
+            
+        df3 = pd.read_csv('twitter_top_100DaysOfCode.csv')  #Read csv
+        df3.empty  #Check if empty
+        if df3.empty == True:
+            print("The 100DaysOfCode csv file is empty")
+        else:
+            print("The 100DaysOfCode csv file has data")
+            
+        df4 = pd.read_csv('twitter_top_DataScience.csv')  #Read csv
+        df4.empty  #Check if empty
+        if df4.empty == True:
+            print("The DataScience csv file is empty")
+        else:
+            print("The DataScience csv file has data")
+            
+        df5 = pd.read_csv('twitter_top_DEVCommunity.csv')  #Read csv
+        df5.empty  #Check if empty
+        if df5.empty == True:
+            print("The DEVCommunity csv file is empty")
+        else:
+            print("The DEVCommunity csv file has data")
+            
+        df6 = pd.read_csv('twitter_top_MachineLearning.csv')  #Read csv
+        df6.empty  #Check if empty
+        if df6.empty == True:
+            print("The MachineLearning csv file is empty")
+        else:
+            print("The MachineLearning csv file has data")
+            
+        df7 = pd.read_csv('twitter_top_NeuralNetwork.csv')  #Read csv
+        df7.empty  #Check if empty
+        if df7.empty == True:
+            print("The NeuralNetwork csv file is empty")
+        else:
+            print("The NeuralNetwork csv file has data")
+            
+    #Test if graph is created and exported as png
+    def testcase4(self):
+        picture = os.path.isfile('twitter_topics.png')
+        if picture == True:
+            print("The graph is created")
+        else:
+            print("The graph is not created")
+            
+    #Test the number of csv found in folder 
+    def testCase5(self):
+        expectedfiles=7
+        # dir is your directory path
+        list2=os.listdir(path)
+        
+        number_files2 = len(glob.glob('./*.csv'))
+        self.assertEqual(number_files2,expectedfiles,'Number of csv found is not equal to 7 for stackoverflow')
+
+```
+
+### 7.2.3 Twitter - get data required
 
 ---
 This function is to read data in csvs and get sum of retweet count
@@ -1253,11 +1795,10 @@ def topic():
     total7=data7.groupby('Created Date')['Retweet Count'].sum()
     
     data(total,total2,total3,total4,total5,total6,total7)
-
     
 ```
 
-### 7.2.3 Twitter - save data in dataframe
+### 7.2.4 Twitter - save data in dataframe
 
 ---
 This function is save data into dataframe
@@ -1280,7 +1821,7 @@ def data(total,total2,total3,total4,total5,total6,total7):
 
 ```
 
-### 7.2.4 Twitter - plot graph
+### 7.2.5 Twitter - plot graph
 
 ---
 This function is to plot stacked bar graph
@@ -1288,7 +1829,7 @@ This function is to plot stacked bar graph
 ---
 
 ```Python
-#Plot stacked bar graph
+# Plot stacked bar graph
 def graph(plotdata):
     plotdata.plot(kind='barh', stacked=True)
     plt.title("Popular topic on twitter")
@@ -1299,7 +1840,7 @@ def graph(plotdata):
     fig1.savefig('twitter_topics.png')
 ```
 
-### 7.2.4 Twitter - Scheduler
+### 7.2.6 Twitter - Scheduler
 
 ---
 This function is to schedule stacked bar graph to update
@@ -1307,9 +1848,16 @@ This function is to schedule stacked bar graph to update
 ---
 
 ```Python
+#Scheduler
 if __name__ == "__main__":
-    topic() 
+    startTime = time.perf_counter()
+    topic()       
+    endTime = time.perf_counter()
+    result = endTime - startTime
+    print (f"Total time taken to plot graph is {result:0.4f} seconds!")
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)
     schedule.every(1).minutes.do(topic)
+
     while True:
         schedule.run_pending()
         time.sleep(1)
@@ -1330,17 +1878,139 @@ This function is to import libraries required and specify file path
 ---
 
 ```Python
+#Import libraries
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 import schedule
 import time
+import os
+import imageio
+import datetime
+from datetime import timedelta
+import glob
+import unittest
 
 path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
 
+
 ```
 
-### 7.3.2 Twitter - get data required
+### 7.3.2 Twitter - Test cases
+
+---
+This function is for test cases
+
+---
+
+```Python
+class testCases(unittest.TestCase):
+    #Test if crawl time is float value & if subtraction method is correct
+    def testCase1 (self):
+        test = endTime - startTime
+        
+        if test == float and test == result:
+            #assertTrue() to check true of test value
+            self.assertTrue(test)
+            
+    #Test if crawl time is lesser than 1 minutes
+    def testCase2(self): 
+        value1 = result
+        value2 = 60
+        
+        #Error message in case if test case got failed 
+        msg = "Crawl time is more than 1 minutes"
+        
+        #assert function() to check if values1 is less than value2 
+        self.assertLess(value1, value2, msg) 
+        
+     #Test if csv file is empty
+    def testcase3(self):
+        df1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
+        df1.empty
+        if df1.empty == True:
+            print("The ArtificialIntelligence csv file is empty")
+        else:
+            print("The ArtificialIntelligence csv file has data")
+            
+        df2 = pd.read_csv('twitter_top_DeepLearning.csv')
+        df2.empty
+        if df2.empty == True:
+            print("The DeepLearning csv file is empty")  
+        else:
+            print("The DeepLearning csv file has data")
+            
+        df3 = pd.read_csv('twitter_top_100DaysOfCode.csv')
+        df3.empty
+        if df3.empty == True:
+            print("The 100DaysOfCode csv file is empty")
+        else:
+            print("The 100DaysOfCode csv file has data")
+            
+        df4 = pd.read_csv('twitter_top_DataScience.csv')
+        df4.empty
+        if df4.empty == True:
+            print("The DataScience csv file is empty")
+        else:
+            print("The DataScience csv file has data")
+            
+        df5 = pd.read_csv('twitter_top_DEVCommunity.csv')
+        df5.empty
+        if df5.empty == True:
+            print("The DEVCommunity csv file is empty")
+        else:
+            print("The DEVCommunity csv file has data")
+            
+        df6 = pd.read_csv('twitter_top_MachineLearning.csv')
+        df6.empty
+        if df6.empty == True:
+            print("The MachineLearning csv file is empty")
+        else:
+            print("The MachineLearning csv file has data")
+            
+        df7 = pd.read_csv('twitter_top_NeuralNetwork.csv')
+        df7.empty
+        if df7.empty == True:
+            print("The NeuralNetwork csv file is empty")
+        else:
+            print("The NeuralNetwork csv file has data")
+            
+    #Test if graph is created and exported as gif
+    def testcase4(self):
+        picture = os.path.isfile('retweetovertime.gif')
+        if picture == True:
+            print("The graph is created")
+        else:
+            print("The graph is not created")
+            
+    #Test the number of csv found in folder 
+    def testCase5(self):
+        expectedfiles=7
+        # dir is your directory path
+        list2=os.listdir(path)
+        
+        number_files2 = len(glob.glob('./*.csv'))
+        self.assertEqual(number_files2,expectedfiles,'Number of csv found is not equal to 7 for stackoverflow')
+
+```
+
+### 7.3.3 Twitter - get date
+
+---
+This function is to get date of past 7 days and today
+
+---
+
+```Python
+def getdate():
+    dateto = datetime.date.today() #Get today date 
+    arraydate=[]    #Create array to store date
+    for i in range(0, 8):   #Add past 7 day and today date to array
+        until=dateto - timedelta(i)  
+        arraydate.append(str(until)) 
+    topic(arraydate)
+```
+### 7.3.4 Twitter - get data required
 
 ---
 This function is to read data in csvs and get sum of retweet count
@@ -1348,15 +2018,8 @@ This function is to read data in csvs and get sum of retweet count
 ---
 
 ```Python
-def topic():
-    dateto = datetime.date.today()
-    arraydate=[]
-    for i in range(0, 8):
-        until=dateto - timedelta(i)
-        arraydate.append(str(until)) 
-
-
-    # group by date and count retweet count
+def topic(arraydate):
+    #group by date and count retweet count
     data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
     total=data1.groupby('Created Date')['Retweet Count'].sum()
     
@@ -1452,12 +2115,11 @@ def topic():
     array7=(total[6],total2[6],total3[6],total4[6],total5[6],total6[6],total7[6])
     array8=(total[7],total2[7],total3[7],total4[7],total5[7],total6[7],total7[7])
     
-    graph(array1,array2,array3,array4,array5,array6,array7)
-
+    graph(array1,array2,array3,array4,array5,array6,array7,array8)
     
 ```
 
-### 7.3.3 Twitter - plot graph
+### 7.3.5 Twitter - plot graph
 
 ---
 This function is to plot multiple bargraph to create gif bar graph
@@ -1465,20 +2127,19 @@ This function is to plot multiple bargraph to create gif bar graph
 ---
 
 ```Python
-#Plot gif with object oriented interface
-
-def graph(array1,array2,array3,array4,array5,array6,array7):
+#Plot gif by using object oriented interface
+def graph(array1,array2,array3,array4,array5,array6,array7,array8):
     #graph for 1st day
     fig = plt.figure()
     langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax = fig.add_axes([0,0,0.5,0.5])
+    ax = fig.add_axes([0,0,0.5,0.5])   #Set axis size
     ax.set_title('Retweet Count over past 7 days and today')
     ax.set_xlabel('Languages')
     ax.set_ylabel('Retweet Count')
-    ax.set_ylim([0,200])
+    ax.set_ylim([0,200])  #set y limits
     ax.bar(langs,array1)
     plt.show()
-    fig.savefig('1.png',dpi=250,bbox_inches="tight")
+    fig.savefig('1.png',dpi=250,bbox_inches="tight") #removes all of the extra white space around figure and save as png
 
 
     # Graph for 2nd day
@@ -1570,12 +2231,11 @@ def graph(array1,array2,array3,array4,array5,array6,array7):
 
     # Build GIF
     with imageio.get_writer('retweetovertime.gif', mode='I',duration = 0.8) as writer:
-        for filename in ['1.png', '2.png', '3.png', '4.png', '5.png', '6.png', '7.png','8.png']:
             image = imageio.imread(filename)
             writer.append_data(image)
 ```
 
-### 7.3.4 Twitter - Scheduler
+### 7.3.6 Twitter - Scheduler
 
 ---
 This function is to schedule bar graph to update
@@ -1583,10 +2243,16 @@ This function is to schedule bar graph to update
 ---
 
 ```Python
-#Schedule
+#Scheduler
 if __name__ == "__main__":
-    topic()       
-    schedule.every(1).minutes.do(topic)
+    startTime = time.perf_counter()
+    getdate()       
+    endTime = time.perf_counter()
+    result = endTime - startTime
+    print (f"Total time taken to plot graph is {result:0.4f} seconds!")
+    unittest.main(argv=['first-arg-is-ignored'], exit=False)
+    schedule.every(1).minutes.do(getdate)
+
     while True:
         schedule.run_pending()
         time.sleep(1)
