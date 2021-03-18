@@ -5,6 +5,30 @@
 The crawlercode.py is inclusive of a parent abstract crawler class, several social media subclasses and testing unit class.
 Similar to this markdown document, there are documentations in place for each class. It can be seen when you include help(classname) in the code.
 
+To ensure it runs smoothly, ensure the following
+
+1. Install python from https://www.python.org/downloads/
+2. Run the scipt.sh file (includes the python libraries that needs to be downloaded)
+
+OR
+
+2. Manually download the python libraries 
+'''console
+	pip install praw
+	pip install pandas
+	pip install seaborn
+	pip install matplotlib
+	pip install numpy
+	pip install textblob
+	pip install requests
+	pip install bs4
+	pip install schedule
+	pip install pytz
+	pip install tweepy
+	pip install datetime 
+	pip install schedule
+''' 
+
 ---
 
 ### 1.1.1 Crawler Abstract class
