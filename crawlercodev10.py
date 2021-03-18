@@ -797,7 +797,7 @@ if __name__ == "__main__":
     endTime = time.perf_counter()
     result = endTime - startTime
     print (f"Total time taken to webcrawl is {result:0.4f} seconds!")
-    schedule.every(6).minutes.do(task.runtask)
+    schedule.every(1).minutes.do(task.runtask)
     unittest.main(argv=['first-arg-is-ignored'], exit=False)
     while True:
         schedule.run_pending()
