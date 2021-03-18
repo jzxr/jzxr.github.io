@@ -1556,7 +1556,25 @@ Website is to display the 4 crawlers from Reddit, Stack Overflow, Twitter, Githu
 
 ---
 
-### 8.1.1. Head of HTML
+### 8.1.1. Running on localhost
+
+---
+
+Open folder in visual studio.
+To allow automate updating for the crawlers:
+
+1) Run crawlercodev10.py
+
+To run website on localhost, use localhost:8000 by typing in the command in Terminal:
+
+1) python -m SimpleHTTPServer
+2) in browser, type in http://localhost:8000
+
+Make sure that the .html is in the same folder as other files & folders.
+
+---
+
+### 8.1.2. Head of HTML
 
 ---
 This header for HTML is to input title and css for styling.
@@ -2093,7 +2111,7 @@ This body content is for data analytics to be displayed on website as pictures o
 
 ---
 
-This body content
+This body content is to allow functions from Javascript to HTML to create the datatables.
 
 ```HTML
 <script type="text/javascript" src="js/jquery.min.js"></script>
