@@ -1,4 +1,5 @@
-# techsights.github.io 
+# techsights.github.io
+
 ---
 
 ## 5.1 Crawler File Documentation
@@ -6,6 +7,7 @@
 ---
 The crawlercode.py is inclusive of a parent abstract crawler class, several social media subclasses and testing unit class.
 Similar to this markdown document, there are documentations in place for each class. It can be seen when you include help(classname) in the code.
+
 ---
 
 ### 5.1.1 Crawler Abstract class
@@ -79,7 +81,6 @@ self.data: returns the authenticated log in and saves into the self.data attribu
 
 ### 1.1.2.2 crawldatatop
 
-
 Description:
 
 This functions crawls the top reddit based on the self.topic that is specified during the creation of reddit instance. The crawled data is added to the originally empty dataframe based on the specified header.
@@ -104,6 +105,7 @@ self.df: returns the updated dataframe with new crawled reddit entries
                        "Body":submission.selftext}, ignore_index=True)
 
 ```
+
 ### 5.1.2.3 crawldatasubtopic
 
 Description:
@@ -126,19 +128,18 @@ A positive sentiment value = Positive Comment
 Zero sentiment value = Nuetral Comment
 A negative sentiment value = Negative Comment
 
-
 Parameters:
 self
 
 Returns:
-self.df: returns the updated dataframe with new crawled reddit entries 
+self.df: returns the updated dataframe with new crawled reddit entries
 
 ```Python
     #This line applies a function to the body column to get the polairty using the TextBlob libary and saves it into a new column called sentiment
     self.df['Sentiment'] = self.df['Body'].apply(lambda x: TextBlob(x).sentiment.polarity)
 ```
 
-### 5.1.2.4 cleandata 
+### 5.1.2.4 cleandata
 
 Description:
 
@@ -160,6 +161,7 @@ self.df: returns the updated dataframe with new crawled reddit entries
     self.df['Year'] = pd.DatetimeIndex(self.df['timestamp']).year
     self.df['Month'] = pd.DatetimeIndex(self.df['timestamp']).month
 ```
+
 ### 5.1.2.4 saveCV
 
 Description:
@@ -269,7 +271,8 @@ Parameters:
 self
 
 Returns:
-self.data: returns the authenticated log in and saves into the self.data attribute
+self.data: returns the authenticated log in and saves into the self.data attribute.
+
 ```Python
     def authenticate(self):
         self.data = "access_token=" + "cf0ff99540fe22c93255d736e3bed3bbfa10e17d"
@@ -290,6 +293,7 @@ self
 
 Returns:
 self.df: returns the updated dataframe with new crawled reddit entries
+
 ```Python
 def crawldatatop(self):
         #Range is set to 2 to shorten the search result
@@ -325,6 +329,7 @@ def crawldatatop(self):
                     repository_other_languages[key] = key_value
         return self.df
 ```
+
 ### 5.1.4.3 saveCV
 
 Description:
@@ -379,6 +384,7 @@ def authenticate(self):
         self.data = tweepy.API(auth)
         return self.data
 ```
+
 ### 5.1.5.2 crawldatatop
 
 Description:
@@ -390,6 +396,7 @@ self
 
 Returns:
 self.df: returns the updated dataframe with new crawled twitter entries
+
 ```Python
 def crawldatatop(self):
         # change createdAt from UTC to GMT+8
@@ -427,7 +434,8 @@ def crawldatatop(self):
                         ascending=[False, False],
                     )
         return self.df
-```        
+```
+
 ### 5.1.5.3 crawldatarecent
 
 Description:
@@ -439,6 +447,7 @@ self
 
 Returns:
 self.df: returns the updated dataframe with new crawled twitter entries
+
 ```Python
 def crawldatarecent(self):
         # for each tweet matching our hashtags, write relevant info to the spreadsheet
@@ -464,7 +473,8 @@ def crawldatarecent(self):
                 ignore_index=True,
             )
         return self.df
-``` 
+```
+
 ### 1.1.5.4 saveCV
 
 Description:
@@ -479,6 +489,7 @@ Returns:
 None
 
 ---
+
 ```Python
 def saveCV(self, name):
         if not os.path.exists('twitter'):
@@ -494,6 +505,7 @@ def saveCV(self, name):
             fname = "_".join(re.findall(r"#(\w+)",self.topic))
             self.df.to_csv("twitter/toppost/twitter_top_" + fname+".csv")
 ```
+
 ### 5.1.6 Test Cases
 
 ---
@@ -505,6 +517,7 @@ This class has all the functions that performs unit testing. Unit testing is don
 Description:
 
 Test if crawl time is float value & if subtraction method is correct
+
 ```Python
 def testCase1 (self):
         test = endTime - startTime
@@ -520,6 +533,7 @@ def testCase1 (self):
 Description:
 
 Test if crawl time is lesser than 5 minutes
+
 ```Python
  def testCase2(self):
         value1 = result
@@ -537,6 +551,7 @@ Test if crawl time is lesser than 5 minutes
 Description:
 
 Test if CSV file is created and stored in os.path
+
 ```Python
  def testCase3(self):
         program = ['c_programming',"Python", "csharp", "javascript","html", "java","rprogramming"]
@@ -555,12 +570,13 @@ Test if CSV file is created and stored in os.path
             self.assertTrue(os.path.exists('twitter/toppost/twitter_top_' + store + '.csv'), "File does not exist!")
 
 ```
-        
+
 ### 5.1.6.3 Test Case 4
 
 Description:
 
-Test if folder contain correct number of files crawled 
+Test if folder contain correct number of files crawled
+
 ```Python
 def testCase4(self):
         expectedfiles=7
@@ -585,6 +601,7 @@ def testCase4(self):
         number_files5=len(onlyfiles)
         self.assertEqual(number_files5,expectedfiles,'Number of files inserted not equal to 7 for twitter top')
 ```
+
 ---
 
 ### 5.1.6 Task
@@ -689,7 +706,7 @@ Javascript is used for the functions of datatables.
 ---
 This function able to create tables, columns and rows based on the csv.
 
-```C
+```HTML
 var CsvToHtmlTable = CsvToHtmlTable || {};
 
 CsvToHtmlTable = {
@@ -771,7 +788,7 @@ Website is to display the 4 crawlers from Reddit, Stack Overflow, Twitter, Githu
 ---
 This header for HTML is to input title and css for styling.
 
-```C
+```HTML
     <!DOCTYPE html>
     <html lang="en">
 
@@ -816,7 +833,7 @@ This body for HTML is to have the content of the datatables.
 
 This body for HTML is to have navigation bar, website logo.
 
-```C
+```HTML
 <body class="">
   <div class="wrapper ">
     <div class="sidebar" data-color="white" data-active-color="danger">
@@ -869,7 +886,7 @@ This body for HTML is to have navigation bar, website logo.
 ---
 This body content is for crawled Reddit information nformation to be displayed in a table. With the different tabs, it can toggle within 7 programming languages.
 
-```C
+```HTML
     <div class="content">
         <div class="row">
           <div class="col-md-12">
@@ -939,7 +956,7 @@ This body content is for crawled Reddit information nformation to be displayed i
 ---
 This body content is for crawled stack overflow information to be displayed in a table. With the different tabs, it can toggle within 7 programming languages.
 
-```C
+```HTML
         <div class="row">
           <div class="col-md-12">
             <div class="card">
@@ -1007,7 +1024,7 @@ This body content is for crawled stack overflow information to be displayed in a
 ---
 This body content is for crawled twitter information to be displayed in a table. There are two tables to display the recent posts and the top posts. With the different tabs, it can toggle within 7 technology terms for each table.
 
-```C
+```HTML
 <div class="row">
           <div class="col-md-12">
             <div class="card">
@@ -1127,7 +1144,7 @@ This body content is for crawled twitter information to be displayed in a table.
 ---
 This body content is for crawled github information to be displayed in a table. With the different tabs, it can toggle within 7 programming language projects.
 
-```C
+```HTML
 <div class="row">
           <div class="col-md-12">
             <div class="card">
@@ -1196,7 +1213,7 @@ This body content is for crawled github information to be displayed in a table. 
 ---
 This body content is for data analytics to be displayed on website as pictures or gifs. For each social media platform, they have their own trend to be displayed.
 
-```C
+```HTML
         <div class="row">
           <div class="col-md-12">
             <div class="card">
@@ -1305,7 +1322,7 @@ This body content is for data analytics to be displayed on website as pictures o
 
 This body content
 
-```C
+```HTML
 <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/jquery.csv.min.js"></script>
@@ -1642,19 +1659,22 @@ This body content
           });
         </script>
 ```
+
 ## 8.1 Github - Piechart
 
 ---
 This body content is to plot a piechart for github
+
 ---
 
 ### 8.1.1 Github - import libraries
 
 ---
 This body content is to import libraries required and specify file path
+
 ---
 
-```C
+```Python
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -1664,13 +1684,15 @@ import time
 path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\github' # location whr data is saved
 
 ```
+
 ### 8.1.2 Github - get data required
 
 ---
 This body content is to read data in csvs and get sum of vote
+
 ---
 
-```C
+```Python
 #sum of vote in github-c_programming.csv
 def data():
     data1 = pd.read_csv('github-c_programming.csv')
@@ -1703,14 +1725,16 @@ def data():
     data7 = pd.read_csv('github-rprogramming.csv')
     rtotal = data7['Stars'].sum()
     graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal)
-```    
+```
+
 ### 8.1.3 Github - plot graph
 
 ---
 This body content is to plot pie chart
+
 ---
 
-```C
+```Python
 #Plot pie chart with object oriented interface
 def graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal):
     my_data=[ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal]
@@ -1725,13 +1749,15 @@ def graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal):
     plt.show()
     fig1.savefig('github_topicpopularity.png')
 ```
+
 ### 8.1.4 Github - Scheduler
 
 ---
 This body content is to schedule pie chart to update
+
 ---
 
-```C
+```Python
 if __name__ == "__main__":
     data()       
     schedule.every(1).minutes.do(data)
@@ -1740,19 +1766,22 @@ if __name__ == "__main__":
         schedule.run_pending()
         time.sleep(1)
 ```
+
 ## 9.1 Reddit - Piechart
 
 ---
 This body content is to plot a piechart for Reddit
+
 ---
 
 ### 9.1.1 Reddit - import libraries
 
 ---
 This body content is to import libraries required and specify file path
+
 ---
 
-```C
+```Python
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -1766,9 +1795,10 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Reddit'
 
 ---
 This body content is to read data in csvs and get no. of row
+
 ---
 
-```C
+```Python
 def data():    
     #number of rows in c_programming csv
     data1 = pd.read_csv('reddit-c_programming.csv')
@@ -1820,9 +1850,10 @@ def data():
 
 ---
 This body content is to plot pie chart
+
 ---
 
-```C
+```Python
 #Plot pie chart with object oriented interface
 def graph(num1,num2,num3,num4,num5,num6,num7):
     my_data=[num1,num2,num3,num4,num5,num6,num7]
@@ -1843,9 +1874,10 @@ def graph(num1,num2,num3,num4,num5,num6,num7):
 
 ---
 This body content is to schedule pie chart to update
+
 ---
 
-```C
+```Python
 if __name__ == "__main__":
     data()       
     schedule.every(1).minutes.do(data)
@@ -1859,15 +1891,17 @@ if __name__ == "__main__":
 
 ---
 This body content is to plot a piechart for stackoverflow
+
 ---
 
 ### 10.1.1 Stackoverflow - import libraries
 
 ---
 This body content is to import libraries required and specify file path
+
 ---
 
-```C
+```Python
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -1882,9 +1916,10 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\stackoverf
 
 ---
 This body content is to read data in csvs and get sum of view
+
 ---
 
-```C
+```Python
 def data():
     
     #sum of view in stackoverflow1-c csv
@@ -1928,9 +1963,10 @@ def data():
 
 ---
 This body content is to plot pie chart
+
 ---
 
-```C
+```Python
 #Plot piechart with object oriented interface
 def graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal):
 #Plot pie chart
@@ -1952,9 +1988,10 @@ def graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal):
 
 ---
 This body content is to schedule pie chart to update
+
 ---
 
-```C
+```Python
 if __name__ == "__main__":
     data()       
     schedule.every(1).minutes.do(data)
@@ -1968,15 +2005,17 @@ if __name__ == "__main__":
 
 ---
 This body content is to plot a piechart for Twitter
+
 ---
 
 ### 11.1.1 Twitter - import libraries
 
 ---
 This body content is to import libraries required and specify file path
+
 ---
 
-```C
+```Python
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -1991,9 +2030,10 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 
 ---
 This body content is to read data in csvs and get sum retweet count
+
 ---
 
-```C
+```Python
 def data():
     #sum of retweet in artificial intelligence.csv
     data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
@@ -2037,9 +2077,10 @@ def data():
 
 ---
 This body content is to plot pie chart
+
 ---
 
-```C
+```Python
 #Plot pie chart with object oriented interface
 def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
     my_data=[AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal]
@@ -2060,9 +2101,10 @@ def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
 
 ---
 This body content is to schedule pie chart to update
+
 ---
 
-```C
+```Python
 if __name__ == "__main__":
     data()       
     schedule.every(1).minutes.do(data)
@@ -2076,15 +2118,17 @@ if __name__ == "__main__":
 
 ---
 This body content is to plot a piechart for twitter
+
 ---
 
 ### 11.2.1 Twitter - import libraries
 
 ---
 This body content is to import libraries required and specify file path
+
 ---
 
-```C
+```Python
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -2099,9 +2143,10 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 
 ---
 This body content is to read data in csvs and get sum of retweet count
+
 ---
 
-```C
+```Python
 def topic():
     
     # group by date and count retweet count
@@ -2140,9 +2185,10 @@ def topic():
 
 ---
 This body content is save data into dataframe
+
 ---
 
-```C
+```Python
 def data(total,total2,total3,total4,total5,total6,total7):
     plotdata = pd.DataFrame({
         "ArtificialIntelligence":total,
@@ -2162,9 +2208,10 @@ def data(total,total2,total3,total4,total5,total6,total7):
 
 ---
 This body content is to plot stacked bar graph
+
 ---
 
-```C
+```Python
 #Plot stacked bar graph
 def graph(plotdata):
     plotdata.plot(kind='barh', stacked=True)
@@ -2180,9 +2227,10 @@ def graph(plotdata):
 
 ---
 This body content is to schedule stacked bar graph to update
+
 ---
 
-```C
+```Python
 if __name__ == "__main__":
     topic() 
     schedule.every(1).minutes.do(topic)
@@ -2195,15 +2243,17 @@ if __name__ == "__main__":
 
 ---
 This body content is to plot a gif bargraph for twitter
+
 ---
 
 ### 11.3.1 Twitter - import libraries
 
 ---
 This body content is to import libraries required and specify file path
+
 ---
 
-```C
+```Python
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -2218,9 +2268,10 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 
 ---
 This body content is to read data in csvs and get sum of retweet count
+
 ---
 
-```C
+```Python
 def topic():
     dateto = datetime.date.today()
     arraydate=[]
@@ -2334,9 +2385,10 @@ def topic():
 
 ---
 This body content is to plot multiple bargraph to create gif bar graph
+
 ---
 
-```C
+```Python
 #Plot gif with object oriented interface
 
 def graph(array1,array2,array3,array4,array5,array6,array7):
@@ -2451,9 +2503,10 @@ def graph(array1,array2,array3,array4,array5,array6,array7):
 
 ---
 This body content is to schedule bar graph to update
+
 ---
 
-```C
+```Python
 #Schedule
 if __name__ == "__main__":
     topic()       
