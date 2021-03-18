@@ -13,6 +13,7 @@ To ensure it runs smoothly, ensure the following
 OR
 
 2. Manually download the python libraries 
+
 '''console
 	pip install praw
 	pip install pandas
