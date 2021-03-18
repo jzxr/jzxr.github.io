@@ -14,7 +14,7 @@ OR
 
 2. Manually download the python libraries 
 
-'''console
+```console
 	pip install praw
 	pip install pandas
 	pip install seaborn
@@ -28,7 +28,7 @@ OR
 	pip install tweepy
 	pip install datetime 
 	pip install schedule
-''' 
+```
 
 ---
 
