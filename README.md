@@ -775,6 +775,862 @@ CsvToHtmlTable = {
 
 ```
 
+## 8.1 Github - Piechart
+
+---
+This body content is to plot a piechart for github
+
+---
+
+### 8.1.1 Github - import libraries
+
+---
+This body content is to import libraries required and specify file path
+
+---
+
+```Python
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+import schedule
+import time
+
+path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\github' # location whr data is saved
+
+```
+
+### 8.1.2 Github - get data required
+
+---
+This body content is to read data in csvs and get sum of vote
+
+---
+
+```Python
+#sum of vote in github-c_programming.csv
+def data():
+    data1 = pd.read_csv('github-c_programming.csv')
+    ctotal = data1['Stars'].sum()
+
+    #sum of vote in github-csharp.csv
+    data2 = pd.read_csv('github-csharp.csv')
+    csharptotal = data2['Stars'].sum()
+
+
+    #sum of vote in github-html.csv
+    data3 = pd.read_csv('github-html.csv')
+    htmltotal = data3['Stars'].sum()
+
+    #sum of vote in github-java.csv
+    data4 = pd.read_csv('github-java.csv')
+    javatotal = data4['Stars'].sum()
+
+    #sum of vote in github-javascript.csv
+    data5 = pd.read_csv('github-javascript.csv')
+    jstotal = data5['Stars'].sum()
+    
+
+    #sum of vote in github-Python.csv
+    data6 = pd.read_csv('github-Python.csv')
+    pythontotal = data6['Stars'].sum()
+    
+
+    #sum of vote in rprogramming.csv
+    data7 = pd.read_csv('github-rprogramming.csv')
+    rtotal = data7['Stars'].sum()
+    graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal)
+```
+
+### 8.1.3 Github - plot graph
+
+---
+This body content is to plot pie chart
+
+---
+
+```Python
+#Plot pie chart with object oriented interface
+def graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal):
+    my_data=[ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal]
+    my_labels='cprogramming','c#','html','java','javascript','python','rprogramming'
+    explode = (0, 0, 0, 0.1, 0, 0, 0)  # only "explode" java
+    
+    fig1, ax1 = plt.subplots()
+    ax1.set_title('Topic popularity on Github')
+    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
+    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+    
+    plt.show()
+    fig1.savefig('github_topicpopularity.png')
+```
+
+### 8.1.4 Github - Scheduler
+
+---
+This body content is to schedule pie chart to update
+
+---
+
+```Python
+if __name__ == "__main__":
+    data()       
+    schedule.every(1).minutes.do(data)
+    
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+```
+
+## 9.1 Reddit - Piechart
+
+---
+This body content is to plot a piechart for Reddit
+
+---
+
+### 9.1.1 Reddit - import libraries
+
+---
+This body content is to import libraries required and specify file path
+
+---
+
+```Python
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+import schedule
+import time
+
+path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Reddit'
+```
+
+### 9.1.2 Reddit - get data required
+
+---
+This body content is to read data in csvs and get no. of row
+
+---
+
+```Python
+def data():    
+    #number of rows in c_programming csv
+    data1 = pd.read_csv('reddit-c_programming.csv')
+    data_year=data1.loc[data1['Year'] >= 2020]
+    index1=data_year.index
+    num1 = len(index1) 
+
+    #number of rows in csharp csv
+    data2 = pd.read_csv('reddit-csharp.csv')
+    data_year2=data2.loc[data2['Year'] >= 2020]
+    index2=data_year2.index
+    num2 = len(index2) 
+
+    #number of rows in html csv
+    data3 = pd.read_csv('reddit-html.csv')
+    data_year3=data3.loc[data3['Year'] >= 2020]
+    index3=data_year3.index
+    num3 = len(index3)
+
+    #number of rows in java csv
+    data4 = pd.read_csv('reddit-java.csv')
+    data_year4=data4.loc[data4['Year'] >= 2020]
+    index4=data_year4.index
+    num4 = len(index4)
+
+    #number of rows in javascript csv
+    data5 = pd.read_csv('reddit-javascript.csv')
+    data_year5=data5.loc[data5['Year'] >= 2020]
+    index5=data_year5.index
+    num5 = len(index5)
+
+    #number of rows in Python csv
+    data6 = pd.read_csv('reddit-Python.csv')
+    data_year6=data6.loc[data6['Year'] >= 2020]
+    index6=data_year6.index
+    num6 = len(index6)
+
+    #number of rows in rprogramming csv
+    data7 = pd.read_csv('reddit-rprogramming.csv')
+    data_year7=data7.loc[data7['Year'] >= 2020]
+    index7=data_year7.index
+    num7 = len(index7)
+
+    graph(num1,num2,num3,num4,num5,num6,num7)
+    
+```
+
+### 9.1.3 Reddit - plot graph
+
+---
+This body content is to plot pie chart
+
+---
+
+```Python
+#Plot pie chart with object oriented interface
+def graph(num1,num2,num3,num4,num5,num6,num7):
+    my_data=[num1,num2,num3,num4,num5,num6,num7]
+    my_labels='c programming','csharp','html','java','javascript','Python','rprogramming'
+
+    explode = (0, 0, 0, 0, 0, 0.1, 0.1)  # only "explode" python and r programming
+    
+    fig1, ax1 = plt.subplots()
+    ax1.set_title('Programming languages on Reddit 2020 - 2021')
+    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
+    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+    
+    plt.show()
+    fig1.savefig('reddit_prglanguage.png')
+```
+
+### 9.1.4 Reddit - Scheduler
+
+---
+This body content is to schedule pie chart to update
+
+---
+
+```Python
+if __name__ == "__main__":
+    data()       
+    schedule.every(1).minutes.do(data)
+    
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+```
+
+## 10.1 Stackoverflow - Piechart
+
+---
+This body content is to plot a piechart for stackoverflow
+
+---
+
+### 10.1.1 Stackoverflow - import libraries
+
+---
+This body content is to import libraries required and specify file path
+
+---
+
+```Python
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+import schedule
+import time
+
+path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\stackoverflow' # location whr data is saved
+
+```
+
+### 10.1.2 Stackoverflow - get data required
+
+---
+This body content is to read data in csvs and get sum of view
+
+---
+
+```Python
+def data():
+    
+    #sum of view in stackoverflow1-c csv
+    data1 = pd.read_csv('stackoverflow-c_programming.csv')
+    ctotal = data1['Views'].sum()
+    
+    #sum of view in stackoverflow1-csharp csv
+    data2 = pd.read_csv('stackoverflow-csharp.csv')
+    csharptotal = data2['Views'].sum()
+
+
+    #sum of view in stackoverflow1-html.csv
+    data3 = pd.read_csv('stackoverflow-html.csv')
+    htmltotal = data3['Views'].sum()
+
+
+    #sum of view in stackoverflow1-java.csv
+    data4 = pd.read_csv('stackoverflow-java.csv')
+    javatotal = data4['Views'].sum()
+
+
+    #sum of view in stackoverflow1-javascript.csv
+    data5 = pd.read_csv('stackoverflow-javascript.csv')
+    jstotal = data5['Views'].sum()
+    
+
+    #sum of view in stackoverflow1-Python.csv
+    data6 = pd.read_csv('stackoverflow-Python.csv')
+    pythontotal = data6['Views'].sum()
+
+
+    #sum of view in stackoverflow1-rprogramming.csv
+    data7 = pd.read_csv('stackoverflow-rprogramming.csv')
+    rtotal = data7['Views'].sum()
+    
+    graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal)
+    
+```
+
+### 10.1.3 Stackoverflow - plot graph
+
+---
+This body content is to plot pie chart
+
+---
+
+```Python
+#Plot piechart with object oriented interface
+def graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal):
+#Plot pie chart
+    my_data=[csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal]
+    my_labels='csharp','html','java','cprogramming','javascript','python','rprogramming'
+    
+    explode = (0, 0.1, 0, 0, 0, 0, 0)  # only "explode" html
+    
+    fig1, ax1 = plt.subplots()
+    ax1.set_title('Programming languages view count on stackoverflow')
+    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
+    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+    
+    plt.show()
+    fig1.savefig('stackoverflow_prglanguages.png')
+```
+
+### 10.1.4 Stackoverflow - Scheduler
+
+---
+This body content is to schedule pie chart to update
+
+---
+
+```Python
+if __name__ == "__main__":
+    data()       
+    schedule.every(1).minutes.do(data)
+    
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+```
+
+## 11.1 Twitter - Piechart
+
+---
+This body content is to plot a piechart for Twitter
+
+---
+
+### 11.1.1 Twitter - import libraries
+
+---
+This body content is to import libraries required and specify file path
+
+---
+
+```Python
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+import schedule
+import time
+
+path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
+
+```
+
+### 11.1.2 Twitter - get data required
+
+---
+This body content is to read data in csvs and get sum retweet count
+
+---
+
+```Python
+def data():
+    #sum of retweet in artificial intelligence.csv
+    data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
+    AItotal = data1['Retweet Count'].sum()
+
+
+    #sum of retweet in deep learning.csv
+    data2 = pd.read_csv('twitter_top_DeepLearning.csv')
+    DLtotal = data2['Retweet Count'].sum()
+
+
+    #sum of retweet in 100DaysOfCode.csv
+    data3 = pd.read_csv('twitter_top_100DaysOfCode.csv')
+    daystotal = data3['Retweet Count'].sum()
+
+
+    #sum of retweet in DataScience.csv
+    data4 = pd.read_csv('twitter_top_DataScience.csv')
+    DStotal = data4['Retweet Count'].sum()
+
+
+    #sum of retweet in DEVCommunity.csv
+    data5 = pd.read_csv('twitter_top_DEVCommunity.csv')
+    Devtotal = data5['Retweet Count'].sum()
+
+
+    #sum of retweet in MachineLearning.csv
+    data6 = pd.read_csv('twitter_top_MachineLearning.csv')
+    MLtotal = data6['Retweet Count'].sum()
+
+
+    #sum of retweet in NeuralNetworks.csv
+    data7 = pd.read_csv('twitter_top_NeuralNetwork.csv')
+    NNtotal = data7['Retweet Count'].sum()
+
+    graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal)
+    
+```
+
+### 11.1.3 Twitter - plot graph
+
+---
+This body content is to plot pie chart
+
+---
+
+```Python
+#Plot pie chart with object oriented interface
+def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
+    my_data=[AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal]
+    my_labels='artificial intelligence','Deep learning','100DaysOfCode','DataScience','DEVCommunity','MachineLearning','NeuralNetworks'
+
+    explode = (0, 0, 0, 0, 0.1, 0, 0)  # only "explode" DevCommunity
+    
+    fig1, ax1 = plt.subplots()
+    ax1.set_title('Popular topics on Twitter for past 7 days and today')
+    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
+    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+    
+    plt.show()
+    fig1.savefig('twitter_populartopic.png')
+```
+
+### 11.1.4 Twitter - Scheduler
+
+---
+This body content is to schedule pie chart to update
+
+---
+
+```Python
+if __name__ == "__main__":
+    data()       
+    schedule.every(1).minutes.do(data)
+    
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+```
+
+## 11.2 Twitter - Stacked bar graph
+
+---
+This body content is to plot a piechart for twitter
+
+---
+
+### 11.2.1 Twitter - import libraries
+
+---
+This body content is to import libraries required and specify file path
+
+---
+
+```Python
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+import schedule
+import time
+
+path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
+
+```
+
+### 11.2.2 Twitter - get data required
+
+---
+This body content is to read data in csvs and get sum of retweet count
+
+---
+
+```Python
+def topic():
+    
+    # group by date and count retweet count
+    data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
+    total=data1.groupby('Created Date')['Retweet Count'].sum()
+
+
+    data2 = pd.read_csv('twitter_top_DeepLearning.csv')
+    total2=data2.groupby('Created Date')['Retweet Count'].sum()
+
+
+    data3 = pd.read_csv('twitter_top_100DaysOfCode.csv')
+    total3=data3.groupby('Created Date')['Retweet Count'].sum()
+
+
+    data4 = pd.read_csv('twitter_top_DataScience.csv')
+    total4=data4.groupby('Created Date')['Retweet Count'].sum()
+
+
+    data5 = pd.read_csv('twitter_top_DEVCommunity.csv')
+    total5=data5.groupby('Created Date')['Retweet Count'].sum()
+
+
+    data6 = pd.read_csv('twitter_top_MachineLearning.csv')
+    total6=data6.groupby('Created Date')['Retweet Count'].sum()
+
+    data7 = pd.read_csv('twitter_top_NeuralNetwork.csv')
+    total7=data7.groupby('Created Date')['Retweet Count'].sum()
+    
+    data(total,total2,total3,total4,total5,total6,total7)
+
+    
+```
+
+### 11.2.3 Twitter - save data in dataframe
+
+---
+This body content is save data into dataframe
+
+---
+
+```Python
+def data(total,total2,total3,total4,total5,total6,total7):
+    plotdata = pd.DataFrame({
+        "ArtificialIntelligence":total,
+        "DeepLearning":total2,
+        "100DaysOfCode":total3,
+        "DataScience":total4,
+        "DEVCommunity":total5,
+        "MachineLearning":total6,
+        "NeuralNetworks":total7
+        }, 
+    )
+    graph(plotdata)
+
+```
+
+### 11.2.4 Twitter - plot graph
+
+---
+This body content is to plot stacked bar graph
+
+---
+
+```Python
+#Plot stacked bar graph
+def graph(plotdata):
+    plotdata.plot(kind='barh', stacked=True)
+    plt.title("Popular topic on twitter")
+    plt.xlabel("Retweet Count")
+    plt.ylabel("Date")
+    fig1= plt.gcf()
+    plt.show()
+    fig1.savefig('twitter_topics.png')
+```
+
+### 11.2.4 Twitter - Scheduler
+
+---
+This body content is to schedule stacked bar graph to update
+
+---
+
+```Python
+if __name__ == "__main__":
+    topic() 
+    schedule.every(1).minutes.do(topic)
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+```
+
+## 11.3 Twitter - gif bargraph
+
+---
+This body content is to plot a gif bargraph for twitter
+
+---
+
+### 11.3.1 Twitter - import libraries
+
+---
+This body content is to import libraries required and specify file path
+
+---
+
+```Python
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+import schedule
+import time
+
+path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
+
+```
+
+### 11.3.2 Twitter - get data required
+
+---
+This body content is to read data in csvs and get sum of retweet count
+
+---
+
+```Python
+def topic():
+    dateto = datetime.date.today()
+    arraydate=[]
+    for i in range(0, 8):
+        until=dateto - timedelta(i)
+        arraydate.append(str(until)) 
+
+
+    # group by date and count retweet count
+    data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
+    total=data1.groupby('Created Date')['Retweet Count'].sum()
+    
+#To ensure that all past dates are present
+    if len(total)<8:
+        dates1=data1['Created Date']
+        missingdate1= (list(set(arraydate) ^ set(dates1)))
+        for i in range(len(missingdate1)):
+            newdata1 = data1.append({'Created Date': missingdate1[i],'Retweet Count': 0}, ignore_index=True)
+        total=newdata1.groupby('Created Date')['Retweet Count'].sum()
+    
+    # group by date and count retweet count
+    data2 = pd.read_csv('twitter_top_DeepLearning.csv')
+    total2=data2.groupby('Created Date')['Retweet Count'].sum()
+    
+    #  To ensure that all past dates are present
+    if len(total2)<8:
+        dates2=data2['Created Date']
+        missingdate2= (list(set(arraydate) ^ set(dates2)))
+        for i in range(len(missingdate2)):
+            newdata2 = data2.append({'Created Date': missingdate2[i],'Retweet Count': 0}, ignore_index=True)
+        total2=newdata2.groupby('Created Date')['Retweet Count'].sum()
+
+    # group by date and count retweet count
+    data3 = pd.read_csv('twitter_top_100DaysOfCode.csv')
+    total3=data3.groupby('Created Date')['Retweet Count'].sum()
+    
+    #  To ensure that all past dates are present
+    if len(total3)<8:
+        dates3=data3['Created Date']
+        missingdate3= (list(set(arraydate) ^ set(dates3)))
+        for i in range(len(missingdate3)):
+            newdata3 = data3.append({'Created Date': missingdate3[i],'Retweet Count': 0}, ignore_index=True)
+        total3=newdata3.groupby('Created Date')['Retweet Count'].sum()
+
+    # group by date and count retweet count
+    data4 = pd.read_csv('twitter_top_DataScience.csv')
+    total4=data4.groupby('Created Date')['Retweet Count'].sum()
+    
+    #  To ensure that all past dates are present
+    if len(total4)<8:
+        dates4=data4['Created Date']
+        missingdate4= (list(set(arraydate) ^ set(dates4)))
+        for i in range(len(missingdate4)):
+            newdata4 = data4.append({'Created Date': missingdate4[i],'Retweet Count': 0}, ignore_index=True)
+        total4=newdata4.groupby('Created Date')['Retweet Count'].sum()
+
+    # group by date and count retweet count
+    data5 = pd.read_csv('twitter_top_DEVCommunity.csv')
+    total5=data5.groupby('Created Date')['Retweet Count'].sum()
+    
+    #  To ensure that all past dates are present
+    if len(total5)<8:
+        dates5=data5['Created Date']
+        missingdate5= (list(set(arraydate) ^ set(dates5)))
+        for i in range(len(missingdate5)):
+            newdata5 = data5.append({'Created Date': missingdate5[i],'Retweet Count': 0}, ignore_index=True)
+
+        total5=newdata5.groupby('Created Date')['Retweet Count'].sum()
+
+    # group by date and count retweet count
+    data6 = pd.read_csv('twitter_top_MachineLearning.csv')
+    total6=data6.groupby('Created Date')['Retweet Count'].sum()
+
+    #  To ensure that all past dates are present
+    if len(total6)<8:
+        dates6=data6['Created Date']
+        missingdate6= (list(set(arraydate) ^ set(dates6)))
+        for i in range(len(missingdate6)):
+            newdata6 = data6.append({'Created Date': missingdate6[i],'Retweet Count': 0}, ignore_index=True)
+
+        total6=newdata6.groupby('Created Date')['Retweet Count'].sum()
+    
+    # group by date and count retweet count
+    data7 = pd.read_csv('twitter_top_NeuralNetwork.csv')
+    total7=data7.groupby('Created Date')['Retweet Count'].sum()
+    
+    #  To ensure that all past dates are present
+    if len(total7)<8:
+        dates7=data7['Created Date']
+        missingdate7= (list(set(arraydate) ^ set(dates7)))
+        for i in range(len(missingdate7)):
+            newdata7 = data7.append({'Created Date': missingdate7[i],'Retweet Count': 0}, ignore_index=True)
+        total7=newdata7.groupby('Created Date')['Retweet Count'].sum()
+    
+    # Arranging data into retweet count of languages by day, array1=day1 etc ...
+    array1=(total[0],total2[0],total3[0],total4[0],total5[0],total6[0],total7[0])
+    array2=(total[1],total2[1],total3[1],total4[1],total5[1],total6[1],total7[1])
+    array3=(total[2],total2[2],total3[2],total4[2],total5[2],total6[2],total7[2])
+    array4=(total[3],total2[3],total3[3],total4[3],total5[3],total6[3],total7[3])
+    array5=(total[4],total2[4],total3[4],total4[4],total5[4],total6[4],total7[4])
+    array6=(total[5],total2[5],total3[5],total4[5],total5[5],total6[5],total7[5])
+    array7=(total[6],total2[6],total3[6],total4[6],total5[6],total6[6],total7[6])
+    array8=(total[7],total2[7],total3[7],total4[7],total5[7],total6[7],total7[7])
+    
+    graph(array1,array2,array3,array4,array5,array6,array7)
+
+    
+```
+
+### 11.3.3 Twitter - plot graph
+
+---
+This body content is to plot multiple bargraph to create gif bar graph
+
+---
+
+```Python
+#Plot gif with object oriented interface
+
+def graph(array1,array2,array3,array4,array5,array6,array7):
+    #graph for 1st day
+    fig = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
+    ax = fig.add_axes([0,0,0.5,0.5])
+    ax.set_title('Retweet Count over past 7 days and today')
+    ax.set_xlabel('Languages')
+    ax.set_ylabel('Retweet Count')
+    ax.set_ylim([0,200])
+    ax.bar(langs,array1)
+    plt.show()
+    fig.savefig('1.png',dpi=250,bbox_inches="tight")
+
+
+    # Graph for 2nd day
+    fig2 = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
+    ax2 = fig2.add_axes([0,0,0.5,0.5])
+    ax2.set_title('Retweet Count over past 7 days and today')
+    ax2.set_xlabel('Languages')
+    ax2.set_ylabel('Retweet Count')
+    ax2.set_ylim([0,200])
+    ax2.bar(langs,array2)
+    plt.show()
+    fig2.savefig('2.png',dpi=250, bbox_inches="tight")
+
+    # Graph for 3rd day
+    fig3 = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
+    ax3 = fig3.add_axes([0,0,0.5,0.5])
+    ax3.set_title('Retweet Count over past 7 days and today')
+    ax3.set_xlabel('Languages')
+    ax3.set_ylabel('Retweet Count')
+    ax3.set_ylim([0,200])
+    ax3.bar(langs,array3)
+    plt.show()
+    fig3.savefig('3.png',dpi=250,bbox_inches="tight")
+
+
+    # Graph for 4th day
+    fig4 = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN'] 
+    ax4 = fig4.add_axes([0,0,0.5,0.5])
+    ax4.set_title('Retweet Count over past 7 days and today')
+    ax4.set_xlabel('Languages')
+    ax4.set_ylabel('Retweet Count')
+    ax4.set_ylim([0,200])
+    ax4.bar(langs,array4)
+    plt.show()
+    fig4.savefig('4.png',dpi=250,bbox_inches="tight")
+
+
+    # Graph for 5th day
+    fig5 = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
+    ax5 = fig5.add_axes([0,0,0.5,0.5])
+    ax5.set_title('Retweet Count over past 7 days and today')
+    ax5.set_xlabel('Languages')
+    ax5.set_ylabel('Retweet Count')
+    ax5.set_ylim([0,200])
+    ax5.bar(langs,array5)
+    plt.show()
+    fig5.savefig('5.png',dpi=250,bbox_inches="tight")
+
+
+    # Graph for 6th day
+    fig6 = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
+    ax6 = fig6.add_axes([0,0,0.5,0.5])
+    ax6.set_title('Retweet Count over past 7 days and today')
+    ax6.set_xlabel('Languages')
+    ax6.set_ylabel('Retweet Count')
+    ax6.set_ylim([0,200])
+    ax6.bar(langs,array6)
+    plt.show()
+    fig6.savefig('6.png',dpi=250,bbox_inches="tight")
+
+    # Graph for 7th day
+    fig7 = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
+    ax7 = fig7.add_axes([0,0,0.5,0.5])
+    ax7.set_title('Retweet Count over past 7 days and today')
+    ax7.set_xlabel('Languages')
+    ax7.set_ylabel('Retweet Count')
+    ax7.set_ylim([0,200])
+    ax7.bar(langs,array7)
+    plt.show()
+    fig7.savefig('7.png',dpi=250, bbox_inches="tight")
+
+    # Graph for 8th day
+    fig8 = plt.figure()
+    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
+    ax8 = fig8.add_axes([0,0,0.5,0.5])
+    ax8.set_title('Retweet Count over past 7 days and today')
+    ax8.set_xlabel('Languages')
+    ax8.set_ylabel('Retweet Count')
+    ax8.set_ylim([0,200])
+    ax8.bar(langs,array8)
+    plt.show()
+    fig8.savefig('8.png',dpi=250,bbox_inches="tight")
+
+    # Build GIF
+    with imageio.get_writer('retweetovertime.gif', mode='I',duration = 0.8) as writer:
+        for filename in ['1.png', '2.png', '3.png', '4.png', '5.png', '6.png', '7.png','8.png']:
+            image = imageio.imread(filename)
+            writer.append_data(image)
+```
+
+### 11.3.4 Twitter - Scheduler
+
+---
+This body content is to schedule bar graph to update
+
+---
+
+```Python
+#Schedule
+if __name__ == "__main__":
+    topic()       
+    schedule.every(1).minutes.do(topic)
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+```
+
 ## 7.1. Website
 
 ---
@@ -1658,860 +2514,4 @@ This body content
             custom_formatting: [[6, format_link]]
           });
         </script>
-```
-
-## 8.1 Github - Piechart
-
----
-This body content is to plot a piechart for github
-
----
-
-### 8.1.1 Github - import libraries
-
----
-This body content is to import libraries required and specify file path
-
----
-
-```Python
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
-import schedule
-import time
-
-path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\github' # location whr data is saved
-
-```
-
-### 8.1.2 Github - get data required
-
----
-This body content is to read data in csvs and get sum of vote
-
----
-
-```Python
-#sum of vote in github-c_programming.csv
-def data():
-    data1 = pd.read_csv('github-c_programming.csv')
-    ctotal = data1['Stars'].sum()
-
-    #sum of vote in github-csharp.csv
-    data2 = pd.read_csv('github-csharp.csv')
-    csharptotal = data2['Stars'].sum()
-
-
-    #sum of vote in github-html.csv
-    data3 = pd.read_csv('github-html.csv')
-    htmltotal = data3['Stars'].sum()
-
-    #sum of vote in github-java.csv
-    data4 = pd.read_csv('github-java.csv')
-    javatotal = data4['Stars'].sum()
-
-    #sum of vote in github-javascript.csv
-    data5 = pd.read_csv('github-javascript.csv')
-    jstotal = data5['Stars'].sum()
-    
-
-    #sum of vote in github-Python.csv
-    data6 = pd.read_csv('github-Python.csv')
-    pythontotal = data6['Stars'].sum()
-    
-
-    #sum of vote in rprogramming.csv
-    data7 = pd.read_csv('github-rprogramming.csv')
-    rtotal = data7['Stars'].sum()
-    graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal)
-```
-
-### 8.1.3 Github - plot graph
-
----
-This body content is to plot pie chart
-
----
-
-```Python
-#Plot pie chart with object oriented interface
-def graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal):
-    my_data=[ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal]
-    my_labels='cprogramming','c#','html','java','javascript','python','rprogramming'
-    explode = (0, 0, 0, 0.1, 0, 0, 0)  # only "explode" java
-    
-    fig1, ax1 = plt.subplots()
-    ax1.set_title('Topic popularity on Github')
-    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
-    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-    
-    plt.show()
-    fig1.savefig('github_topicpopularity.png')
-```
-
-### 8.1.4 Github - Scheduler
-
----
-This body content is to schedule pie chart to update
-
----
-
-```Python
-if __name__ == "__main__":
-    data()       
-    schedule.every(1).minutes.do(data)
-    
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
-```
-
-## 9.1 Reddit - Piechart
-
----
-This body content is to plot a piechart for Reddit
-
----
-
-### 9.1.1 Reddit - import libraries
-
----
-This body content is to import libraries required and specify file path
-
----
-
-```Python
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
-import schedule
-import time
-
-path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Reddit'
-```
-
-### 9.1.2 Reddit - get data required
-
----
-This body content is to read data in csvs and get no. of row
-
----
-
-```Python
-def data():    
-    #number of rows in c_programming csv
-    data1 = pd.read_csv('reddit-c_programming.csv')
-    data_year=data1.loc[data1['Year'] >= 2020]
-    index1=data_year.index
-    num1 = len(index1) 
-
-    #number of rows in csharp csv
-    data2 = pd.read_csv('reddit-csharp.csv')
-    data_year2=data2.loc[data2['Year'] >= 2020]
-    index2=data_year2.index
-    num2 = len(index2) 
-
-    #number of rows in html csv
-    data3 = pd.read_csv('reddit-html.csv')
-    data_year3=data3.loc[data3['Year'] >= 2020]
-    index3=data_year3.index
-    num3 = len(index3)
-
-    #number of rows in java csv
-    data4 = pd.read_csv('reddit-java.csv')
-    data_year4=data4.loc[data4['Year'] >= 2020]
-    index4=data_year4.index
-    num4 = len(index4)
-
-    #number of rows in javascript csv
-    data5 = pd.read_csv('reddit-javascript.csv')
-    data_year5=data5.loc[data5['Year'] >= 2020]
-    index5=data_year5.index
-    num5 = len(index5)
-
-    #number of rows in Python csv
-    data6 = pd.read_csv('reddit-Python.csv')
-    data_year6=data6.loc[data6['Year'] >= 2020]
-    index6=data_year6.index
-    num6 = len(index6)
-
-    #number of rows in rprogramming csv
-    data7 = pd.read_csv('reddit-rprogramming.csv')
-    data_year7=data7.loc[data7['Year'] >= 2020]
-    index7=data_year7.index
-    num7 = len(index7)
-
-    graph(num1,num2,num3,num4,num5,num6,num7)
-    
-```
-
-### 9.1.3 Reddit - plot graph
-
----
-This body content is to plot pie chart
-
----
-
-```Python
-#Plot pie chart with object oriented interface
-def graph(num1,num2,num3,num4,num5,num6,num7):
-    my_data=[num1,num2,num3,num4,num5,num6,num7]
-    my_labels='c programming','csharp','html','java','javascript','Python','rprogramming'
-
-    explode = (0, 0, 0, 0, 0, 0.1, 0.1)  # only "explode" python and r programming
-    
-    fig1, ax1 = plt.subplots()
-    ax1.set_title('Programming languages on Reddit 2020 - 2021')
-    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
-    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-    
-    plt.show()
-    fig1.savefig('reddit_prglanguage.png')
-```
-
-### 9.1.4 Reddit - Scheduler
-
----
-This body content is to schedule pie chart to update
-
----
-
-```Python
-if __name__ == "__main__":
-    data()       
-    schedule.every(1).minutes.do(data)
-    
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
-```
-
-## 10.1 Stackoverflow - Piechart
-
----
-This body content is to plot a piechart for stackoverflow
-
----
-
-### 10.1.1 Stackoverflow - import libraries
-
----
-This body content is to import libraries required and specify file path
-
----
-
-```Python
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
-import schedule
-import time
-
-path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\stackoverflow' # location whr data is saved
-
-```
-
-### 10.1.2 Stackoverflow - get data required
-
----
-This body content is to read data in csvs and get sum of view
-
----
-
-```Python
-def data():
-    
-    #sum of view in stackoverflow1-c csv
-    data1 = pd.read_csv('stackoverflow-c_programming.csv')
-    ctotal = data1['Views'].sum()
-    
-    #sum of view in stackoverflow1-csharp csv
-    data2 = pd.read_csv('stackoverflow-csharp.csv')
-    csharptotal = data2['Views'].sum()
-
-
-    #sum of view in stackoverflow1-html.csv
-    data3 = pd.read_csv('stackoverflow-html.csv')
-    htmltotal = data3['Views'].sum()
-
-
-    #sum of view in stackoverflow1-java.csv
-    data4 = pd.read_csv('stackoverflow-java.csv')
-    javatotal = data4['Views'].sum()
-
-
-    #sum of view in stackoverflow1-javascript.csv
-    data5 = pd.read_csv('stackoverflow-javascript.csv')
-    jstotal = data5['Views'].sum()
-    
-
-    #sum of view in stackoverflow1-Python.csv
-    data6 = pd.read_csv('stackoverflow-Python.csv')
-    pythontotal = data6['Views'].sum()
-
-
-    #sum of view in stackoverflow1-rprogramming.csv
-    data7 = pd.read_csv('stackoverflow-rprogramming.csv')
-    rtotal = data7['Views'].sum()
-    
-    graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal)
-    
-```
-
-### 10.1.3 Stackoverflow - plot graph
-
----
-This body content is to plot pie chart
-
----
-
-```Python
-#Plot piechart with object oriented interface
-def graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal):
-#Plot pie chart
-    my_data=[csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal]
-    my_labels='csharp','html','java','cprogramming','javascript','python','rprogramming'
-    
-    explode = (0, 0.1, 0, 0, 0, 0, 0)  # only "explode" html
-    
-    fig1, ax1 = plt.subplots()
-    ax1.set_title('Programming languages view count on stackoverflow')
-    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
-    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-    
-    plt.show()
-    fig1.savefig('stackoverflow_prglanguages.png')
-```
-
-### 10.1.4 Stackoverflow - Scheduler
-
----
-This body content is to schedule pie chart to update
-
----
-
-```Python
-if __name__ == "__main__":
-    data()       
-    schedule.every(1).minutes.do(data)
-    
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
-```
-
-## 11.1 Twitter - Piechart
-
----
-This body content is to plot a piechart for Twitter
-
----
-
-### 11.1.1 Twitter - import libraries
-
----
-This body content is to import libraries required and specify file path
-
----
-
-```Python
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
-import schedule
-import time
-
-path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
-
-```
-
-### 11.1.2 Twitter - get data required
-
----
-This body content is to read data in csvs and get sum retweet count
-
----
-
-```Python
-def data():
-    #sum of retweet in artificial intelligence.csv
-    data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
-    AItotal = data1['Retweet Count'].sum()
-
-
-    #sum of retweet in deep learning.csv
-    data2 = pd.read_csv('twitter_top_DeepLearning.csv')
-    DLtotal = data2['Retweet Count'].sum()
-
-
-    #sum of retweet in 100DaysOfCode.csv
-    data3 = pd.read_csv('twitter_top_100DaysOfCode.csv')
-    daystotal = data3['Retweet Count'].sum()
-
-
-    #sum of retweet in DataScience.csv
-    data4 = pd.read_csv('twitter_top_DataScience.csv')
-    DStotal = data4['Retweet Count'].sum()
-
-
-    #sum of retweet in DEVCommunity.csv
-    data5 = pd.read_csv('twitter_top_DEVCommunity.csv')
-    Devtotal = data5['Retweet Count'].sum()
-
-
-    #sum of retweet in MachineLearning.csv
-    data6 = pd.read_csv('twitter_top_MachineLearning.csv')
-    MLtotal = data6['Retweet Count'].sum()
-
-
-    #sum of retweet in NeuralNetworks.csv
-    data7 = pd.read_csv('twitter_top_NeuralNetwork.csv')
-    NNtotal = data7['Retweet Count'].sum()
-
-    graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal)
-    
-```
-
-### 11.1.3 Twitter - plot graph
-
----
-This body content is to plot pie chart
-
----
-
-```Python
-#Plot pie chart with object oriented interface
-def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
-    my_data=[AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal]
-    my_labels='artificial intelligence','Deep learning','100DaysOfCode','DataScience','DEVCommunity','MachineLearning','NeuralNetworks'
-
-    explode = (0, 0, 0, 0, 0.1, 0, 0)  # only "explode" DevCommunity
-    
-    fig1, ax1 = plt.subplots()
-    ax1.set_title('Popular topics on Twitter for past 7 days and today')
-    ax1.pie(my_data, explode=explode, labels=my_labels, autopct='%1.1f%%',shadow=True)
-    ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
-    
-    plt.show()
-    fig1.savefig('twitter_populartopic.png')
-```
-
-### 11.1.4 Twitter - Scheduler
-
----
-This body content is to schedule pie chart to update
-
----
-
-```Python
-if __name__ == "__main__":
-    data()       
-    schedule.every(1).minutes.do(data)
-    
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
-```
-
-## 11.2 Twitter - Stacked bar graph
-
----
-This body content is to plot a piechart for twitter
-
----
-
-### 11.2.1 Twitter - import libraries
-
----
-This body content is to import libraries required and specify file path
-
----
-
-```Python
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
-import schedule
-import time
-
-path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
-
-```
-
-### 11.2.2 Twitter - get data required
-
----
-This body content is to read data in csvs and get sum of retweet count
-
----
-
-```Python
-def topic():
-    
-    # group by date and count retweet count
-    data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
-    total=data1.groupby('Created Date')['Retweet Count'].sum()
-
-
-    data2 = pd.read_csv('twitter_top_DeepLearning.csv')
-    total2=data2.groupby('Created Date')['Retweet Count'].sum()
-
-
-    data3 = pd.read_csv('twitter_top_100DaysOfCode.csv')
-    total3=data3.groupby('Created Date')['Retweet Count'].sum()
-
-
-    data4 = pd.read_csv('twitter_top_DataScience.csv')
-    total4=data4.groupby('Created Date')['Retweet Count'].sum()
-
-
-    data5 = pd.read_csv('twitter_top_DEVCommunity.csv')
-    total5=data5.groupby('Created Date')['Retweet Count'].sum()
-
-
-    data6 = pd.read_csv('twitter_top_MachineLearning.csv')
-    total6=data6.groupby('Created Date')['Retweet Count'].sum()
-
-    data7 = pd.read_csv('twitter_top_NeuralNetwork.csv')
-    total7=data7.groupby('Created Date')['Retweet Count'].sum()
-    
-    data(total,total2,total3,total4,total5,total6,total7)
-
-    
-```
-
-### 11.2.3 Twitter - save data in dataframe
-
----
-This body content is save data into dataframe
-
----
-
-```Python
-def data(total,total2,total3,total4,total5,total6,total7):
-    plotdata = pd.DataFrame({
-        "ArtificialIntelligence":total,
-        "DeepLearning":total2,
-        "100DaysOfCode":total3,
-        "DataScience":total4,
-        "DEVCommunity":total5,
-        "MachineLearning":total6,
-        "NeuralNetworks":total7
-        }, 
-    )
-    graph(plotdata)
-
-```
-
-### 11.2.4 Twitter - plot graph
-
----
-This body content is to plot stacked bar graph
-
----
-
-```Python
-#Plot stacked bar graph
-def graph(plotdata):
-    plotdata.plot(kind='barh', stacked=True)
-    plt.title("Popular topic on twitter")
-    plt.xlabel("Retweet Count")
-    plt.ylabel("Date")
-    fig1= plt.gcf()
-    plt.show()
-    fig1.savefig('twitter_topics.png')
-```
-
-### 11.2.4 Twitter - Scheduler
-
----
-This body content is to schedule stacked bar graph to update
-
----
-
-```Python
-if __name__ == "__main__":
-    topic() 
-    schedule.every(1).minutes.do(topic)
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
-```
-
-## 11.3 Twitter - gif bargraph
-
----
-This body content is to plot a gif bargraph for twitter
-
----
-
-### 11.3.1 Twitter - import libraries
-
----
-This body content is to import libraries required and specify file path
-
----
-
-```Python
-import numpy as np
-import pandas as pd
-from matplotlib import pyplot as plt
-import schedule
-import time
-
-path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' # location whr data is saved
-
-```
-
-### 11.3.2 Twitter - get data required
-
----
-This body content is to read data in csvs and get sum of retweet count
-
----
-
-```Python
-def topic():
-    dateto = datetime.date.today()
-    arraydate=[]
-    for i in range(0, 8):
-        until=dateto - timedelta(i)
-        arraydate.append(str(until)) 
-
-
-    # group by date and count retweet count
-    data1 = pd.read_csv('twitter_top_ArtificialIntelligence.csv')
-    total=data1.groupby('Created Date')['Retweet Count'].sum()
-    
-#To ensure that all past dates are present
-    if len(total)<8:
-        dates1=data1['Created Date']
-        missingdate1= (list(set(arraydate) ^ set(dates1)))
-        for i in range(len(missingdate1)):
-            newdata1 = data1.append({'Created Date': missingdate1[i],'Retweet Count': 0}, ignore_index=True)
-        total=newdata1.groupby('Created Date')['Retweet Count'].sum()
-    
-    # group by date and count retweet count
-    data2 = pd.read_csv('twitter_top_DeepLearning.csv')
-    total2=data2.groupby('Created Date')['Retweet Count'].sum()
-    
-    #  To ensure that all past dates are present
-    if len(total2)<8:
-        dates2=data2['Created Date']
-        missingdate2= (list(set(arraydate) ^ set(dates2)))
-        for i in range(len(missingdate2)):
-            newdata2 = data2.append({'Created Date': missingdate2[i],'Retweet Count': 0}, ignore_index=True)
-        total2=newdata2.groupby('Created Date')['Retweet Count'].sum()
-
-    # group by date and count retweet count
-    data3 = pd.read_csv('twitter_top_100DaysOfCode.csv')
-    total3=data3.groupby('Created Date')['Retweet Count'].sum()
-    
-    #  To ensure that all past dates are present
-    if len(total3)<8:
-        dates3=data3['Created Date']
-        missingdate3= (list(set(arraydate) ^ set(dates3)))
-        for i in range(len(missingdate3)):
-            newdata3 = data3.append({'Created Date': missingdate3[i],'Retweet Count': 0}, ignore_index=True)
-        total3=newdata3.groupby('Created Date')['Retweet Count'].sum()
-
-    # group by date and count retweet count
-    data4 = pd.read_csv('twitter_top_DataScience.csv')
-    total4=data4.groupby('Created Date')['Retweet Count'].sum()
-    
-    #  To ensure that all past dates are present
-    if len(total4)<8:
-        dates4=data4['Created Date']
-        missingdate4= (list(set(arraydate) ^ set(dates4)))
-        for i in range(len(missingdate4)):
-            newdata4 = data4.append({'Created Date': missingdate4[i],'Retweet Count': 0}, ignore_index=True)
-        total4=newdata4.groupby('Created Date')['Retweet Count'].sum()
-
-    # group by date and count retweet count
-    data5 = pd.read_csv('twitter_top_DEVCommunity.csv')
-    total5=data5.groupby('Created Date')['Retweet Count'].sum()
-    
-    #  To ensure that all past dates are present
-    if len(total5)<8:
-        dates5=data5['Created Date']
-        missingdate5= (list(set(arraydate) ^ set(dates5)))
-        for i in range(len(missingdate5)):
-            newdata5 = data5.append({'Created Date': missingdate5[i],'Retweet Count': 0}, ignore_index=True)
-
-        total5=newdata5.groupby('Created Date')['Retweet Count'].sum()
-
-    # group by date and count retweet count
-    data6 = pd.read_csv('twitter_top_MachineLearning.csv')
-    total6=data6.groupby('Created Date')['Retweet Count'].sum()
-
-    #  To ensure that all past dates are present
-    if len(total6)<8:
-        dates6=data6['Created Date']
-        missingdate6= (list(set(arraydate) ^ set(dates6)))
-        for i in range(len(missingdate6)):
-            newdata6 = data6.append({'Created Date': missingdate6[i],'Retweet Count': 0}, ignore_index=True)
-
-        total6=newdata6.groupby('Created Date')['Retweet Count'].sum()
-    
-    # group by date and count retweet count
-    data7 = pd.read_csv('twitter_top_NeuralNetwork.csv')
-    total7=data7.groupby('Created Date')['Retweet Count'].sum()
-    
-    #  To ensure that all past dates are present
-    if len(total7)<8:
-        dates7=data7['Created Date']
-        missingdate7= (list(set(arraydate) ^ set(dates7)))
-        for i in range(len(missingdate7)):
-            newdata7 = data7.append({'Created Date': missingdate7[i],'Retweet Count': 0}, ignore_index=True)
-        total7=newdata7.groupby('Created Date')['Retweet Count'].sum()
-    
-    # Arranging data into retweet count of languages by day, array1=day1 etc ...
-    array1=(total[0],total2[0],total3[0],total4[0],total5[0],total6[0],total7[0])
-    array2=(total[1],total2[1],total3[1],total4[1],total5[1],total6[1],total7[1])
-    array3=(total[2],total2[2],total3[2],total4[2],total5[2],total6[2],total7[2])
-    array4=(total[3],total2[3],total3[3],total4[3],total5[3],total6[3],total7[3])
-    array5=(total[4],total2[4],total3[4],total4[4],total5[4],total6[4],total7[4])
-    array6=(total[5],total2[5],total3[5],total4[5],total5[5],total6[5],total7[5])
-    array7=(total[6],total2[6],total3[6],total4[6],total5[6],total6[6],total7[6])
-    array8=(total[7],total2[7],total3[7],total4[7],total5[7],total6[7],total7[7])
-    
-    graph(array1,array2,array3,array4,array5,array6,array7)
-
-    
-```
-
-### 11.3.3 Twitter - plot graph
-
----
-This body content is to plot multiple bargraph to create gif bar graph
-
----
-
-```Python
-#Plot gif with object oriented interface
-
-def graph(array1,array2,array3,array4,array5,array6,array7):
-    #graph for 1st day
-    fig = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax = fig.add_axes([0,0,0.5,0.5])
-    ax.set_title('Retweet Count over past 7 days and today')
-    ax.set_xlabel('Languages')
-    ax.set_ylabel('Retweet Count')
-    ax.set_ylim([0,200])
-    ax.bar(langs,array1)
-    plt.show()
-    fig.savefig('1.png',dpi=250,bbox_inches="tight")
-
-
-    # Graph for 2nd day
-    fig2 = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax2 = fig2.add_axes([0,0,0.5,0.5])
-    ax2.set_title('Retweet Count over past 7 days and today')
-    ax2.set_xlabel('Languages')
-    ax2.set_ylabel('Retweet Count')
-    ax2.set_ylim([0,200])
-    ax2.bar(langs,array2)
-    plt.show()
-    fig2.savefig('2.png',dpi=250, bbox_inches="tight")
-
-    # Graph for 3rd day
-    fig3 = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax3 = fig3.add_axes([0,0,0.5,0.5])
-    ax3.set_title('Retweet Count over past 7 days and today')
-    ax3.set_xlabel('Languages')
-    ax3.set_ylabel('Retweet Count')
-    ax3.set_ylim([0,200])
-    ax3.bar(langs,array3)
-    plt.show()
-    fig3.savefig('3.png',dpi=250,bbox_inches="tight")
-
-
-    # Graph for 4th day
-    fig4 = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN'] 
-    ax4 = fig4.add_axes([0,0,0.5,0.5])
-    ax4.set_title('Retweet Count over past 7 days and today')
-    ax4.set_xlabel('Languages')
-    ax4.set_ylabel('Retweet Count')
-    ax4.set_ylim([0,200])
-    ax4.bar(langs,array4)
-    plt.show()
-    fig4.savefig('4.png',dpi=250,bbox_inches="tight")
-
-
-    # Graph for 5th day
-    fig5 = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax5 = fig5.add_axes([0,0,0.5,0.5])
-    ax5.set_title('Retweet Count over past 7 days and today')
-    ax5.set_xlabel('Languages')
-    ax5.set_ylabel('Retweet Count')
-    ax5.set_ylim([0,200])
-    ax5.bar(langs,array5)
-    plt.show()
-    fig5.savefig('5.png',dpi=250,bbox_inches="tight")
-
-
-    # Graph for 6th day
-    fig6 = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax6 = fig6.add_axes([0,0,0.5,0.5])
-    ax6.set_title('Retweet Count over past 7 days and today')
-    ax6.set_xlabel('Languages')
-    ax6.set_ylabel('Retweet Count')
-    ax6.set_ylim([0,200])
-    ax6.bar(langs,array6)
-    plt.show()
-    fig6.savefig('6.png',dpi=250,bbox_inches="tight")
-
-    # Graph for 7th day
-    fig7 = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax7 = fig7.add_axes([0,0,0.5,0.5])
-    ax7.set_title('Retweet Count over past 7 days and today')
-    ax7.set_xlabel('Languages')
-    ax7.set_ylabel('Retweet Count')
-    ax7.set_ylim([0,200])
-    ax7.bar(langs,array7)
-    plt.show()
-    fig7.savefig('7.png',dpi=250, bbox_inches="tight")
-
-    # Graph for 8th day
-    fig8 = plt.figure()
-    langs = ['AI','DL','100Days','DS','DC', 'ML','NN']
-    ax8 = fig8.add_axes([0,0,0.5,0.5])
-    ax8.set_title('Retweet Count over past 7 days and today')
-    ax8.set_xlabel('Languages')
-    ax8.set_ylabel('Retweet Count')
-    ax8.set_ylim([0,200])
-    ax8.bar(langs,array8)
-    plt.show()
-    fig8.savefig('8.png',dpi=250,bbox_inches="tight")
-
-    # Build GIF
-    with imageio.get_writer('retweetovertime.gif', mode='I',duration = 0.8) as writer:
-        for filename in ['1.png', '2.png', '3.png', '4.png', '5.png', '6.png', '7.png','8.png']:
-            image = imageio.imread(filename)
-            writer.append_data(image)
-```
-
-### 11.3.4 Twitter - Scheduler
-
----
-This body content is to schedule bar graph to update
-
----
-
-```Python
-#Schedule
-if __name__ == "__main__":
-    topic()       
-    schedule.every(1).minutes.do(topic)
-    while True:
-        schedule.run_pending()
-        time.sleep(1)
 ```
