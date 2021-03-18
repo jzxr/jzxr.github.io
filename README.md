@@ -157,7 +157,8 @@ Returns:
 self.df: returns the updated dataframe with new crawled reddit entries
 
 ```Python
-    #This line applies a function to the body column to get the polairty using the TextBlob libary and saves it into a new column called sentiment
+    #This line applies a function to the body column to get the polairty 
+    #using the TextBlob libary and saves it into a new column called sentiment
     self.df['Sentiment'] = self.df['Body'].apply(lambda x: TextBlob(x).sentiment.polarity)
 ```
 
@@ -766,6 +767,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\github' # 
 
 
 ```
+
 ### 2.1.2 Github - Test cases
 
 ---
@@ -1593,7 +1595,13 @@ This function is to plot pie chart
 #Plot pie chart with object oriented interface
 def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
     my_data=[AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal]
-    my_labels='artificial intelligence','Deep learning','100DaysOfCode','DataScience','DEVCommunity','MachineLearning','NeuralNetworks'
+    my_labels='artificial intelligence',
+    'Deep learning',
+    '100DaysOfCode',
+    'DataScience',
+    'DEVCommunity',
+    'MachineLearning',
+    'NeuralNetworks'
 
     explode = (0, 0, 0, 0, 0.1, 0, 0)  # only "explode" DEVCommunity
     
@@ -2010,6 +2018,7 @@ def getdate():
         arraydate.append(str(until)) 
     topic(arraydate)
 ```
+
 ### 7.3.4 Twitter - get data required
 
 ---
@@ -2646,7 +2655,7 @@ This body content is for crawled twitter information to be displayed in a table.
 This body content is for crawled github information to be displayed in a table. With the different tabs, it can toggle within 7 programming language projects.
 
 ```HTML
-<div class="row">
+        <div class="row">
           <div class="col-md-12">
             <div class="card">
               <div class="container-fluid">
@@ -2778,6 +2787,7 @@ This body content is for data analytics to be displayed on website as pictures o
                           </p>
                           <img src="twitter/twitter_populartopic.png" alt="The trend of programming languages">
                           <p>Updated on: 14 March 2021</p>
+                          
                         </div>
 
                         <div class="float-left">
