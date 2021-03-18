@@ -2450,7 +2450,7 @@ Javascript is used for the functions of datatables.
 ---
 This function able to create tables, columns and rows based on the csv.
 
-```HTML
+```Javascript
 var CsvToHtmlTable = CsvToHtmlTable || {};
 
 CsvToHtmlTable = {
