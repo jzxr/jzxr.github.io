@@ -7,27 +7,27 @@ Similar to this markdown document, there are documentations in place for each cl
 
 To ensure it runs smoothly, ensure the following
 
-1. Install python from https://www.python.org/downloads/
+1. Install python from <https://www.python.org/downloads/>
 2. Run the scipt.sh file (includes the python libraries that needs to be downloaded)
 
 OR
 
-2. Manually download the python libraries 
+2. Manually download the python libraries
 
 ```console
-	pip install praw
-	pip install pandas
-	pip install seaborn
-	pip install matplotlib
-	pip install numpy
-	pip install textblob
-	pip install requests
-	pip install bs4
-	pip install schedule
-	pip install pytz
-	pip install tweepy
-	pip install datetime 
-	pip install schedule
+pip install praw
+pip install pandas
+pip install seaborn
+pip install matplotlib
+pip install numpy
+pip install textblob
+pip install requests
+pip install bs4
+pip install schedule
+pip install pytz
+pip install tweepy
+pip install datetime 
+pip install schedule
 ```
 
 ---
@@ -64,7 +64,7 @@ This is an abstract function that crawls the top data which is used by all the s
 
 Description:
 
-This is an abstract function that saves the dataframes into CSV. Naming convention is defined under each subclasses 
+This is an abstract function that saves the dataframes into CSV. Naming convention is defined under each subclasses
 
 ### 1.1.1.4 authenticate
 
@@ -723,17 +723,15 @@ The main program starts the timer and call the task class to run the various cra
 
 To run data analytic jupyter notebook file:
 
-
 1) Download anaconda
 
-1) Open jupyter notebook by typing "jupyter notebook"
+2) Open jupyter notebook by typing "jupyter notebook"
 
-2) Install pip Matplotlib in anaconda prompt(terminal)
+3) Install pip Matplotlib in anaconda prompt(terminal)
 
-3) Install numpby, pandas,schedule using pip the same as step 2
+4) Install numpy, pandas, schedule using pip the same as step 2
 
-4) Run the file by:
-	cell -> run all
+5) Run the file by: cell -> run all
 
 Make sure that the .ipynb is in the same folder as their respective csvs.
 
@@ -848,7 +846,6 @@ if __name__ == "__main__":
 
 ## 3.1 Reddit - Piechart
 
----
 This body content is to plot a piechart for Reddit
 
 ---
@@ -2530,7 +2527,8 @@ CsvToHtmlTable = {
             customTemplates[colIdx] = func;
         });
 
-        var $table = $("<table class='table table-striped table-condensed display nowrap style = width:'100%'' id='" + el + "-table'></table>");
+        var $table = $("<table class='table table-striped table-condensed display nowrap style = width:'100%'' id='" 
+        + el + "-table'></table>");
         var $containerElement = $("#" + el);
         $containerElement.empty().append($table);
 
@@ -2542,7 +2540,8 @@ CsvToHtmlTable = {
                 var $tableHead = $("<thead></thead>");
                 var csvHeaderRow = csvData[0];
                 var $tableHeadRow = $("<tr></tr>");
-                for (var headerIdx = 0; headerIdx < csvHeaderRow.length; headerIdx++) {
+                for (var headerIdx = 0; headerIdx < csvHeaderRow.
+                length; headerIdx++) {
                     $tableHeadRow.append($("<th></th>").text(csvHeaderRow[headerIdx]));
                 }
                 $tableHead.append($tableHeadRow);
@@ -2572,7 +2571,8 @@ CsvToHtmlTable = {
                 $table.DataTable(datatables_options);
 
                 if (allow_download) {
-                    $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
+                    $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + 
+                    "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
                 }
             });
     }
