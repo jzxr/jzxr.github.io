@@ -2,7 +2,7 @@
 
 ---
 
-## 5.1 Crawler File Documentation
+## 1.1 Crawler File Documentation
 
 ---
 The crawlercode.py is inclusive of a parent abstract crawler class, several social media subclasses and testing unit class.
@@ -10,7 +10,7 @@ Similar to this markdown document, there are documentations in place for each cl
 
 ---
 
-### 5.1.1 Crawler Abstract class
+### 1.1.1 Crawler Abstract class
 
 ---
 
@@ -32,19 +32,19 @@ df(dataframe): empty dataframe for the crawler with only headers defined.
 Returns:
 None
 
-### 5.1.1.2 crawldatatop
+### 1.1.1.2 crawldatatop
 
 Description:
 
 This is an abstract function that crawls the top data which is used by all the subclasses. This is left as abstract as each crawler sub class has different attributes that they crawl
 
-### 5.1.1.3 crawldatatop
+### 1.1.1.3 crawldatatop
 
 Description:
 
 This is an abstract function that saves the dataframes into CSV. Naming convention is defined under each subclasses 
 
-### 5.1.1.4 authenticate
+### 1.1.1.4 authenticate
 
 Description:
 
@@ -52,7 +52,7 @@ This is an abstract function to authenticate into each social media. However, no
 
 ---
 
-### 5.1.2 SubClass: Reddit Crawler
+### 1.1.2 SubClass: Reddit Crawler
 
 ---
 
@@ -60,7 +60,7 @@ Parameter:
 
 crawleddata(class): passes the parent class
 
-### 5.1.2.1 authenticate
+### 1.1.2.1 authenticate
 
 Description:
 
@@ -106,7 +106,7 @@ self.df: returns the updated dataframe with new crawled reddit entries
 
 ```
 
-### 5.1.2.3 crawldatasubtopic
+### 1.1.2.3 crawldatasubtopic
 
 Description:
 
@@ -119,7 +119,7 @@ subtopic(str): takes in the value of the subtopic within a topic
 Returns:
 self.df: returns the updated dataframe with new crawled reddit entries
 
-### 5.1.2.4 getsentiment
+### 1.1.2.4 getsentiment
 
 Description:
 
@@ -139,7 +139,7 @@ self.df: returns the updated dataframe with new crawled reddit entries
     self.df['Sentiment'] = self.df['Body'].apply(lambda x: TextBlob(x).sentiment.polarity)
 ```
 
-### 5.1.2.4 cleandata
+### 1.1.2.4 cleandata
 
 Description:
 
@@ -162,7 +162,7 @@ self.df: returns the updated dataframe with new crawled reddit entries
     self.df['Month'] = pd.DatetimeIndex(self.df['timestamp']).month
 ```
 
-### 5.1.2.4 saveCV
+### 1.1.2.4 saveCV
 
 Description:
 This functions saves the dataframes into csv for use for analysis and for the front end. Local file storage is used as the program's database. It saves it in respective folders, if folder is not found, it will create a folder.
@@ -181,13 +181,13 @@ None
 
 ---
 
-### 5.1.3 SubClass: Stack Crawler
+### 1.1.3 SubClass: Stack Crawler
 
 ---
 Parameters:
 crawleddata(class): passes the parent class
 
-### 5.1.3.1 authenticate
+### 1.1.3.1 authenticate
 
 Description:
 
@@ -208,7 +208,7 @@ self.data: returns the authenticated log in and saves into the self.data attribu
     self.data = soup.select(".question-summary")
 ```
 
-### 5.1.3.2 crawldatatop
+### 1.1.3.2 crawldatatop
 
 Description:
 
@@ -220,7 +220,7 @@ self
 Returns:
 self.df: returns the updated dataframe with new crawled stack entries
 
-### 5.1.3.3 voterank
+### 1.1.3.3 voterank
 
 Description:
 This function ranks the stack overflow entries based on the popularity of the views
@@ -238,7 +238,7 @@ self.df: returns the updated dataframe with new crawled stack entries
     self.df = self.df.sort_values(by='Views', ascending=False)
 ```
 
-### 5.1.3.4 saveCV
+### 1.1.3.4 saveCV
 
 Description:
 
@@ -254,14 +254,14 @@ None
 
 ---
 
-### 5.1.4 SubClass: GitHub Crawler
+### 1.1.4 SubClass: GitHub Crawler
 
 ---
 
 Parameters:
 crawleddata(class): passes the parent class
 
-### 5.1.4.1 authenticate
+### 1.1.4.1 authenticate
 
 Description:
 
@@ -279,7 +279,7 @@ self.data: returns the authenticated log in and saves into the self.data attribu
         return self.data
 ```
 
-### 5.1.4.2 crawldatatop
+### 1.1.4.2 crawldatatop
 
 Description:
 
@@ -330,7 +330,7 @@ def crawldatatop(self):
         return self.df
 ```
 
-### 5.1.4.3 saveCV
+### 1.1.4.3 saveCV
 
 Description:
 This functions saves the dataframes into csv for use for analysis and for the front end.
@@ -342,22 +342,24 @@ self
 
 Returns:
 None
+
 ```Python
 def saveCV(self):
         if not os.path.exists('github'):
             os.makedirs('github')
         self.df.to_csv("github/github-" + self.topic + ".csv")
 ```
+
 ---
 
-### 5.1.5 SubClass: Twitter Crawler
+### 1.1.5 SubClass: Twitter Crawler
 
 ---
 
 Parameters:
 crawleddata(class): passes the parent class
 
-### 5.1.5.1 authenticate
+### 1.1.5.1 authenticate
 
 Description:
 
@@ -369,6 +371,7 @@ self
 
 Returns:
 self.data: returns the authenticated log in and saves into the self.data attribute
+
 ```Python
 def authenticate(self):
         auth = tweepy.OAuthHandler(
@@ -385,10 +388,10 @@ def authenticate(self):
         return self.data
 ```
 
-### 5.1.5.2 crawldatatop
+### 1.1.5.2 crawldatatop
 
 Description:
-This function crawls the top tweets that matches the hashtag (self.topic) by retrieve tweets up to 7 days ago and placing it in df in ascending order based on retweet count and favourite count. 
+This function crawls the top tweets that matches the hashtag (self.topic) by retrieve tweets up to 7 days ago and placing it in df in ascending order based on retweet count and favourite count.
 The crawled data is added to the originally empty dataframe based on the specified header.
 
 Parameters:
@@ -436,7 +439,7 @@ def crawldatatop(self):
         return self.df
 ```
 
-### 5.1.5.3 crawldatarecent
+### 1.1.5.3 crawldatarecent
 
 Description:
 
@@ -506,13 +509,13 @@ def saveCV(self, name):
             self.df.to_csv("twitter/toppost/twitter_top_" + fname+".csv")
 ```
 
-### 5.1.6 Test Cases
+### 1.1.6 Test Cases
 
 ---
 
 This class has all the functions that performs unit testing. Unit testing is done to ensure program runs smoothly with no loopholes.
 
-### 5.1.6.1 Test Case 1
+### 1.1.6.1 Test Case 1
 
 Description:
 
@@ -528,7 +531,7 @@ def testCase1 (self):
     
 ```
 
-### 5.1.6.2 Test Case 2
+### 1.1.6.2 Test Case 2
 
 Description:
 
@@ -546,7 +549,7 @@ Test if crawl time is lesser than 5 minutes
         self.assertLess(value1, value2, msg) 
 ```
 
-### 5.1.6.3 Test Case 3
+### 1.1.6.3 Test Case 3
 
 Description:
 
@@ -571,7 +574,7 @@ Test if CSV file is created and stored in os.path
 
 ```
 
-### 5.1.6.3 Test Case 4
+### 1.1.6.3 Test Case 4
 
 Description:
 
@@ -604,7 +607,7 @@ def testCase4(self):
 
 ---
 
-### 5.1.6 Task
+### 1.1.6 Task
 
 ---
 
@@ -685,95 +688,13 @@ Instances of each crawler objects are defined here as well.
 
 ---
 
-### 5.1.7 Main Program
+### 1.1.7 Main Program
 
 ---
 
-The main program starts the timer and call the task class to run the various crawlers. Scheduler is also tasked to run the program every 6 minutes. 
+The main program starts the timer and call the task class to run the various crawlers. Scheduler is also tasked to run the program every 6 minutes.
 
 ---
-
-## 6.1. Javascript
-
----
-
-Javascript is used for the functions of datatables.
-
----
-
-### 6.1.1. Javascript Function
-
----
-This function able to create tables, columns and rows based on the csv.
-
-```HTML
-var CsvToHtmlTable = CsvToHtmlTable || {};
-
-CsvToHtmlTable = {
-    init: function (options) {
-        options = options || {};
-        var csv_path = options.csv_path || "";
-        var el = options.element || "table-container";
-        var allow_download = options.allow_download || true;
-        var csv_options = options.csv_options || {};
-        var datatables_options = options.datatables_options || {};
-        var custom_formatting = options.custom_formatting || [];
-        var customTemplates = {};
-        $.each(custom_formatting, function (i, v) {
-            var colIdx = v[0];
-            var func = v[1];
-            customTemplates[colIdx] = func;
-        });
-
-        var $table = $("<table class='table table-striped table-condensed display nowrap style = width:'100%'' id='" + el + "-table'></table>");
-        var $containerElement = $("#" + el);
-        $containerElement.empty().append($table);
-
-        $.when($.get(csv_path)).then(
-            function (data) {
-                
-                var csvData = $.csv.toArrays(data, csv_options);
-                
-                var $tableHead = $("<thead></thead>");
-                var csvHeaderRow = csvData[0];
-                var $tableHeadRow = $("<tr></tr>");
-                for (var headerIdx = 0; headerIdx < csvHeaderRow.length; headerIdx++) {
-                    $tableHeadRow.append($("<th></th>").text(csvHeaderRow[headerIdx]));
-                }
-                $tableHead.append($tableHeadRow);
-
-                $table.append($tableHead);
-                var $tableBody = $("<tbody></tbody>");
-                for (var rowIdx = 1; rowIdx < csvData.length; rowIdx++) {
-                    var $tableBodyRow = $("<tr></tr>");
-                    for (var colIdx = 0; colIdx < csvData[rowIdx].length; colIdx++) {
-                        var $tableBodyRowTd = $("<td></td>");
-                        var cellTemplateFunc = customTemplates[colIdx];
-                        var rowData = csvData[rowIdx][colIdx];
-                        if (cellTemplateFunc) {
-                            $tableBodyRowTd.html(cellTemplateFunc(rowData));
-                        } else {
-                            if (rowData.length > 15) {
-                                rowData = rowData.substring(0, 25) + '...';
-                            }
-                            $tableBodyRowTd.text(rowData);
-                        }
-                        $tableBodyRow.append($tableBodyRowTd);
-                        $tableBody.append($tableBodyRow);
-                    }
-                }
-                $table.append($tableBody);
-                
-                $table.DataTable(datatables_options);
-
-                if (allow_download) {
-                    $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
-                }
-            });
-    }
-};
-
-```
 
 ## 8.1 Github - Piechart
 
@@ -2514,4 +2435,86 @@ This body content
             custom_formatting: [[6, format_link]]
           });
         </script>
+```
+
+## 6.1. Javascript
+
+---
+
+Javascript is used for the functions of datatables.
+
+---
+
+### 6.1.1. Javascript Function
+
+---
+This function able to create tables, columns and rows based on the csv.
+
+```HTML
+var CsvToHtmlTable = CsvToHtmlTable || {};
+
+CsvToHtmlTable = {
+    init: function (options) {
+        options = options || {};
+        var csv_path = options.csv_path || "";
+        var el = options.element || "table-container";
+        var allow_download = options.allow_download || true;
+        var csv_options = options.csv_options || {};
+        var datatables_options = options.datatables_options || {};
+        var custom_formatting = options.custom_formatting || [];
+        var customTemplates = {};
+        $.each(custom_formatting, function (i, v) {
+            var colIdx = v[0];
+            var func = v[1];
+            customTemplates[colIdx] = func;
+        });
+
+        var $table = $("<table class='table table-striped table-condensed display nowrap style = width:'100%'' id='" + el + "-table'></table>");
+        var $containerElement = $("#" + el);
+        $containerElement.empty().append($table);
+
+        $.when($.get(csv_path)).then(
+            function (data) {
+                
+                var csvData = $.csv.toArrays(data, csv_options);
+                
+                var $tableHead = $("<thead></thead>");
+                var csvHeaderRow = csvData[0];
+                var $tableHeadRow = $("<tr></tr>");
+                for (var headerIdx = 0; headerIdx < csvHeaderRow.length; headerIdx++) {
+                    $tableHeadRow.append($("<th></th>").text(csvHeaderRow[headerIdx]));
+                }
+                $tableHead.append($tableHeadRow);
+
+                $table.append($tableHead);
+                var $tableBody = $("<tbody></tbody>");
+                for (var rowIdx = 1; rowIdx < csvData.length; rowIdx++) {
+                    var $tableBodyRow = $("<tr></tr>");
+                    for (var colIdx = 0; colIdx < csvData[rowIdx].length; colIdx++) {
+                        var $tableBodyRowTd = $("<td></td>");
+                        var cellTemplateFunc = customTemplates[colIdx];
+                        var rowData = csvData[rowIdx][colIdx];
+                        if (cellTemplateFunc) {
+                            $tableBodyRowTd.html(cellTemplateFunc(rowData));
+                        } else {
+                            if (rowData.length > 15) {
+                                rowData = rowData.substring(0, 25) + '...';
+                            }
+                            $tableBodyRowTd.text(rowData);
+                        }
+                        $tableBodyRow.append($tableBodyRowTd);
+                        $tableBody.append($tableBodyRow);
+                    }
+                }
+                $table.append($tableBody);
+                
+                $table.DataTable(datatables_options);
+
+                if (allow_download) {
+                    $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
+                }
+            });
+    }
+};
+
 ```
