@@ -1568,7 +1568,7 @@ To allow automate updating for the crawlers:
 To run website on localhost, use localhost:8000 by typing in the command in Terminal:
 
 1) python -m SimpleHTTPServer
-2) in browser, type in http://localhost:8000
+2) in browser, type in <http://localhost:8000>
 
 Make sure that the .html is in the same folder as other files & folders.
 
