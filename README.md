@@ -729,7 +729,7 @@ To run data analytic jupyter notebook file:
 
 3) Install pip Matplotlib in anaconda prompt(terminal)
 
-4) Install numpy, pandas, schedule using pip the same as step 2
+4) Install numpy, pandas, schedule using pip the same as step 3
 
 5) Run the file by: cell -> run all
 
@@ -740,14 +740,14 @@ Make sure that the .ipynb is in the same folder as their respective csvs.
 ## 2.1 Github - Piechart
 
 ---
-This body content is to plot a piechart for github
+This function is to plot a piechart for github
 
 ---
 
 ### 2.1.1 Github - import libraries
 
 ---
-This body content is to import libraries required and specify file path
+This function is to import libraries required and specify file path
 
 ---
 
@@ -765,7 +765,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\github' # 
 ### 2.1.2 Github - get data required
 
 ---
-This body content is to read data in csvs and get sum of vote
+This function is to read data in csvs and get sum of vote
 
 ---
 
@@ -807,7 +807,7 @@ def data():
 ### 2.1.3 Github - plot graph
 
 ---
-This body content is to plot pie chart
+This function is to plot pie chart
 
 ---
 
@@ -830,7 +830,7 @@ def graph(ctotal,csharptotal,htmltotal,javatotal,jstotal,pythontotal,rtotal):
 ### 2.1.4 Github - Scheduler
 
 ---
-This body content is to schedule pie chart to update
+This function is to schedule pie chart to update
 
 ---
 
@@ -846,14 +846,14 @@ if __name__ == "__main__":
 
 ## 3.1 Reddit - Piechart
 
-This body content is to plot a piechart for Reddit
+This function is to plot a piechart for Reddit
 
 ---
 
 ### 3.1.1 Reddit - import libraries
 
 ---
-This body content is to import libraries required and specify file path
+This function is to import libraries required and specify file path
 
 ---
 
@@ -870,7 +870,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Reddit'
 ### 3.1.2 Reddit - get data required
 
 ---
-This body content is to read data in csvs and get no. of row
+This function is to read data in csvs and get no. of row
 
 ---
 
@@ -925,7 +925,7 @@ def data():
 ### 3.1.3 Reddit - plot graph
 
 ---
-This body content is to plot pie chart
+This function is to plot pie chart
 
 ---
 
@@ -949,7 +949,7 @@ def graph(num1,num2,num3,num4,num5,num6,num7):
 ### 3.1.4 Reddit - Scheduler
 
 ---
-This body content is to schedule pie chart to update
+This function is to schedule pie chart to update
 
 ---
 
@@ -966,14 +966,14 @@ if __name__ == "__main__":
 ## 4.1 Stackoverflow - Piechart
 
 ---
-This body content is to plot a piechart for stackoverflow
+This function is to plot a piechart for stackoverflow
 
 ---
 
 ### 4.1.1 Stackoverflow - import libraries
 
 ---
-This body content is to import libraries required and specify file path
+This function is to import libraries required and specify file path
 
 ---
 
@@ -991,7 +991,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\stackoverf
 ### 4.1.2 Stackoverflow - get data required
 
 ---
-This body content is to read data in csvs and get sum of view
+This function is to read data in csvs and get sum of view
 
 ---
 
@@ -1038,7 +1038,7 @@ def data():
 ### 4.1.3 Stackoverflow - plot graph
 
 ---
-This body content is to plot pie chart
+This function is to plot pie chart
 
 ---
 
@@ -1063,7 +1063,7 @@ def graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal):
 ### 6.1.4 Stackoverflow - Scheduler
 
 ---
-This body content is to schedule pie chart to update
+This function is to schedule pie chart to update
 
 ---
 
@@ -1080,14 +1080,14 @@ if __name__ == "__main__":
 ## 7.1 Twitter - Piechart
 
 ---
-This body content is to plot a piechart for Twitter
+This function is to plot a piechart for Twitter
 
 ---
 
 ### 7.1.1 Twitter - import libraries
 
 ---
-This body content is to import libraries required and specify file path
+This function is to import libraries required and specify file path
 
 ---
 
@@ -1105,7 +1105,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 ### 7.1.2 Twitter - get data required
 
 ---
-This body content is to read data in csvs and get sum retweet count
+This function is to read data in csvs and get sum retweet count
 
 ---
 
@@ -1152,7 +1152,7 @@ def data():
 ### 7.1.3 Twitter - plot graph
 
 ---
-This body content is to plot pie chart
+This function is to plot pie chart
 
 ---
 
@@ -1176,7 +1176,7 @@ def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
 ### 7.1.4 Twitter - Scheduler
 
 ---
-This body content is to schedule pie chart to update
+This function is to schedule pie chart to update
 
 ---
 
@@ -1193,14 +1193,14 @@ if __name__ == "__main__":
 ## 7.2 Twitter - Stacked bar graph
 
 ---
-This body content is to plot a piechart for twitter
+This function is to plot a piechart for twitter
 
 ---
 
 ### 7.2.1 Twitter - import libraries
 
 ---
-This body content is to import libraries required and specify file path
+This function is to import libraries required and specify file path
 
 ---
 
@@ -1218,7 +1218,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 ### 7.2.2 Twitter - get data required
 
 ---
-This body content is to read data in csvs and get sum of retweet count
+This function is to read data in csvs and get sum of retweet count
 
 ---
 
@@ -1260,7 +1260,7 @@ def topic():
 ### 7.2.3 Twitter - save data in dataframe
 
 ---
-This body content is save data into dataframe
+This function is save data into dataframe
 
 ---
 
@@ -1283,7 +1283,7 @@ def data(total,total2,total3,total4,total5,total6,total7):
 ### 7.2.4 Twitter - plot graph
 
 ---
-This body content is to plot stacked bar graph
+This function is to plot stacked bar graph
 
 ---
 
@@ -1302,7 +1302,7 @@ def graph(plotdata):
 ### 7.2.4 Twitter - Scheduler
 
 ---
-This body content is to schedule stacked bar graph to update
+This function is to schedule stacked bar graph to update
 
 ---
 
@@ -1318,14 +1318,14 @@ if __name__ == "__main__":
 ## 7.3 Twitter - gif bargraph
 
 ---
-This body content is to plot a gif bargraph for twitter
+This function is to plot a gif bargraph for twitter
 
 ---
 
 ### 7.3.1 Twitter - import libraries
 
 ---
-This body content is to import libraries required and specify file path
+This function is to import libraries required and specify file path
 
 ---
 
@@ -1343,7 +1343,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 ### 7.3.2 Twitter - get data required
 
 ---
-This body content is to read data in csvs and get sum of retweet count
+This function is to read data in csvs and get sum of retweet count
 
 ---
 
@@ -1460,7 +1460,7 @@ def topic():
 ### 7.3.3 Twitter - plot graph
 
 ---
-This body content is to plot multiple bargraph to create gif bar graph
+This function is to plot multiple bargraph to create gif bar graph
 
 ---
 
@@ -1578,7 +1578,7 @@ def graph(array1,array2,array3,array4,array5,array6,array7):
 ### 7.3.4 Twitter - Scheduler
 
 ---
-This body content is to schedule bar graph to update
+This function is to schedule bar graph to update
 
 ---
 
