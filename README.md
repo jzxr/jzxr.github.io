@@ -1837,7 +1837,7 @@ This function is to plot stacked bar graph
 ---
 
 ```Python
-# Plot stacked bar graph
+#Plot stacked bar graph
 def graph(plotdata):
     plotdata.plot(kind='barh', stacked=True)
     plt.title("Popular topic on twitter")
