@@ -1385,7 +1385,7 @@ def graph(csharptotal,htmltotal,javatotal,ctotal,jstotal,pythontotal,rtotal):
     fig1.savefig('stackoverflow_prglanguages.png')
 ```
 
-### 6.1.5 Stackoverflow - Scheduler
+### 4.1.5 Stackoverflow - Scheduler
 
 ---
 This function is to schedule pie chart to update
@@ -1408,14 +1408,14 @@ if __name__ == "__main__":
         time.sleep(1)
 ```
 
-## 7.1 Twitter - Piechart
+## 5.1 Twitter - Piechart
 
 ---
 This function is to plot a piechart for Twitter
 
 ---
 
-### 7.1.1 Twitter - import libraries
+### 5.1.1 Twitter - import libraries
 
 ---
 This function is to import libraries required and specify file path
@@ -1439,7 +1439,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 
 ```
 
-### 7.1.2 Twitter - Test cases
+### 5.1.2 Twitter - Test cases
 
 ---
 This function is for test cases
@@ -1537,7 +1537,7 @@ class testCases(unittest.TestCase):
 
 ```
 
-### 7.1.3 Twitter - get data required
+### 5.1.3 Twitter - get data required
 
 ---
 This function is to read data in csvs and get sum retweet count
@@ -1584,7 +1584,7 @@ def data():
     
 ```
 
-### 7.1.4 Twitter - plot graph
+### 5.1.4 Twitter - plot graph
 
 ---
 This function is to plot pie chart
@@ -1614,7 +1614,7 @@ def graph(AItotal,DLtotal,daystotal,DStotal,Devtotal,MLtotal,NNtotal):
     fig1.savefig('twitter_populartopic.png')
 ```
 
-### 7.1.5 Twitter - Scheduler
+### 5.1.5 Twitter - Scheduler
 
 ---
 This function is to schedule pie chart to update
@@ -1637,14 +1637,14 @@ if __name__ == "__main__":
         time.sleep(1)
 ```
 
-## 7.2 Twitter - Stacked bar graph
+## 5.2 Twitter - Stacked bar graph
 
 ---
 This function is to plot a piechart for twitter
 
 ---
 
-### 7.2.1 Twitter - import libraries
+### 5.2.1 Twitter - import libraries
 
 ---
 This function is to import libraries required and specify file path
@@ -1667,7 +1667,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 
 ```
 
-### 7.2.2 Twitter - Test cases
+### 5.2.2 Twitter - Test cases
 
 ---
 This function is for test cases
@@ -1765,7 +1765,7 @@ class testCases(unittest.TestCase):
 
 ```
 
-### 7.2.3 Twitter - get data required
+### 5.2.3 Twitter - get data required
 
 ---
 This function is to read data in csvs and get sum of retweet count
@@ -1806,7 +1806,7 @@ def topic():
     
 ```
 
-### 7.2.4 Twitter - save data in dataframe
+### 5.2.4 Twitter - save data in dataframe
 
 ---
 This function is save data into dataframe
@@ -1829,7 +1829,7 @@ def data(total,total2,total3,total4,total5,total6,total7):
 
 ```
 
-### 7.2.5 Twitter - plot graph
+### 5.2.5 Twitter - plot graph
 
 ---
 This function is to plot stacked bar graph
@@ -1848,7 +1848,7 @@ def graph(plotdata):
     fig1.savefig('twitter_topics.png')
 ```
 
-### 7.2.6 Twitter - Scheduler
+### 5.2.6 Twitter - Scheduler
 
 ---
 This function is to schedule stacked bar graph to update
@@ -1871,14 +1871,14 @@ if __name__ == "__main__":
         time.sleep(1)
 ```
 
-## 7.3 Twitter - gif bargraph
+## 5.3 Twitter - gif bargraph
 
 ---
 This function is to plot a gif bargraph for twitter
 
 ---
 
-### 7.3.1 Twitter - import libraries
+### 5.3.1 Twitter - import libraries
 
 ---
 This function is to import libraries required and specify file path
@@ -1904,7 +1904,7 @@ path = r'C:\Users\yc\Downloads\Uni Application\SIT\TRI 2\1009\Project\twitter' #
 
 ```
 
-### 7.3.2 Twitter - Test cases
+### 5.3.2 Twitter - Test cases
 
 ---
 This function is for test cases
@@ -2002,7 +2002,7 @@ class testCases(unittest.TestCase):
 
 ```
 
-### 7.3.3 Twitter - get date
+### 5.3.3 Twitter - get date
 
 ---
 This function is to get date of past 7 days and today
@@ -2019,7 +2019,7 @@ def getdate():
     topic(arraydate)
 ```
 
-### 7.3.4 Twitter - get data required
+### 5.3.4 Twitter - get data required
 
 ---
 This function is to read data in csvs and get sum of retweet count
@@ -2128,7 +2128,7 @@ def topic(arraydate):
     
 ```
 
-### 7.3.5 Twitter - plot graph
+### 5.3.5 Twitter - plot graph
 
 ---
 This function is to plot multiple bargraph to create gif bar graph
@@ -2244,7 +2244,7 @@ def graph(array1,array2,array3,array4,array5,array6,array7,array8):
             writer.append_data(image)
 ```
 
-### 7.3.6 Twitter - Scheduler
+### 5.3.6 Twitter - Scheduler
 
 ---
 This function is to schedule bar graph to update
@@ -2267,7 +2267,7 @@ if __name__ == "__main__":
         time.sleep(1)
 ```
 
-## 8.1. Website
+## 6.1. Website
 
 ---
 
@@ -2275,7 +2275,7 @@ Website is to display the 4 crawlers from Reddit, Stack Overflow, Twitter, Githu
 
 ---
 
-### 8.1.1. Running on localhost
+### 6.1.1. Running on localhost
 
 ---
 
@@ -2293,7 +2293,7 @@ Make sure that the .html is in the same folder as other files & folders.
 
 ---
 
-### 8.1.2. Head of HTML
+### 6.1.2. Head of HTML
 
 ---
 This header for HTML is to input title and css for styling.
@@ -2330,14 +2330,14 @@ This header for HTML is to input title and css for styling.
 
 ---
 
-### 8.2.1. Body of HTML
+### 6.2.1. Body of HTML
 
 ---
 This body for HTML is to have the content of the datatables.
 
 ---
 
-#### 8.2.2. Logo & Navigation Bar
+#### 6.2.2. Logo & Navigation Bar
 
 ---
 
@@ -2391,7 +2391,7 @@ This body for HTML is to have navigation bar, website logo.
       <!--End of Navbar-->
 ```
 
-#### 8.2.3. Reddit Datatables
+#### 6.2.3. Reddit Datatables
 
 ---
 This body content is for crawled Reddit information nformation to be displayed in a table. With the different tabs, it can toggle within 7 programming languages.
@@ -2461,7 +2461,7 @@ This body content is for crawled Reddit information nformation to be displayed i
         </div>
 ```
 
-#### 8.2.4. Stack Overflow Datatables
+#### 6.2.4. Stack Overflow Datatables
 
 ---
 This body content is for crawled stack overflow information to be displayed in a table. With the different tabs, it can toggle within 7 programming languages.
@@ -2529,7 +2529,7 @@ This body content is for crawled stack overflow information to be displayed in a
         </div>
 ```
 
-#### 8.2.5. Twitter Datatables
+#### 6.2.5. Twitter Datatables
 
 ---
 This body content is for crawled twitter information to be displayed in a table. There are two tables to display the recent posts and the top posts. With the different tabs, it can toggle within 7 technology terms for each table.
@@ -2649,7 +2649,7 @@ This body content is for crawled twitter information to be displayed in a table.
         </div>
 ```
 
-#### 8.2.6. Github Datatables
+#### 6.2.6. Github Datatables
 
 ---
 This body content is for crawled github information to be displayed in a table. With the different tabs, it can toggle within 7 programming language projects.
@@ -2718,7 +2718,7 @@ This body content is for crawled github information to be displayed in a table. 
         </div>
 ```
 
-#### 8.2.7. Sentiment Data & Charts
+#### 6.2.7. Sentiment Data & Charts
 
 ---
 This body content is for data analytics to be displayed on website as pictures or gifs. For each social media platform, they have their own trend to be displayed.
@@ -2827,7 +2827,7 @@ This body content is for data analytics to be displayed on website as pictures o
         </div>
 ```
 
-#### 8.2.8. Scripts/Functions from Javascript
+#### 6.2.8. Scripts/Functions from Javascript
 
 ---
 
@@ -3171,7 +3171,7 @@ This body content is to allow functions from Javascript to HTML to create the da
         </script>
 ```
 
-## 9.1. Javascript
+## 7.1. Javascript
 
 ---
 
@@ -3179,7 +3179,7 @@ Javascript is used for the functions of datatables.
 
 ---
 
-### 9.1.1. Javascript Function
+### 7.1.1. Javascript Function
 
 ---
 This function able to create tables, columns and rows based on the csv.
